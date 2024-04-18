@@ -6,11 +6,17 @@
   "scripts": {
     "test": "echo ToDo",
     "start": "node index.js",
-    "gnis": "node gnis/index.js"
+    "gnis": "node gnis/index.js",
+    "lint": "eslint . --ext .js",
+    "format": "prettier --write ."
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^1.6.8"
+    "axios": "^1.6.8",
+    "eslint": "^9.0.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3",
+    "prettier": "^3.2.5"
   }
 }
