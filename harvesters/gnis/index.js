@@ -1,37 +1,43 @@
-const axios = require('axios');
 const fs = require('fs');
+const path = require('path');
 
-// const getProducts = async () => {
-//   try {
-//     const res = await axios.get(
-//       'https://tnmaccess.nationalmap.gov/api/v1/products'
-//     );
-//     console.log(res.data.messages);
-//     return [res.data.items, res.data.total];
-//   } catch (err) {
-//     console.error(err);
-//   }
-// };
+// const convertTxtFileToJson = require('./convertTxtFileToJson');
 
-const getDatasets = async () => {
-  try {
-    const res = await axios.get(
-      'https://tnmaccess.nationalmap.gov/api/v1/datasets?code=gnis'
-    );
-    return res.data;
-  } catch (err) {
-    console.error(err);
+const tmpPath = path.join(__dirname, 'tmp');
+
+async function main() {
+  const directories = fs.readdirSync(tmpPath);
+  for (const directory of directories) {
+    const directoryPath = path.join(tmpPath, directory);
+    const subDirectories = fs.readdirSync(directoryPath);
+
+    for (const subDirectory of subDirectories) {
+      const subDirectoryData = {};
+      const subDirectoryPath = path.join(directoryPath, subDirectory, 'Text');
+      const files = fs.readdirSync(subDirectoryPath);
+      for (const file of files) {
+        if (path.extname(file) !== '.txt') continue;
+        const filename = file.split('.')[0];
+        const filePath = path.join(subDirectoryPath, file);
+        console.log('filename', filename);
+        console.log('filePath', filePath);
+        console.log('subDirectoryPath', subDirectoryPath);
+        console.log('\n');
+        // const jsonArray = await convertTxtFileToJson(filePath);
+        // subDirectoryData[filename] = jsonArray;
+      }
+
+      const outputDirectoryPath = path.join(tmpPath, 'JSON');
+      const outputFilePath = path.join(
+        outputDirectoryPath,
+        `${subDirectory}.json`
+      );
+      fs.writeFileSync(
+        outputFilePath,
+        JSON.stringify(subDirectoryData, null, 2)
+      );
+    }
   }
-};
-
-const main = async () => {
-  // const [products, totalItems] = await getProducts();
-  // console.log('Products:', totalItems);
-  // fs.writeFileSync('temp/products.json', JSON.stringify(products, null, 2));
-
-  const datasets = await getDatasets();
-  console.log('Datasets:', datasets.length);
-  fs.writeFileSync('temp/datasets.json', JSON.stringify(datasets, null, 2));
-};
+}
 
 main();
