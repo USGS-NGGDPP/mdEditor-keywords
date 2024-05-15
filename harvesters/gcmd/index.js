@@ -1,8 +1,8 @@
-// const { main } = require('./gnis');
+// const { main } = require('./gcmd');
 
 async function run() {
   // await main();
-  console.log('Run gnis');
+  console.log('Run gcmd');
 }
 
 module.exports = {

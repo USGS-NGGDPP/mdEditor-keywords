@@ -1,15 +1,18 @@
 {
   "name": "harvesters",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo ToDo",
-    "start": "node index.js",
-    "gnis": "node gnis/index.js",
+    "start": "node harvesters/index.js",
+    "gcmd": "node harvesters/index.js gcmd",
+    "gnis": "node harvesters/index.js gnis",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "sciencebase": "node harvesters/index.js sciencebase",
+    "usgs": "node harvesters/index.js usgs"
   },
   "author": "",
   "license": "ISC",
@@ -21,8 +24,7 @@
   "lint-staged": {
     "*.{js,jsx,ts,tsx}": [
       "yarn format",
-      "yarn lint",
-      "git add"
+      "yarn lint"
     ]
   },
   "devDependencies": {
