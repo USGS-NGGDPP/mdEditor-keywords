@@ -1,0 +1,38 @@
+{
+  "name": "harvesters",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo ToDo",
+    "start": "node index.js",
+    "gnis": "node gnis/index.js",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "prepare": "husky install"
+  },
+  "author": "",
+  "license": "ISC",
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.{js,jsx,ts,tsx}": [
+      "yarn format",
+      "yarn lint",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "eslint": "8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-prettier": "^5.1.3",
+    "husky": "^8.0.0",
+    "lint-staged": "^15.2.2",
+    "prettier": "^3.2.5"
+  }
+}
