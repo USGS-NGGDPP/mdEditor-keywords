@@ -1,8 +1,8 @@
 {
   "$schema": "http://json-schema.org/draft-04/schema#",
   "id": "keyword.json#",
-  "type": "object",
   "title": "keyword",
+  "type": "object",
   "description": "Schema for a keyword",
   "example": "resources/keywords/lcc-category.json",
   "required": ["label", "uuid"],

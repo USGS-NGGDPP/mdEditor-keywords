@@ -25,6 +25,9 @@
     "*.{js,jsx,ts,tsx}": [
       "yarn format",
       "yarn lint"
+    ],
+    "*.{json}": [
+      "node scripts/validate-resources.js"
     ]
   },
   "devDependencies": {
@@ -36,5 +39,9 @@
     "husky": "^8.0.0",
     "lint-staged": "^15.2.2",
     "prettier": "^3.2.5"
+  },
+  "dependencies": {
+    "ajv": "^8.13.0",
+    "ajv-formats": "^3.0.1"
   }
 }
