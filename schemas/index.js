@@ -1,9 +1,5 @@
-const keyword = require('./keyword');
-const manifest = require('./manifest');
-const thesaurusConfig = require('./thesaurus-config');
+import keyword from './keyword.json' assert { type: 'json' };
+import manifest from './manifest.json' assert { type: 'json' };
+import thesaurusConfig from './thesaurus-config.json' assert { type: 'json' };
 
-module.exports = {
-  keyword,
-  manifest,
-  thesaurusConfig
-};
+export { keyword, manifest, thesaurusConfig };

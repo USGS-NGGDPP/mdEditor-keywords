@@ -6,7 +6,7 @@ const usgs = require('./usgs');
 const harvesters = { gcmd, gnis, sciencebase, usgs };
 
 // Function to run a specific harvester
-const runHarvester = (name) => {
+const runHarvester = name => {
   if (harvesters[name]) {
     console.log(`Running ${name}`);
     harvesters[name].run();

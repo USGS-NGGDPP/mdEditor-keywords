@@ -2,46 +2,49 @@
   "name": "harvesters",
   "version": "0.0.2",
   "description": "",
-  "main": "index.js",
+  "main": "harvesters/index.js",
+  "license": "ISC",
+  "type": "module",
   "scripts": {
-    "test": "echo ToDo",
+    "test": "yarn build && jest",
     "start": "node harvesters/index.js",
     "gcmd": "node harvesters/index.js gcmd",
     "gnis": "node harvesters/index.js gnis",
-    "lint": "eslint .",
+    "lint": "prettier --check . && eslint .",
     "format": "prettier --write .",
-    "prepare": "husky install",
     "sciencebase": "node harvesters/index.js sciencebase",
     "usgs": "node harvesters/index.js usgs"
   },
-  "author": "",
-  "license": "ISC",
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
-  "lint-staged": {
-    "*.{js,jsx,ts,tsx}": [
-      "yarn format",
-      "yarn lint"
+  "jest": {
+    "transform": {
+      "^.+\\.[t|j]sx?$": "babel-jest"
+    },
+    "testMatch": [
+      "**/dist/cjs/tests/**/*.test.js"
     ],
-    "*.{json}": [
-      "node scripts/validate-resources.js"
+    "moduleFileExtensions": [
+      "js",
+      "json",
+      "node"
     ]
   },
   "devDependencies": {
+    "@babel/cli": "^7.24.6",
+    "@babel/core": "^7.24.6",
+    "@babel/preset-env": "^7.24.6",
+    "@eslint/js": "^9.3.0",
+    "ajv": "^8.13.0",
+    "ajv-errors": "^3.0.0",
+    "ajv-formats": "^3.0.1",
     "axios": "^1.6.8",
+    "babel-jest": "^29.7.0",
     "eslint": "8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-json": "^4.0.0",
     "eslint-plugin-prettier": "^5.1.3",
-    "husky": "^8.0.0",
-    "lint-staged": "^15.2.2",
+    "globals": "^15.3.0",
+    "jest": "^29.7.0",
     "prettier": "^3.2.5"
-  },
-  "dependencies": {
-    "ajv": "^8.13.0",
-    "ajv-formats": "^3.0.1"
   }
 }
