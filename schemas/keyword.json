@@ -5,7 +5,7 @@
   "type": "object",
   "description": "Schema for a keyword",
   "example": "resources/keywords/lcc-category.json",
-  "required": ["label", "uuid"],
+  "required": ["label", "uuid", "definition"],
   "additionalProperties": true,
   "properties": {
     "label": {
@@ -15,10 +15,6 @@
     "uuid": {
       "type": "string",
       "description": ""
-    },
-    "broader": {
-      "type": "string",
-      "description": "Identifier of the broader (parent) keyword"
     },
     "parentId": {
       "type": "string",
