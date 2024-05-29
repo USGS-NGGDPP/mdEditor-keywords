@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { sleep } from '../utils';
+import { sleep, writeToLocalFile } from '../utils';
 
 import vocabularies from './vocabularies.json';
 
@@ -108,12 +108,25 @@ async function generateKeywords(vocabulary) {
   return keywordsJson;
 }
 
-async function generateCitation(vocabulary) {
+async function generateThesaurusConfig(vocabulary) {
   const metadata = await loadMetadata(vocabulary);
   const citation = buildCitation(metadata);
   return citation;
 }
 
 export default async function main() {
-  console.log('vocabularies', vocabularies);
+  for (let i = 0; i < vocabularies.length; i++) {
+    const vocabulary = vocabularies[i];
+    console.log('processing vocabulary', vocabulary.id);
+    const thesaurusConfig = await generateThesaurusConfig(vocabulary);
+    const keywords = await generateKeywords(vocabulary);
+    writeToLocalFile(
+      thesaurusConfig,
+      `${config.thesaurusPath}${vocabulary.source}-${vocabulary.id}.json`
+    );
+    writeToLocalFile(
+      keywords,
+      `${config.keywordsPath}${vocabulary.source}-${vocabulary.id}.json`
+    );
+  }
 }

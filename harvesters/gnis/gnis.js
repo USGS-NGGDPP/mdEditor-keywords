@@ -3,10 +3,10 @@ import path from 'path';
 
 import convertTxtFileToJson from './convertTxtFileToJson';
 
-const tmpPath = path.join(__dirname, 'tmp');
+const dataPath = path.join(__dirname, 'data');
 
 export default async function main() {
-  console.log('tmpPath', tmpPath);
+  console.log('tmpPath', dataPath);
   // const directories = fs.readdirSync(tmpPath);
   // for (const directory of directories) {
   //   const directoryPath = path.join(tmpPath, directory);
