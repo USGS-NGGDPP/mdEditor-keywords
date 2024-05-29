@@ -11,14 +11,14 @@
     "build:scripts": "babel scripts --out-dir dist/scripts --source-maps",
     "clean": "node scripts/clean.cjs",
     "copy": "node scripts/copyJsonFilesToDist.cjs && node scripts/copyGnisData.cjs",
-    "start": "node dist/harvesters/index.js",
-    "gcmd": "node dist/harvesters/index.js gcmd",
-    "gnis": "node dist/harvesters/index.js gnis",
+    "start": "yarn build && node dist/harvesters/index.js",
+    "gcmd": "yarn build && node dist/harvesters/index.js gcmd",
+    "gnis": "yarn build && node dist/harvesters/index.js gnis",
     "lint": "prettier --check . && eslint .",
     "format": "prettier --write .",
     "sb": "yarn sciencebase",
-    "sciencebase": "node dist/harvesters/index.js sciencebase",
-    "usgs": "node dist/harvesters/index.js usgs"
+    "sciencebase": "yarn build && node dist/harvesters/index.js sciencebase",
+    "usgs": "yarn build && node dist/harvesters/index.js usgs"
   },
   "jest": {
     "transform": {
