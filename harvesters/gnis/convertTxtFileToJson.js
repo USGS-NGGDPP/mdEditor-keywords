@@ -1,9 +1,9 @@
-const fs = require('fs');
-const readline = require('readline');
+import fs from 'fs';
+import readline from 'readline';
 
 // Convert txt file to JSON
 // The txt file is a pipe-delimited file with headers in the first line
-async function convertTxtFileToJson(filePath) {
+export default async function convertTxtFileToJson(filePath) {
   const fileStream = fs.createReadStream(filePath);
   const rl = readline.createInterface({
     input: fileStream,
@@ -28,5 +28,3 @@ async function convertTxtFileToJson(filePath) {
 
   return jsonArray;
 }
-
-module.exports = convertTxtFileToJson;

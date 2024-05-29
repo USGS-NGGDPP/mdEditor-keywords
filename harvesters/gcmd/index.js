@@ -1,10 +1,7 @@
-// const { main } = require('./gcmd');
+import main from './gcmd';
 
 async function run() {
-  // await main();
-  console.log('Run gcmd');
+  await main();
 }
 
-module.exports = {
-  run
-};
+export default { run };

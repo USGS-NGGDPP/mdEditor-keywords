@@ -1,10 +1,7 @@
-// const { main } = require('./gnis');
+import main from './gnis';
 
 async function run() {
-  // await main();
-  console.log('Run gnis');
+  await main();
 }
 
-module.exports = {
-  run
-};
+export default { run };

@@ -1,13 +1,11 @@
-const rimraf = require("rimraf");
+const rimraf = require('rimraf');
 
-const config = require("./config.cjs");
-
-const { distPath } = config;
+const distPath = 'dist';
 
 function clean() {
-  console.log("Cleaning the dist directory:", distPath);
+  console.log('Cleaning the dist directory:', distPath);
   rimraf.sync(distPath);
-  console.log("Dist directory cleaned successfully!");
+  console.log('Dist directory cleaned successfully!');
 }
 
 clean();

@@ -1,10 +1,7 @@
-// const { main } = require('./sciencebase');
+import main from './sciencebase';
 
 async function run() {
-  // await main();
-  console.log('Run sciencebase');
+  await main();
 }
 
-module.exports = {
-  run
-};
+export default { run };

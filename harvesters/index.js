@@ -1,7 +1,7 @@
-const gcmd = require('./gcmd');
-const gnis = require('./gnis');
-const sciencebase = require('./sciencebase');
-const usgs = require('./usgs');
+import gcmd from './gcmd';
+import gnis from './gnis';
+import sciencebase from './sciencebase';
+import usgs from './usgs';
 
 const harvesters = { gcmd, gnis, sciencebase, usgs };
 

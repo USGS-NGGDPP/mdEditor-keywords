@@ -4,18 +4,21 @@
   "description": "",
   "main": "harvesters/index.js",
   "license": "ISC",
-  "type": "module",
   "scripts": {
     "test": "yarn build && jest",
-    "build": "yarn && yarn clean && node scripts/build.cjs && babel src --out-dir dist/cjs --source-maps",
+    "build": "yarn && yarn clean && yarn build:harvesters && yarn build:scripts && yarn copy",
+    "build:harvesters": "babel harvesters --out-dir dist/harvesters --source-maps",
+    "build:scripts": "babel scripts --out-dir dist/scripts --source-maps",
     "clean": "node scripts/clean.cjs",
-    "start": "node harvesters/index.js",
-    "gcmd": "node harvesters/index.js gcmd",
-    "gnis": "node harvesters/index.js gnis",
+    "copy": "node scripts/copyJsonFilesToDist.cjs",
+    "start": "node dist/harvesters/index.js",
+    "gcmd": "node dist/harvesters/index.js gcmd",
+    "gnis": "node dist/harvesters/index.js gnis",
     "lint": "prettier --check . && eslint .",
     "format": "prettier --write .",
-    "sciencebase": "node harvesters/index.js sciencebase",
-    "usgs": "node harvesters/index.js usgs"
+    "sb": "yarn sciencebase",
+    "sciencebase": "node dist/harvesters/index.js sciencebase",
+    "usgs": "node dist/harvesters/index.js usgs"
   },
   "jest": {
     "transform": {
@@ -45,6 +48,7 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-json": "^4.0.0",
     "eslint-plugin-prettier": "^5.1.3",
+    "fs-extra": "^11.2.0",
     "globals": "^15.3.0",
     "jest": "^29.7.0",
     "prettier": "^3.2.5",

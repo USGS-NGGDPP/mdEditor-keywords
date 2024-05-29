@@ -1,10 +1,7 @@
-// const { main } = require('./usgs');
+import main from './usgs';
 
 async function run() {
-  // await main();
-  console.log('Run usgs');
+  await main();
 }
 
-module.exports = {
-  run
-};
+export default { run };

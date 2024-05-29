@@ -1,10 +1,4 @@
-const fs = require('fs');
-
-const loadConfig = configFilename => {
-  console.log('Loading config from', configFilename);
-  const configData = fs.readFileSync(configFilename, 'utf-8');
-  return JSON.parse(configData);
-};
+import fs from 'fs';
 
 const sleep = ms => new Promise(resolve => setTimeout(resolve, ms));
 
@@ -13,4 +7,4 @@ const writeToLocalFile = (jsonData, location) => {
   console.log('File successfully saved to', location);
 };
 
-module.exports = { loadConfig, sleep, writeToLocalFile };
+export { sleep, writeToLocalFile };
