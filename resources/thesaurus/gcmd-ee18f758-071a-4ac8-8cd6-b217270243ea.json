@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-17 12:26:10",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Chained Operations",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/ee18f758-071a-4ac8-8cd6-b217270243ea?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "ee18f758-071a-4ac8-8cd6-b217270243ea"
+      }
+    ]
+  },
+  "keywordType": "ChainedOperations",
+  "label": "Chained Operations",
+  "keywords": null
+}
