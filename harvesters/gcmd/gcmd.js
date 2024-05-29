@@ -4,6 +4,8 @@ import { sleep, writeToLocalFile } from '../utils';
 import vocabularies from './vocabularies.json';
 
 const baseUrl = 'https://gcmd.earthdata.nasa.gov/kms/';
+const thesaurusPath = 'resources/thesaurus/';
+const keywordsPath = 'resources/keywords/';
 
 async function fetchConceptById(id) {
   try {
@@ -122,11 +124,8 @@ export default async function main() {
     const keywords = await generateKeywords(vocabulary);
     writeToLocalFile(
       thesaurusConfig,
-      `${config.thesaurusPath}${vocabulary.source}-${vocabulary.id}.json`
+      `${thesaurusPath}gcmd-${vocabulary.id}.json`
     );
-    writeToLocalFile(
-      keywords,
-      `${config.keywordsPath}${vocabulary.source}-${vocabulary.id}.json`
-    );
+    writeToLocalFile(keywords, `${keywordsPath}gcmd-${vocabulary.id}.json`);
   }
 }
