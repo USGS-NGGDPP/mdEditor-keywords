@@ -1,10 +1,9 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "id": "manifest.json#",
+  "$id": "manifest.json#",
   "type": "object",
   "title": "manifest",
   "description": "Schema for the manifest.json file",
-  "example": "resources/manifest.json",
   "required": ["url"],
   "additionalProperties": true,
   "properties": {
