@@ -3,7 +3,7 @@
     "uuid": "1eb0ea0a-312c-4d74-8d42-6f1ad758f999",
     "label": "Science Keywords",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "e9f67a66-e9fc-435c-b720-ae32a2c3d8f5",
@@ -477,14 +477,14 @@
                         "uuid": "6c5a6bbe-a12f-4030-9220-2013db36cf47",
                         "label": "CLOUD-SCREENED TOTAL COLUMN NITROGEN DIOXIDE (NO2)",
                         "parentId": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "d92ae6cc-989b-45b8-92d3-68008356c2b0",
                         "label": "CLOUD-SCREENED TROPOSHERIC COLUMN NO2",
                         "parentId": "9e5ec924-2fd3-4cbb-a7eb-ffde114d0cb9",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -1412,21 +1412,21 @@
                     "uuid": "686bd6b6-8305-4e33-a334-ef5d4f46a230",
                     "label": "PARTICULATE MATTER (PM 2.5)",
                     "parentId": "77397026-09c9-44e0-b85f-77b2bc9b1630",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "a2bdd7e8-145e-4bbf-b10a-ef7a87fcb1ad",
                     "label": "PARTICULATE MATTER (PM 1.0)",
                     "parentId": "77397026-09c9-44e0-b85f-77b2bc9b1630",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "2cd061e7-f351-46fa-8432-fb36faef3bbe",
                     "label": "PARTICULATE MATTER (PM 10)",
                     "parentId": "77397026-09c9-44e0-b85f-77b2bc9b1630",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -1567,14 +1567,14 @@
                         "uuid": "d9969cf1-6a1f-4f37-91bf-c746aeba81c4",
                         "label": "STORM SYSTEM MOTION",
                         "parentId": "a200e677-384a-42d6-8519-1c7735f0adb9",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "9a310897-86d4-4a31-9fe3-4b4ad45b3575",
                         "label": "TORNADO DENSITY",
                         "parentId": "a200e677-384a-42d6-8519-1c7735f0adb9",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -1624,14 +1624,14 @@
                         "uuid": "581d6ad6-2132-45cf-b6be-72341024587b",
                         "label": "FIRST MODERATE FREEZE/FROST DATE",
                         "parentId": "4539272a-f041-4fc6-883d-4c4c5bef1683",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "a8cc5031-9c46-4a73-a999-68cdaec453a5",
                         "label": "LAST MODERATE FREEZE/FROST DATE",
                         "parentId": "4539272a-f041-4fc6-883d-4c4c5bef1683",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -1870,35 +1870,35 @@
                             "uuid": "a8a40309-c4e5-46d7-ac39-1b7230766192",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "cda34c9c-e59a-4dfb-9d2d-b8317e4b7f27",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "93ef0499-0b06-4f9a-885b-52e89563b3ec",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "cda34c9c-e59a-4dfb-9d2d-b8317e4b7f27",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "7705e65c-90a1-451d-8898-ef5f170fa051",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "cda34c9c-e59a-4dfb-9d2d-b8317e4b7f27",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "446a22b7-3ea1-43db-9176-47d4dac3ac93",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "cda34c9c-e59a-4dfb-9d2d-b8317e4b7f27",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "63e53301-d263-4d09-a4be-f0c874646e23",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "cda34c9c-e59a-4dfb-9d2d-b8317e4b7f27",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -1913,35 +1913,35 @@
                             "uuid": "72de9813-4c72-45bc-a216-be6ebd08bb6c",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "b5a681af-5005-4182-922e-528ec8d514f1",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "8d27af08-6b2f-48d7-8e6b-bd57e93992ad",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "e61fcc9f-bdb6-4dbc-94f2-52c4c64b6df9",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "5d0a21f1-cc5d-481c-ad5f-7fe15deabc9c",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "10a9bb22-9119-4409-84c1-7c97ef31b1a1",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -1956,35 +1956,35 @@
                             "uuid": "fb890034-3ae6-4c91-941c-ae1483a13528",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "2ead8ea2-0357-4c95-9483-da8149855fd4",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "074c2800-e458-4fa0-bcae-7f400d970650",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "2ead8ea2-0357-4c95-9483-da8149855fd4",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "e89e331c-ca8e-4c25-be34-c81017bd019f",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "2ead8ea2-0357-4c95-9483-da8149855fd4",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "5da932fa-2f4b-4f65-bad4-18c661816549",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "2ead8ea2-0357-4c95-9483-da8149855fd4",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "7067a3f8-2903-46b7-9189-af1189a15a43",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "2ead8ea2-0357-4c95-9483-da8149855fd4",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -1999,35 +1999,35 @@
                             "uuid": "93f7b0c1-ea76-431f-8cb0-0599eb51f928",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "ba286b68-a400-4c29-bd24-b8ca99967968",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "53998f98-9bf6-4666-90c7-48f2e5730dae",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "ba286b68-a400-4c29-bd24-b8ca99967968",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "dd54dfac-069b-4552-abfe-d182320189c7",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "ba286b68-a400-4c29-bd24-b8ca99967968",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "58ddb82c-fbb2-4910-8259-d9c2df2555da",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "ba286b68-a400-4c29-bd24-b8ca99967968",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "1ab5b26c-8560-412c-8b7b-80921aff9fe1",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "ba286b68-a400-4c29-bd24-b8ca99967968",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2042,35 +2042,35 @@
                             "uuid": "3b1544bc-1711-4553-a643-5d8fba38a1f1",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "cfb85bf2-9920-4e3f-bce3-3d8f68ab1436",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "5b70e02b-0ed2-42a0-9fe9-7a552d6819d1",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "50abff20-11a8-4aea-8425-c9a05b1d8d09",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "ef467c3c-0aed-4aa8-bfa5-67721e83e557",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "38cefcb2-f5d6-4917-a87b-7cfba482e30d",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2085,7 +2085,7 @@
                             "uuid": "c6ff6623-a24c-494c-804c-bc486b3de548",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "27847732-2a5a-4094-9ba5-3c56ae897f87",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2100,7 +2100,7 @@
                             "uuid": "fe4f3f33-7df3-439a-9382-d02140da29aa",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "e282c375-ed1a-465b-b960-aa49118307ea",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2115,7 +2115,7 @@
                             "uuid": "d678b2d9-9956-45a9-9a9f-95450fb4ca46",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "530dfe77-5740-49e8-b994-9a6f82cf4adb",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2130,7 +2130,7 @@
                             "uuid": "91843b75-9519-456a-89a5-1b1c221ebd4e",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "e691d1ab-6d20-4ad6-bea6-46587e94c4ff",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2145,7 +2145,7 @@
                             "uuid": "6f80bcdf-b778-4ecc-99aa-9f5779fd6f31",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "978dd843-3a96-4d52-a7d6-31642503c267",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2209,35 +2209,35 @@
                             "uuid": "d99d0464-db69-44fb-9b18-9469a08fe4b4",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "eec57358-8166-443e-b595-cb831911cd42",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "6ee22b9c-f418-4b77-bb6b-f70d3e44afbc",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "eec57358-8166-443e-b595-cb831911cd42",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "713123e4-ebc8-49dd-bc8b-b9fbeaabeaad",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "eec57358-8166-443e-b595-cb831911cd42",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "ed71cef0-0e5a-49a0-83c6-f7dd02215290",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "eec57358-8166-443e-b595-cb831911cd42",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "00d89979-f1bb-4e95-b73e-6a0d8d924bd8",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "eec57358-8166-443e-b595-cb831911cd42",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2252,35 +2252,35 @@
                             "uuid": "4354779d-94e6-4c38-973b-3a9bafa4eeb2",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "923ab959-48ee-4db1-827a-3d672099e273",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "dd5cbcc2-622a-4c3c-82b8-7e2869f8438a",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "923ab959-48ee-4db1-827a-3d672099e273",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "ab9dfb44-979e-495c-ad83-8d30a37018be",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "923ab959-48ee-4db1-827a-3d672099e273",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "7aa4aea2-0f5b-4490-967b-7e339eaec507",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "923ab959-48ee-4db1-827a-3d672099e273",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "0d7ea0fa-987a-4429-85e7-754ca638e504",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "923ab959-48ee-4db1-827a-3d672099e273",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2295,35 +2295,35 @@
                             "uuid": "8807cdb6-56af-43d6-9efa-14d234d69374",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "106461af-377c-4dc0-bbd7-9769eba05321",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "8e93861c-5f03-4892-96d7-cfac368e6c26",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "106461af-377c-4dc0-bbd7-9769eba05321",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "a8258a99-866f-4e34-80ab-25239546ffb2",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "106461af-377c-4dc0-bbd7-9769eba05321",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "40f7445f-1741-418e-9831-e2e3322daf5a",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "106461af-377c-4dc0-bbd7-9769eba05321",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "b5965fe4-fc00-4d9b-93f8-f03a6a369304",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "106461af-377c-4dc0-bbd7-9769eba05321",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2338,35 +2338,35 @@
                             "uuid": "5730c1ba-7e4e-4d0e-adf3-053af4be97b4",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "cbe89018-3eb6-4c8e-82c9-c540147a75e2",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "20da8cba-3546-4699-8809-01bffa6bccca",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "b21b9b00-5da4-47fc-b2a8-fc2ecd5bd912",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "d038c99b-efbc-41f3-99a6-5d066fda5ecd",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "c17617a1-5d2b-426f-bfe0-d8c4d4b5cfad",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2381,35 +2381,35 @@
                             "uuid": "41829fbf-2b76-4714-bf4a-e0d63b5472d5",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "104ed5fa-f65a-442e-992c-88a4fe74a66c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "09849cf3-df4d-40d3-a224-f30c6fe22c1f",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "104ed5fa-f65a-442e-992c-88a4fe74a66c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "5d51ef9b-f058-48ca-b1ea-c8d63a50a699",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "104ed5fa-f65a-442e-992c-88a4fe74a66c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "9928589d-0714-4b88-a8ad-11126dd97521",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "104ed5fa-f65a-442e-992c-88a4fe74a66c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "f4f4a7ad-73da-42f2-94f9-d9ecb81e0bf0",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "104ed5fa-f65a-442e-992c-88a4fe74a66c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2424,35 +2424,35 @@
                             "uuid": "2d2a56cb-a99c-4001-9f41-0e04037e0d41",
                             "label": "HURRICANES (N. ATLANTIC/E. PACIFIC)",
                             "parentId": "4b0e986f-5dce-48ca-8bad-794c97482553",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "536b666d-a4ad-4ec3-b7fc-282e884e53ee",
                             "label": "TYPHOONS (WESTERN N. PACIFIC)",
                             "parentId": "4b0e986f-5dce-48ca-8bad-794c97482553",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "4379a82a-c0fd-4d40-b1f3-3b516cac1a8e",
                             "label": "SEVERE TROPICAL CYCLONES (SW PACIFIC/SE INDIAN)",
                             "parentId": "4b0e986f-5dce-48ca-8bad-794c97482553",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "6e28bebd-0c5d-4bf3-8770-84d79c75e33c",
                             "label": "SEVERE CYCLONIC STORMS (N. INDIAN)",
                             "parentId": "4b0e986f-5dce-48ca-8bad-794c97482553",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
                             "uuid": "d5f307ab-e5df-4c84-84e7-42822e3a4864",
                             "label": "CYCLONES (SW INDIAN)",
                             "parentId": "4b0e986f-5dce-48ca-8bad-794c97482553",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -2470,7 +2470,7 @@
                     "uuid": "7844ae66-f542-442f-8359-05014bc19831",
                     "label": "Stability/Severe Weather Indices",
                     "parentId": "b7d562cf-9b9b-4461-900b-50423a8c4d29",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "00748b19-30cc-4d12-a7a3-0aa8b3be5a94",
@@ -2564,21 +2564,21 @@
                         "uuid": "6ab81a2f-5e7e-4249-87d2-875c6a4a2a80",
                         "label": "PARTICULATE MATTER (PM 2.5)",
                         "parentId": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "6a340e0c-1f2e-435d-acf2-427ebc0d5e4c",
                         "label": "PARTICULATE MATTER (PM 1.0)",
                         "parentId": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "1ffc2101-e4bc-4010-9a4c-b86c858d850f",
                         "label": "PARTICULATE MATTER (PM 10)",
                         "parentId": "548a3f85-bf22-473b-b641-45c32d9c6a0c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -2680,27 +2680,27 @@
                     "uuid": "449e2e03-8efd-42b6-8152-3602e4bab21d",
                     "label": "AEROSOL FORWARD SCATTER",
                     "parentId": "2e5a401b-1507-4f57-82b8-36557c13b154",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "0611b9fd-fd92-4c4d-87bb-bc2f22c548bc",
                     "label": "CHEMICAL COMPOSITION",
                     "parentId": "2e5a401b-1507-4f57-82b8-36557c13b154",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "a63f4fe6-51dc-4719-95e3-a09d111774c9",
                         "label": "NON-REFRACTORY AEROSOL ORGANIC MASS",
                         "parentId": "0611b9fd-fd92-4c4d-87bb-bc2f22c548bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "bc6f9a64-0d00-4f39-9f1c-a4c25b373897",
                         "label": "WATER-SOLUBLE AEROSOL ORGANIC MASS",
                         "parentId": "0611b9fd-fd92-4c4d-87bb-bc2f22c548bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3261,7 +3261,7 @@
                         "uuid": "6c8581e8-d49c-423e-9b38-3be406b64efa",
                         "label": "CONVECTIVE SURFACE PRECIPITATION RATE",
                         "parentId": "1906bb87-db16-46db-b814-e0b322356125",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -3313,7 +3313,7 @@
                         "uuid": "09d991ca-020a-4d20-910a-747ea683e1f8",
                         "label": "LIQUID SURFACE PRECIPITATION RATE",
                         "parentId": "7d45f108-dda2-4341-b853-ee3a490aad59",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -3322,7 +3322,7 @@
                     "uuid": "9466020a-db25-40ba-a76f-4720800efc92",
                     "label": "TOTAL SURFACE PRECIPITATION RATE",
                     "parentId": "1532e590-a62d-46e3-8d03-2351bc48166a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -3696,7 +3696,7 @@
                     "uuid": "04bc6942-12e0-413f-94d2-1ba7f5edf595",
                     "label": "MESOSPHERIC CLOUDS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0a7f50ce-4968-46c8-86a6-23ea13c1830c",
@@ -3718,7 +3718,7 @@
                     "uuid": "d6ab88c0-5a97-4f5e-8e4c-1c6fc6ed368f",
                     "label": "STRATOSPHERIC CLOUDS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "9d3d400c-ded2-4b3c-8d0c-5a76e25be033",
@@ -3733,7 +3733,7 @@
                     "uuid": "705cd3a0-ea07-40c8-bfa1-9c26f22d13ba",
                     "label": "TROPOSPHERIC/HIGH-LEVEL CLOUDS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "bf271f69-3294-44d6-bfa8-a8f54468ca30",
@@ -3752,7 +3752,7 @@
                             "uuid": "d6ba91a1-a5f4-47e3-9485-89348235acb9",
                             "label": "CIRRUS KELVIN-HELMHOLTZ COLOMBIAH",
                             "parentId": "8ce319a5-9b49-49e3-8981-3ce512c7efb0",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
@@ -3791,7 +3791,7 @@
                     "uuid": "a413f88b-859c-4035-a45b-2faa9934156b",
                     "label": "TROPOSPHERIC/MID-LEVEL CLOUDS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "01021105-60ed-479a-a35b-faa73e286264",
@@ -3823,7 +3823,7 @@
                                 "uuid": "d5e72d73-22f6-4f4c-b937-b71d84960a1e",
                                 "label": "LENTICULAR CLOUDS",
                                 "parentId": "dbc7fed3-ad30-4e57-868e-bae478713a71",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               }
                             ]
@@ -3851,7 +3851,7 @@
                     "uuid": "9a802ef3-680d-4bc6-a42e-aa84d5eb9908",
                     "label": "CONVECTIVE CLOUDS/SYSTEMS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "4074eb32-a3de-494f-a722-2deeaab76b33",
@@ -3878,14 +3878,14 @@
                         "uuid": "c3ee0a52-266b-45e4-adad-d0675699676b",
                         "label": "PERCENT CONVECTIVE CLOUDS",
                         "parentId": "9a802ef3-680d-4bc6-a42e-aa84d5eb9908",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "ca7f5dbd-199e-4cc8-bc7b-550753ecbc93",
                         "label": "PRECIPITATING CONVECTIVE CLOUD SYSTEMS",
                         "parentId": "9a802ef3-680d-4bc6-a42e-aa84d5eb9908",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4004,13 +4004,13 @@
                     "uuid": "20365b0a-f8df-437a-8b31-25557f7b4d82",
                     "label": "TROPOSPHERIC/LOW LEVEL CLOUDS (OBSERVED/ANALYZED)",
                     "parentId": "162e2243-3266-4999-b352-d8a1a9dc82ac",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "3375096a-7782-42e8-97d2-0febf63893e0",
                         "label": "STRATOCUMULUS",
                         "parentId": "20365b0a-f8df-437a-8b31-25557f7b4d82",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "b1d51b72-97d0-484c-b251-220f219965c2",
@@ -4023,7 +4023,7 @@
                             "uuid": "5857260b-1de6-47c2-8f66-5c0dbac42e32",
                             "label": "STRATOCUMULUS CUMILIFORMIS",
                             "parentId": "3375096a-7782-42e8-97d2-0febf63893e0",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": [
                               {
                                 "uuid": "53378c8d-0324-4473-8bbd-231aed830d26",
@@ -4043,14 +4043,14 @@
                                 "uuid": "8fc75200-666d-4b59-a493-99e08e55e57d",
                                 "label": "STRATOCUMULUS VESPERALIS",
                                 "parentId": "5857260b-1de6-47c2-8f66-5c0dbac42e32",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               },
                               {
                                 "uuid": "16e33a06-ae4b-48cd-be7f-ad44f3dfd23b",
                                 "label": "STRATOCUMULUS DIURNALIS",
                                 "parentId": "5857260b-1de6-47c2-8f66-5c0dbac42e32",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               }
                             ]
@@ -4059,7 +4059,7 @@
                             "uuid": "bec5166e-1822-40f7-8f07-4d5167d8a565",
                             "label": "STRATOCUMULUS UNDULATAS",
                             "parentId": "3375096a-7782-42e8-97d2-0febf63893e0",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": [
                               {
                                 "uuid": "53ade6b0-1b8c-4766-b9c1-4d40d1f69482",
@@ -4212,7 +4212,7 @@
                         "uuid": "cfa49843-2d36-4709-8969-b176432adf78",
                         "label": "THETA-E ENTRAINMENT",
                         "parentId": "62019831-aaba-4d63-a5cd-73138ccfa5d0",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4905,14 +4905,14 @@
                     "uuid": "354c4f50-ccf9-4714-85ee-b6c028521bef",
                     "label": "SEA ICE AREA",
                     "parentId": "d73e969a-4b66-4713-8d63-fa3cbb1e25e3",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "32929f40-ee7f-411d-8d2d-1d2cd9b78b09",
                     "label": "SEA ICE VOLUME",
                     "parentId": "d73e969a-4b66-4713-8d63-fa3cbb1e25e3",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6002,35 +6002,35 @@
                         "uuid": "c7dc02a5-0db0-43cf-ac7a-8768b7ddda5f",
                         "label": "LATENT HEAT FLUX",
                         "parentId": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "6a2d1d48-d2cc-4fe7-85f5-c98ab3a11262",
                         "label": "SENSIBLE HEAT FLUX",
                         "parentId": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7ee32363-7c39-40c3-95b3-4f24e284abb6",
                         "label": "TURBULENT HEAT FLUX",
                         "parentId": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "258d6984-ff0c-40d5-9dc5-673d211e21e7",
                         "label": "GEOTHERMAL HEAT FLUX",
                         "parentId": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "cb02e3ec-d872-4944-b824-07fde2260599",
                         "label": "CONDUCTIVE HEAT FLUX",
                         "parentId": "ee2cb9eb-f960-4e23-9e7c-be64d44a64e7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -7128,27 +7128,27 @@
                 "uuid": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
                 "label": "OCEAN VOLUME BUDGET",
                 "parentId": "91697b7d-8f2b-4954-850e-61d5f61c867d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "30fd009d-df91-47ba-8800-2f2771f15e80",
                     "label": "ADVECTION",
                     "parentId": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "4fc9280e-f273-4280-a732-93ef4ceea418",
                     "label": "DIFFUSION",
                     "parentId": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "9e8257c6-5c14-4707-995a-d31409265407",
                     "label": "EVAPORATION",
                     "parentId": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -7162,14 +7162,14 @@
                     "uuid": "67290503-94b9-4517-b5b6-063bba2bee27",
                     "label": "RUNOFF",
                     "parentId": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "32d0ca35-bff8-4e63-9c5b-c70d1593824a",
                     "label": "ICE GROWTH/MELT",
                     "parentId": "54b47174-d035-4b9c-99a5-27b39c7f0f17",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -7230,7 +7230,7 @@
                 "uuid": "035d870c-9792-4a74-8e02-e03c9a671c8e",
                 "label": "GEOLOGICAL FEATURES",
                 "parentId": "91697b7d-8f2b-4954-850e-61d5f61c867d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "7a74347d-e372-4048-8012-c9be550e0e5e",
@@ -7527,7 +7527,7 @@
                     "uuid": "ee3e296f-fdc0-4695-95af-dbe63f43b679",
                     "label": "WATER RESOURCES",
                     "parentId": "3f4cfc81-7745-43d9-b313-f68cdf72359b",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -7627,21 +7627,21 @@
                         "uuid": "764edcaa-d41a-4210-9b1e-f4e0f63e8329",
                         "label": "PARTICULATE MATTER (PM 2.5)",
                         "parentId": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "52153867-76e4-4beb-8f52-d8a69e90b9a3",
                         "label": "PARTICULATE MATTER (PM 1.0)",
                         "parentId": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "750a9b6e-4cbb-4e46-b2da-52ecd6d3a153",
                         "label": "PARTICULATE MATTER (PM 10)",
                         "parentId": "5a47842e-785d-4cc4-b1c1-2147a9252c19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -9818,7 +9818,7 @@
                             "uuid": "5a8bc1e7-a74d-4acc-9ac2-8fea047068a8",
                             "label": "LUSTER",
                             "parentId": "e468e55a-5bee-413e-8cbd-c9706e28eb93",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -15246,34 +15246,34 @@
                     "uuid": "9886e184-f4a5-4940-914d-10f98fe530bc",
                     "label": "HEAT FLUX",
                     "parentId": "a228b67f-0791-470b-a4ca-71b8da279332",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "a213e661-4a55-4cee-a889-738f7bd6097c",
                         "label": "SENSIBLE HEAT FLUX",
                         "parentId": "9886e184-f4a5-4940-914d-10f98fe530bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "05dd9887-0b58-45f2-b3ea-6e26bbee6990",
                         "label": "LATENT HEAT FLUX",
                         "parentId": "9886e184-f4a5-4940-914d-10f98fe530bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "dcefbf77-61b6-462b-a9dc-97f9035ac545",
                         "label": "LONGWAVE HEAT FLUX",
                         "parentId": "9886e184-f4a5-4940-914d-10f98fe530bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "b514c2a8-ff5e-4f5a-95ab-5d06c61288c4",
                         "label": "SHORTWAVE HEAT FLUX",
                         "parentId": "9886e184-f4a5-4940-914d-10f98fe530bc",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -17220,7 +17220,7 @@
                     "uuid": "7d3d6c15-b328-43a4-92eb-7d3c430647c4",
                     "label": "THERMAL PROPERTIES",
                     "parentId": "8799f524-e313-4d2d-9428-8d672d123513",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -17421,7 +17421,7 @@
                     "uuid": "6b798091-6362-4e78-9c51-bd5327ec73e7",
                     "label": "APPARENT SURFACE REFLECTIVITY",
                     "parentId": "6182be8b-d006-4327-994d-6f27c7e4d9a9",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -17786,7 +17786,7 @@
                             "uuid": "8a8fa93e-6424-46dd-ae97-d8afbac41b89",
                             "label": "RIFTS",
                             "parentId": "6d6a2b61-5d2c-4ec1-a164-34000f481588",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -17795,7 +17795,7 @@
                         "uuid": "94402f47-38ea-4798-98da-ea17599e092f",
                         "label": "SURFACE MORPHOLOGY",
                         "parentId": "10b1872b-4a48-4360-a449-388e8988bca9",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -17882,21 +17882,21 @@
                     "uuid": "9ce536e1-06c8-4817-af5f-b625cfe571a7",
                     "label": "AGE OF INTERNAL REFLECTIONS",
                     "parentId": "8603db51-3484-4439-8b3b-a06f48e8c686",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "ab4b800d-820f-40cc-bb01-4e8835368d04",
                     "label": "AGE AT ICE-THICKNESS-NORMALIZED DEPTHS",
                     "parentId": "8603db51-3484-4439-8b3b-a06f48e8c686",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "70541b66-c911-47fb-a99a-5638a9cb55d4",
                     "label": "DEPTHS AT SPECIFIC AGES",
                     "parentId": "8603db51-3484-4439-8b3b-a06f48e8c686",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -18022,28 +18022,28 @@
                         "uuid": "9a11c433-3cf6-4d6a-9038-259a77f94158",
                         "label": "SENSIBLE HEAT FLUX",
                         "parentId": "5569b7a3-3a4b-4799-8c68-98126757074b",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "da442d88-426b-4469-8ebe-f2ec83f410d0",
                         "label": "LATENT HEAT FLUX",
                         "parentId": "5569b7a3-3a4b-4799-8c68-98126757074b",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "8b333abf-9475-4c61-bcd9-65b40baaf213",
                         "label": "LONGWAVE HEAT FLUX",
                         "parentId": "5569b7a3-3a4b-4799-8c68-98126757074b",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "2bc52086-0c6d-4d66-8b1f-72ca78297383",
                         "label": "SHORTWAVE HEAT FLUX",
                         "parentId": "5569b7a3-3a4b-4799-8c68-98126757074b",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -18151,41 +18151,41 @@
                     "uuid": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
                     "label": "SEA ICE VOLUME BUDGET",
                     "parentId": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "4dff1a9b-23ee-4af4-a3c3-601cd2f52f56",
                         "label": "SUBLIMATION",
                         "parentId": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "78de9de8-852d-4b14-8650-414b6e4bfe0a",
                         "label": "FLOODING",
                         "parentId": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "1a7da9b0-2170-4329-997c-939af604b0bf",
                         "label": "ADVECTION",
                         "parentId": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "4125f82e-9be4-4441-80f2-0d39ccd3d1d8",
                         "label": "DIFFUSION",
                         "parentId": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "d693a3a9-99dd-4872-a2c0-a4b930d312e5",
                         "label": "ICE GROWTH/MELT",
                         "parentId": "2e8a0665-3488-40f3-ac96-f9d660e31a4f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -18201,21 +18201,21 @@
                     "uuid": "1ad69005-4418-4f5c-bab5-580d13c5992e",
                     "label": "SEA ICE STRAIN RATES",
                     "parentId": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1e335f30-1dff-4746-ad1c-c873a1fdb320",
                     "label": "SEA ICE STRENGTH",
                     "parentId": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "63a4c6e1-9248-488d-95ab-88ac2fb0a21d",
                     "label": "SEA ICE STRESS",
                     "parentId": "860e2af9-ce29-4f3f-b027-ae3747eb3e01",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -18506,7 +18506,7 @@
                     "uuid": "4dc6b614-36ad-4e3b-ac6f-af6e0aa6378b",
                     "label": "SNOW MICROSTRUCTURE",
                     "parentId": "aa35a52f-e3d9-41bd-abd2-ec7e1a8101d1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "a72b96ad-3755-4205-b353-66592c7bff54",
@@ -18550,7 +18550,7 @@
                     "uuid": "46c8754c-8adf-48e7-a14c-b91945d343bb",
                     "label": "SNOW VOLUME BUDGET",
                     "parentId": "aa35a52f-e3d9-41bd-abd2-ec7e1a8101d1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "8e4f4500-e377-4b8c-8275-6194c4b7db8b",
@@ -18563,21 +18563,21 @@
                         "uuid": "94790dac-6bf8-453b-b841-30b86bdcd491",
                         "label": "SUBLIMATION",
                         "parentId": "46c8754c-8adf-48e7-a14c-b91945d343bb",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7ee6c16d-8828-44d6-a014-63a9ac8eee37",
                         "label": "ADVECTION",
                         "parentId": "46c8754c-8adf-48e7-a14c-b91945d343bb",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "db28e274-27f4-4006-a363-32a98eab859d",
                         "label": "DIFFUSION",
                         "parentId": "46c8754c-8adf-48e7-a14c-b91945d343bb",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -18593,14 +18593,14 @@
                     "uuid": "481cc0cb-3e52-45e4-bf6e-3bb0c43e3392",
                     "label": "ICE SURFACE TEMPERAT",
                     "parentId": "aa35a52f-e3d9-41bd-abd2-ec7e1a8101d1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "8ea93d94-9a95-4dc0-8ad9-08896541fea9",
                     "label": "SURFACE MELT",
                     "parentId": "aa35a52f-e3d9-41bd-abd2-ec7e1a8101d1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -22069,7 +22069,7 @@
                 "uuid": "a82d885e-34cd-496a-b34d-17a23ad04126",
                 "label": "SOLAR ENERGETIC PARTICLE PROPERTIES",
                 "parentId": "57383ac5-614c-4b84-9202-e137b000422b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "fd42b8e3-b76c-4888-aeb7-e6486beb4b69",
@@ -22548,7 +22548,7 @@
                         "uuid": "b9349099-8d45-4260-ab30-c891c3553a25",
                         "label": "WATER VAPOR TRANSPORT INDEX",
                         "parentId": "b881cf8f-7260-4980-80bc-4b6ae3716c39",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -22557,13 +22557,13 @@
                     "uuid": "8c4e2397-aed6-4ce4-9ead-08323e2f90ae",
                     "label": "CLOUD INDICATORS",
                     "parentId": "5273c8c2-d30b-4666-b2d5-0388ce2741d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "2111d240-315c-411b-8114-7ef9e89317e5",
                         "label": "INCREASED/DECREASED CLOUD FRACTION",
                         "parentId": "8c4e2397-aed6-4ce4-9ead-08323e2f90ae",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -22592,21 +22592,21 @@
                         "uuid": "079e6699-efbf-4358-9047-b668b459fc22",
                         "label": "HEAT/COLD WAVE FREQUENCY/INTENSITY",
                         "parentId": "b29b46ad-f05f-4144-b965-5f606ce96963",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7f95ceda-09fd-4ee3-9f30-bf38bf831e12",
                         "label": "MONSOON ONSET/INTENSITY",
                         "parentId": "b29b46ad-f05f-4144-b965-5f606ce96963",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "a85b812e-e4d2-4dce-bf67-d89a3e1a9122",
                         "label": "TROPICAL OR EXTRATROPICAL CYCLONE FREQUENCY/INTENSITY",
                         "parentId": "b29b46ad-f05f-4144-b965-5f606ce96963",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -22657,14 +22657,14 @@
                         "uuid": "c7c88080-660c-4913-8140-5f3bc91e295e",
                         "label": "PRECIPITATION VARIABILITY",
                         "parentId": "789939a6-3cd5-46f3-bdfd-5cdd6a012500",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "279961c4-dac3-4188-917f-fa11982f957e",
                         "label": "PRECIPITATION TRENDS",
                         "parentId": "789939a6-3cd5-46f3-bdfd-5cdd6a012500",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -22794,14 +22794,14 @@
                         "uuid": "ed2f3a3f-c841-41cf-9394-3a3254d13fc2",
                         "label": "TROPICAL PACIFIC SST EOF",
                         "parentId": "b83895e9-bac8-49fe-bcf5-8fe4d8fcaa16",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "ca418285-d1f2-4348-82e4-7fc59f8b60c8",
                         "label": "ATLANTIC TRIPOLE SST",
                         "parentId": "b83895e9-bac8-49fe-bcf5-8fe4d8fcaa16",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -22817,48 +22817,48 @@
                     "uuid": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
                     "label": "TEMPERATURE INDICATORS",
                     "parentId": "5273c8c2-d30b-4666-b2d5-0388ce2741d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "3d997f01-8987-4fb1-a32e-d88d51f0a2c4",
                         "label": "HIGHER MAXIMUM DAYTIME TEMPERATURES",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "93741006-ff2a-4ec2-bbd4-ff55301fabe0",
                         "label": "HIGHER MINIMUM NIGHTIME TEMPERATURES",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7013bdc9-519d-42b6-827c-4b8013fbb726",
                         "label": "TEMPERATURE VARIABILITY",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "ae247e59-db82-45ac-a9de-a9773ae4db40",
                         "label": "TEMPERATURE TRENDS",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "f0e47cca-fa6e-44d0-b900-43920a3d0b91",
                         "label": "TROPOSPHERIC TEMPERATURE ANOMALIES",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "0eb1af15-7bd4-40c6-b8a4-666cbb61ff8c",
                         "label": "STRATOSPHERIC TEMPERATURE ANOMALIES",
                         "parentId": "2dcffd8f-2b01-4c68-a4f2-c4940d2709a3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -22867,7 +22867,7 @@
                     "uuid": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
                     "label": "TEMPERATURE INDICES",
                     "parentId": "5273c8c2-d30b-4666-b2d5-0388ce2741d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "c7fa79e4-67a1-45da-b393-a1b89d54a1a5",
@@ -22915,7 +22915,7 @@
                         "uuid": "d73be111-7aae-4a96-89c2-7b64c064893c",
                         "label": "TEMPERATURE CONCENTRATION INDEX (TCI)",
                         "parentId": "e8580cbb-701a-4ab1-a40f-5fae4ae1ea24",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -22931,7 +22931,7 @@
                     "uuid": "7d3e2368-75ba-43b9-bdce-bba2ff8d3e2c",
                     "label": "OCEAN UPWELLING INDICES",
                     "parentId": "5273c8c2-d30b-4666-b2d5-0388ce2741d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "74ad118c-2f18-40fb-a26e-092390f52c20",
@@ -23018,21 +23018,21 @@
                     "uuid": "47200796-7541-4659-acf4-32b5303bcc1f",
                     "label": "FIJI INDEX",
                     "parentId": "897b3d65-709c-4739-9ba6-85911295d843",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "585182e9-6e5b-4ad6-96fe-065ffd31f7e8",
                     "label": "TUVALU INDEX",
                     "parentId": "897b3d65-709c-4739-9ba6-85911295d843",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "2c1e046e-2feb-4cb7-a6dd-f3753db7b5f5",
                     "label": "SAMOA INDEX",
                     "parentId": "897b3d65-709c-4739-9ba6-85911295d843",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -23041,7 +23041,7 @@
                 "uuid": "112e71ec-c0a1-49a8-82d7-bcb317b45860",
                 "label": "LAND SURFACE/AGRICULTURE INDICATORS",
                 "parentId": "23703b6b-ee15-4512-b5b2-f441547e2edf",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "32e1b1ec-fa69-47b5-b0d6-d71948e3997a",
@@ -23075,7 +23075,7 @@
                     "uuid": "f50672b3-13d8-4206-b6c9-a1f9891ea470",
                     "label": "DROUGHT INDICES",
                     "parentId": "112e71ec-c0a1-49a8-82d7-bcb317b45860",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "a43850a1-7b00-4993-80ff-753c2b5c4015",
@@ -23125,20 +23125,20 @@
                     "uuid": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
                     "label": "LENGTH OF GROWING SEASON",
                     "parentId": "112e71ec-c0a1-49a8-82d7-bcb317b45860",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "f5824b8f-c3e7-4e56-96e8-cf4b5adefbf8",
                         "label": "CROP HARVEST DATES",
                         "parentId": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "226d4804-1a09-4d9b-a5c1-346f52a2e709",
                         "label": "FREEZE/FROST DATE",
                         "parentId": "ed8797be-661a-48c9-a7fe-2600b6c7c067",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -23239,14 +23239,14 @@
                     "uuid": "2adde197-3f0f-4eda-ae00-a337dfa853c3",
                     "label": "RIVER/LAKE ICE FREEZE",
                     "parentId": "9246fc12-17e7-4473-b9c0-c23e4bfc4eda",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "64baed75-e3c0-4495-9bc9-c5b9373670f6",
                     "label": "RIVER/LAKE ICE BREAKUP",
                     "parentId": "9246fc12-17e7-4473-b9c0-c23e4bfc4eda",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -23260,7 +23260,7 @@
                     "uuid": "994cc55d-b789-4f03-98dc-4cd0f58ad12a",
                     "label": "SNOW COVER DEGRADATION",
                     "parentId": "9246fc12-17e7-4473-b9c0-c23e4bfc4eda",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -23274,7 +23274,7 @@
                     "uuid": "ed0501c5-310c-42ab-b1eb-66e211f22803",
                     "label": "PERMAFROST MELT",
                     "parentId": "9246fc12-17e7-4473-b9c0-c23e4bfc4eda",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -23289,14 +23289,14 @@
                     "uuid": "379dd4c3-04d7-4f76-9bb9-83d0b8e1a2aa",
                     "label": "BIRTH RATE DECLINE/INCREASE",
                     "parentId": "76943142-e5a9-4ecf-b496-050dd3d97101",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "0a07badb-1382-4f63-8344-7ba063b05534",
                     "label": "BREEDING PRODUCTIVITY",
                     "parentId": "76943142-e5a9-4ecf-b496-050dd3d97101",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -23310,7 +23310,7 @@
                     "uuid": "9a40bc0e-aece-4b4a-a87d-4869c8b903f8",
                     "label": "CANOPY TEMPERATURE VARIABILITY",
                     "parentId": "76943142-e5a9-4ecf-b496-050dd3d97101",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -23376,7 +23376,7 @@
                 "uuid": "76b8c21c-c221-4724-86ef-c07222cb152b",
                 "label": "CRYOSPHERIC INDICATORS",
                 "parentId": "23703b6b-ee15-4512-b5b2-f441547e2edf",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "bb8c48bc-a36e-4f7e-afda-3244b058bc9c",
@@ -23403,7 +23403,7 @@
                     "uuid": "2d79af4f-d15f-40cc-b0bf-8f5c8eb1fce5",
                     "label": "GLACIAL MEASUREMENTS",
                     "parentId": "76b8c21c-c221-4724-86ef-c07222cb152b",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "83bd640d-cd05-49a8-9ec7-aab60820b126",
@@ -23561,7 +23561,7 @@
                 "uuid": "c9a5b3eb-7556-41a8-a2b8-c015db80e5b2",
                 "label": "PALEOCLIMATE INDICATORS",
                 "parentId": "23703b6b-ee15-4512-b5b2-f441547e2edf",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "4bd6aafb-9240-4006-ada3-4b6a0501b612",
@@ -23574,7 +23574,7 @@
                     "uuid": "5553fe9d-ab0a-4305-86a6-1f7f697e15e4",
                     "label": "BIOLOGICAL RECORDS",
                     "parentId": "c9a5b3eb-7556-41a8-a2b8-c015db80e5b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "625ac4b3-a126-4c98-a061-3a780b942280",
@@ -23594,7 +23594,7 @@
                         "uuid": "7bc06198-5546-40f5-97ac-b7b5b5503cfc",
                         "label": "POPULATION ABUNDANCE",
                         "parentId": "5553fe9d-ab0a-4305-86a6-1f7f697e15e4",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -23648,21 +23648,21 @@
                                 "uuid": "437f13e8-0b8a-44a2-a7fd-5b41a00299db",
                                 "label": "CARBON ISOTOPE",
                                 "parentId": "bd1834b0-4f8f-4616-b330-6205bff567c2",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               },
                               {
                                 "uuid": "e91ff41a-5cf5-460b-b765-c553ca2a4ae2",
                                 "label": "OXYGEN ISOTOPE",
                                 "parentId": "bd1834b0-4f8f-4616-b330-6205bff567c2",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               },
                               {
                                 "uuid": "89387757-3548-4fe0-a383-d8f935f07c71",
                                 "label": "HYDROGEN ISOTOPE",
                                 "parentId": "bd1834b0-4f8f-4616-b330-6205bff567c2",
-                                "definition": "No definition available.",
+                                "definition": "",
                                 "children": []
                               }
                             ]
@@ -23715,7 +23715,7 @@
                             "uuid": "c9ba3275-2fe3-4619-b7c0-881d4f6fa34e",
                             "label": "FIRE SCAR DATE",
                             "parentId": "d2dc2330-0433-43f2-9154-dc399d24406c",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {
@@ -24029,7 +24029,7 @@
                             "uuid": "84b443b5-91d3-42d2-a48b-d2e157a39d5b",
                             "label": "MICROPARTICLE CONCENTRATION",
                             "parentId": "15fdef7c-7fb7-4a1d-a24b-01164a8ba11a",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -24204,14 +24204,14 @@
                         "uuid": "22c14e35-48a4-40b5-a503-add48c2d4cd4",
                         "label": "LENGTH OF THE SOLAR CYCLE",
                         "parentId": "3429bc72-0780-44c8-9743-92f84118279d",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "3b230650-68ff-4e7a-9273-6e0b1083bdfa",
                         "label": "SOLAR FLUX",
                         "parentId": "3429bc72-0780-44c8-9743-92f84118279d",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -24579,7 +24579,7 @@
                 "uuid": "7872b9af-8c90-481e-aaa6-a47b736f0828",
                 "label": "ANCILLARY MODELS",
                 "parentId": "e1f20631-b5b9-438c-b5c2-b1fa0fce100a",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "108318e6-89c0-4e0d-bcad-7bfdb0df49f5",
@@ -24895,13 +24895,13 @@
                 "uuid": "727a79dd-bef9-40c3-bf85-e152947b8e49",
                 "label": "DATA CUSTOMIZATION",
                 "parentId": "02d92216-70c6-437c-8c15-2b76f2132921",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "40d4ba89-0e3d-4c6c-adef-87e08737d4db",
                     "label": "REPROJECTION",
                     "parentId": "727a79dd-bef9-40c3-bf85-e152947b8e49",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
