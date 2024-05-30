@@ -1,5 +1,5 @@
-import keyword from './keyword.json' assert { type: 'json' };
-import manifest from './manifest.json' assert { type: 'json' };
-import thesaurusConfig from './thesaurus-config.json' assert { type: 'json' };
+import keyword from './keyword.json';
+import manifest from './manifest.json';
+import thesaurusConfig from './thesaurus-config.json';
 
 export { keyword, manifest, thesaurusConfig };
