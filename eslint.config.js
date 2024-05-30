@@ -1,7 +1,8 @@
-import globals from 'globals';
 import pluginJs from '@eslint/js';
-import prettierPlugin from 'eslint-plugin-prettier';
+import importPlugin from 'eslint-plugin-import';
 import jsonPlugin from 'eslint-plugin-json';
+import prettierPlugin from 'eslint-plugin-prettier';
+import globals from 'globals';
 
 export default [
   {
@@ -18,7 +19,8 @@ export default [
     },
     plugins: {
       prettier: prettierPlugin,
-      json: jsonPlugin
+      json: jsonPlugin,
+      import: importPlugin
     },
     rules: {
       'prettier/prettier': ['error']
@@ -27,6 +29,7 @@ export default [
   pluginJs.configs.recommended,
   prettierPlugin.configs.recommended,
   jsonPlugin.configs.recommended,
+  importPlugin.configs.recommended,
   {
     settings: {
       jest: {
