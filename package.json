@@ -6,9 +6,9 @@
   "license": "ISC",
   "scripts": {
     "test": "yarn build && jest",
-    "build": "yarn && yarn clean && yarn build:harvesters && yarn build:scripts && yarn copy",
+    "build": "yarn && yarn clean && yarn build:harvesters && yarn build:tests && yarn copy",
     "build:harvesters": "babel harvesters --out-dir dist/harvesters --source-maps",
-    "build:scripts": "babel scripts --out-dir dist/scripts --source-maps",
+    "build:tests": "babel tests --out-dir dist/tests --source-maps",
     "clean": "node scripts/clean.cjs",
     "copy": "node scripts/copyJsonFilesToDist.cjs && node scripts/copyGnisData.cjs",
     "start": "yarn build && node dist/harvesters/index.js",
@@ -25,7 +25,7 @@
       "^.+\\.[t|j]sx?$": "babel-jest"
     },
     "testMatch": [
-      "**/dist/cjs/tests/**/*.test.js"
+      "**/dist/tests/**/*.test.js"
     ],
     "moduleFileExtensions": [
       "js",
