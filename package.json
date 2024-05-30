@@ -6,8 +6,9 @@
   "license": "ISC",
   "scripts": {
     "test": "yarn build && jest",
-    "build": "yarn && yarn clean && yarn build:harvesters && yarn build:tests && yarn copy",
+    "build": "yarn && yarn clean && yarn build:harvesters && yarn build:schemas && yarn build:tests && yarn copy",
     "build:harvesters": "babel harvesters --out-dir dist/harvesters --source-maps",
+    "build:schemas": "node scripts/copySchemas.cjs && babel schemas --out-dir dist/schemas --source-maps",
     "build:tests": "babel tests --out-dir dist/tests --source-maps",
     "build:manifest": "node scripts/buildManifest.cjs",
     "clean": "node scripts/clean.cjs",
@@ -23,7 +24,7 @@
   },
   "jest": {
     "transform": {
-      "^.+\\.[t|j]sx?$": "babel-jest"
+      "^.+\\.js$": "babel-jest"
     },
     "testMatch": [
       "**/dist/tests/**/*.test.js"
@@ -37,6 +38,7 @@
   "devDependencies": {
     "@babel/cli": "^7.24.6",
     "@babel/core": "^7.24.6",
+    "@babel/plugin-syntax-import-attributes": "^7.24.6",
     "@babel/preset-env": "^7.24.6",
     "@eslint/js": "^9.3.0",
     "ajv": "^8.13.0",
