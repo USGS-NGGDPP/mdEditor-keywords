@@ -2,7 +2,6 @@
   {
     "uuid": "b2140059-b3ca-415c-b0a7-3e142783ffe8",
     "label": "Instruments",
-    "parentId": null,
     "definition": "There are two types of remote sensing instruments—passive and active. Passive instruments detect natural energy that is reflected or emitted from the observed scene. Passive instruments sense only radiation emitted by the object being viewed or reflected by the object from a source other than the instrument. Reflected sunlight is the most common external source of radiation sensed by passive instruments. Scientists use a variety of passive remote sensors.",
     "children": [
       {
