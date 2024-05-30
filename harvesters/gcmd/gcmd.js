@@ -63,10 +63,6 @@ async function buildChildren(metadata) {
     });
     const narrowerChildren = await buildChildren(narrowerMetadata);
     const node = generateNode(narrowerMetadata);
-    // if node.parentId is null remove the key from the object
-    if (!node.parentId) {
-      delete node.parentId;
-    }
     node.children = narrowerChildren;
     children.push(node);
   }
@@ -75,6 +71,10 @@ async function buildChildren(metadata) {
 
 const buildKeywordTree = async metadata => {
   const node = generateNode(metadata);
+  // if node.parentId is null remove the key from the object
+  if (node.parentId === null) {
+    delete node.parentId;
+  }
   node.children = await buildChildren(metadata);
   return [node];
 };
