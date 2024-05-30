@@ -3,7 +3,7 @@
     "uuid": "ec1a1350-be24-42e6-a5cc-ccb806793def",
     "label": "Mime Type",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "07bcc60e-1551-44d9-b87e-7c260d230ecb",
@@ -23,7 +23,7 @@
         "uuid": "17e82b7c-498d-4d69-993c-fd691aa25ce8",
         "label": "application/tar+zip",
         "parentId": "ec1a1350-be24-42e6-a5cc-ccb806793def",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -86,7 +86,7 @@
         "uuid": "43ca8ee0-04a5-4020-b0ec-998ec0e0f30e",
         "label": "application/tar+gzip",
         "parentId": "ec1a1350-be24-42e6-a5cc-ccb806793def",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -142,7 +142,7 @@
         "uuid": "84ef762f-e348-42a6-981c-563822a47806",
         "label": "application/tar",
         "parentId": "ec1a1350-be24-42e6-a5cc-ccb806793def",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -177,14 +177,14 @@
         "uuid": "b1eac265-2b00-4c39-a429-797c13a2c640",
         "label": "application/x-hdfeos",
         "parentId": "ec1a1350-be24-42e6-a5cc-ccb806793def",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
         "uuid": "b26761fa-8d8e-4bd8-a8ba-db6575554ad7",
         "label": "application/vnd.opendap.dap4.dmrpp+xml",
         "parentId": "ec1a1350-be24-42e6-a5cc-ccb806793def",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {

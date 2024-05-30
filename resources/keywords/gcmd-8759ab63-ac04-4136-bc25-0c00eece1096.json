@@ -3,19 +3,19 @@
     "uuid": "8759ab63-ac04-4136-bc25-0c00eece1096",
     "label": "Related URL Content Types",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "65373de8-3fb3-4882-a8ca-cfe23a4ff58e",
         "label": "DataContactURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "e5803df8-c802-4f3f-96f5-53e534835887",
             "label": "HOME PAGE",
             "parentId": "65373de8-3fb3-4882-a8ca-cfe23a4ff58e",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           }
         ]
@@ -24,33 +24,33 @@
         "uuid": "731f4e5c-d200-4c56-9daa-e6fad17415ef",
         "label": "VisualizationURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "58848eb9-9c2c-491e-847e-5a4f3d9f6889",
             "label": "Color Map",
             "parentId": "731f4e5c-d200-4c56-9daa-e6fad17415ef",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "197d7881-a01b-4892-822f-94ca72aea2f4",
                 "label": "Giovanni",
                 "parentId": "58848eb9-9c2c-491e-847e-5a4f3d9f6889",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "503206c2-c5ae-4d65-8c18-be8d06370c0c",
                 "label": "Harmony GDAL",
                 "parentId": "58848eb9-9c2c-491e-847e-5a4f3d9f6889",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "87117fb4-888c-41b9-a795-d13d436d828b",
                 "label": "GITC",
                 "parentId": "58848eb9-9c2c-491e-847e-5a4f3d9f6889",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]
@@ -79,7 +79,7 @@
                 "uuid": "e6f9524a-e4bc-460a-bdf3-a5e8f0e921a9",
                 "label": "MAP",
                 "parentId": "dd2adc64-c7bd-4dbf-976b-f0496966817c",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -104,7 +104,7 @@
         "uuid": "894edd57-afb3-4bb3-878f-fc245d8b6e82",
         "label": "PublicationURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "5ec1bb9d-0efc-4099-9b31-ec791bbd8145",
@@ -316,13 +316,13 @@
         "uuid": "b2df0d8e-d236-4fd2-a4f6-12951b3bb17a",
         "label": "DataCenterURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "05c685ab-8ce0-4b8a-8eba-b15fc6bbddfa",
             "label": "HOME PAGE",
             "parentId": "b2df0d8e-d236-4fd2-a4f6-12951b3bb17a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           }
         ]
@@ -331,7 +331,7 @@
         "uuid": "c7bbd6c7-8b0a-46ed-a428-a2f0453ed69e",
         "label": "CollectionURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "3c9d4493-22fd-48a8-9af5-bf0d16b7ede5",
@@ -382,33 +382,33 @@
         "uuid": "d25982b9-92e9-4ec0-ab44-48e79ecbe137",
         "label": "DistributionURL",
         "parentId": "8759ab63-ac04-4136-bc25-0c00eece1096",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "172cd72d-30d3-4795-8660-dc38820faba0",
             "label": "GET DATA VIA DIRECT ACCESS",
             "parentId": "d25982b9-92e9-4ec0-ab44-48e79ecbe137",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "2892b502-2c66-42d5-af3d-bcddb57d9195",
             "label": "GET CAPABILITIES",
             "parentId": "d25982b9-92e9-4ec0-ab44-48e79ecbe137",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "09c6e3ea-f8e0-4052-8b41-c3b1269799ed",
                 "label": "OpenSearch",
                 "parentId": "2892b502-2c66-42d5-af3d-bcddb57d9195",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "ca5440d6-a9e4-416b-8e35-c4769f664b95",
                 "label": "GIBS",
                 "parentId": "2892b502-2c66-42d5-af3d-bcddb57d9195",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]
@@ -458,7 +458,7 @@
                 "uuid": "38219044-ad26-4a32-98c0-dca8ad3cd29a",
                 "label": "Subscribe",
                 "parentId": "750f6c61-0f15-4185-94d8-c029dec04bc5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -472,7 +472,7 @@
                 "uuid": "3c60609c-d48d-47c4-b069-43951fa0aea3",
                 "label": "IceBridge Portal",
                 "parentId": "750f6c61-0f15-4185-94d8-c029dec04bc5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -563,7 +563,7 @@
                 "uuid": "9bfb0f20-189e-411b-a678-768bf3fa256e",
                 "label": "GoLIVE Portal",
                 "parentId": "750f6c61-0f15-4185-94d8-c029dec04bc5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -591,14 +591,14 @@
                 "uuid": "bd91340d-a8b3-4c01-b262-71e50fe69c83",
                 "label": "Order",
                 "parentId": "750f6c61-0f15-4185-94d8-c029dec04bc5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "da43d7e4-4cb4-4b65-a9a1-94bf542f96de",
                 "label": "BROWSE IMAGE SOURCE",
                 "parentId": "750f6c61-0f15-4185-94d8-c029dec04bc5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]

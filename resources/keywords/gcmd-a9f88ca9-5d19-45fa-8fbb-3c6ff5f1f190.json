@@ -3,37 +3,37 @@
     "uuid": "a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190",
     "label": "Chronostratigraphic Units",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "0673738a-3751-4d6e-9df0-b2eda0bde993",
         "label": "NOT APPLICABLE",
         "parentId": "a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "c3103f11-b82a-45fc-82b5-2ac7e353950d",
             "label": "NOT APPLICABLE",
             "parentId": "0673738a-3751-4d6e-9df0-b2eda0bde993",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "bf921c77-6ec0-494f-a9b8-54c01ca6560a",
                 "label": "NOT APPLICABLE",
                 "parentId": "c3103f11-b82a-45fc-82b5-2ac7e353950d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "9b163dab-3afd-4084-b6c8-380f96a40f75",
                     "label": "NOT APPLICABLE",
                     "parentId": "bf921c77-6ec0-494f-a9b8-54c01ca6560a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "13e26688-3e0e-49da-b7cb-0d25d51a9e59",
                         "label": "NOT APPLICABLE",
                         "parentId": "9b163dab-3afd-4084-b6c8-380f96a40f75",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -204,7 +204,7 @@
                     "uuid": "00c6f0f3-5734-4500-a69e-f6780e365985",
                     "label": "EARLY",
                     "parentId": "02f8be65-6bdd-4f4d-9e69-adac5aec33f6",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "a58844b9-65e5-4b5a-98ab-b99968769d4a",
@@ -226,7 +226,7 @@
                     "uuid": "479caf3a-2744-4cef-b992-745c1ffd3e96",
                     "label": "LATE",
                     "parentId": "02f8be65-6bdd-4f4d-9e69-adac5aec33f6",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "00b13a7e-4d16-4d89-bc47-2839331545e6",
@@ -255,7 +255,7 @@
                     "uuid": "e941d527-8935-4b63-b76f-5febd609b9b5",
                     "label": "MIDDLE",
                     "parentId": "02f8be65-6bdd-4f4d-9e69-adac5aec33f6",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "51b449af-bc34-4bee-9f61-61ba9721717d",
@@ -665,7 +665,7 @@
                         "uuid": "03796134-4406-43d2-88e9-8334843e9153",
                         "label": "LATE",
                         "parentId": "a9aac8e7-10bc-4fe9-bf8e-c45db58b5eca",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "a5aede69-96cd-45bf-8a53-fe5c8fa3f3dc",
@@ -680,7 +680,7 @@
                         "uuid": "0f8853f9-6fc0-4a72-9e61-8b8a5e1fdae7",
                         "label": "MIDDLE",
                         "parentId": "a9aac8e7-10bc-4fe9-bf8e-c45db58b5eca",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "e7f66704-f02e-4480-89d8-f0d5c28a18a3",
@@ -695,7 +695,7 @@
                         "uuid": "c0489a3d-7571-44f8-ae10-bc56da60a29e",
                         "label": "EARLY",
                         "parentId": "a9aac8e7-10bc-4fe9-bf8e-c45db58b5eca",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "a3e3914d-7777-4e91-80ca-60264adb1e73",
@@ -718,7 +718,7 @@
                         "uuid": "26d10402-338b-433e-a90e-5952e3ae044d",
                         "label": "MIDDLE",
                         "parentId": "b99b0ad0-93d2-4acf-912c-13d5a1ba12a6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "c9924714-7cba-41ff-b2e8-f2395d00583a",
@@ -733,7 +733,7 @@
                         "uuid": "5fab652d-b69a-4005-b6cf-6d9d4a533703",
                         "label": "LATE",
                         "parentId": "b99b0ad0-93d2-4acf-912c-13d5a1ba12a6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "47a51602-f1de-4188-ab8d-9aedd88a1936",
@@ -755,13 +755,13 @@
                         "uuid": "981c3e53-263e-4a91-a2ca-f5896635bbbd",
                         "label": "EARLY",
                         "parentId": "b99b0ad0-93d2-4acf-912c-13d5a1ba12a6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": [
                           {
                             "uuid": "1e8dafc0-21c0-4f49-82a6-9d38d8b9f16d",
                             "label": "EARLY",
                             "parentId": "981c3e53-263e-4a91-a2ca-f5896635bbbd",
-                            "definition": "No definition available.",
+                            "definition": "",
                             "children": []
                           },
                           {

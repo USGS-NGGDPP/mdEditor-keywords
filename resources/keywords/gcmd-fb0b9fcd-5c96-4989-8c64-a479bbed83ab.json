@@ -3,13 +3,13 @@
     "uuid": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
     "label": "Projects",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
         "label": "A - C",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "006d842b-9c63-498f-b198-9afdc16c91b6",
@@ -50,7 +50,7 @@
             "uuid": "01802b84-2ef2-495b-921a-46a53116f510",
             "label": "AfSIS/CLIMATE",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -71,7 +71,7 @@
             "uuid": "02963adc-1abc-48f9-95e3-546ab371ff50",
             "label": "BIOGEOGRAFIA DE AVES MARINAS",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -113,7 +113,7 @@
             "uuid": "074f1aec-503d-4830-8d7c-3ece00ddf37d",
             "label": "CLASIC07",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -134,7 +134,7 @@
             "uuid": "07a12d76-3794-4d1f-8db3-96a4c9814d54",
             "label": "25090-E/ANT",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -337,7 +337,7 @@
             "uuid": "1651dd4f-d5f9-4d1e-841e-5c805a0809dd",
             "label": "CCCO/CO2",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -407,7 +407,7 @@
             "uuid": "1f515c33-1841-4897-922c-8cc6486c6341",
             "label": "ASO",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -547,7 +547,7 @@
             "uuid": "2da57231-bb54-4862-84da-944489bebbb6",
             "label": "ALOS-2",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -645,7 +645,7 @@
             "uuid": "35064bfb-c783-4b48-9630-5ad2eeebca1c",
             "label": "CGL2007-60369-E/ANT",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -764,7 +764,7 @@
             "uuid": "3d538499-d29b-482d-8caf-b62a605456ae",
             "label": "CRIPA-X (FINNARP)",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -862,7 +862,7 @@
             "uuid": "48193b4b-4805-4716-8e43-36790fa83bdb",
             "label": "Aotearoa New Zealand Ross Ice Shelf Programme",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1023,7 +1023,7 @@
             "uuid": "56f22b72-da5c-4b9e-a3a4-d12469ee91ce",
             "label": "CIESIN/GER",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1100,7 +1100,7 @@
             "uuid": "5c058e32-db60-4651-b625-57675139800a",
             "label": "AKOA",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1114,7 +1114,7 @@
             "uuid": "5d2eac9b-98e6-4445-90c2-92d2110ec255",
             "label": "BRAPA",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1163,7 +1163,7 @@
             "uuid": "5fde0951-9013-4a98-b7b0-631a01558687",
             "label": "BIOQUIMICA APLICADA",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1191,7 +1191,7 @@
             "uuid": "6164f0e8-e208-4742-ac28-981366ca622a",
             "label": "CFSV2",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1338,7 +1338,7 @@
             "uuid": "6ffd7617-25fd-4464-bbd3-fc02e33ffafb",
             "label": "CEMP",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1401,7 +1401,7 @@
             "uuid": "77a99702-4771-4ca3-a2bf-026c1aa1fec5",
             "label": "CBERS",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1513,7 +1513,7 @@
             "uuid": "814903bc-b83b-4229-b617-f6273b64bfee",
             "label": "AEOLUS 1980",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1618,7 +1618,7 @@
             "uuid": "8894d92c-be32-465b-ae08-e5de755a92fc",
             "label": "CESM",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1639,7 +1639,7 @@
             "uuid": "895b52a8-7a8f-416f-8557-e2294370e671",
             "label": "CIESIN/MEC",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1751,7 +1751,7 @@
             "uuid": "92d6df0b-cbca-4b9e-ab9a-f2ca92adcb5b",
             "label": "ASR",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -1884,7 +1884,7 @@
             "uuid": "a1224730-fb7b-4b12-964e-4d46f599b2b2",
             "label": "AfSIS/CLIMATE",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2241,7 +2241,7 @@
             "uuid": "bc5be83a-4550-403c-a40b-b60012c3f483",
             "label": "ASHCAN",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2262,7 +2262,7 @@
             "uuid": "bd977f0f-7032-4be9-90c6-28363767e53a",
             "label": "AMI",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2304,7 +2304,7 @@
             "uuid": "c04eef05-1aa0-462e-81c5-7575312a550a",
             "label": "CGL-2004-01348-E/ANT",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2416,7 +2416,7 @@
             "uuid": "c7878548-e3ea-4342-aaa7-1ae2ea4c8459",
             "label": "CIESIN/IPCC",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2437,7 +2437,7 @@
             "uuid": "c81e704f-ab9e-4e3d-91b4-42fc78d4abe3",
             "label": "CTM2009-08154-E/ANT",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2507,7 +2507,7 @@
             "uuid": "cd94d60b-3b63-44a8-b513-a41ab9651ef2",
             "label": "ASInv",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2570,7 +2570,7 @@
             "uuid": "d2b28f7e-eafd-49e8-9c54-41354053d767",
             "label": "CUENCAS_SEDIMENTARIAS",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2619,7 +2619,7 @@
             "uuid": "d5dece5f-18ca-4e93-b93b-ffe9334db40a",
             "label": "ANSMET/NASA - 80NSSC17K0696",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2647,7 +2647,7 @@
             "uuid": "d8e0880e-c109-416a-bf27-ee3436b29393",
             "label": "ACLR",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2724,7 +2724,7 @@
             "uuid": "de0e4cc6-e2f3-4a95-9f4f-8f5bd32dbb42",
             "label": "ANSMET/NASA - NNX10AQ75G",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2780,7 +2780,7 @@
             "uuid": "e485a083-ff32-4d34-a280-456898d9d2e0",
             "label": "BIOLOGIA DE LOS PETRELES",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2794,7 +2794,7 @@
             "uuid": "e4c077f0-4556-41bf-b8f0-58e3fd9c1a9f",
             "label": "CFSR",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2948,7 +2948,7 @@
             "uuid": "f0f41a60-ce82-4cf4-87b4-e96087ffcd5e",
             "label": "ADEOS",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -2990,7 +2990,7 @@
             "uuid": "f47c03be-9bc0-4b8b-aa38-89dbac684c26",
             "label": "ADEOS-2",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3053,7 +3053,7 @@
             "uuid": "f8d84499-2368-42d5-8def-df8b8c81725e",
             "label": "CIESIN/TSUNAMI",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3102,7 +3102,7 @@
             "uuid": "fc98fe19-b93e-475e-b932-96ae84469f0a",
             "label": "CRIPA (FINNARP)",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3123,7 +3123,7 @@
             "uuid": "fde53d04-eb86-44a6-b0cc-e58b5d70190f",
             "label": "ANSMET/NASA - NNX13AQ24G",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3221,7 +3221,7 @@
             "uuid": "e4a7a825-1158-41bc-afa2-9b81422ea876",
             "label": "C3VP",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3338,7 +3338,7 @@
           },
           {
             "uuid": "dfcd21aa-d627-4c52-845f-fd5a33f370e9",
-            "label": "CLARREO Pathfinder (CPF)",
+            "label": "CPF",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
             "definition": "CLARREO Pathfinder’s data will help us better understand Earth’s changing climate. CLARREO Pathfinder (CPF) data will do this by taking highly accurate measurements of sunlight reflected by Earth and the Moon. These measurements, which will be anchored to international standards, will be five to ten times more accurate than those from existing sensors. CPF will have the unique ability to maintain its high accuracy throughout its lifetime. CPF will also showcase novel techniques in transferring its high accuracy to other sensors monitoring Earth. Higher accuracy means greater certainty in our measurements, which makes it possible to detect Earth’s subtle climate change trends decades sooner than otherwise possible, and provides the knowledge needed to make informed decisions in response.",
             "children": []
@@ -3417,14 +3417,14 @@
             "uuid": "e69c8314-7c04-4140-aedd-775d7a0e144e",
             "label": "ANSMET/NASA - NSF 0538211",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "4eb4c502-39ce-4565-94ec-207d34739fde",
             "label": "ANSMET/NASA - 2023-2028 80NSSC23K1520",
             "parentId": "0c89f3f4-7ab1-43ce-89ee-795d35f0e30a",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3440,7 +3440,7 @@
         "uuid": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
         "label": "D - F",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "00b6ae8f-c95d-404e-9300-79705f138ecb",
@@ -3537,7 +3537,7 @@
             "uuid": "166c4782-1749-4b10-bd33-7276d49de7a1",
             "label": "ERA15",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3621,7 +3621,7 @@
             "uuid": "32658d24-ab47-41b5-9614-2becccde8e55",
             "label": "ERA-I",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3705,7 +3705,7 @@
             "uuid": "3e0843ae-d6ed-4972-b164-53adc891563a",
             "label": "DC3",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -3992,7 +3992,7 @@
             "uuid": "7aa8d139-ef0f-4c35-b2fd-2eb7bab1310f",
             "label": "ESA CCI",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -4265,7 +4265,7 @@
             "uuid": "b54b8b20-4e3d-47b5-bdf6-2c6e5a3b6071",
             "label": "FEWS NET",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -4426,7 +4426,7 @@
             "uuid": "d556e46e-318e-4077-be50-fc61eedaec9b",
             "label": "ESONET-MARMARA-DM",
             "parentId": "24cf4b0e-4464-4edb-8f0c-415e851a6d79",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -4715,7 +4715,7 @@
         "uuid": "4eb1894b-35b4-406b-8864-944a42bc7702",
         "label": "S - U",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "00de73fa-8d08-4e55-b4dc-605242f7e74d",
@@ -4805,7 +4805,7 @@
             "uuid": "0a3e7f9b-e279-496d-aee2-41be7e05e0b4",
             "label": "SEA-SKY",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -4882,7 +4882,7 @@
             "uuid": "189d5e16-9b32-4c30-8a1c-1f0f028dc434",
             "label": "SOUTH.CAL.OCS BASELINE",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -4938,7 +4938,7 @@
             "uuid": "1f81d4cd-b32d-481c-8db9-c4e3e26edcd9",
             "label": "SMAPVEX12",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5008,7 +5008,7 @@
             "uuid": "290355e7-b79c-461e-8f45-f298cf7a6244",
             "label": "STACS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5029,14 +5029,14 @@
             "uuid": "2b2297e7-5323-4ffc-b8c6-671c471e8010",
             "label": "SEDAC/METADATA",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "2c473339-954d-4193-86f5-b427640110f9",
             "label": "SMAP",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5134,7 +5134,7 @@
             "uuid": "3abb1bd0-bba0-4ec4-8429-e382cbb82266",
             "label": "SGP99",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5218,7 +5218,7 @@
             "uuid": "49393572-8c97-4a57-ae1e-3b46d8d6b522",
             "label": "SDEI",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5295,14 +5295,14 @@
             "uuid": "50e316c6-41f6-444d-834e-fdfa6fbc80e2",
             "label": "SEAC4RS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "535c0aba-c89b-4dab-81d6-d7cf387d8894",
             "label": "SIID-SMARA",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5463,7 +5463,7 @@
             "uuid": "674268e7-cced-4bda-baaa-3a4529dd36d4",
             "label": "SEAT",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5575,7 +5575,7 @@
             "uuid": "714ef2b8-8c4b-45b4-a7cb-f984dd676f13",
             "label": "TRANSPAC",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5596,7 +5596,7 @@
             "uuid": "73610621-85e0-454b-919d-52b15dd2917d",
             "label": "SEDAC/MAPPINGTOOLS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5624,7 +5624,7 @@
             "uuid": "77569ccc-1f74-4163-ae8d-9f2aaec3e822",
             "label": "TESAC",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5673,7 +5673,7 @@
             "uuid": "7956f758-9ccb-4524-bbe7-cf26a3528a74",
             "label": "SEDAC/CITATIONS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5687,14 +5687,14 @@
             "uuid": "7a958e06-b5fb-47ed-81ed-b4206854fc20",
             "label": "SESBNS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "7b41cce6-4000-4a9b-840b-100fef0e74a2",
             "label": "STRAPOLÉTÉ",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -5904,7 +5904,7 @@
             "uuid": "998936f6-3b4e-4a82-8979-cd24c697a845",
             "label": "SnowEx",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6058,7 +6058,7 @@
             "uuid": "ac6892b6-3ed9-4db5-a599-e12e7c73057a",
             "label": "SEDAC/NHDRDC",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6135,7 +6135,7 @@
             "uuid": "b2c616e7-91f6-4f01-bd67-f656a848ee58",
             "label": "SEDAC/PERN",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6191,7 +6191,7 @@
             "uuid": "b7bb06e9-7022-4776-88f6-8fc4af957e1f",
             "label": "USAP NBP01-01",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6282,7 +6282,7 @@
             "uuid": "c3d7430d-9453-4ebc-af44-f7b5a2252748",
             "label": "SMERGE",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6359,7 +6359,7 @@
             "uuid": "d15dd9bf-50e3-4576-aa30-5aae5205a7ef",
             "label": "SMAPVEX08",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6429,7 +6429,7 @@
             "uuid": "d9eb4d9d-a760-4710-8f8d-a2e79f11511a",
             "label": "SPOT",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6457,7 +6457,7 @@
             "uuid": "dee88d1d-91cf-45da-bd00-d9fa0d8fba60",
             "label": "SARAL",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6506,7 +6506,7 @@
             "uuid": "e22b8709-ad81-4d17-a7f7-136f24029651",
             "label": "SEDAC/CONFIDENTIALITY",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6709,7 +6709,7 @@
             "uuid": "fe761190-36bb-4eb1-8d5d-340c4a7f89ea",
             "label": "SIMPLE",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6723,7 +6723,7 @@
             "uuid": "fef15af1-607d-4005-b1a8-778af1a4dca9",
             "label": "URBANSPATIAL",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6765,7 +6765,7 @@
             "uuid": "836912f3-2ae4-4b5c-8c0a-c8e3d7b10bce",
             "label": "TSIS",
             "parentId": "4eb1894b-35b4-406b-8864-944a42bc7702",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -6970,13 +6970,13 @@
         "uuid": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
         "label": "P - R",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "00230dbe-8532-4644-b241-79533b808846",
             "label": "PPGM",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7011,21 +7011,21 @@
             "uuid": "0842f2a3-58d8-4e4e-a56f-03fd3ee512d7",
             "label": "PASA",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "0e5e0c08-5fee-45c7-b331-3166b603afbd",
             "label": "POPDYNAMICS",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "0eb86e26-8e23-447a-99f3-39df37a50afb",
             "label": "PSU3DICE-ANT-MELTWATER",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7200,7 +7200,7 @@
             "uuid": "3f4f5aa8-83fa-4a55-a96e-59cd61546033",
             "label": "Polar Winds I",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7319,7 +7319,7 @@
             "uuid": "57a925f4-48e5-4484-ab84-1b62f55e397a",
             "label": "POLDER",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7361,7 +7361,7 @@
             "uuid": "5e6fae0a-c0c7-47eb-b9d9-eee41543d8c7",
             "label": "RAATD",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7389,7 +7389,7 @@
             "uuid": "679d379a-00ed-4c09-aece-44071e7fd173",
             "label": "PLEIADES",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7438,7 +7438,7 @@
             "uuid": "724563e5-39ef-424b-96d0-c07ca4655803",
             "label": "POL2006-05175-E/ANT",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7466,14 +7466,14 @@
             "uuid": "7e25906c-298f-41f1-bb04-c786489574f6",
             "label": "PM17020",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "7ef318b4-8ccb-4030-b823-dcb83f8ec4e1",
             "label": "RECURSOS MINERALES",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7515,14 +7515,14 @@
             "uuid": "86ffb726-e6d4-4113-aa67-0339ea2312a5",
             "label": "PSICOANTAR II",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "874e680d-8050-4e4a-bbaa-23a2d2e30f11",
             "label": "PROGRAMA MEDIO AMBIENTE",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7536,7 +7536,7 @@
             "uuid": "89921c6e-cd97-4968-a45d-ff0b71278940",
             "label": "PacIOOS",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7606,7 +7606,7 @@
             "uuid": "a3567df3-508d-4d70-bb7f-4c89753adade",
             "label": "ROME",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7627,7 +7627,7 @@
             "uuid": "ac7a8cd4-7787-4191-87e3-42a819418a47",
             "label": "Russian Space Program",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7641,14 +7641,14 @@
             "uuid": "b83947ce-eb88-456c-ab26-933ea3698f61",
             "label": "PARASOL",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "b8c2ef9e-2683-4eca-b94a-0f6f4bbeb9db",
             "label": "RIS_ID_10912",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7746,7 +7746,7 @@
             "uuid": "c9dc4a95-1412-4cff-99c4-2dbf96ff9e1e",
             "label": "RUV VISUAL",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7858,7 +7858,7 @@
             "uuid": "f026f642-dd24-46ad-a1d9-e78e69d414a1",
             "label": "Polar Winds II",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7900,7 +7900,7 @@
             "uuid": "f7f3eede-adb0-493a-b626-44e1176fbe3d",
             "label": "POL2006-06635-E/ANT",
             "parentId": "6e0ee015-7fde-40bf-af5a-5b95ad966e32",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -7986,7 +7986,7 @@
         "uuid": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
         "label": "J - L",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "021481a1-b432-40b7-ac0b-8fc878ed2988",
@@ -7999,7 +7999,7 @@
             "uuid": "05408c1b-88fe-4a96-9840-b1ef7a6ea382",
             "label": "LIS SCF",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8013,7 +8013,7 @@
             "uuid": "092746d8-be00-46e5-9980-5c9a4c9da49f",
             "label": "KORUS-AQ",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8034,7 +8034,7 @@
             "uuid": "0c768749-4b35-40f2-89ae-de8022ed7428",
             "label": "JERS-1",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8146,7 +8146,7 @@
             "uuid": "389bc553-a5dc-41c2-8b06-d41994c4a98c",
             "label": "KOPRI Basic Project",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8195,7 +8195,7 @@
             "uuid": "4484d3bf-f312-466b-8d12-ca88d5378378",
             "label": "JASON-2",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8223,14 +8223,14 @@
             "uuid": "5482eac9-f970-4f37-a641-fe9ce79aaf96",
             "label": "LARISSA",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "57958b96-1f0d-4931-8163-25da2ea6941a",
             "label": "KPRP",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8328,7 +8328,7 @@
             "uuid": "7814659b-9175-4c22-8830-9b3b8210b401",
             "label": "LIMITE DE LA CUENCA LARSEN",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8447,7 +8447,7 @@
             "uuid": "ad1a4b07-6136-4ed7-af29-906930630bd4",
             "label": "K-T BIOGENIC RELATIONSHIPS",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8510,7 +8510,7 @@
             "uuid": "c6c76150-ecb5-405e-9ade-c3aeeeb78046",
             "label": "JMA55",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8524,7 +8524,7 @@
             "uuid": "ca6ea964-4416-4339-a89c-90efe5c15556",
             "label": "JMA25",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8552,7 +8552,7 @@
             "uuid": "cd08a8b0-966e-4a29-b157-b0173b5b84b8",
             "label": "LAKE MICHIGAN ECOL. MONITOR",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8566,7 +8566,7 @@
             "uuid": "d0bfb1b4-6e96-489b-a68d-62908fdaa603",
             "label": "JASON-3",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8615,7 +8615,7 @@
             "uuid": "db0e55c2-5654-452a-abc9-20cc9e417337",
             "label": "KOPRI Based Project",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8629,7 +8629,7 @@
             "uuid": "dfafa063-f7be-4266-9d7d-afa2ed9fac54",
             "label": "KPDC",
             "parentId": "996e8a4b-e690-4a9c-afcf-205fff95b38b",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8687,7 +8687,7 @@
         "uuid": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
         "label": "M - O",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "004d93e3-1a3b-4308-9917-d522e822f1d3",
@@ -8700,7 +8700,7 @@
             "uuid": "00e0cdba-ac18-4ced-b5c9-5299b9aa6cc6",
             "label": "MOORINGS AND THE TIME SERIES",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8763,7 +8763,7 @@
             "uuid": "0b5b7a74-1d27-4092-b24d-e5fadf099b66",
             "label": "OCTOPUS MINOR",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8798,7 +8798,7 @@
             "uuid": "0d7280d6-8bd8-475a-a9fb-2add8fb7c86c",
             "label": "MEVO",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8826,7 +8826,7 @@
             "uuid": "128c5952-616a-4e81-b961-b98c5af0ec29",
             "label": "MABEL",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8847,7 +8847,7 @@
             "uuid": "13ad9a10-53cf-4c5a-97c8-6886eb2cc3db",
             "label": "MARSITE",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8882,7 +8882,7 @@
             "uuid": "17d11f3c-9ba7-4ac3-b8e6-84def57dc779",
             "label": "NRL Coriolis",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -8966,7 +8966,7 @@
             "uuid": "28c4b196-1d9a-49e7-bd2f-2200e006876d",
             "label": "NSF/OPP",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9029,7 +9029,7 @@
             "uuid": "31994e7e-0ca5-485f-a6f1-5e7ad2ead7f7",
             "label": "NOBM",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9120,7 +9120,7 @@
             "uuid": "44fc3652-62c1-4a7c-8023-55730e982a47",
             "label": "NASA-Airborne-Lidar",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9204,7 +9204,7 @@
             "uuid": "4eb9f3a9-a9bb-4347-a256-4d97a9cdff5c",
             "label": "MASAR",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9463,7 +9463,7 @@
             "uuid": "7583957b-e902-4daf-a2b9-81b65c3f3b8f",
             "label": "MERRA-2",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9540,7 +9540,7 @@
             "uuid": "7fa4429b-b5e8-4ffa-8e36-99e19d5cda35",
             "label": "Notothenia coriiceps",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9554,7 +9554,7 @@
             "uuid": "83ab93bb-926f-45b1-9d8b-bb6abc118f23",
             "label": "NOAA-CREST",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9659,7 +9659,7 @@
             "uuid": "8f47d03b-d5a6-44c1-b133-ce457f69775c",
             "label": "NEWS",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9701,7 +9701,7 @@
             "uuid": "9884740e-661e-445b-8a35-45d7e093bc6e",
             "label": "McMurdo Predator Prey",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9750,7 +9750,7 @@
             "uuid": "9c6345d1-40c9-436f-8a9a-b50e338458ad",
             "label": "McMurdo Predator Prey",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9764,7 +9764,7 @@
             "uuid": "9e798314-1db7-4cd6-bbae-4f0088beb553",
             "label": "MetOp",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9813,7 +9813,7 @@
             "uuid": "a54abace-b523-4f3b-80bd-3319ce715e41",
             "label": "NITEDC",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -9855,7 +9855,7 @@
             "uuid": "aa7490a5-b263-4088-b04a-45e33be64bce",
             "label": "MOS-1/1b",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10030,7 +10030,7 @@
             "uuid": "c68fe850-698e-4ad5-9c37-05cbeaba74b4",
             "label": "ORNL DAAC",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10135,7 +10135,7 @@
             "uuid": "d8bb1aa0-49d7-4a6a-a96e-66231b3fc7f6",
             "label": "OAKrill",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10205,7 +10205,7 @@
             "uuid": "ddc15d7c-7d49-46b2-a8db-b2d536280879",
             "label": "NOAA OneStop Project",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10247,7 +10247,7 @@
             "uuid": "e59e8469-5e86-4b48-ae10-25c456569237",
             "label": "NOAA CLIMATE DATA RECORD (CDR) PROGRAM",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10366,14 +10366,14 @@
             "uuid": "fbbd8278-d8c3-4d32-b97b-c3f0bb16a69f",
             "label": "OCEANOGRAFIA_COSTERA",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "fcc54109-03b7-4629-82a8-4a2115dde4b6",
             "label": "NOAA - SPACE WEATHER PROGRAM",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10443,14 +10443,14 @@
             "uuid": "1a0b31ec-ce2d-45a4-8bc9-c39fcb11fe1b",
             "label": "MISR_Volcano_Research",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "8da88ad7-57b4-46d5-aae9-1694b96df2c9",
             "label": "MISR_Wildfire_Research",
             "parentId": "a31c2828-9b6d-44e9-b6ad-7ae81030f322",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10606,7 +10606,7 @@
         "uuid": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
         "label": "G - I",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "00ce4800-70ef-4346-aa15-0554280d0896",
@@ -10689,7 +10689,7 @@
             "uuid": "0d0e68f8-a779-41e4-a38e-b76411968e12",
             "label": "IMBER/ADEPT",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10710,7 +10710,7 @@
             "uuid": "0ebf78d1-abb0-4a2a-a08e-17e5c803230c",
             "label": "IMBER/MERMEX",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10829,7 +10829,7 @@
             "uuid": "23d57884-bc96-4d28-a0cc-8704a213147d",
             "label": "IMBER/DOSMARES",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -10857,7 +10857,7 @@
             "uuid": "2612fbaf-6e05-42fe-bb01-2f4a230965f3",
             "label": "IMBER/CATARINA",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11165,7 +11165,7 @@
             "uuid": "42a14306-6fd9-4c07-8de9-5d3e53ee0864",
             "label": "ICSU-WDS",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11186,7 +11186,7 @@
             "uuid": "468bf363-f3a1-4f7e-838f-cb428dc39e25",
             "label": "IPY-BIRD",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11242,7 +11242,7 @@
             "uuid": "4c00f2bb-a213-4b21-951e-87d42d87c613",
             "label": "GOSAT",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11291,7 +11291,7 @@
             "uuid": "4ff8fcaf-dea3-4b01-b88b-4fe5c0507220",
             "label": "IASI",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11501,7 +11501,7 @@
             "uuid": "61b9ca54-d9a7-41e5-b5ae-988028117924",
             "label": "ICE-89",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -11879,7 +11879,7 @@
             "uuid": "8d761d89-c1b0-4063-a9f0-8f332690a0da",
             "label": "GRAVLASER",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12047,7 +12047,7 @@
             "uuid": "9edadc20-291f-402d-96a2-dfd7a73658fd",
             "label": "IPEV-CALVA",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12299,7 +12299,7 @@
             "uuid": "bd64bb1f-3564-4cc8-9c08-f76c87ee4148",
             "label": "GIMBLE",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12586,7 +12586,7 @@
             "uuid": "de7812f3-6ecc-4c8d-a8d3-52d7fb50fd74",
             "label": "G411",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12775,7 +12775,7 @@
             "uuid": "f9919f35-6619-4ae0-af97-5c080479c3c7",
             "label": "GSFML",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12852,7 +12852,7 @@
             "uuid": "30149ae2-649f-4db9-bcb6-342749543999",
             "label": "HRAC",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12929,7 +12929,7 @@
             "uuid": "c8378791-50b4-4b1c-aebf-55af299d896a",
             "label": "GEMx",
             "parentId": "af0968ce-ffe3-44a0-86de-2ec9b9a8fa5d",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12952,7 +12952,7 @@
         "uuid": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
         "label": "V - Z",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "015ba8fd-e81f-44ae-973c-f8b5432f1b45",
@@ -13084,14 +13084,14 @@
             "uuid": "505dbd8b-c6e8-4006-b63c-48e84c8fbac1",
             "label": "VCR",
             "parentId": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "54d6ed8d-1210-4332-a9af-d2952ab31f98",
             "label": "WOCE-SU.Z.A.N/SUZIL",
             "parentId": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -13322,14 +13322,14 @@
             "uuid": "dcf27649-1d33-46a1-9dac-eee4f5280ec5",
             "label": "vERSO",
             "parentId": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "df971bb0-6b80-420b-a53e-ceab409038e1",
             "label": "WISSARD",
             "parentId": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -13357,7 +13357,7 @@
             "uuid": "e529c3c6-4a0e-4776-afb8-14357052d921",
             "label": "WDC-Soils",
             "parentId": "c8e3dd70-6b82-4034-9e23-b892b302d8b4",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -13429,19 +13429,19 @@
         "uuid": "f677943c-1ac7-4637-8a85-9a4cb7ba9c5f",
         "label": "NOT APPLICABLE",
         "parentId": "fb0b9fcd-5c96-4989-8c64-a479bbed83ab",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "3a5acc8e-67d2-4466-93d0-3807757f5172",
             "label": "NOT APPLICABLE",
             "parentId": "f677943c-1ac7-4637-8a85-9a4cb7ba9c5f",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "f8ba1e6c-675d-40e0-97c2-ca2b69081e97",
                 "label": "NOT APPLICABLE",
                 "parentId": "3a5acc8e-67d2-4466-93d0-3807757f5172",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]

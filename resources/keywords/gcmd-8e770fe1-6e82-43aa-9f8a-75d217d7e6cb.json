@@ -3,7 +3,7 @@
     "uuid": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
     "label": "Data Format",
     "parentId": null,
-    "definition": "No definition available.",
+    "definition": "",
     "children": [
       {
         "uuid": "0225ee3e-c3b1-4a5d-bd22-b36462330b00",
@@ -212,7 +212,7 @@
         "uuid": "3449b74c-42f8-47c5-8d12-fc62bf909749",
         "label": "IERS CRF",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -317,7 +317,7 @@
         "uuid": "491b25ff-3bc2-4686-87b9-a4d14c01e7eb",
         "label": "Z&N",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -408,7 +408,7 @@
         "uuid": "5dbe75bf-ae06-4e1d-81c0-dfe01ecae819",
         "label": "IVS EOP-S",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -534,7 +534,7 @@
         "uuid": "7eb10062-b8d3-44c9-b89e-57fa895dcfbb",
         "label": "DORIS Data Exchange Format",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -653,7 +653,7 @@
         "uuid": "92589d09-fcf1-4d74-adf6-2b25beb4e472",
         "label": "CSTG",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -681,7 +681,7 @@
         "uuid": "9ffdda93-d34f-483c-b89b-45b22e8eaf94",
         "label": "Z&P",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -716,7 +716,7 @@
         "uuid": "a73eb01a-c63d-4b1a-8858-194a8012087c",
         "label": "ANTEX",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -730,7 +730,7 @@
         "uuid": "ab19d4fa-5d87-4eb7-b23f-2557267078ea",
         "label": "MERIT",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -849,7 +849,7 @@
         "uuid": "c7c7819e-4805-4b0a-819e-82b453e8fdd0",
         "label": "Not Provided",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {
@@ -1052,7 +1052,7 @@
         "uuid": "f831ec03-4d23-4322-a789-f9404187aa33",
         "label": "TLE",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "No definition available.",
+        "definition": "",
         "children": []
       },
       {

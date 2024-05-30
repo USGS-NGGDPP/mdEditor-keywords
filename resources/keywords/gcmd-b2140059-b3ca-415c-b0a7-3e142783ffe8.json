@@ -9,13 +9,13 @@
         "uuid": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
         "label": "Solar/Space Observing Instruments",
         "parentId": "b2140059-b3ca-415c-b0a7-3e142783ffe8",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "386ea533-9d98-4202-bad3-bb630ac39a93",
             "label": "Photon/Optical Detectors",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "0883dd32-8449-4e0a-8202-7f1437b01487",
@@ -49,7 +49,7 @@
                 "uuid": "6c0e547e-70cc-47db-8c8c-97c5ba73f1da",
                 "label": "Cameras",
                 "parentId": "386ea533-9d98-4202-bad3-bb630ac39a93",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "efa1e3d9-c9b8-485d-ae7e-b4616040e4fd",
@@ -78,7 +78,7 @@
                 "uuid": "7502f18e-f489-49f5-b879-27d5407df7ec",
                 "label": "Telescopes",
                 "parentId": "386ea533-9d98-4202-bad3-bb630ac39a93",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "05465677-7016-46cb-984f-76f27aa67bb3",
@@ -91,7 +91,7 @@
                     "uuid": "1cc74977-f4b6-44e1-a9f0-ff0af803f93c",
                     "label": "C/P",
                     "parentId": "7502f18e-f489-49f5-b879-27d5407df7ec",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -105,14 +105,14 @@
                     "uuid": "406d1bc6-8488-4691-a35e-f7e61b8aa268",
                     "label": "SOT",
                     "parentId": "7502f18e-f489-49f5-b879-27d5407df7ec",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "51f533ea-9529-4916-b47f-8f2143f2fe1b",
                     "label": "SOON SOLAR TELESCOPES",
                     "parentId": "7502f18e-f489-49f5-b879-27d5407df7ec",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -140,7 +140,7 @@
                     "uuid": "b4c33855-3aae-436d-8e75-8d6e432729eb",
                     "label": "ICECUBE",
                     "parentId": "7502f18e-f489-49f5-b879-27d5407df7ec",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -191,7 +191,7 @@
                 "uuid": "83eedf76-1354-4c80-9804-c2d0ad26b199",
                 "label": "OPTICAL TRACKING",
                 "parentId": "386ea533-9d98-4202-bad3-bb630ac39a93",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -218,7 +218,7 @@
                     "uuid": "657ac23c-4ee8-400c-bd41-165dfd3845f5",
                     "label": "K-LINE CCD/SOLAR OSCILLATIONS",
                     "parentId": "b867df1d-a9dd-4c68-89db-1290217890a4",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -234,7 +234,7 @@
                 "uuid": "c49dbd34-167c-4eab-86e5-f41383986357",
                 "label": "AIRGLOW/AURORA IMAGER",
                 "parentId": "386ea533-9d98-4202-bad3-bb630ac39a93",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -299,7 +299,7 @@
             "uuid": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
             "label": "Particle Detectors",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "01407ecf-45af-4fcc-8a1b-9b383636e2e4",
@@ -515,7 +515,7 @@
                 "uuid": "5e162150-4959-42b5-82a5-27340e3b7db9",
                 "label": "PTR-MS",
                 "parentId": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -557,7 +557,7 @@
                 "uuid": "6972425d-ee1a-47f9-8bf2-49bdec495aab",
                 "label": "SEISS-GOESR",
                 "parentId": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -571,7 +571,7 @@
                 "uuid": "6b5d3792-9aab-4717-a0d7-0b7f3ab82e4d",
                 "label": "ICP-AES",
                 "parentId": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -718,7 +718,7 @@
                 "uuid": "af1399f5-2c9d-4f51-8367-23076f07aa00",
                 "label": "CINDI",
                 "parentId": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -858,7 +858,7 @@
                 "uuid": "e7f69679-9110-4e8e-a137-acb932ef4ab7",
                 "label": "APS",
                 "parentId": "5f5e4f2c-61b7-4694-8680-3fc5799f6171",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -916,7 +916,7 @@
             "uuid": "b5e4912d-3224-4d7b-924c-a697677775c6",
             "label": "Ultraviolet Instruments",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "07a1357a-4c4f-4844-bf24-ad3290a033f4",
@@ -936,7 +936,7 @@
                 "uuid": "1dd287ba-eb78-4d30-9084-7440e9cd3d44",
                 "label": "EIS",
                 "parentId": "b5e4912d-3224-4d7b-924c-a697677775c6",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1006,7 +1006,7 @@
                 "uuid": "5d2207f2-9a8e-42fd-a3d5-68e03bf836fb",
                 "label": "SUVI-GOESR",
                 "parentId": "b5e4912d-3224-4d7b-924c-a697677775c6",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1041,7 +1041,7 @@
                 "uuid": "95c5a319-8d6a-4bf7-a39e-e2b37a37cf78",
                 "label": "EUV SPECTROMETER",
                 "parentId": "b5e4912d-3224-4d7b-924c-a697677775c6",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1069,7 +1069,7 @@
                 "uuid": "b564a0f7-7cb9-44f8-b13b-6d9513040137",
                 "label": "EXIS-EUVS-GOESR",
                 "parentId": "b5e4912d-3224-4d7b-924c-a697677775c6",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1083,7 +1083,7 @@
                 "uuid": "c08833fc-c16a-4a35-bb4a-d8716865b196",
                 "label": "UVIC",
                 "parentId": "b5e4912d-3224-4d7b-924c-a697677775c6",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1134,7 +1134,7 @@
             "uuid": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
             "label": "Magnetic Field/Electric Field Instruments",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "06b0df5e-b0fd-48df-a1bc-66e5a3c86f6f",
@@ -1175,7 +1175,7 @@
                 "uuid": "16187619-9586-41e3-8faf-16981d5e6ef9",
                 "label": "FGM",
                 "parentId": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1203,14 +1203,14 @@
                 "uuid": "3531ac17-1445-4f8e-9063-96442be014f2",
                 "label": "MAG-GOESR",
                 "parentId": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "39e3a87b-bf51-49da-8da0-468e1e148fb5",
                 "label": "GONG NETWORK",
                 "parentId": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1224,7 +1224,7 @@
                 "uuid": "4490bfda-5baa-45d3-ad01-8ebeb2d675e8",
                 "label": "LPM",
                 "parentId": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1301,7 +1301,7 @@
                 "uuid": "7ea0e93b-a15b-4dad-a929-377dbd1dfa74",
                 "label": "DIFLUX MAGNETOMETERS",
                 "parentId": "bb175474-5e70-47be-8e1f-8dcd7563cc5b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1415,13 +1415,13 @@
             "uuid": "bdfc139c-c877-4c9d-9e95-0971524d0193",
             "label": "Visible/Infrared Instruments",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "00d15ae0-0fa4-464b-b7d1-46525f73cadb",
                 "label": "SOFIA",
                 "parentId": "bdfc139c-c877-4c9d-9e95-0971524d0193",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1479,7 +1479,7 @@
             "uuid": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
             "label": "X-Ray/Gamma Ray Detectors",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "04f173d3-a3c2-49a5-b0e4-05403f47e84d",
@@ -1506,14 +1506,14 @@
                 "uuid": "2587d7bd-4836-4e40-ac2b-39581ec0b43b",
                 "label": "XRT",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "30b5c6da-9a07-4718-bcf9-f3744a93b4a9",
                 "label": "EDXA",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1569,7 +1569,7 @@
                 "uuid": "7cd4fed8-6fbe-48ae-b320-72264f333b90",
                 "label": "TIMAX",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1653,7 +1653,7 @@
                 "uuid": "d712c5a9-f2fe-47ee-abe9-341ffae946fa",
                 "label": "EXIS-XRS-GOESR",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1667,14 +1667,14 @@
                 "uuid": "de763588-b7e8-42ce-a80b-2bc6a1a28091",
                 "label": "PXRI",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "e364d42b-442d-4658-9528-a1f2ccd8b3e8",
                 "label": "CXRI",
                 "parentId": "d49b2313-2fb1-464c-a2f8-5ff5799344a7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1732,7 +1732,7 @@
             "uuid": "d8fc8d90-89b6-49c8-aeb7-c45afb8963d8",
             "label": "Radio Wave Detectors",
             "parentId": "02c354fd-8e2d-4825-b786-aa4b0782d1d6",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "097dc475-d0f6-464c-bc41-bb14bc9e826a",
@@ -1839,19 +1839,19 @@
                 "uuid": "2aa41630-56f3-4be1-bb8f-bf99e5485dec",
                 "label": "Altimeters",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "eee4d2e4-f229-49af-a3cb-ebd540aa14d5",
                     "label": "Pressure Altimeters",
                     "parentId": "2aa41630-56f3-4be1-bb8f-bf99e5485dec",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "499d9aed-4f71-4d5d-acbb-eb434f6e413b",
                         "label": "PRS Altimeter",
                         "parentId": "eee4d2e4-f229-49af-a3cb-ebd540aa14d5",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -1862,13 +1862,13 @@
                 "uuid": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
                 "label": "Spectrometers/Radiometers",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "055a79c7-61db-4250-abad-f1e09909f14c",
                     "label": "Spectrometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0182b483-26de-4ba5-b0dd-2d44a5daeab2",
@@ -1944,7 +1944,7 @@
                         "uuid": "24b5c870-6a34-4473-b992-7b045a6839fa",
                         "label": "USB4000 Hemi",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -1965,7 +1965,7 @@
                         "uuid": "2dc89734-7e34-4bf8-83c8-0e3d75f850e8",
                         "label": "DMT UHSAS",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -1986,7 +1986,7 @@
                         "uuid": "30926fb0-7796-4ac1-9d8e-7cd1e4a4b7d1",
                         "label": "AERS",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2028,7 +2028,7 @@
                         "uuid": "51233a6a-ba89-4a05-8692-0934edbadcba",
                         "label": "COSPEC",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2042,14 +2042,14 @@
                         "uuid": "53917e58-9617-44b8-9e93-07d9672b5cac",
                         "label": "NOAA-O3",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "5ab06add-f445-4dce-b20f-da107bb8ff45",
                         "label": "USB4000 Tele",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2063,7 +2063,7 @@
                         "uuid": "5ece73d7-9b45-4df4-a149-b637ea3ca577",
                         "label": "AURORAL SPECTROGRAPH",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2091,14 +2091,14 @@
                         "uuid": "62bffa21-68c7-44e6-bfaf-71412901af4d",
                         "label": "UV SPECTROMETER",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "6312933a-1109-44a7-80c4-67d55cbbc722",
                         "label": "HUPCRS",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2140,14 +2140,14 @@
                         "uuid": "73242f79-660e-4202-98b9-80111fe44e22",
                         "label": "DFGAS",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "74164619-dfe3-4235-ab39-43bf33fb4bb9",
                         "label": "UVNO",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2231,7 +2231,7 @@
                         "uuid": "9f8cb294-2481-45b3-a3e4-76026fe1567a",
                         "label": "FPS",
                         "parentId": "055a79c7-61db-4250-abad-f1e09909f14c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2576,7 +2576,7 @@
                     "uuid": "5b753e40-b3f1-426a-8d92-ffee1d675468",
                     "label": "Radiometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "055fb569-9674-474f-b841-f89c30b7ecef",
@@ -2610,7 +2610,7 @@
                         "uuid": "18b3f136-732e-4e1b-92fd-ca2a7f560330",
                         "label": "TMRS2",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2624,7 +2624,7 @@
                         "uuid": "1f08e989-bc85-4cea-ab1f-7774c89d3836",
                         "label": "4.7um Radiometer",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2666,7 +2666,7 @@
                         "uuid": "383877d8-1789-4a05-ac12-51c1765315cd",
                         "label": "HRR",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2708,7 +2708,7 @@
                         "uuid": "4d76ff74-2e45-4e20-bb9d-41cf0f5dcc6d",
                         "label": "GBMR",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2757,7 +2757,7 @@
                         "uuid": "63437bc6-f068-4d54-8b46-53e27ab00b8c",
                         "label": "MTSAT 1R Imager",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2771,28 +2771,28 @@
                         "uuid": "6d22671d-ff01-4b11-944b-5cb68f4e0c5e",
                         "label": "MTSAT 2 Imager",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7182c726-b019-4b03-93ae-12b66867a386",
                         "label": "2.4um Radiometer",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "7204c4d5-b7d0-41af-ba90-61d47c6dc610",
                         "label": "SLSTR",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "72f8d1ce-375c-416b-a8c9-1aa5cd2101b6",
                         "label": "GOES-13 Imager",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2813,7 +2813,7 @@
                         "uuid": "79e79dea-54f1-454d-9def-c05973de6208",
                         "label": "MULTIFILTER RADIOMETER",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2834,7 +2834,7 @@
                         "uuid": "7ee2c846-ce0d-48a4-8117-d805acd2bd7a",
                         "label": "ERB-SCANNER",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -2883,7 +2883,7 @@
                         "uuid": "8d1de077-bdb4-4530-8c23-a1ee9fa74968",
                         "label": "HRIR",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3009,7 +3009,7 @@
                         "uuid": "c83f5d9a-2dca-4c8c-b099-d4fab1773da9",
                         "label": "2.3um Radiometer",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3093,7 +3093,7 @@
                         "uuid": "ecb13ab0-c56c-4c40-bf30-05429c764e1f",
                         "label": "BRTS",
                         "parentId": "5b753e40-b3f1-426a-8d92-ffee1d675468",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3228,7 +3228,7 @@
                     "uuid": "8c02cd6b-89d0-423e-b96f-4b4fba94f5d2",
                     "label": "Spectroradiometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "5a28269b-4c23-4e12-a42d-58220dca7eb3",
@@ -3248,7 +3248,7 @@
                         "uuid": "da9cf145-0986-42b4-9ae4-c8b65932ee77",
                         "label": "ASAS",
                         "parentId": "8c02cd6b-89d0-423e-b96f-4b4fba94f5d2",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3264,7 +3264,7 @@
                     "uuid": "944b7691-af37-4fb4-9393-c114e7997829",
                     "label": "Imaging Spectrometers/Radiometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "05ddbe55-9c47-4ebb-9f2b-168c8731057e",
@@ -3284,7 +3284,7 @@
                         "uuid": "07b92ff1-218f-49a8-81ac-1f36ad58d1b4",
                         "label": "OCM",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3424,14 +3424,14 @@
                         "uuid": "1c645150-c046-4652-8f68-11167a19ba91",
                         "label": "MFR",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "1ca9aabd-bc50-4dd6-b81b-fe70cb50ea1b",
                         "label": "CA",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3473,7 +3473,7 @@
                         "uuid": "284594aa-8f07-41db-927c-f84980da2877",
                         "label": "ASPECT",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3515,14 +3515,14 @@
                         "uuid": "33b662f6-eee9-4aa2-bfc8-2bf758615223",
                         "label": "K1-VHRR",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "3773a427-32d9-4fef-a549-d0f56a4d18ff",
                         "label": "GOES-11 Imager",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3802,7 +3802,7 @@
                         "uuid": "67f1d110-c312-492d-a18e-0726da4cd0ef",
                         "label": "DF",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3816,7 +3816,7 @@
                         "uuid": "6cb001d7-fc1c-4e20-9b81-a1573ad77221",
                         "label": "PORTOS",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3844,14 +3844,14 @@
                         "uuid": "71d4cffb-853d-40c9-8e01-793e71805b31",
                         "label": "IRS",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "71dcdb88-420a-4498-afa6-59e74bd0a220",
                         "label": "UAF Scanner",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -3956,7 +3956,7 @@
                         "uuid": "7cd2fc64-dc09-47a9-8f79-6c540299ec1d",
                         "label": "MVIRI",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4019,35 +4019,35 @@
                         "uuid": "9279c31b-d81d-4d48-a0b5-f9aa92f58f2d",
                         "label": "GOES-8 Imager",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "92d834e1-689c-4d12-8c4a-74ee4cf75b36",
                         "label": "AMSR2",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "9455d12c-dd20-4cf2-af29-38ea1f484937",
                         "label": "PSS",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "958fcf8b-6022-4cc9-88bb-4ce6c63c9c66",
                         "label": "MSIR",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "96b31d3d-5ba0-47ea-9dd1-8a7d5f25597b",
                         "label": "CF",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4068,7 +4068,7 @@
                         "uuid": "9bb2d7ab-a86d-49e7-8a84-e036ca793d48",
                         "label": "TSI",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4082,7 +4082,7 @@
                         "uuid": "a159e29b-f717-401b-97e6-b1ed8d2e2acc",
                         "label": "CASI-1500",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4138,7 +4138,7 @@
                         "uuid": "adb2a7a9-92d0-4e24-9c29-b3f2218437a5",
                         "label": "THEOS MSI",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4166,7 +4166,7 @@
                         "uuid": "b8cf268c-8fb7-4686-866a-4acf7dc7b0ed",
                         "label": "BF",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4222,7 +4222,7 @@
                         "uuid": "c1e7af7f-5610-4714-a79c-b1573a32cf01",
                         "label": "PLA",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4257,7 +4257,7 @@
                         "uuid": "cc1e1545-49f0-4ced-aeef-b38cd02546bd",
                         "label": "DA",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4327,7 +4327,7 @@
                         "uuid": "d612e2b3-6625-411a-800f-51aa5343d55c",
                         "label": "AA",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4418,7 +4418,7 @@
                         "uuid": "e827d04c-bf67-4877-91a7-b39b819d5168",
                         "label": "BA",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4439,7 +4439,7 @@
                         "uuid": "e9d9df16-ebbf-4f6d-838f-225716619ff9",
                         "label": "MSC",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4481,14 +4481,14 @@
                         "uuid": "f2b8a443-cf0a-4ece-bdb4-ba3d24dfb69e",
                         "label": "AN",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "f3e24783-42cf-4080-8a6b-f8420722b987",
                         "label": "AF",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4572,7 +4572,7 @@
                         "uuid": "affc0737-15e0-4d75-8c28-4f9004379296",
                         "label": "CASIE",
                         "parentId": "944b7691-af37-4fb4-9393-c114e7997829",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4672,7 +4672,7 @@
                     "uuid": "992ffede-af18-49a9-8acb-2cd333860efe",
                     "label": "Interferometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "06aac8ed-49ff-41d0-9960-f18d9cd0f0ae",
@@ -4720,7 +4720,7 @@
                         "uuid": "ad46b854-7c4a-47f6-b134-808f1e1a1dd8",
                         "label": "GRACE INTERFEROMETER",
                         "parentId": "992ffede-af18-49a9-8acb-2cd333860efe",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -4750,7 +4750,7 @@
                     "uuid": "d0341489-930a-4aa8-a3d3-ab851816058c",
                     "label": "Hyperspectral Spectrometers/Radiometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0ef776ed-5347-4dd8-a700-ff77a5ad9a97",
@@ -4828,7 +4828,7 @@
                     "uuid": "018fded8-a186-45f7-a33a-b7ad5ebb853a",
                     "label": "Imaging Polarimetric SpectroRadiometers",
                     "parentId": "2e38423f-a5e6-411a-88d3-8fdc00aaf30a",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "5b4cc29d-7cf4-4f13-9393-f715cbe7f9b0",
@@ -4852,13 +4852,13 @@
                 "uuid": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
                 "label": "Profilers/Sounders",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "01962d1c-4089-4221-977d-0de0ea2835d4",
                     "label": "TCISS",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4879,14 +4879,14 @@
                     "uuid": "09bc6a40-b0eb-476a-b750-7aa8af59e0f0",
                     "label": "ATOVS",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "0aac1404-4b73-4349-b690-6af0092c8021",
                     "label": "Radio Sounders",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "18efb4b9-414b-43a4-98ea-6edafafdecaa",
@@ -4922,7 +4922,7 @@
                     "uuid": "1ed90de3-8468-488b-97f6-843c9f000975",
                     "label": "RTOVS",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4943,7 +4943,7 @@
                     "uuid": "290dea0f-84a5-4397-bd44-cba490e06676",
                     "label": "Interferometers",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "334b0c35-71bc-4a04-aa14-e0cd35e465a7",
@@ -5006,28 +5006,28 @@
                         "uuid": "ddd54504-4204-4401-89b0-7320c26ed646",
                         "label": "sndrD1",
                         "parentId": "29798184-84cd-4339-917f-04343556d63c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "cf80505f-ae80-4822-b6b6-5da31961a635",
                         "label": "sndrD2",
                         "parentId": "29798184-84cd-4339-917f-04343556d63c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "89093575-ccfd-460d-b582-ecb159fe00dd",
                         "label": "sndrD3",
                         "parentId": "29798184-84cd-4339-917f-04343556d63c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "ca98377d-f9b6-4665-b4e8-ee54c99585b2",
                         "label": "sndrD4",
                         "parentId": "29798184-84cd-4339-917f-04343556d63c",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -5099,7 +5099,7 @@
                     "uuid": "41703169-78fa-4da7-b1e2-02e978a3f03a",
                     "label": "XSV",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5113,7 +5113,7 @@
                     "uuid": "47b1f007-ab9b-41ca-abdf-fcaa2b5b83dc",
                     "label": "TIROS-N",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5134,7 +5134,7 @@
                     "uuid": "54677c8a-4cfc-45ed-8f0c-2c9a6380d226",
                     "label": "OMEGASONDE",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5280,28 +5280,28 @@
                         "uuid": "5b02ddd7-e12c-4d1a-bb2c-1f700735e5ba",
                         "label": "sndrD1",
                         "parentId": "a0636d91-0d30-441e-8f47-03b2672af3f2",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "a3c1afe9-f2a2-485e-a200-7e0f40fd9e85",
                         "label": "sndrD2",
                         "parentId": "a0636d91-0d30-441e-8f47-03b2672af3f2",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "a37427f4-a538-45f1-b145-9cca1accb7c9",
                         "label": "sndrD3",
                         "parentId": "a0636d91-0d30-441e-8f47-03b2672af3f2",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "5d425a5b-bc05-40fb-a316-da5d86a17b1f",
                         "label": "sndrD4",
                         "parentId": "a0636d91-0d30-441e-8f47-03b2672af3f2",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -5394,7 +5394,7 @@
                     "uuid": "c3673c5c-4210-42bc-b0ca-a5cd320de100",
                     "label": "IRFS-2",
                     "parentId": "4190ebdc-e89a-4f3f-bc74-b2af4c68d009",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5550,7 +5550,7 @@
                 "uuid": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
                 "label": "Magnetic Field/Electric Field Instruments",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "0c439fcf-b55c-430e-baee-ae047032df46",
@@ -5570,7 +5570,7 @@
                     "uuid": "1df05f75-d41f-4acd-bd8b-e6262d9c3f49",
                     "label": "Gun Detector",
                     "parentId": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "c3c1bb15-f06f-4e94-9351-01c402bd73ca",
@@ -5606,7 +5606,7 @@
                     "uuid": "717ba2ad-1580-46d5-8540-f59e9ec0dd56",
                     "label": "Spectrometers",
                     "parentId": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "9c9a60bf-0ac1-4e54-92bd-b6a5284649da",
@@ -5642,7 +5642,7 @@
                     "uuid": "a172d205-122a-4a8b-b73a-52c1d44d6aaa",
                     "label": "Probes",
                     "parentId": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0ec93d14-49bb-42be-9042-063384a221c4",
@@ -5678,7 +5678,7 @@
                     "uuid": "b9689a31-2752-45af-81ed-58d662a495bc",
                     "label": "Particle Detectors",
                     "parentId": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "04fd88ee-5d49-487a-b6d9-f2fc43050543",
@@ -5707,7 +5707,7 @@
                     "uuid": "d9fca203-ace2-4d3e-8e5c-2c556ba3cf4b",
                     "label": "Composition Analyzer",
                     "parentId": "449b7d65-85e6-43a5-b87b-1071dc9936b2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "ffddbe98-056e-46d8-9fc1-27f6807ce0a7",
@@ -5770,7 +5770,7 @@
                         "uuid": "c1573a94-789a-4510-a8e4-b358f62180e6",
                         "label": "CS-3",
                         "parentId": "deac2632-5c17-4d15-ae92-c61ebc5a405a",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -5791,7 +5791,7 @@
                         "uuid": "f2da3a4c-b2f9-42c7-932f-899375f733bc",
                         "label": "GEOMET 823A",
                         "parentId": "deac2632-5c17-4d15-ae92-c61ebc5a405a",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -5844,7 +5844,7 @@
                 "uuid": "5440f386-8dac-4779-91a6-e610a06ab6f5",
                 "label": "Thermal/Radiation Detectors",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "063d678b-bc2b-4bb1-b695-210c5d97049c",
@@ -5871,7 +5871,7 @@
                     "uuid": "43d8f22f-2c9a-4aac-bc11-c2f08ce4623c",
                     "label": "RRS",
                     "parentId": "5440f386-8dac-4779-91a6-e610a06ab6f5",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5885,7 +5885,7 @@
                     "uuid": "529b7330-c88f-426a-ae2b-7aa640beb5f2",
                     "label": "FAN-ASPIRATED RADIATION SHIELD",
                     "parentId": "5440f386-8dac-4779-91a6-e610a06ab6f5",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5919,7 +5919,7 @@
                         "uuid": "86d56006-93bf-4cbc-9c1f-8a3ca2fea45a",
                         "label": "CG4",
                         "parentId": "7bf2a88f-52e6-4903-abe8-3765a3e8c6ae",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6021,7 +6021,7 @@
                 "uuid": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
                 "label": "Positioning/Navigation",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "01992a08-d5a3-4eb6-8b46-7e3caa395022",
@@ -6034,14 +6034,14 @@
                     "uuid": "07f78cd4-9f41-40d8-b6a6-9d3f5f635a20",
                     "label": "DIGITAL BEACON RECEIVER",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "0d8c65c6-a8f3-4a72-a958-7aa1487a9b78",
                     "label": "OPTICAL BEACON",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6055,7 +6055,7 @@
                     "uuid": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
                     "label": "Radar",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "312862a1-759b-4a87-8115-aa1443395e88",
@@ -6068,7 +6068,7 @@
                         "uuid": "ea344ac5-1b12-47dc-ba33-c2e950a3378a",
                         "label": "SDPTR",
                         "parentId": "195f58c2-8ba2-4bcd-87e4-2c8d26997b3f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -6127,7 +6127,7 @@
                     "uuid": "4158be33-fc11-416b-a9a8-ea9f90a898fb",
                     "label": "SDTA",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6154,7 +6154,7 @@
                         "uuid": "5cb6bed4-b046-4156-8daf-296d803f7505",
                         "label": "Beidou P",
                         "parentId": "43d17037-c574-4abc-9831-d9c5064e00f7",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6177,7 +6177,7 @@
                     "uuid": "47d0c7c0-683c-42a9-b53b-53b684972b52",
                     "label": "GPS",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "029feed6-79dc-4316-b8ac-be8f1e557f89",
@@ -6204,7 +6204,7 @@
                         "uuid": "1c1a851e-95d2-4d8f-85f5-cf970f384038",
                         "label": "KTC",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6232,21 +6232,21 @@
                         "uuid": "4f133467-ad2a-47e6-8f3e-3b44b07e8cb9",
                         "label": "UAF GPS/IMU",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "5cd87492-48a9-4378-addb-dcddce502412",
                         "label": "UTIG RTNav",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "5d787285-fdce-4c64-994d-b6cd52d0d62e",
                         "label": "UTIG GPS",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6274,14 +6274,14 @@
                         "uuid": "af3d0b82-108d-4995-adb6-7f095fbc2953",
                         "label": "NASA POS/AV",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "c6962bbc-9332-48fb-96d7-0e2cb14fb4d9",
                         "label": "GPS/IMU",
                         "parentId": "47d0c7c0-683c-42a9-b53b-53b684972b52",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6404,14 +6404,14 @@
                     "uuid": "57ff6e42-aa9e-45c1-9d61-5d65891911f1",
                     "label": "SLR Station",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "59725d26-d9d6-4604-b7fb-6ae0d257d373",
                     "label": "PASSIVE OPTICAL TRACKING",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6432,7 +6432,7 @@
                     "uuid": "7561d126-2baf-4583-a6cc-f8159ebf8e94",
                     "label": "Radio",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "06beae62-5db5-4e77-9326-0ee1debf2622",
@@ -6487,7 +6487,7 @@
                         "uuid": "bf9011ca-b6b1-4fdc-a210-4cc3a48e0411",
                         "label": "PTT",
                         "parentId": "7561d126-2baf-4583-a6cc-f8159ebf8e94",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6546,7 +6546,7 @@
                     "uuid": "942876b3-fbd5-43d9-9e1f-170682f7b5b3",
                     "label": "Laser Ranging",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0be9c8a4-d29d-4046-ad10-4ca80c765ee6",
@@ -6601,7 +6601,7 @@
                         "uuid": "cf662901-ea76-459a-b8e7-1f5df16d48e4",
                         "label": "LASER REFLECTOR",
                         "parentId": "942876b3-fbd5-43d9-9e1f-170682f7b5b3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6615,7 +6615,7 @@
                         "uuid": "db819ac2-b841-4885-84a1-5aa8ddaec248",
                         "label": "LASER TRACKING SITE",
                         "parentId": "942876b3-fbd5-43d9-9e1f-170682f7b5b3",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -6687,7 +6687,7 @@
                     "uuid": "b3c4b521-4014-43b4-af9b-395d67dc9e1e",
                     "label": "SFERICS DETECTOR",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6730,7 +6730,7 @@
                     "uuid": "cc335159-45d6-4ecc-b1b8-0be773bd5379",
                     "label": "VLBI Station",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6765,14 +6765,14 @@
                     "uuid": "f7d7f4ee-9414-4022-b66e-876476188bbc",
                     "label": "RADIO TRANSPONDERS",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "f80d590c-9099-49fc-bc45-af5397a4a049",
                     "label": "DORIS GROUND STATION BEACON",
                     "parentId": "596a5700-b3fd-4261-b8f8-a054d052e3fe",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6816,13 +6816,13 @@
                 "uuid": "644b9652-4b71-493e-8ceb-25697a1a6514",
                 "label": "Pyrometers",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "9669f608-8f98-46d3-a74e-6b9750d3e5e7",
                     "label": "Infrared Pyrometers",
                     "parentId": "644b9652-4b71-493e-8ceb-25697a1a6514",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "47aef999-3e01-4a9f-815b-8c7b853c6e8c",
@@ -6846,7 +6846,7 @@
                 "uuid": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
                 "label": "Photon/Optical Detectors",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "11d3fac2-d6ca-458f-9f40-2adf3193076a",
@@ -6873,21 +6873,21 @@
                     "uuid": "29e65a9f-41bf-4c53-bff6-98472d5f4f47",
                     "label": "MICROTOMOGRAPHY",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "2d580f50-3951-4601-9b08-7fbea94eebef",
                     "label": "DMS",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "3974be5a-2650-479c-a5f0-59a340f525d1",
                     "label": "NO2 LIF",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6922,7 +6922,7 @@
                     "uuid": "4fd10be3-7cd3-4f49-810e-61924a2453a4",
                     "label": "JRE (CARMEN-3 + LPT)",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "03d2c9e4-e102-4488-b764-bca16d5aae2b",
@@ -6951,7 +6951,7 @@
                     "uuid": "62da1828-7b49-454f-999a-e91c6c40dd94",
                     "label": "CAMBOT",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -6972,7 +6972,7 @@
                     "uuid": "6c58b909-9cdc-4fed-9432-ba35940eed10",
                     "label": "Pleiades High Resolution",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -7000,7 +7000,7 @@
                     "uuid": "7bf9f69e-3bc7-45ad-9224-969676d36d78",
                     "label": "11.5um Radiometer",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -7056,7 +7056,7 @@
                     "uuid": "c38e16d1-61f9-4189-a3c9-33e2015db137",
                     "label": "Passive Remote Sensing",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "8e7b55f3-c7ef-4f25-9c84-a75166b382c8",
@@ -7077,7 +7077,7 @@
                         "uuid": "75c9c28f-8098-46d0-ae34-01241acee7ff",
                         "label": "TSI-3562 Nephelometer",
                         "parentId": "c39f54a3-efd0-4596-8d5b-fe7ab519d13f",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7107,7 +7107,7 @@
                     "uuid": "d322ae9d-bde0-448f-948d-777aef096eb6",
                     "label": "Cameras",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "001d8e8c-e9b1-4418-9941-f41321c2c500",
@@ -7281,7 +7281,7 @@
                         "uuid": "594771b6-eeb7-4930-9b54-b1407a537ac8",
                         "label": "Sky View Camera",
                         "parentId": "d322ae9d-bde0-448f-948d-777aef096eb6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7449,7 +7449,7 @@
                         "uuid": "a6a2f2fb-2ce2-4478-afb0-855bd6c7b8f6",
                         "label": "CCD (CBERS 2B)",
                         "parentId": "d322ae9d-bde0-448f-948d-777aef096eb6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7477,7 +7477,7 @@
                         "uuid": "afe65518-f572-438f-a56e-e5bb6c400739",
                         "label": "MULTILENS CAMERAS",
                         "parentId": "d322ae9d-bde0-448f-948d-777aef096eb6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7547,7 +7547,7 @@
                         "uuid": "d3c105ae-a9a1-47ea-bc0d-d1fce3d77198",
                         "label": "IDCS Nimbus-4",
                         "parentId": "d322ae9d-bde0-448f-948d-777aef096eb6",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7655,7 +7655,7 @@
                     "uuid": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
                     "label": "Photometers",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "06079669-cd05-4ccc-a635-0fa7785d6ac8",
@@ -7675,7 +7675,7 @@
                         "uuid": "1ed4313f-af3f-4b93-be52-7cae4cd30c64",
                         "label": "DMT SP2",
                         "parentId": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7689,7 +7689,7 @@
                         "uuid": "30a951ea-1c81-4a7c-a520-8c9f744cf879",
                         "label": "PSAP",
                         "parentId": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7745,21 +7745,21 @@
                         "uuid": "8c77977d-a149-46a2-8140-7f0df90a7123",
                         "label": "TCTE",
                         "parentId": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "ac85aed3-e8bb-4a4c-8ce6-8de68e0f03d2",
                         "label": "MSBSP",
                         "parentId": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "b2659aca-16d3-4c5f-9846-e8affdcaafa6",
                         "label": "MSP",
                         "parentId": "f66daf4f-4d71-49a0-9d3d-205dc7f1faed",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -7873,7 +7873,7 @@
                     "uuid": "e67cf9b4-45e6-4b2e-9f2c-c1bbc0ab52c6",
                     "label": "TP-LIF",
                     "parentId": "72227178-bb4c-4ff5-98a3-f976aa3f3714",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -7882,13 +7882,13 @@
                 "uuid": "fe684c79-5d9f-406e-8f28-0dce3ad65acf",
                 "label": "Magnetic/Motion Sensors",
                 "parentId": "4f81c61c-f100-4bc4-9664-d9b70d2f162f",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "11208f10-6879-48ca-919c-88558391403b",
                     "label": "Accelerometers",
                     "parentId": "fe684c79-5d9f-406e-8f28-0dce3ad65acf",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "11c1598b-d484-4c26-83ae-bc12af957b84",
@@ -7924,7 +7924,7 @@
                     "uuid": "a3fc8231-afa3-4137-a793-2860e2ab08a0",
                     "label": "Gravimeters",
                     "parentId": "fe684c79-5d9f-406e-8f28-0dce3ad65acf",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "c4c7ec2f-6edb-4564-b6aa-49bae3a8e900",
@@ -7949,7 +7949,7 @@
                 "uuid": "563f30c8-43f8-48be-b649-4b548f877fa4",
                 "label": "Scatterometers",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "06286aad-e656-4a8c-bc43-ffc2a1fdd281",
@@ -7962,7 +7962,7 @@
                     "uuid": "08a08050-15d8-4dba-a8e6-352f157da323",
                     "label": "POLSCAT",
                     "parentId": "563f30c8-43f8-48be-b649-4b548f877fa4",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -8062,13 +8062,13 @@
                 "uuid": "662347ea-36e2-42fe-9189-f22eb8f022ee",
                 "label": "Profilers/Sounders",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
                     "label": "Radar Sounders",
                     "parentId": "662347ea-36e2-42fe-9189-f22eb8f022ee",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "08ec5716-b5d9-4e15-8d4a-c699f6e89283",
@@ -8088,7 +8088,7 @@
                         "uuid": "0b748b90-fe0d-4179-9bdc-d65cd5cadaf4",
                         "label": "ELECTROMAGNETIC GEOPROFILER",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8102,14 +8102,14 @@
                         "uuid": "12f1957f-f37b-43d6-a962-42f3422f5806",
                         "label": "HiCARS1",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "1b358511-67f9-43cb-85a3-7201f1d787db",
                         "label": "ICORDS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8123,7 +8123,7 @@
                         "uuid": "20186f0a-7a29-4868-9ddd-2bb332b68505",
                         "label": "OSCR",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8165,7 +8165,7 @@
                         "uuid": "34f982b6-85ed-4a23-a886-b5c88a16de9b",
                         "label": "FMCWR",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8200,7 +8200,7 @@
                         "uuid": "3f90fc9d-03a6-4297-a887-5295b2bd6ff9",
                         "label": "MSPI",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8214,14 +8214,14 @@
                         "uuid": "41d3528f-8029-4b1a-ae82-9279c7466219",
                         "label": "ACORDS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "440da7dc-72d9-4963-8dc1-2084d1a51294",
                         "label": "MMCR",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8291,21 +8291,21 @@
                         "uuid": "7b04b051-2ec0-47e4-854e-22ce47ee872c",
                         "label": "RADAR ECHO SOUNDERS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "9c01c5b0-bc0f-404f-9ae4-8e9012ed6d60",
                         "label": "RWP50",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "9c131051-30ac-4346-9e5c-38516ca69350",
                         "label": "PARIS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8326,7 +8326,7 @@
                         "uuid": "aa8a18c9-5cc7-462c-9841-91775178a58c",
                         "label": "DOPPLER BEACONS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8375,14 +8375,14 @@
                         "uuid": "bd06c523-4e22-4cd4-975a-ba7bbab25ad0",
                         "label": "MCRDS",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "bd87a5d1-fe86-4e45-8beb-d8be5dc35677",
                         "label": "RWP915",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8431,7 +8431,7 @@
                         "uuid": "f39fb827-591d-4153-81aa-30b78f7389d8",
                         "label": "DMR",
                         "parentId": "6c5ca722-0bc7-4ccd-ad24-39b9d8710140",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8461,13 +8461,13 @@
                     "uuid": "7c13f166-8711-4d2f-9251-4635002c6c31",
                     "label": "Lidar/Laser Sounders",
                     "parentId": "662347ea-36e2-42fe-9189-f22eb8f022ee",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "13e3c534-6615-433d-a06f-7425bb91e104",
                         "label": "DOPS",
                         "parentId": "7c13f166-8711-4d2f-9251-4635002c6c31",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8488,14 +8488,14 @@
                         "uuid": "3cc266de-68cd-42bf-88e6-a508869901a6",
                         "label": "RL",
                         "parentId": "7c13f166-8711-4d2f-9251-4635002c6c31",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "3f53531b-4c12-493a-bc9b-a65502bd62c5",
                         "label": "UAF Profiler",
                         "parentId": "7c13f166-8711-4d2f-9251-4635002c6c31",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -8623,7 +8623,7 @@
                     "uuid": "9fd01f99-1b20-4a7c-aca8-4ac5d539195f",
                     "label": "Radio Sounders",
                     "parentId": "662347ea-36e2-42fe-9189-f22eb8f022ee",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "e7904358-3122-41a3-b9c4-572b74db72a5",
@@ -8638,7 +8638,7 @@
                     "uuid": "ba25756b-6326-4746-a20d-63db582a5f3f",
                     "label": "Acoustic Sounders",
                     "parentId": "662347ea-36e2-42fe-9189-f22eb8f022ee",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "62d1e780-c34f-44e6-be01-bef03beeec4c",
@@ -8690,7 +8690,7 @@
                 "uuid": "824070fa-da29-40fa-ba17-f3d60584bd4d",
                 "label": "Imaging Radars",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "01aa7772-e06d-4772-b8c1-82210f187038",
@@ -8724,7 +8724,7 @@
                     "uuid": "1667ff45-ae3a-4f20-ab42-b786a6d06a72",
                     "label": "UAVSAR",
                     "parentId": "824070fa-da29-40fa-ba17-f3d60584bd4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -8829,7 +8829,7 @@
                     "uuid": "7c1508ab-b7c9-402a-9779-cd4388dcefdd",
                     "label": "IFSAR",
                     "parentId": "824070fa-da29-40fa-ba17-f3d60584bd4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -8857,7 +8857,7 @@
                     "uuid": "9ca1af5f-e2d6-4412-9efc-5eeefae8f0dc",
                     "label": "pRES",
                     "parentId": "824070fa-da29-40fa-ba17-f3d60584bd4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -8892,7 +8892,7 @@
                     "uuid": "ade92813-1bb6-4ecd-af53-a8eb21f212d3",
                     "label": "PALSAR-2",
                     "parentId": "824070fa-da29-40fa-ba17-f3d60584bd4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -8985,13 +8985,13 @@
                 "uuid": "93e67fc7-3a57-4cf0-a0f9-7f76cded167c",
                 "label": "Spectrometers/Radiometers",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "2533b190-cdd5-4c94-99d9-7d5cc5dad371",
                     "label": "Radar Spectrometers",
                     "parentId": "93e67fc7-3a57-4cf0-a0f9-7f76cded167c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "20608ba0-ee5b-48b6-be6e-1dd63f7c3892",
@@ -9006,7 +9006,7 @@
                     "uuid": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
                     "label": "Lidar/Laser Spectrometers",
                     "parentId": "93e67fc7-3a57-4cf0-a0f9-7f76cded167c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "086b650d-3aac-4b1a-8d51-0928634eca50",
@@ -9047,7 +9047,7 @@
                         "uuid": "43c00652-3065-443c-9ecb-be4a3d24c1f3",
                         "label": "ELASTIC BACKSCATTER LIDAR",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9061,7 +9061,7 @@
                         "uuid": "5ebada8c-1d4c-4c89-8cdd-dfe630b454db",
                         "label": "NOAA-H2O",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9075,7 +9075,7 @@
                         "uuid": "8059a3c0-6067-43d6-9695-199279d7d0de",
                         "label": "BACKSCATTER LIDAR",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9103,7 +9103,7 @@
                         "uuid": "ad628f56-6e31-4dba-b7ae-9b9329da6dc2",
                         "label": "SIGMA SPACE LIDAR",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9124,14 +9124,14 @@
                         "uuid": "e605cb42-8974-4401-857e-ecd524390353",
                         "label": "LLS",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "eb994e17-3aa5-4e97-a45a-16501d433010",
                         "label": "AIR-ION",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9166,7 +9166,7 @@
                         "uuid": "fec19414-e21b-48a3-8130-c268834c4889",
                         "label": "TSI LAS-3340",
                         "parentId": "46238695-5577-4fad-91bf-0a2fdf8a9b19",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9212,13 +9212,13 @@
                 "uuid": "abe7fa55-1198-44ea-8327-20d13155b46c",
                 "label": "Altimeters",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
                     "label": "Radar Altimeters",
                     "parentId": "abe7fa55-1198-44ea-8327-20d13155b46c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "2380ecc6-b5ae-4ad8-a56a-9740166465aa",
@@ -9287,7 +9287,7 @@
                         "uuid": "619fc93c-4f4a-4509-8964-46c9218aa9a4",
                         "label": "UTIG Riegl",
                         "parentId": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9315,7 +9315,7 @@
                         "uuid": "8928c9da-2163-4cfc-b3ed-3fc5d67a4334",
                         "label": "ASIRAS",
                         "parentId": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9357,7 +9357,7 @@
                         "uuid": "e1539872-b5fd-43e9-b67b-7b4252885aa0",
                         "label": "UTIG IMU",
                         "parentId": "92ddaaca-40b2-4936-bc1a-28cc5743e8b8",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9422,27 +9422,27 @@
                     "uuid": "ec76ff59-7450-48a0-9152-7c3531e609fd",
                     "label": "Lidar/Laser Altimeters",
                     "parentId": "abe7fa55-1198-44ea-8327-20d13155b46c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "0c8b5d57-5ecf-4126-a14d-080061ccbde1",
                         "label": "Riegl LMS-Q1560",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "3449c20e-8cf2-4aff-829a-2e8f0cca5670",
                         "label": "MABEL",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
                         "uuid": "4fcbd8a9-2cfe-461b-8e3b-f039692fdd10",
                         "label": "LVIS-Camera",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9470,7 +9470,7 @@
                         "uuid": "6323cb13-3eb8-4cbf-b0c7-eb253dbf5652",
                         "label": "LIDAR ALTIMETERS",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9491,7 +9491,7 @@
                         "uuid": "b3684b4b-4f0b-48aa-8997-e3758fd04155",
                         "label": "ATLAS",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9519,7 +9519,7 @@
                         "uuid": "ff309a1a-606d-456b-82b6-5b3c182f66ff",
                         "label": "AIRBORNE LASER SCANNER",
                         "parentId": "ec76ff59-7450-48a0-9152-7c3531e609fd",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       },
                       {
@@ -9537,7 +9537,7 @@
                 "uuid": "e87a9716-cf7e-42c7-8e70-a45e6ee337d2",
                 "label": "Positioning/Navigation",
                 "parentId": "c8fe757b-b530-4d67-a553-e4903f4430a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "0936ec9e-318d-4503-8e0b-4a2fa171c8fe",
@@ -9557,7 +9557,7 @@
                     "uuid": "a3ce2cfb-5488-4301-83c2-64bbc090c397",
                     "label": "Laser Ranging",
                     "parentId": "e87a9716-cf7e-42c7-8e70-a45e6ee337d2",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "9cf060b8-d8ea-46c4-a8de-f2073df5d0ae",
@@ -9592,19 +9592,19 @@
         "uuid": "8129a4b9-b5f9-4585-87e6-4576c3a53682",
         "label": "NOT APPLICABLE",
         "parentId": "b2140059-b3ca-415c-b0a7-3e142783ffe8",
-        "definition": "No definition available.",
+        "definition": "",
         "children": [
           {
             "uuid": "fd7e2a51-5ccc-4592-8056-487b400ac350",
             "label": "NOT APPLICABLE",
             "parentId": "8129a4b9-b5f9-4585-87e6-4576c3a53682",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "51963b3c-d82e-441f-8f65-e21b005861ef",
                 "label": "NOT APPLICABLE",
                 "parentId": "fd7e2a51-5ccc-4592-8056-487b400ac350",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]
@@ -9621,13 +9621,13 @@
             "uuid": "02a7fb42-6ff5-493f-a447-b687f841b2c1",
             "label": "Magnetic/Motion Sensors",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
                 "label": "Gravimeters",
                 "parentId": "02a7fb42-6ff5-493f-a447-b687f841b2c1",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "0f63a24a-379d-40bc-975c-4f71479f3a06",
@@ -9654,14 +9654,14 @@
                     "uuid": "421591cb-6858-4419-877d-43fb1c44029f",
                     "label": "ZLS",
                     "parentId": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "5f8418fd-1a24-4b72-a3c9-8fc907366abf",
                     "label": "AIRGrav",
                     "parentId": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -9682,14 +9682,14 @@
                     "uuid": "dbc2aa6d-24d0-4449-a472-9b6379979446",
                     "label": "OWEN TUBE",
                     "parentId": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "e7c8ddfc-c3c5-4fdd-a44c-80df5b95200a",
                     "label": "LGS",
                     "parentId": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -9703,7 +9703,7 @@
                     "uuid": "fe6df97e-c1cd-466a-8c57-09b4a48e5cb5",
                     "label": "BGM-3",
                     "parentId": "1707b0ef-5e6f-4abc-bd7b-905c4ea18ba7",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -9712,7 +9712,7 @@
                 "uuid": "46f6b588-fe2f-4091-97dc-5f6fea3343fe",
                 "label": "Seismometers",
                 "parentId": "02a7fb42-6ff5-493f-a447-b687f841b2c1",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "aac114f4-64ec-4117-9a4c-b7babe53f24a",
@@ -9734,7 +9734,7 @@
                 "uuid": "b9ab54ce-e045-482c-8b8f-fde98bdab60d",
                 "label": "Accelerometers",
                 "parentId": "02a7fb42-6ff5-493f-a447-b687f841b2c1",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "0fdcd01a-d31f-4f34-aecc-55f541147b52",
@@ -9806,7 +9806,7 @@
                 "uuid": "4e93856a-9669-4b32-9ef5-68dc9ff6c0d7",
                 "label": "CRWVA",
                 "parentId": "1b41692e-c7fe-4567-bed9-b938a7400462",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -9954,7 +9954,7 @@
                 "uuid": "7818106b-76d3-432c-a423-299bab2ae9da",
                 "label": "GRAVITY CORER",
                 "parentId": "2315cd93-18c9-4553-a7d2-650d65d95505",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -9968,7 +9968,7 @@
                 "uuid": "d83a72f7-d148-4f5e-bf7a-c191fb6a528e",
                 "label": "BOX CORE",
                 "parentId": "2315cd93-18c9-4553-a7d2-650d65d95505",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -9984,7 +9984,7 @@
             "uuid": "271601ce-3e85-4090-b70d-d28a70095c2d",
             "label": "Gauges",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "020d9550-c314-45b6-8a43-23304626d9c0",
@@ -10004,7 +10004,7 @@
                 "uuid": "2e22804e-4100-4129-b239-b91be5b21fc3",
                 "label": "SPRING BALANCE",
                 "parentId": "271601ce-3e85-4090-b70d-d28a70095c2d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10032,7 +10032,7 @@
                 "uuid": "59819689-d637-4468-a9e6-a6123190c61a",
                 "label": "STRAIN GAUGE WHEATSTONE BRIDGE",
                 "parentId": "271601ce-3e85-4090-b70d-d28a70095c2d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10088,7 +10088,7 @@
                 "uuid": "afaef469-286c-4bc9-a31a-6a130327caed",
                 "label": "LAND SUBSIDENCE GAUGES",
                 "parentId": "271601ce-3e85-4090-b70d-d28a70095c2d",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10208,7 +10208,7 @@
                 "uuid": "8a5b3beb-e397-4ab9-8ded-06940862bd89",
                 "label": "UE",
                 "parentId": "2724649a-5bae-4b34-89c0-2e5ca6d3203b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10258,7 +10258,7 @@
                 "uuid": "0ecdd685-9996-45af-b4e7-2df074c68368",
                 "label": "EGC",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10272,21 +10272,21 @@
                 "uuid": "1bed8644-6254-4b14-8409-07645044b10f",
                 "label": "SPMAMI",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "1fa24892-32e0-4c93-a6bf-23dc79301674",
                 "label": "NOAMI",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "25f8d5c2-1a32-4453-9421-65c5d9d3d114",
                 "label": "SAMI",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10300,14 +10300,14 @@
                 "uuid": "276edf98-202b-4ebc-b1e0-8deb61614d51",
                 "label": "SWMS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "27d770a5-fd5d-4eca-a1a3-285ed5f35ac2",
                 "label": "NM BARE",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10328,7 +10328,7 @@
                 "uuid": "307def51-758d-4e3e-90a6-27d1603deb5b",
                 "label": "2DS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10356,7 +10356,7 @@
                 "uuid": "37d788e3-1313-44a9-9446-03f863b457ff",
                 "label": "PAN ANALYZER",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10377,14 +10377,14 @@
                 "uuid": "3e95f655-a6d2-4779-bd88-8d7c90f4a395",
                 "label": "LOPC-PMS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "424121d2-5124-4883-bdc5-b827e3408050",
                 "label": "FIA",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10426,7 +10426,7 @@
                 "uuid": "5b02f9eb-6261-43c4-b403-25a4aa289e37",
                 "label": "MERCURY ANALYZERS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10440,7 +10440,7 @@
                 "uuid": "5e72c9a6-342e-4632-bb60-87a898f359b1",
                 "label": "AEROSOL/CLOUD PARTICLE SIZER",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10496,7 +10496,7 @@
                 "uuid": "6a7f7d2d-6d6d-4bd2-b814-0f8e4df3896a",
                 "label": "HAMI",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10510,7 +10510,7 @@
                 "uuid": "6bbff5f7-727a-4c21-b322-2c2ff16aca8d",
                 "label": "UHSAS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10524,7 +10524,7 @@
                 "uuid": "6e67cba9-163d-41f6-b9bc-177298e24f55",
                 "label": "PICARRO G2401-mc CO2, CH4, CO, H2O INSTRUMENT",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10552,7 +10552,7 @@
                 "uuid": "7b08ac7a-6242-4fc5-bff9-e7d0c6341555",
                 "label": "CPC",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10573,14 +10573,14 @@
                 "uuid": "7f7bb2bd-89a6-418e-b291-8fb5af7dcf4f",
                 "label": "GAS SENSORS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "7f96c0f8-d032-4055-95e6-2dcb4f3cc045",
                 "label": "ROCK-EVAL IV",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10643,7 +10643,7 @@
                 "uuid": "96caaaf9-c813-4973-9491-772a7963b792",
                 "label": "AWQT",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10657,7 +10657,7 @@
                 "uuid": "9fb77604-82f9-4ad1-9995-c0a99df09629",
                 "label": "PMS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10713,14 +10713,14 @@
                 "uuid": "b74e1bfe-67bf-4120-a399-56ebe124dfc8",
                 "label": "UCATS-GC",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "b9caa53c-dc7d-4422-bacf-6fe5c092a7c9",
                 "label": "AVOCET",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10769,7 +10769,7 @@
                 "uuid": "d57eaaed-a3e4-4d41-8fce-48ebaff1d5df",
                 "label": "SFM",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10790,14 +10790,14 @@
                 "uuid": "d9e2e316-5a3e-42f4-b10a-b51bd53d0f9a",
                 "label": "FRRF",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "df90c6d6-4201-4f3a-9792-22395447add6",
                 "label": "PICARRO L2130-i Flight Ready Water Vapor Isotopic Analyzer",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10811,7 +10811,7 @@
                 "uuid": "e3f31009-e95d-411f-b5ce-2e17e5905ac5",
                 "label": "UCN",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10825,21 +10825,21 @@
                 "uuid": "e553e68d-bc64-4b5b-b4e5-c01cf3fc68d9",
                 "label": "IR CO2 ANALYZER",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "e5e172d6-34e8-4cf7-8734-e5dbe487794f",
                 "label": "SSIES",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "e83fdef6-eca3-4ce2-b3b3-8e92c385836b",
                 "label": "STRIPPING VOLTAMMETRY",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10867,14 +10867,14 @@
                 "uuid": "f079e001-14f8-4a4b-85a3-1d73b98d0e3d",
                 "label": "P-SYSTEM",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "f131b3c1-72a6-4559-b586-a4a8f4a2fed9",
                 "label": "ACFA",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10895,7 +10895,7 @@
                 "uuid": "f6a4576d-be7e-4f4c-b95a-a6a66245f1ec",
                 "label": "APMS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10916,7 +10916,7 @@
                 "uuid": "f8e7d425-cfe3-4b7e-b09d-7ae9770ffdd9",
                 "label": "ARI MINI CO, N2O, H2O",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10937,7 +10937,7 @@
                 "uuid": "fdcfecd6-9731-450e-94e8-5bc4c04e22a2",
                 "label": "OXYGEN METERS",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -10951,7 +10951,7 @@
                 "uuid": "fe4fc26d-cadb-4b24-bea6-5c6654f15986",
                 "label": "4-Channel CL",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11441,7 +11441,7 @@
                 "uuid": "5c035ce1-7747-43fc-b803-44d090c70fc5",
                 "label": "TSI CNC-3760",
                 "parentId": "3d25724b-832f-4a61-b0b2-4f2ccecdba94",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11548,25 +11548,25 @@
             "uuid": "451995e8-a883-4468-abfd-a0e211ca9b72",
             "label": "Data Analysis",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
                 "label": "Environmental Modeling",
                 "parentId": "451995e8-a883-4468-abfd-a0e211ca9b72",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
                     "label": "Soil Characteristics",
                     "parentId": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "b46f44ae-d2b5-4653-abdc-09a28eb4276b",
                         "label": "CONUS-Soil",
                         "parentId": "143488b4-9a25-47d9-8e47-317b7cb1e49d",
-                        "definition": "No definition available.",
+                        "definition": "",
                         "children": []
                       }
                     ]
@@ -11582,7 +11582,7 @@
                     "uuid": "91294ff2-2621-4976-98c7-b159a056d6f9",
                     "label": "Computer",
                     "parentId": "ded4f1ec-01bc-4e96-99bb-1a7464af9e46",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -11593,20 +11593,20 @@
             "uuid": "78c70202-ab05-40d6-90db-563be2a8dc90",
             "label": "Samplers",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "1474e6ed-cce2-4f24-980a-68f03eda0194",
                 "label": "QUADRATS",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "36c976c8-cede-4a48-a19f-4f29458e7cae",
                 "label": "Bottles/Flasks/Jars",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "25ed0fd3-9f56-4464-9ecc-618c49084deb",
@@ -11640,14 +11640,14 @@
                     "uuid": "ec361302-dcd2-4606-9254-4dac527a99de",
                     "label": "FILTERABLE DEPOSIT JAR SAMPLER",
                     "parentId": "36c976c8-cede-4a48-a19f-4f29458e7cae",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "f9425f59-1aec-4743-b07a-fc6d760bb296",
                     "label": "WATER BOTTLES",
                     "parentId": "36c976c8-cede-4a48-a19f-4f29458e7cae",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -11656,7 +11656,7 @@
                 "uuid": "3a277594-15de-4795-b057-35a918e1c12a",
                 "label": "FSI",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11670,14 +11670,14 @@
                 "uuid": "6c7c9336-4cb9-45a5-a949-c5ee562106d0",
                 "label": "ELECTROFISHING",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
                 "label": "Grabbers/Traps/Collectors",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "363d283c-b6ba-4c90-852a-365b22b86f7e",
@@ -11697,21 +11697,21 @@
                     "uuid": "4b3e2548-dffe-421b-b308-95556d69b2ee",
                     "label": "TRAPS",
                     "parentId": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "580df25f-c9f8-4f50-aec6-06440671d0d0",
                     "label": "WET DEPOSITION COLLECTORS",
                     "parentId": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "5e7f22d1-aef7-4fe7-94f2-49eea53ea3ff",
                     "label": "Dart Biopsy Gun",
                     "parentId": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11746,14 +11746,14 @@
                     "uuid": "b315f661-b19f-4088-ba0f-cf27ea5151d4",
                     "label": "DRY DEPOSITION COLLECTORS",
                     "parentId": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "b735c07f-218a-4ae7-b240-c4de7867e90b",
                     "label": "ROTENONE STATIONS",
                     "parentId": "70815ca9-3685-4e93-a6c5-55ef53d6080c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11769,7 +11769,7 @@
                 "uuid": "734709ce-2a7a-4160-8cb3-a3c7e0bc164d",
                 "label": "GRANULOMETRIC SIEVES",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11783,7 +11783,7 @@
                 "uuid": "7a53aaf4-249e-4747-a5a3-47e037d2885d",
                 "label": "HVAS",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11818,7 +11818,7 @@
                 "uuid": "a1135cb4-a824-4e32-b5b1-7c0633d5f817",
                 "label": "STS",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11832,7 +11832,7 @@
                 "uuid": "af479639-68a7-436c-b57d-11771971a7be",
                 "label": "KOPRI Unit",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -11853,20 +11853,20 @@
                 "uuid": "bb18f75e-6305-4be3-b12e-27aeef7d3fe5",
                 "label": "WWS",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
                 "label": "Trawls/Nets",
                 "parentId": "78c70202-ab05-40d6-90db-563be2a8dc90",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1e610ebc-134a-47f3-bfa1-a5bef8dc6c3e",
                     "label": "DEMERSAL TRAWL",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11880,7 +11880,7 @@
                     "uuid": "46b681ed-42fd-4cb6-9da4-1ca93336bc41",
                     "label": "NETS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11894,7 +11894,7 @@
                     "uuid": "4c859cd7-4921-4158-a85f-621d999431f2",
                     "label": "SCOR WP-2 ZOOPLANKTON NET",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11908,7 +11908,7 @@
                     "uuid": "4e07cfa1-93d0-4862-94ee-325411a9149d",
                     "label": "BENTHOPELAGIC TRAWL",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11922,7 +11922,7 @@
                     "uuid": "5d25838c-87ed-4e75-95fe-2d426a85c1c7",
                     "label": "OTTER TRAWL",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11936,7 +11936,7 @@
                     "uuid": "64fd5823-293d-41bb-b8c6-7e48d754813d",
                     "label": "TUBBS TOWS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11950,14 +11950,14 @@
                     "uuid": "9461dfde-fc76-4a6e-8f9c-e1e8048008c3",
                     "label": "BENTHIC GRABS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "b798ae8a-8d20-4428-841a-f6e7189f9434",
                     "label": "FISH NETS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11978,7 +11978,7 @@
                     "uuid": "c495dfab-f577-4428-ac47-daf34b437f4b",
                     "label": "BENTHOPELAGIC NET",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -11992,21 +11992,21 @@
                     "uuid": "cbbb7e45-e65c-45fd-8fa4-c4d2a56d0e87",
                     "label": "BOTTOM TRAWL",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "efbaa43f-3ecf-4f3e-8823-6d80d6cd3197",
                     "label": "GILLNETS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "f692fa4a-034c-4428-8d71-2549e1fd254e",
                     "label": "MIDWATER TRAWLS",
                     "parentId": "eceec9a6-1311-4028-8433-1f6d21b62d4d",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -12073,7 +12073,7 @@
             "uuid": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
             "label": "Photon/Optical Detectors",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "02c7de7e-4a26-4bb8-800f-07bff27fed08",
@@ -12107,7 +12107,7 @@
                 "uuid": "2ca6fb57-094a-4190-8b28-914c48ea2782",
                 "label": "VISUAL CENSUS TRANSECTS",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12121,7 +12121,7 @@
                 "uuid": "4472cb27-6e0b-4b25-92e0-b0fb8a3070fa",
                 "label": "TLPCS",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12163,13 +12163,13 @@
                 "uuid": "69675373-ef6e-4f2d-8847-a0f499e29a15",
                 "label": "Cameras",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "33de4965-928a-45d5-acfc-79e006842431",
                     "label": "CAMERA",
                     "parentId": "69675373-ef6e-4f2d-8847-a0f499e29a15",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -12178,7 +12178,7 @@
                 "uuid": "72e49dce-c936-4cfe-be92-156c34f73cf0",
                 "label": "IRIS",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12206,21 +12206,21 @@
                 "uuid": "a280f263-8a40-4bbe-aae0-5c0665884a1c",
                 "label": "FIELD SCOPE",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "a3423d6a-ffd1-4269-9a31-08106418a986",
                 "label": "PAR SENSORS",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "a47d7eee-2e0d-47e7-979d-17a79720a8a7",
                 "label": "LBLSC",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12241,7 +12241,7 @@
                 "uuid": "b1376dd8-2add-4814-89f7-2ad520438f39",
                 "label": "IceCube",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12283,7 +12283,7 @@
                 "uuid": "ca21812d-4cee-4489-9571-9701cab22c20",
                 "label": "INFRARED LASER SPECTROSCOPY",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12311,7 +12311,7 @@
                 "uuid": "f138394c-f106-4f0f-b8b0-1ef9ecc3f7c2",
                 "label": "PIV",
                 "parentId": "8143e95e-a438-4a2a-82b2-6d7ae079fba7",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12369,7 +12369,7 @@
             "uuid": "83c39fd7-c4bd-49e9-959f-12235e7f895a",
             "label": "Radiation Sensors",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "451577a2-89bd-4323-aaa1-903203614633",
@@ -12396,7 +12396,7 @@
                 "uuid": "aa8f1fab-12ed-4952-bb51-d3ea1365d176",
                 "label": "Ceptometers",
                 "parentId": "83c39fd7-c4bd-49e9-959f-12235e7f895a",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "a13ced7a-71c9-4b51-b2df-635e45ee9437",
@@ -12434,7 +12434,7 @@
             "uuid": "934ec55d-174c-468e-9326-2cca8071793f",
             "label": "EMIS",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
@@ -12477,7 +12477,7 @@
             "uuid": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
             "label": "Pressure/Height Meters",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "0bf12743-3ab8-4be7-9b48-b565723ed0ad",
@@ -12504,7 +12504,7 @@
                 "uuid": "2d42ec44-082b-4510-afa0-bb7ca6d7296b",
                 "label": "VCEIL",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12553,7 +12553,7 @@
                 "uuid": "715de185-321a-460e-b644-da20a8830ec1",
                 "label": "SURVEYING TOOLS",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12574,7 +12574,7 @@
                 "uuid": "7ec2816e-97fe-434e-8b1b-b720ddab80f3",
                 "label": "PRESSURE GAUGES",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12588,21 +12588,21 @@
                 "uuid": "9645b8e1-3c26-41be-bd4d-2c889db7771c",
                 "label": "PRESSURE JUMP DETECTOR",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "9bb0baec-1ead-4c81-a953-425b45b09463",
                 "label": "PRESSURE PROBE",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "a27589e4-5c8c-494a-b0b2-9065c9d7f7ec",
                 "label": "SOIL PRESSURE PLATE",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12616,7 +12616,7 @@
                 "uuid": "d0f46dd0-34b1-483a-ba0c-ee23583553d3",
                 "label": "ANEROID PRESSURE SENSOR",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12630,14 +12630,14 @@
                 "uuid": "fd08b891-2d9f-4c30-a07e-5c618561a79a",
                 "label": "ICE STRESS SENSORS",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "fd1ac194-aa45-44b4-b155-8ef37c977736",
                 "label": "PRESSURE SENSORS",
                 "parentId": "b5f5efbe-5b2a-405d-b1ea-ab6c90028009",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -12667,7 +12667,7 @@
             "uuid": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
             "label": "Temperature/Humidity Sensors",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "1f6e288e-be38-4b9e-aad6-d8413e06e21c",
@@ -12680,13 +12680,13 @@
                 "uuid": "2ac83116-414b-44ce-a075-eb65f42e8232",
                 "label": "Hygrometers",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1f440b16-46d6-4088-9430-73d7bf9a4c84",
                     "label": "LASER HYGROMETERS",
                     "parentId": "2ac83116-414b-44ce-a075-eb65f42e8232",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -12744,7 +12744,7 @@
                 "uuid": "3b633c32-737c-4c2f-afd4-394efbc8e7e2",
                 "label": "Thermistors",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "d62f53e7-e2e0-496a-a03e-e31fa95b91f0",
@@ -12773,7 +12773,7 @@
                 "uuid": "84496caa-d54c-491a-8ff7-fe0e54851341",
                 "label": "Thermometers",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1cf3fcba-3195-45b8-a14c-dbaf7111b6df",
@@ -12830,13 +12830,13 @@
                 "uuid": "9a22613f-f9c8-44dd-b1b5-c082c69c891b",
                 "label": "Pyrometers",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "a09ad3d5-233c-4d86-9a44-7e09ab9063c4",
                     "label": "PYROMETERS",
                     "parentId": "9a22613f-f9c8-44dd-b1b5-c082c69c891b",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -12845,7 +12845,7 @@
                 "uuid": "a36df81b-010c-4a78-a276-35f8ba594432",
                 "label": "Thermocouples",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "fd49213d-3ad6-455d-bf97-89251483c88d",
@@ -12874,7 +12874,7 @@
                 "uuid": "bc0c1807-5f6e-4e96-a9e2-99bfafef5ebc",
                 "label": "Hypsometers",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "47085051-bcbe-4789-89a2-d2c7ed6b3f91",
@@ -12889,7 +12889,7 @@
                 "uuid": "c848a856-6210-47c4-b8e3-97427f04a035",
                 "label": "Hydrometers",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "fbe41309-c094-4218-8d5c-71e4877b899d",
@@ -12932,7 +12932,7 @@
                 "uuid": "f82756a9-2df8-4dd3-96be-c2cecd5fc1fb",
                 "label": "Hydrothermographs",
                 "parentId": "bb5a51d9-0ded-40ed-9bfd-7cb0e788f1a5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "c0293996-1fd5-46c1-a6e3-14beaefd8ad2",
@@ -12998,7 +12998,7 @@
             "uuid": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
             "label": "Probes",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "02e65d8f-20a1-4b72-82e1-65e39e206100",
@@ -13081,7 +13081,7 @@
                 "uuid": "7d32e5f2-30c8-495a-938c-9e36265aa2e7",
                 "label": "ROSEMOUNT ICING DETECTOR",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13109,7 +13109,7 @@
                 "uuid": "984f0756-a0b9-4c2a-9128-3def832d7800",
                 "label": "CPI PROBES",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13130,7 +13130,7 @@
                 "uuid": "9aa1bbca-5d91-4260-9951-0c57f79bd86b",
                 "label": "SOIL DEPTH PROBE",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13186,7 +13186,7 @@
                 "uuid": "cfc9cb35-d637-4e78-b1e0-680dedb9beed",
                 "label": "FCDP",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13242,14 +13242,14 @@
                 "uuid": "f80c47db-63dc-4be2-b07b-a00d13ff4ca7",
                 "label": "SMP",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "fd087700-68e9-48f2-a2f7-9781aa99ff1d",
                 "label": "CLOUD LIQUID WATER PROBE",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13305,7 +13305,7 @@
                 "uuid": "91608ee6-a979-4be5-8405-31cb9d94a85a",
                 "label": "DBH Tape",
                 "parentId": "def72d78-3c2f-4f46-91e7-259a0e63e2de",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13328,13 +13328,13 @@
             "uuid": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
             "label": "Recorders/Loggers",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "00c994a8-64eb-4263-a3fa-85fd902bb91b",
                 "label": "GTR",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13348,21 +13348,21 @@
                 "uuid": "0648b8de-c21e-4707-8148-c37b66c86207",
                 "label": "2DVD",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "08ed1af5-b984-40d8-bedc-3c9d9e77c11a",
                 "label": "CSR",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "0fad63bc-18ed-4a01-96ef-786a29de50fc",
                 "label": "WL/CR",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13404,7 +13404,7 @@
                 "uuid": "3d579721-c916-4e6d-aa13-2633ea0a7fac",
                 "label": "JW DISDROMETER",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13432,7 +13432,7 @@
                 "uuid": "7566c63e-dfb9-4af2-8a15-7a30dde73b0c",
                 "label": "PDS",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13460,28 +13460,28 @@
                 "uuid": "8fb78564-566c-462a-88c2-8857f89a4194",
                 "label": "GLS",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "904d513b-585a-45c8-a568-a574fac7e954",
                 "label": "OPTICAL DUST LOGGERS",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "9ed30338-eced-4102-b6e8-4a3b2affd490",
                 "label": "VOPC",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "a17e3ad4-d8f4-4f0d-86bd-777faf5ef2c7",
                 "label": "STILLING WELL",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13516,7 +13516,7 @@
                 "uuid": "b301234c-2e9d-4266-9f32-74e323fffa7c",
                 "label": "APU",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13565,7 +13565,7 @@
                 "uuid": "e37e2077-0af4-483f-80f5-67f21ec5004d",
                 "label": "Tally Counter",
                 "parentId": "ebfff02c-2e5a-476e-aafb-c00167bf2daa",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13644,7 +13644,7 @@
             "uuid": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
             "label": "Spectrometers/Radiometers",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "09c35c61-d1ed-4591-b4d5-c539a2a0aec2",
@@ -13657,21 +13657,21 @@
                 "uuid": "0db71d4f-2329-4adf-9e90-0a1af3458b1d",
                 "label": "PTI",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "233ee693-0e56-4d65-9790-830b3756dcb7",
                 "label": "ALPHA-SPECTROMETERS",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "26745635-1a01-4060-bbea-3b8134e1baee",
                 "label": "SATI",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13685,14 +13685,14 @@
                 "uuid": "2ef83cb4-6573-4e56-9f80-aadbac6137e2",
                 "label": "SAOZ",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "39745f6d-fb59-4343-8060-5b391ce6e3be",
                 "label": "WISPER",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13713,14 +13713,14 @@
                 "uuid": "534d85ff-0437-455e-b45b-fe3038aef23b",
                 "label": "DACOM",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "55facbdc-d4ed-4ee2-a74d-911b084c8ff8",
                 "label": "OPTSPEC",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13748,7 +13748,7 @@
                 "uuid": "6bf351aa-7aad-4c9a-b2f5-b47bfe27f530",
                 "label": "SKY-RADIOMETER",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13769,21 +13769,21 @@
                 "uuid": "8f04fca0-2c0a-4265-8590-219d5c24e5b0",
                 "label": "CHEMILUMINESCENCE",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "9bfce406-fc85-473e-b40a-2764c6a95371",
                 "label": "POSSSUM",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "a939b8df-475b-4ea5-9e03-192ef969521a",
                 "label": "IRMS",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13804,7 +13804,7 @@
                 "uuid": "abdf6205-bd05-4431-83bb-fa3f9a481cca",
                 "label": "SKIYMET",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13825,14 +13825,14 @@
                 "uuid": "d3a60685-20f2-4258-80ff-e5de153f2da7",
                 "label": "HAMSTRAD",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "d43d3993-bee5-4b6f-9d28-68eb72f125ac",
                 "label": "ICP-ES",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13846,14 +13846,14 @@
                 "uuid": "d87a2454-21ba-4218-a50a-33ddc9ec31c5",
                 "label": "PARTICLE SPECTROMETERS",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "dc3731dc-f7bd-420b-a311-592f8836f462",
                 "label": "CFA",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13874,14 +13874,14 @@
                 "uuid": "f49292f8-6010-42cd-a2fb-fabef80c71d4",
                 "label": "BIOMETER",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "fd8d30cf-1e2b-41e9-bb4e-ba5063bc7d9d",
                 "label": "HR-2014i",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -13895,7 +13895,7 @@
                 "uuid": "ba49c933-5787-4e1f-a408-bc4af632e00a",
                 "label": "Hyperspectral Spectrometers/Radiometers",
                 "parentId": "ecd58f82-8f96-45e1-9547-dd4a02291bd9",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "618d5de2-7915-4710-b1a2-09ed87a1debc",
@@ -14052,14 +14052,14 @@
             "uuid": "f2c36164-55e2-4997-b6a7-6d1e841c3762",
             "label": "ICE CORE MELTER",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": []
           },
           {
             "uuid": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
             "label": "Profilers/Sounders",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "01cc0beb-7c9a-40ed-ad86-0661b41aee53",
@@ -14072,7 +14072,7 @@
                 "uuid": "21368def-717d-4132-a925-f797eee1c400",
                 "label": "STC",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14086,14 +14086,14 @@
                 "uuid": "2b412f3a-f86e-436c-8849-eba4d2ed6ca2",
                 "label": "SBT",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "384cd160-ef82-4278-ae45-7c7d78dd7609",
                 "label": "OFFI",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14128,7 +14128,7 @@
                 "uuid": "66f76605-67ef-4e76-9d96-7f1e2f9eeb80",
                 "label": "LADCP",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14163,7 +14163,7 @@
                 "uuid": "9929fdb8-b981-4708-a32f-8563654b147f",
                 "label": "BBSS",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14177,7 +14177,7 @@
                 "uuid": "b56d53ea-511f-486f-b917-26000794ab51",
                 "label": "Acoustic Sounders",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "10040ca6-3809-4679-a41e-6a6efbb25ae8",
@@ -14225,7 +14225,7 @@
                     "uuid": "465e0298-da06-4bd8-bc57-b167a5253793",
                     "label": "MBES",
                     "parentId": "b56d53ea-511f-486f-b917-26000794ab51",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -14339,7 +14339,7 @@
                 "uuid": "d39a10d2-e2fe-4e5f-b44f-44ef2966ccee",
                 "label": "DOW",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14381,7 +14381,7 @@
                 "uuid": "ff0257ad-3077-4829-b308-1211f488d469",
                 "label": "WATERGUNS",
                 "parentId": "ffa3a835-903a-462a-adfb-fc0d25ba07d0",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -14418,7 +14418,7 @@
             "uuid": "06668666-32cc-4792-b1dc-26f333b85b52",
             "label": "Biological Sampling",
             "parentId": "ff564c87-78f2-47eb-a857-a4bdc0a71ae5",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "5b96d8ad-e034-4561-acfb-b2769051e837",

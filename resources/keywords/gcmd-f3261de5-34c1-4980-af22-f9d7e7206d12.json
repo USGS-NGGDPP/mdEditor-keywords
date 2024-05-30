@@ -64,14 +64,14 @@
                     "uuid": "85e347f2-d65d-4941-a252-0b0c55653b37",
                     "label": "SN-4",
                     "parentId": "0353603c-a179-41d3-bd20-c97c140d2167",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "d227bc01-e09a-4356-89d3-84cae164eeec",
                     "label": "SN-2",
                     "parentId": "0353603c-a179-41d3-bd20-c97c140d2167",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -662,7 +662,7 @@
                     "uuid": "6cf9a0ac-18c6-492a-b302-62ad4c918fcf",
                     "label": "R/V ITALICA",
                     "parentId": "59b97a6c-385e-40a2-8422-ecbdb6023c4c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -725,7 +725,7 @@
                     "uuid": "9506524f-5cd7-43f3-8763-afe95283bf30",
                     "label": "R/V OSHORO-MARU",
                     "parentId": "59b97a6c-385e-40a2-8422-ecbdb6023c4c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -760,7 +760,7 @@
                     "uuid": "bbb476e8-9e6a-461f-882d-a213213705f2",
                     "label": "R/V HERITAGE",
                     "parentId": "59b97a6c-385e-40a2-8422-ecbdb6023c4c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -823,7 +823,7 @@
                     "uuid": "e2e59fcb-be11-4ff2-bd7f-eee34a76aa45",
                     "label": "R/V ITALIA",
                     "parentId": "59b97a6c-385e-40a2-8422-ecbdb6023c4c",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -1476,7 +1476,7 @@
                 "uuid": "08ccef97-4faf-4678-8404-03945170aa21",
                 "label": "L4_C",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1525,7 +1525,7 @@
                 "uuid": "1a9082fc-2274-4f86-ad94-6034cae84ed5",
                 "label": "CASA-GFED3-V2",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1700,7 +1700,7 @@
                 "uuid": "6426710e-8498-4308-845e-c9c543bcc17e",
                 "label": "NCEP-MRF",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1734,7 +1734,7 @@
                     "uuid": "e951dc1d-eeb5-4d67-ad77-e60ee469486c",
                     "label": "LANDMET",
                     "parentId": "6acce314-322f-4d58-9dcb-1f93457a9d86",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -1764,7 +1764,7 @@
                 "uuid": "73c1df3f-b389-4cc0-98eb-0fbc4f071f98",
                 "label": "Data Analysis",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1778,7 +1778,7 @@
                 "uuid": "750bc9c6-dda7-449a-9299-9473f03bb67b",
                 "label": "BLING",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1806,7 +1806,7 @@
                 "uuid": "862e790e-d42f-433a-8561-107562aceb64",
                 "label": "Forcing-LSM",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1841,7 +1841,7 @@
                 "uuid": "8c1eb362-072d-4763-b6f3-6b706b257e6a",
                 "label": "Mosaic-LSM",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -1989,7 +1989,7 @@
                 "uuid": "c3a217f5-de08-4aeb-9429-0a29821820b5",
                 "label": "CASA-GFED3-V3",
                 "parentId": "0a184cdc-c074-4946-90a6-02f03c686341",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -2068,13 +2068,13 @@
             "uuid": "76b8f939-8558-4a10-8139-c7f8a0162102",
             "label": "NOT APPLICABLE",
             "parentId": "5cd7da77-cb95-40aa-8775-b6df68e0aa63",
-            "definition": "No definition available.",
+            "definition": "",
             "children": [
               {
                 "uuid": "cffdd7e9-e25d-4c85-86ae-ff651532f02e",
                 "label": "NOT APPLICABLE",
                 "parentId": "76b8f939-8558-4a10-8139-c7f8a0162102",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]
@@ -2555,7 +2555,7 @@
                 "uuid": "b4013d60-ac0d-478f-b18f-0098caef0f78",
                 "label": "Navigation with Indian Constellation (NavIC)",
                 "parentId": "1506fb17-7ac4-44ce-bde5-074885bdb2d2",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "30fdce3f-f7c1-4dd5-96f5-8896972f4bff",
@@ -3085,7 +3085,7 @@
                 "uuid": "1cf127d1-ee7d-4cd7-9e66-516805f42f28",
                 "label": "FLYBY",
                 "parentId": "16d65a72-e685-4c98-88a9-689c5f75d358",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1cc11f32-9643-4fa4-9384-18cab2852604",
@@ -3209,14 +3209,14 @@
                 "uuid": "02db0949-495c-4579-8ff5-d1a9079c88b7",
                 "label": "MTSAT-2",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "0a3e3bc3-d878-44f0-9650-145a53062c36",
                 "label": "Echo",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "6e2adc45-a039-46cb-b8e5-e4743df7e656",
@@ -3260,7 +3260,7 @@
                 "uuid": "0c52630e-cc77-42ab-b1ae-cb736486200e",
                 "label": "EXPLORER",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "84d39d18-7ae4-4f86-9626-694de58da933",
@@ -3468,14 +3468,14 @@
                     "uuid": "030470d1-f545-4775-90b3-b12978cd6315",
                     "label": "DMSP 5D-2/F6",
                     "parentId": "1cf8cbcd-c1be-4c78-9272-b62adad59aa1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "0661540e-f7b7-469b-9ef7-eaa0dd7a6d10",
                     "label": "DMSP 5D-2/F15",
                     "parentId": "1cf8cbcd-c1be-4c78-9272-b62adad59aa1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -3524,7 +3524,7 @@
                     "uuid": "60e10f22-c473-4368-888f-886a751662ea",
                     "label": "DMSP 5D-1/F5",
                     "parentId": "1cf8cbcd-c1be-4c78-9272-b62adad59aa1",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -3703,27 +3703,27 @@
                 "uuid": "28eac19a-5500-4a21-af30-ab7a364ff8d0",
                 "label": "Meteosat",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "01ee202c-22c5-442d-b4fd-65f424057ea3",
                     "label": "METEOSAT-10",
                     "parentId": "28eac19a-5500-4a21-af30-ab7a364ff8d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "07dfead6-2cbc-4703-8533-c4d07e2ec67c",
                     "label": "METEOSAT-9",
                     "parentId": "28eac19a-5500-4a21-af30-ab7a364ff8d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1ef73a04-e012-4389-9646-cdeb7c04dc92",
                     "label": "METEOSAT-8",
                     "parentId": "28eac19a-5500-4a21-af30-ab7a364ff8d0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4163,7 +4163,7 @@
                     "uuid": "87daf1d5-4f7c-40e9-8d31-4c816c320029",
                     "label": "K1",
                     "parentId": "3e8bc0c6-f599-4e23-9535-449af00edd61",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4226,7 +4226,7 @@
                     "uuid": "fd710ee8-797c-490a-9f90-064a38141f99",
                     "label": "IRS-RS2",
                     "parentId": "3e8bc0c6-f599-4e23-9535-449af00edd61",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -4305,7 +4305,7 @@
                     "uuid": "341b5eb7-19bd-4337-83f3-885730103df1",
                     "label": "WORLDVIEW-4",
                     "parentId": "45694b28-c8a0-4a89-affc-082282ae9db0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4319,7 +4319,7 @@
                     "uuid": "dfb49f10-0755-464f-96b1-fc037802c86d",
                     "label": "WORLDVIEW-3",
                     "parentId": "45694b28-c8a0-4a89-affc-082282ae9db0",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4335,7 +4335,7 @@
                 "uuid": "45ec5189-ffc5-452d-b365-f6989f1433f1",
                 "label": "NPOESS (National Polar-orbiting Operational Environmental Satellite System )",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -4349,7 +4349,7 @@
                 "uuid": "4a21b488-a0ed-4b11-9b7a-a32e123b555e",
                 "label": "Diadem",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "143a5181-7601-4cc7-96d1-2b1a04b08fa7",
@@ -4392,7 +4392,7 @@
                 "uuid": "4e62dd32-7776-4646-ae8d-b85d97df415a",
                 "label": "SARAL",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -4915,7 +4915,7 @@
                 "uuid": "70b220f4-9331-4d3a-94d6-68a3ee94350a",
                 "label": "RADARSAT Constellation Mission",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "00bb59aa-755d-4710-a097-f1e2836f4032",
@@ -5110,7 +5110,7 @@
                 "uuid": "7d97b6ca-83de-44e1-8d3b-f45755e38a8d",
                 "label": "HEXAGON KH-9",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -5153,7 +5153,7 @@
                 "uuid": "820b20d7-03b3-43a3-9c7a-f28fa3b0bfe2",
                 "label": "Etalon",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "0bd45536-e8d5-42bf-998f-05ce4d0f0a49",
@@ -5419,7 +5419,7 @@
                 "uuid": "96a26a3b-bd87-462e-b155-f57677bf4b83",
                 "label": "PROBA-3",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -5634,7 +5634,7 @@
                 "uuid": "9e09177b-bc72-41e9-921a-a4546f89e20a",
                 "label": "MT1",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -5683,7 +5683,7 @@
                 "uuid": "a9a057e8-bfee-464c-9c1f-1913c889caee",
                 "label": "Project for On-Board Autonomy (PROBA)",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -5862,7 +5862,7 @@
                 "uuid": "ce3e3563-34ff-4a39-8c81-c9856758e403",
                 "label": "PROBA-2",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -5962,7 +5962,7 @@
                 "uuid": "d3747d32-f82d-4a98-aa49-aad5653897fe",
                 "label": "Joint Altimetry Satellite Oceanography Network (JASON)",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "4ea59dad-ed94-453e-a991-62c790a1d101",
@@ -6297,14 +6297,14 @@
                     "uuid": "3019aa61-89f6-4226-97b3-6c80ef65da10",
                     "label": "FY-2D",
                     "parentId": "e3344a00-36a4-49c2-b05e-5b540044b510",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "d2b2dc9e-7a97-4e16-8562-1087a74fb9c9",
                     "label": "FY-2E",
                     "parentId": "e3344a00-36a4-49c2-b05e-5b540044b510",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -6313,7 +6313,7 @@
                 "uuid": "e3679e9e-5a95-46f4-a856-e51d459469fd",
                 "label": "MTSAT",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -6567,7 +6567,7 @@
                     "uuid": "fb9164bb-4dba-4598-ba56-cb24d8db5527",
                     "label": "SAC-D",
                     "parentId": "ea7e0cb4-5764-4ca4-89f6-913b22a47eff",
-                    "definition": "No definition available.",
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -6619,7 +6619,7 @@
                 "uuid": "edf02962-aafa-484f-84e5-2549f6db7552",
                 "label": "FengYun-1",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "3ad82f6f-152d-4565-ada3-0f1a4ceacb6f",
@@ -7780,7 +7780,7 @@
                 "uuid": "6f00151d-b33f-472a-a263-eff7b46b296d",
                 "label": "TSIS-1",
                 "parentId": "8e8b7689-0a8e-47a4-9c68-5f6a207104d5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -7888,7 +7888,7 @@
                 "uuid": "a1dfb99c-1819-4a09-9024-81d9c3486eac",
                 "label": "NASA Small Explorer (SMEX)",
                 "parentId": "8e8b7689-0a8e-47a4-9c68-5f6a207104d5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "437b468d-4635-4cb9-b875-0795beb47f6d",
@@ -7924,7 +7924,7 @@
                 "uuid": "b003a4a0-0dc3-498b-9795-a197e25cff6c",
                 "label": "NASA Medium Class Explorers (MIDEX)",
                 "parentId": "8e8b7689-0a8e-47a4-9c68-5f6a207104d5",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": [
                   {
                     "uuid": "6524ba60-7265-49ae-b368-c18d981e7381",
@@ -8367,7 +8367,7 @@
                 "uuid": "04da5a44-7299-4d07-b85f-26db1552d00a",
                 "label": "C-185",
                 "parentId": "6175c78e-432c-4254-b442-40d3cf0f6b34",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -8619,7 +8619,7 @@
                 "uuid": "d80f3d86-ab38-4c27-82c5-aeae2b4c3370",
                 "label": "CESSNA SINGLE-ENGINE AIRCRAFT",
                 "parentId": "6175c78e-432c-4254-b442-40d3cf0f6b34",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
@@ -8675,14 +8675,14 @@
                 "uuid": "fb9f4171-b9b6-4627-9c79-1d3b5890dfc4",
                 "label": "NP-3C Orion",
                 "parentId": "6175c78e-432c-4254-b442-40d3cf0f6b34",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "fdb96a23-16f4-4df4-a60b-a4d1123587ce",
                 "label": "NCAR ELECTRA",
                 "parentId": "6175c78e-432c-4254-b442-40d3cf0f6b34",
-                "definition": "No definition available.",
+                "definition": "",
                 "children": []
               }
             ]
