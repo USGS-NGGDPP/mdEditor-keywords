@@ -43,7 +43,7 @@ function generateNode(metadata) {
     definition:
       metadata?.conceptData?.definitions[0]?.text ||
       metadata?.keywordData?.definition ||
-      'No definition available.',
+      '',
     children: []
   };
 }
@@ -75,7 +75,7 @@ const buildKeywordTree = async metadata => {
   return [node];
 };
 
-function buildCitation(metadata) {
+function buildConfig(metadata) {
   return {
     citation: {
       date: [
@@ -112,8 +112,8 @@ async function generateKeywords(vocabulary) {
 
 async function generateThesaurusConfig(vocabulary) {
   const metadata = await loadMetadata(vocabulary);
-  const citation = buildCitation(metadata);
-  return citation;
+  const config = buildConfig(metadata);
+  return config;
 }
 
 export default async function main() {
