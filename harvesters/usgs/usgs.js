@@ -1,4 +1,9 @@
 import axios from 'axios';
+import { writeToLocalFile } from '../utils';
+
+import thesaurusConfigTemplate from './thesaurusConfig.json';
+const thesaurusDir = 'resources/thesaurus/';
+const keywordsDir = 'resources/keywords/';
 
 const sourceUrl =
   'https://apps.usgs.gov/thesaurus/download/update-usgs-thesaurus.sql';
@@ -67,10 +72,17 @@ async function generateKeywords() {
   return tree;
 }
 
-function generateCitation(vocabulary) {
-  return vocabulary.citationConfig;
+function generateThesaurusConfig(keywordsPath) {
+  return {
+    ...thesaurusConfigTemplate,
+    keywordsUrl: `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/${keywordsPath}`
+  };
 }
 
 export default async function main() {
-  console.log('USGS Thesaurus');
+  const keywordsPath = `${keywordsDir}usgs-thesaurus.json`;
+  const keywords = await generateKeywords();
+  const thesaurusConfig = generateThesaurusConfig(keywordsPath);
+  writeToLocalFile(thesaurusConfig, `${thesaurusDir}usgs-thesaurus.json`);
+  writeToLocalFile(keywords, keywordsPath);
 }
