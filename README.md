@@ -9,6 +9,22 @@ This repository contains various data harvesting scripts that can be run individ
 - Node.js installed on your machine.
 - Yarn package manager for managing dependencies and scripts.
 
+### GCMD Prerequisites
+
+- The file `harvesters/gcmd/vocabularies.json` should be reviewed to only include the desired vocabularies and updated to include any new ones.
+
+### GNIS Prerequisites
+
+- Download the GNIS data and store it in the directory `harvesters/gnis/data/` and be sure to extract the zip files.
+
+### ScienceBase Prerequisities
+
+- The file `harvesters/sciencebase/vocabularies.json` should be reviewed to only include the desired vocabularies and updated to include any new ones.
+
+### USGS Prerequisites
+
+- The file `harvesters/usgs/thesaurusConfig.json` should be reviewed for accuracy and completeness.
+
 ## Setup
 
 First, clone the repository and install the dependencies:
@@ -16,7 +32,6 @@ First, clone the repository and install the dependencies:
 ```
 git clone <repository-url>
 cd <repository-name>
-yarn install
 ```
 
 ## Running Harvesters
@@ -27,17 +42,23 @@ You can run harvesters individually or all together using the scripts defined in
 
 To run all harvesters at once, use the `start` script:
 
+_Caution! This can take several hours to complete._
+
 `yarn start`
+
+Once completed, to verify the resource files conform to the schemas run the tests:
+
+`yarn test`
 
 ### Running Individual Harvesters
 
 To run a specific harvester, use the corresponding script name:
 
 ```
-yarn gcmd         # Runs the GCMD harvester
-yarn gnis         # Runs the GNIS harvester
-yarn sciencebase  # Runs the ScienceBase harvester
-yarn usgs         # Runs the USGS harvester
+yarn gcmd   # Runs the GCMD harvester
+yarn gnis   # Runs the GNIS harvester
+yarn sb     # Runs the ScienceBase harvester
+yarn usgs   # Runs the USGS harvester
 ```
 
 ### Additional Scripts
@@ -50,13 +71,17 @@ yarn usgs         # Runs the USGS harvester
 
 `yarn format`
 
-**Prepare**: To setup Husky for git hooks
+**Cleaning**: To remove the dist/ directory
 
-`yarn prepare`
+`yarn clean`
 
-## Contributions
+**Building**: To build the dist/ directory
 
-Feel free to fork the repository and submit pull requests with enhancements.
+This command will build the harvesters, schemas, and tests compiling ES6+ to the common ES5 syntax. It does not run the harvesters, it simply builds (transpiles) the code.
+
+`yarn build`
+
+_Note: While building is required to run the harvesters and tests, the package.json scripts handle everything, including the install._
 
 ## License
 
