@@ -2,7 +2,6 @@
   {
     "uuid": "f3261de5-34c1-4980-af22-f9d7e7206d12",
     "label": "Platforms",
-    "parentId": null,
     "definition": "A schematic description of a system, theory, or phenomenon that accounts \nfor its known or inferred properties and may be used for further study \nof its characteristics\n\n[Source: The Free Dictionary]\n\n\nGroup: Platform_Details\n   Entry_ID: MODELS/ANALYSES\n   Group: Platform_Identification\n      Platform_Category: MODELS/ANALYSES\n   End_Group\nEnd_Group",
     "children": [
       {
@@ -4840,13 +4839,6 @@
                 "children": []
               },
               {
-                "uuid": "6bfd2526-e039-40e0-9abe-ac370f755d20",
-                "label": "CLARREO Pathfinder",
-                "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "CLARREO Pathfinder (CPF) data will do this by taking highly accurate measurements of sunlight reflected by Earth and the Moon. These measurements, which will be anchored to international standards, will be five to ten times more accurate than those from existing sensors. CPF will have the unique ability to maintain its high accuracy throughout its lifetime. CPF will also showcase novel techniques in transferring its high accuracy to other sensors monitoring Earth. Higher accuracy means greater certainty in our measurements, which makes it possible to detect Earth’s subtle climate change trends decades sooner than otherwise.\n\nMore Information: https://clarreo-pathfinder.larc.nasa.gov/",
-                "children": []
-              },
-              {
                 "uuid": "6c21f29b-5dd4-4e96-a6fb-44e4788d1973",
                 "label": "TDX",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
@@ -6616,6 +6608,13 @@
                 "children": []
               },
               {
+                "uuid": "edd3cc77-31a1-4ed3-8da4-64a9554aa6fa",
+                "label": "EnMAP",
+                "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
+                "definition": "Environmental Mapping and Analysis Program (EnMAP) is a German satellite mission, seeking to capture hyperspectral image data of the Earth’s atmosphere and surface. Launched  in April 2022, the mission is managed by the German Aerospace Centre (DLR), with the German Research Centre for Geosciences (GFZ) leading the associated scientific research.",
+                "children": []
+              },
+              {
                 "uuid": "edf02962-aafa-484f-84e5-2549f6db7552",
                 "label": "FengYun-1",
                 "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
@@ -7002,13 +7001,6 @@
                     "children": []
                   }
                 ]
-              },
-              {
-                "uuid": "edd3cc77-31a1-4ed3-8da4-64a9554aa6fa",
-                "label": "EnMAP",
-                "parentId": "3466eed1-2fbb-49bf-ab0b-dc08731d502b",
-                "definition": "Environmental Mapping and Analysis Program (EnMAP) is a German satellite mission, seeking to capture hyperspectral image data of the Earth’s atmosphere and surface. Launched  in April 2022, the mission is managed by the German Aerospace Centre (DLR), with the German Research Centre for Geosciences (GFZ) leading the associated scientific research.",
-                "children": []
               }
             ]
           },
