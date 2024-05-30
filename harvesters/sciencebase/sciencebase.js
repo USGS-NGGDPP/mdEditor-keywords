@@ -114,7 +114,7 @@ function buildConfig(metadata) {
       ]
     },
     keywordType: metadata.nodeType || '',
-    label: metadata.label || '',
+    label: metadata.label || metadata.name || '',
     keywords: null
   };
 }
