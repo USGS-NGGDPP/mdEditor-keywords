@@ -1,8 +1,11 @@
-const axios = require('axios');
-const { loadConfig, sleep } = require('./utils');
+import axios from 'axios';
+import { sleep, writeToLocalFile } from '../utils';
 
-const CONF_JSON = 'conf/main.json';
-const { baseUrl } = loadConfig(CONF_JSON).gcmd;
+import vocabularies from './vocabularies.json';
+
+const baseUrl = 'https://gcmd.earthdata.nasa.gov/kms/';
+const thesaurusPath = 'resources/thesaurus/';
+const keywordsPath = 'resources/keywords/';
 
 async function fetchConceptById(id) {
   try {
@@ -24,7 +27,7 @@ async function fetchKeywordById(id) {
   }
 }
 
-const loadMetadata = async (vocabulary) => {
+const loadMetadata = async vocabulary => {
   await sleep(50);
   const { id } = vocabulary;
   const conceptData = await fetchConceptById(id);
@@ -36,11 +39,11 @@ function generateNode(metadata) {
   return {
     uuid: metadata.conceptData.uuid,
     label: metadata.conceptData.prefLabel,
-    broader: metadata?.conceptData?.broader[0]?.uuid || null,
+    parentId: metadata?.conceptData?.broader[0]?.uuid || null,
     definition:
       metadata?.conceptData?.definitions[0]?.text ||
       metadata?.keywordData?.definition ||
-      'No definition available.',
+      '',
     children: []
   };
 }
@@ -66,13 +69,17 @@ async function buildChildren(metadata) {
   return children;
 }
 
-const buildKeywordTree = async (metadata) => {
+const buildKeywordTree = async metadata => {
   const node = generateNode(metadata);
+  // if node.parentId is null remove the key from the object
+  if (node.parentId === null) {
+    delete node.parentId;
+  }
   node.children = await buildChildren(metadata);
   return [node];
 };
 
-function buildCitation(metadata) {
+function buildConfig(metadata) {
   return {
     citation: {
       date: [
@@ -107,10 +114,22 @@ async function generateKeywords(vocabulary) {
   return keywordsJson;
 }
 
-async function generateCitation(vocabulary) {
+async function generateThesaurusConfig(vocabulary) {
   const metadata = await loadMetadata(vocabulary);
-  const citation = buildCitation(metadata);
-  return citation;
+  const config = buildConfig(metadata);
+  return config;
 }
 
-module.exports = { generateCitation, generateKeywords };
+export default async function main() {
+  for (let i = 0; i < vocabularies.length; i++) {
+    const vocabulary = vocabularies[i];
+    console.log('processing vocabulary', vocabulary.id);
+    const thesaurusConfig = await generateThesaurusConfig(vocabulary);
+    const keywords = await generateKeywords(vocabulary);
+    writeToLocalFile(
+      thesaurusConfig,
+      `${thesaurusPath}gcmd-${vocabulary.id}.json`
+    );
+    writeToLocalFile(keywords, `${keywordsPath}gcmd-${vocabulary.id}.json`);
+  }
+}

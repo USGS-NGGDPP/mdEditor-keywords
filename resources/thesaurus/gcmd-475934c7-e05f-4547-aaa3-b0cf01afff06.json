@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-03 13:23:40",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Metadata Language",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/475934c7-e05f-4547-aaa3-b0cf01afff06?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "475934c7-e05f-4547-aaa3-b0cf01afff06"
+      }
+    ]
+  },
+  "keywordType": "MetadataLanguage",
+  "label": "Metadata Language",
+  "keywords": null
+}

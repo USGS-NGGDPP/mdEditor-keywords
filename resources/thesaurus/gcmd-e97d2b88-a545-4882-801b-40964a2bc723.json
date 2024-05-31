@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-03 13:24:07",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Operations",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/e97d2b88-a545-4882-801b-40964a2bc723?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "e97d2b88-a545-4882-801b-40964a2bc723"
+      }
+    ]
+  },
+  "keywordType": "Operations",
+  "label": "Operations",
+  "keywords": null
+}

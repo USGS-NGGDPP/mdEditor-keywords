@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-03 13:23:42",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Distribution Size Unit",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/e0e6f883-9dee-4908-bb76-20adae968df1?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "e0e6f883-9dee-4908-bb76-20adae968df1"
+      }
+    ]
+  },
+  "keywordType": "DistributionSizeUnit",
+  "label": "Distribution Size Unit",
+  "keywords": null
+}

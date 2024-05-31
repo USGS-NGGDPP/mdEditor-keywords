@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-03 13:23:43",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Related URL Content Types",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/8759ab63-ac04-4136-bc25-0c00eece1096?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "8759ab63-ac04-4136-bc25-0c00eece1096"
+      }
+    ]
+  },
+  "keywordType": "rucontenttype",
+  "label": "Related URL Content Types",
+  "keywords": null
+}

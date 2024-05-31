@@ -1,8 +1,11 @@
-const axios = require('axios');
-const { loadConfig, sleep } = require('./utils');
+import axios from 'axios';
+import { sleep, writeToLocalFile } from '../utils';
 
-const CONF_JSON = 'conf/main.json';
-const { baseUrl } = loadConfig(CONF_JSON).sciencebase;
+import vocabularies from './vocabularies.json';
+
+const baseUrl = 'https://www.sciencebase.gov/vocab';
+const thesaurusPath = 'resources/thesaurus/';
+const keywordsPath = 'resources/keywords/';
 
 const getNode = async (parentId, nodeType) => {
   let params = {
@@ -14,8 +17,8 @@ const getNode = async (parentId, nodeType) => {
   };
   const response = await axios
     .get(`${baseUrl}/categories/get`, { params })
-    .then((response) => response.data)
-    .catch((error) => {
+    .then(response => response.data)
+    .catch(error => {
       console.log('Error getting node', error);
     });
   const total = response.total;
@@ -27,7 +30,7 @@ const getNode = async (parentId, nodeType) => {
       .get(`${baseUrl}/categories/get`, {
         params
       })
-      .catch((error) => {
+      .catch(error => {
         console.log('Error getting next page', error);
       });
     list = list.concat(nextResponse.data.list);
@@ -83,11 +86,11 @@ async function loadMetadataFromId(id) {
   };
   const metadata = await axios
     .get(`${baseUrl}/vocabulary/${id}`, { params })
-    .then((response) => response.data);
+    .then(response => response.data);
   return metadata;
 }
 
-function buildCitation(metadata) {
+function buildConfig(metadata) {
   return {
     citation: {
       date: [
@@ -96,7 +99,7 @@ function buildCitation(metadata) {
           dateType: ''
         }
       ],
-      description: metadata.description || 'No description available.',
+      description: metadata.description || '',
       title: metadata.name,
       edition: '',
       onlineResource: [
@@ -111,7 +114,7 @@ function buildCitation(metadata) {
       ]
     },
     keywordType: metadata.nodeType || '',
-    label: metadata.label || '',
+    label: metadata.label || metadata.name || '',
     keywords: null
   };
 }
@@ -123,11 +126,23 @@ async function generateKeywords(vocabulary) {
   return keywords;
 }
 
-async function generateCitation(vocabulary) {
+async function generateThesaurusConfig(vocabulary) {
   const { id } = vocabulary;
-  console.log(`Generating citation for ${id}`);
+  console.log(`Generating config for ${id}`);
   const metadata = await loadMetadataFromId(id);
-  return buildCitation(metadata);
+  return buildConfig(metadata);
 }
 
-module.exports = { generateCitation, generateKeywords };
+export default async function main() {
+  for (let i = 0; i < vocabularies.length; i++) {
+    const vocabulary = vocabularies[i];
+    console.log('processing vocabulary', vocabulary.id);
+    const thesaurusConfig = await generateThesaurusConfig(vocabulary);
+    const keywords = await generateKeywords(vocabulary);
+    writeToLocalFile(
+      thesaurusConfig,
+      `${thesaurusPath}sb-${vocabulary.id}.json`
+    );
+    writeToLocalFile(keywords, `${keywordsPath}sb-${vocabulary.id}.json`);
+  }
+}

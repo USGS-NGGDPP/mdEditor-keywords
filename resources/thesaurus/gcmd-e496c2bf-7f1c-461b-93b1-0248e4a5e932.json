@@ -1,0 +1,26 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-03 13:23:38",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Duration Unit",
+    "edition": "Version 18.5",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/e496c2bf-7f1c-461b-93b1-0248e4a5e932?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "e496c2bf-7f1c-461b-93b1-0248e4a5e932"
+      }
+    ]
+  },
+  "keywordType": "DurationUnit",
+  "label": "Duration Unit",
+  "keywords": null
+}

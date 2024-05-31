@@ -1,25 +1,25 @@
 {
-  "$schema": "http://json-schema.org/draft-04/schema#",
-  "id": "thesaurusConfiguration.json#",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "thesaurus-config.json#",
   "type": "object",
-  "title": "thesaurusConfiguration",
+  "title": "Thesaurus Configuration",
   "description": "Configuration for thesauri",
-  "example": "resources/thesaurus/lcc-category.json",
-  "required": ["associationType", "resourceType", "resourceCitation"],
+  "required": ["citation", "label"],
+  "oneOf": [
+    {
+      "required": ["keywords"]
+    },
+    {
+      "required": ["keywordsUrl"]
+    }
+  ],
   "additionalProperties": true,
   "properties": {
     "citation": {
       "type": "object",
       "title": "citation",
       "description": "",
-      "required": [
-        "date",
-        "description",
-        "title",
-        "edition",
-        "onlineResource",
-        "identifier"
-      ],
+      "required": ["description", "title"],
       "additionalProperties": true,
       "properties": {
         "date": {
@@ -32,11 +32,45 @@
             "properties": {
               "date": {
                 "type": "string",
-                "description": ""
+                "description": "An ISO 8601 date/timestamp.",
+                "pattern": "^(\\d{4}(-\\d{2})?(-\\d{2})?$)|(^\\d{4}-\\d{2}-\\d{2}(T\\d{2})?(\\:\\d{2}(\\:\\d{2}(\\.\\d+)?)?|Z)?(Z|(-|\\+)\\d{2}(:\\d{2})?)?$)"
               },
               "dateType": {
                 "type": "string",
-                "description": ""
+                "description": "The type of date.",
+                "codelist": "iso_dateType",
+                "enum": [
+                  "creation",
+                  "publication",
+                  "revision",
+                  "expiry",
+                  "lastUpdate",
+                  "lastRevision",
+                  "nextUpdate",
+                  "unavailable",
+                  "inForce",
+                  "adopted",
+                  "deprecated",
+                  "superseded",
+                  "validityBegins",
+                  "validityExpires",
+                  "released",
+                  "distribution",
+                  "acquisition",
+                  "assessment",
+                  "award",
+                  "collected",
+                  "due",
+                  "end",
+                  "received",
+                  "reported",
+                  "start",
+                  "transmitted"
+                ],
+                "minLength": 1
+              },
+              "description": {
+                "type": "string"
               }
             }
           }
@@ -87,7 +121,27 @@
     },
     "keywordType": {
       "type": "string",
-      "description": ""
+      "description": "",
+      "enum": [
+        "discipline",
+        "place",
+        "stratum",
+        "temporal",
+        "theme",
+        "dataCentre",
+        "featureType",
+        "instrument",
+        "platform",
+        "process",
+        "project",
+        "service",
+        "product",
+        "subTopicCategory",
+        "taxon",
+        "region",
+        "isoTopicCategory",
+        "methodology"
+      ]
     },
     "label": {
       "type": "string",
@@ -100,6 +154,7 @@
     },
     "keywordsUrl": {
       "type": "string",
+      "format": "uri",
       "description": "URL to keywords file in resources/keywords/ directory."
     }
   }

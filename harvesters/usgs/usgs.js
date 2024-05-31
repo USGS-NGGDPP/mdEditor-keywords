@@ -1,8 +1,12 @@
-const axios = require('axios');
-const { loadConfig } = require('./utils');
+import axios from 'axios';
+import { writeToLocalFile } from '../utils';
 
-const CONF_JSON = 'conf/main.json';
-const { sourceUrl } = loadConfig(CONF_JSON).usgs;
+import thesaurusConfigTemplate from './thesaurusConfig.json';
+const thesaurusDir = 'resources/thesaurus/';
+const keywordsDir = 'resources/keywords/';
+
+const sourceUrl =
+  'https://apps.usgs.gov/thesaurus/download/update-usgs-thesaurus.sql';
 
 const regex = /insert into term \(code,name,parent,scope\) values \((.*)\);$/gm;
 
@@ -13,7 +17,7 @@ const COLUMN = Object.freeze({
   SCOPE: 3
 });
 
-const parseSql = (sqlData) => {
+const parseSql = sqlData => {
   let m;
   let results = [];
   while ((m = regex.exec(sqlData)) !== null) {
@@ -29,8 +33,8 @@ const parseSql = (sqlData) => {
   return results;
 };
 
-const getRootNode = (parsedData) => {
-  const rootIndex = parsedData.findIndex((node) => {
+const getRootNode = parsedData => {
+  const rootIndex = parsedData.findIndex(node => {
     return node[COLUMN.PARENT] === '';
   });
   return parsedData[rootIndex];
@@ -38,7 +42,7 @@ const getRootNode = (parsedData) => {
 
 const findChildren = (data, parent) => {
   const results = [];
-  data.forEach((node) => {
+  data.forEach(node => {
     if (node[COLUMN.PARENT] === parent) {
       results.push({
         uuid: node[COLUMN.CODE],
@@ -51,7 +55,7 @@ const findChildren = (data, parent) => {
   return results;
 };
 
-const buildTree = (sqlData) => {
+const buildTree = sqlData => {
   const parsedData = parseSql(sqlData);
   const rootNode = getRootNode(parsedData);
   return findChildren(parsedData, rootNode[COLUMN.CODE]);
@@ -68,8 +72,17 @@ async function generateKeywords() {
   return tree;
 }
 
-function generateCitation(vocabulary) {
-  return vocabulary.citationConfig;
+function generateThesaurusConfig(keywordsPath) {
+  return {
+    ...thesaurusConfigTemplate,
+    keywordsUrl: `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/${keywordsPath}`
+  };
 }
 
-module.exports = { generateCitation, generateKeywords };
+export default async function main() {
+  const keywordsPath = `${keywordsDir}usgs-thesaurus.json`;
+  const keywords = await generateKeywords();
+  const thesaurusConfig = generateThesaurusConfig(keywordsPath);
+  writeToLocalFile(thesaurusConfig, `${thesaurusDir}usgs-thesaurus.json`);
+  writeToLocalFile(keywords, keywordsPath);
+}
