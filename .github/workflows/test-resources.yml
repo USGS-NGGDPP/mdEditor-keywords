@@ -12,10 +12,10 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: '14' # or the version you are using
+          node-version: '20'
 
       - name: Install dependencies
-        run: yarn install # or 'npm install' if you are using npm
+        run: yarn install
 
       - name: Run tests
-        run: yarn test # or the command you use to run your tests
+        run: yarn test
