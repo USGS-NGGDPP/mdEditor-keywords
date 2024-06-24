@@ -33,12 +33,11 @@
               "date": {
                 "type": "string",
                 "description": "An ISO 8601 date/timestamp.",
-                "pattern": "^(\\d{4}(-\\d{2})?(-\\d{2})?$)|(^\\d{4}-\\d{2}-\\d{2}(T\\d{2})?(\\:\\d{2}(\\:\\d{2}(\\.\\d+)?)?|Z)?(Z|(-|\\+)\\d{2}(:\\d{2})?)?$)"
+                "pattern": "^(\\d{4}(-\\d{2}(-\\d{2})?)?)$|^(\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2}(\\.\\d+)?)?(Z|([+-]\\d{2}:\\d{2}))?)?)$"
               },
               "dateType": {
                 "type": "string",
-                "description": "The type of date.",
-                "codelist": "iso_dateType",
+                "description": "The type of date. iso_dateType",
                 "enum": [
                   "creation",
                   "publication",
@@ -66,8 +65,7 @@
                   "reported",
                   "start",
                   "transmitted"
-                ],
-                "minLength": 1
+                ]
               },
               "description": {
                 "type": "string"

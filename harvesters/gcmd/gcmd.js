@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { sleep, writeToLocalFile } from '../utils';
+import dayjs from 'dayjs';
 
 import vocabularies from './vocabularies.json';
 
@@ -84,7 +85,9 @@ function buildConfig(metadata) {
     citation: {
       date: [
         {
-          date: metadata.conceptData.schemeVersion,
+          date: dayjs(metadata.conceptData.schemeVersion).format(
+            'YYYY-MM-DDTHH:mm:ss'
+          ),
           dateType: 'revision'
         }
       ],
@@ -102,9 +105,8 @@ function buildConfig(metadata) {
         }
       ]
     },
-    keywordType: metadata?.conceptData?.scheme?.shortName,
     label: metadata.conceptData.prefLabel,
-    keywords: null
+    keywordsUrl: `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-${metadata.id}.json`
   };
 }
 

@@ -14,6 +14,7 @@ describe('Thesaurus Validation', () => {
 
       if (!valid) {
         console.log(validator.errors);
+        console.log(JSON.stringify(thesaurus, null, 2));
       }
 
       expect(valid).toBe(true);
