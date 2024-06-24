@@ -752,6 +752,13 @@
             "children": []
           },
           {
+            "uuid": "6bfd2526-e039-40e0-9abe-ac370f755d20",
+            "label": "CLARREO Pathfinder",
+            "parentId": "6089b3e5-7db9-46e1-b73b-2d679f34abb4",
+            "definition": "CLARREO Pathfinder (CPF) data will do this by taking highly accurate measurements of sunlight reflected by Earth and the Moon. These measurements, which will be anchored to international standards, will be five to ten times more accurate than those from existing sensors. CPF will have the unique ability to maintain its high accuracy throughout its lifetime. CPF will also showcase novel techniques in transferring its high accuracy to other sensors monitoring Earth. Higher accuracy means greater certainty in our measurements, which makes it possible to detect Earth’s subtle climate change trends decades sooner than otherwise.\n\nMore Information: https://clarreo-pathfinder.larc.nasa.gov/",
+            "children": []
+          },
+          {
             "uuid": "6e59f4bf-41dd-4ade-9070-4efcae4628fb",
             "label": "FLOATS",
             "parentId": "6089b3e5-7db9-46e1-b73b-2d679f34abb4",
