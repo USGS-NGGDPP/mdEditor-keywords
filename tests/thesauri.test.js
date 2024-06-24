@@ -3,6 +3,7 @@ import path from 'path';
 import validator from './validator.js';
 
 const thesaurusDir = path.join(__dirname, '../../resources/thesaurus/');
+const keywordBaseDir = path.join(__dirname, '../../resources/keywords/');
 
 describe('Thesaurus Validation', () => {
   const thesaurusFiles = fs.readdirSync(thesaurusDir);
@@ -14,10 +15,23 @@ describe('Thesaurus Validation', () => {
 
       if (!valid) {
         console.log(validator.errors);
-        console.log(JSON.stringify(thesaurus, null, 2));
       }
 
       expect(valid).toBe(true);
+
+      if (thesaurus.keywordsUrl) {
+        const keywordFileName = thesaurus.keywordsUrl.split(
+          'resources/keywords/'
+        )[1];
+        const keywordFilePath = path.join(keywordBaseDir, keywordFileName);
+        const keywordFileExists = fs.existsSync(keywordFilePath);
+
+        if (!keywordFileExists) {
+          console.log(`Keyword file does not exist: ${keywordFileName}`);
+        }
+
+        expect(keywordFileExists).toBe(true);
+      }
     });
   });
 });

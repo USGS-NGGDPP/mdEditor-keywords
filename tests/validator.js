@@ -1,5 +1,5 @@
-import Ajv2020 from 'ajv/dist/2020.js';
 import addFormats from 'ajv-formats';
+import Ajv2020 from 'ajv/dist/2020.js';
 
 import { keyword, manifest, thesaurusConfig } from '../schemas/index.js';
 
