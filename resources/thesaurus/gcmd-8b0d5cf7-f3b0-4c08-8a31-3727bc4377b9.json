@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:36",
+        "date": "2024-05-31T13:32:51",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Phone Type",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/8b0d5cf7-f3b0-4c08-8a31-3727bc4377b9?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "PhoneType",
   "label": "Phone Type",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-8b0d5cf7-f3b0-4c08-8a31-3727bc4377b9.json"
 }

@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:39",
+        "date": "2024-05-31T13:32:54",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Product Level Id",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/6eb7a3bb-2330-4086-9a77-79e46470f1e6?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "ProductLevelId",
   "label": "Product Level Id",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-6eb7a3bb-2330-4086-9a77-79e46470f1e6.json"
 }

@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:41",
+        "date": "2024-05-31T13:32:55",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Contact Type",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/8c84f591-ec2b-4dc4-8002-7fc9586ffcca?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "ContactType",
   "label": "Contact Type",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-8c84f591-ec2b-4dc4-8002-7fc9586ffcca.json"
 }

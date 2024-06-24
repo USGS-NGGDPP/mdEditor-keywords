@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:38",
+        "date": "2024-05-31T13:32:52",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Organization Personnel Role",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/d6cd58e1-e83e-4718-b48d-08de1aba2f40?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "OrganizationPersonnelRole",
   "label": "Organization Personnel Role",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-d6cd58e1-e83e-4718-b48d-08de1aba2f40.json"
 }

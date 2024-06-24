@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:37",
+        "date": "2024-05-31T13:32:51",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Dataset Progress",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/1638caf0-d46c-4858-8916-ec14d82cb44c?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "DatasetProgress",
   "label": "Dataset Progress",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-1638caf0-d46c-4858-8916-ec14d82cb44c.json"
 }

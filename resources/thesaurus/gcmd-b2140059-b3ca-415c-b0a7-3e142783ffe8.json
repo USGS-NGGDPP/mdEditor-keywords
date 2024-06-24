@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-15 21:56:23",
+        "date": "2024-06-12T09:54:36",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Instruments",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/b2140059-b3ca-415c-b0a7-3e142783ffe8?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "instruments",
   "label": "Instruments",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-b2140059-b3ca-415c-b0a7-3e142783ffe8.json"
 }
