@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { sleep, writeToLocalFile } from '../utils';
+import dayjs from 'dayjs';
 
 import vocabularies from './vocabularies.json';
 
@@ -95,8 +96,8 @@ function buildConfig(metadata) {
     citation: {
       date: [
         {
-          date: '',
-          dateType: ''
+          date: dayjs().format('YYYY-MM-DDTHH:mm:ssZ'),
+          dateType: 'lastUpdate'
         }
       ],
       description: metadata.description || '',
