@@ -113,9 +113,8 @@ function buildConfig(metadata) {
         }
       ]
     },
-    keywordType: metadata.nodeType || '',
     label: metadata.label || metadata.name || '',
-    keywords: null
+    keywordsUrl: `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-${metadata.id}.json`
   };
 }
 
