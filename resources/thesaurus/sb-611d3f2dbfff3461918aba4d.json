@@ -2,8 +2,8 @@
   "citation": {
     "date": [
       {
-        "date": "",
-        "dateType": ""
+        "date": "2024-06-24T11:01:24-06:00",
+        "dateType": "lastUpdate"
       }
     ],
     "description": "",
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "vocabulary",
   "label": "Known To Contain Types",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-611d3f2dbfff3461918aba4d.json"
 }
