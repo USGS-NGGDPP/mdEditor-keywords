@@ -1,5 +1,6 @@
 import axios from 'axios';
 import { writeToLocalFile } from '../utils';
+import dayjs from 'dayjs';
 
 import thesaurusConfigTemplate from './thesaurusConfig.json';
 const thesaurusDir = 'resources/thesaurus/';
@@ -73,10 +74,14 @@ async function generateKeywords() {
 }
 
 function generateThesaurusConfig(keywordsPath) {
-  return {
-    ...thesaurusConfigTemplate,
-    keywordsUrl: `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/${keywordsPath}`
+  const thesaurusConfig = thesaurusConfigTemplate;
+  thesaurusConfig.keywordsUrl = `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/${keywordsPath}`;
+  const updateDate = {
+    date: dayjs().format('YYYY-MM-DDTHH:mm:ssZ'),
+    dateType: 'lastUpdate'
   };
+  thesaurusConfig.citation.date.push(updateDate);
+  return thesaurusConfig;
 }
 
 export default async function main() {

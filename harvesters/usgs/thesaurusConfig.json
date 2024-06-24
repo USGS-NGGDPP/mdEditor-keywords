@@ -2,8 +2,8 @@
   "citation": {
     "date": [
       {
-        "date": "2020-01-09",
-        "dateType": "revision"
+        "date": "",
+        "dateType": ""
       }
     ],
     "description": "Topics and methods of scientific study carried out by USGS, with product types, scientific disciplines, geologic time, and types of institutional structure and activities. Broad and shallow, used to help people find scientific information.",
@@ -20,7 +20,5 @@
       }
     ]
   },
-  "keywordType": "usgsThesaurus",
-  "label": "USGS Thesaurus",
-  "keywords": null
+  "label": "USGS Thesaurus"
 }
