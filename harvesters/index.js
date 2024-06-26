@@ -1,9 +1,10 @@
 import gcmd from './gcmd';
 import gnis from './gnis';
+import lithography from './lithography';
 import sciencebase from './sciencebase';
 import usgs from './usgs';
 
-const harvesters = { gcmd, gnis, sciencebase, usgs };
+const harvesters = { gcmd, gnis, lithography, sciencebase, usgs };
 
 // Function to run a specific harvester
 const runHarvester = name => {
