@@ -1006,6 +1006,13 @@
         "children": []
       },
       {
+        "uuid": "ea7c4eed-f0c4-47a6-9ba9-1a4aafee19c4",
+        "label": "WAV",
+        "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
+        "definition": "WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft’s Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn’t apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard formats for audio CDs. WAV files are larger in size as compared to new audio file formats such as MP3. WAV files provide the highest possible sound quality, making it the most suitable format for applications with critical audio quality. MP3, on the other hand, loses some of the original audio data and provides moderate-quality sound. WAV files can be compressed using Audio Compression Manager (ACM) codecs. There are several APIs and applications available that can convert WAV files to other popular audio file formats.",
+        "children": []
+      },
+      {
         "uuid": "ebe6f3c4-a78f-4152-977c-296d42e4e9e8",
         "label": "AREA",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
@@ -1066,13 +1073,6 @@
         "label": "netCDF-4 classic",
         "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
         "definition": "The purpose of the Network Common Data Form (netCDF) interface is to allow you to create, access, and share array-oriented data in a form that is self-describing and portable. 'Self-describing' means that a dataset includes information defining the data it contains. 'Portable' means that the data in a dataset is represented in a form that can be accessed by computers with different ways of storing integers, characters, and floating-point numbers.",
-        "children": []
-      },
-      {
-        "uuid": "ea7c4eed-f0c4-47a6-9ba9-1a4aafee19c4",
-        "label": "WAV",
-        "parentId": "8e770fe1-6e82-43aa-9f8a-75d217d7e6cb",
-        "definition": "WAV, known for WAVE (Waveform Audio File Format), is a subset of Microsoft’s Resource Interchange File Format (RIFF) specification for storing digital audio files. The format doesn’t apply any compression to the bitstream and stores the audio recordings with different sampling rates and bitrates. It has been and is one of the standard formats for audio CDs. WAV files are larger in size as compared to new audio file formats such as MP3. WAV files provide the highest possible sound quality, making it the most suitable format for applications with critical audio quality. MP3, on the other hand, loses some of the original audio data and provides moderate-quality sound. WAV files can be compressed using Audio Compression Manager (ACM) codecs. There are several APIs and applications available that can convert WAV files to other popular audio file formats.",
         "children": []
       }
     ]

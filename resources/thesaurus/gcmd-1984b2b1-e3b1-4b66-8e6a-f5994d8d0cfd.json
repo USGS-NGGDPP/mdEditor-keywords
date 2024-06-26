@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:39",
+        "date": "2024-05-31T13:32:53",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Coordinate System",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/1984b2b1-e3b1-4b66-8e6a-f5994d8d0cfd?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "CoordinateSystem",
   "label": "Coordinate System",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-1984b2b1-e3b1-4b66-8e6a-f5994d8d0cfd.json"
 }

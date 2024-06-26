@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:03",
+        "date": "2024-05-31T13:32:17",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Disciplines",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/5b98265f-7cd1-4976-bc78-1ac1e6b9b90f?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "discipline",
   "label": "Disciplines",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-5b98265f-7cd1-4976-bc78-1ac1e6b9b90f.json"
 }

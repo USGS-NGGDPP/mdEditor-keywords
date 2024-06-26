@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:19:52",
+        "date": "2024-05-31T13:29:07",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Chronostratigraphic Units",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "chronounits",
   "label": "Chronostratigraphic Units",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190.json"
 }

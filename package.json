@@ -1,6 +1,6 @@
 {
   "name": "harvesters",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "main": "harvesters/index.js",
   "license": "ISC",
@@ -46,6 +46,7 @@
     "ajv-formats": "^3.0.1",
     "axios": "^1.6.8",
     "babel-jest": "^29.7.0",
+    "dayjs": "^1.11.11",
     "eslint": "8.57.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-import": "^2.29.1",

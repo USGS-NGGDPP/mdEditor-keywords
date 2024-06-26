@@ -61,6 +61,13 @@
         "children": []
       },
       {
+        "uuid": "6f3ef789-a98a-403d-b976-63e0f0e6cdad",
+        "label": "Multi-Year",
+        "parentId": "502ad03c-dba8-4b32-8af5-13fa947c3988",
+        "definition": "Data whose temporal range spans across multiple years.",
+        "children": []
+      },
+      {
         "uuid": "7afdb8ba-a504-45b6-b301-730e3c69d23a",
         "label": "Subannual",
         "parentId": "502ad03c-dba8-4b32-8af5-13fa947c3988",

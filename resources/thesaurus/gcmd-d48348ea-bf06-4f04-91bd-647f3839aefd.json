@@ -2,13 +2,13 @@
   "citation": {
     "date": [
       {
-        "date": "2024-05-03 13:23:39",
+        "date": "2024-05-31T13:32:53",
         "dateType": "revision"
       }
     ],
     "description": "No description available.",
     "title": "Global Change Master Directory (GCMD) Granule Spatial Representation",
-    "edition": "Version 18.5",
+    "edition": "Version 18.7",
     "onlineResource": [
       {
         "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/d48348ea-bf06-4f04-91bd-647f3839aefd?format=json"
@@ -20,7 +20,6 @@
       }
     ]
   },
-  "keywordType": "GranuleSpatialRepresentation",
   "label": "Granule Spatial Representation",
-  "keywords": null
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-d48348ea-bf06-4f04-91bd-647f3839aefd.json"
 }
