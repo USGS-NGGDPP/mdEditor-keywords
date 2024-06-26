@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-24T11:19:43-06:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "Favret Processing State (dry)",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/611286a0f0d1326bc2b4befc"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "611286a0f0d1326bc2b4befc"
+      }
+    ]
+  },
+  "label": "Favret Processing State (dry)",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-611286a0f0d1326bc2b4befc.json"
+}

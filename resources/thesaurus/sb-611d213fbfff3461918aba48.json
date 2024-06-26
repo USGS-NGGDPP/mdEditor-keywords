@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-24T11:22:47-06:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "Hazardous Materials",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/611d213fbfff3461918aba48"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "611d213fbfff3461918aba48"
+      }
+    ]
+  },
+  "label": "Hazardous Materials",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-611d213fbfff3461918aba48.json"
+}

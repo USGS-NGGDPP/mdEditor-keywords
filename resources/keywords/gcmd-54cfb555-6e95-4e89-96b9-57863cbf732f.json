@@ -1,0 +1,44 @@
+[
+  {
+    "uuid": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+    "label": "Product Flag",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "49ec20fd-a4a3-407a-9c2d-463c416599ea",
+        "label": "DATA_PRODUCT_FILE",
+        "parentId": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "54019f73-1c31-4d77-9b3c-1554e73b0ae0",
+        "label": "Not provided",
+        "parentId": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "7f4bc10d-f41f-4fe8-aae4-6a0eab3f6857",
+        "label": "INSTRUMENT_ANCILLARY_FILE",
+        "parentId": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "a4278bde-151c-4801-8d22-8d8792927514",
+        "label": "SYSTEM/SPACECRAFT_FILE",
+        "parentId": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "ece2e7b5-d379-4efc-89c2-fbc3ede67768",
+        "label": "EXTERNAL_DATA",
+        "parentId": "54cfb555-6e95-4e89-96b9-57863cbf732f",
+        "definition": "",
+        "children": []
+      }
+    ]
+  }
+]

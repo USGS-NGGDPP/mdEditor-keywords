@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-24T11:22:45-06:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "Known To Contain Types",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/611d3f2dbfff3461918aba4d"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "611d3f2dbfff3461918aba4d"
+      }
+    ]
+  },
+  "label": "Known To Contain Types",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-611d3f2dbfff3461918aba4d.json"
+}

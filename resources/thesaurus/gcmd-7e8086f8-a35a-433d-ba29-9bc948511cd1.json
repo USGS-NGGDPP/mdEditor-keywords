@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-31T13:33:23",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Projection Datum Names",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/7e8086f8-a35a-433d-ba29-9bc948511cd1?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "7e8086f8-a35a-433d-ba29-9bc948511cd1"
+      }
+    ]
+  },
+  "label": "Projection Datum Names",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-7e8086f8-a35a-433d-ba29-9bc948511cd1.json"
+}
