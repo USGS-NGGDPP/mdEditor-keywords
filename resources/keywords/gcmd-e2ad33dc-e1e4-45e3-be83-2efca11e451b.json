@@ -1,0 +1,100 @@
+[
+  {
+    "uuid": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+    "label": "Multimedia Format",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "19b5c701-cc2e-48c9-baef-8114227eb3d3",
+        "label": "PNG",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "1ee695e1-c605-43d1-aab1-7675ecbfcfe8",
+        "label": "KML",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "3ceee090-4603-4477-af9c-ca67826b2858",
+        "label": "MOV",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "3e79ed27-4b27-4972-ab89-31684011036d",
+        "label": "KMZ",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "5e0bd108-139d-408b-9eb1-5b5669e2e1cf",
+        "label": "MPEG",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "61f4d33d-c3af-463a-9dd9-ba415b7e490b",
+        "label": "JPEG",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "647c184f-a699-499a-987f-dc9f58ce9747",
+        "label": "GIF",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "6b133771-b2dd-4224-8a2b-05d972ec7702",
+        "label": "ASCII",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "6d94ee8f-dfc2-4012-873c-c30ca0f6d94f",
+        "label": "Web Site",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "708a4a70-53e6-4037-8c16-029d8e2b34f0",
+        "label": "ESRI",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "8128c9f4-f379-48c9-92b0-e6a74b665a7d",
+        "label": "PDF",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "b4aad02f-65c3-46b7-8541-582c5cec4939",
+        "label": "MBP",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "bd03a577-5e34-4bae-bff1-1412c7c4f7fc",
+        "label": "TIFF",
+        "parentId": "e2ad33dc-e1e4-45e3-be83-2efca11e451b",
+        "definition": "",
+        "children": []
+      }
+    ]
+  }
+]

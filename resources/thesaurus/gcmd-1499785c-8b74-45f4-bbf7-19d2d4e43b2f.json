@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-31T13:32:26",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Horizontal Resolution Ranges",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/1499785c-8b74-45f4-bbf7-19d2d4e43b2f?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "1499785c-8b74-45f4-bbf7-19d2d4e43b2f"
+      }
+    ]
+  },
+  "label": "Horizontal Resolution Ranges",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-1499785c-8b74-45f4-bbf7-19d2d4e43b2f.json"
+}

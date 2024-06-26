@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-31T13:32:53",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Collection Data Type",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/62a5777d-3582-498a-b900-54110baf8eb4?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "62a5777d-3582-498a-b900-54110baf8eb4"
+      }
+    ]
+  },
+  "label": "Collection Data Type",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-62a5777d-3582-498a-b900-54110baf8eb4.json"
+}

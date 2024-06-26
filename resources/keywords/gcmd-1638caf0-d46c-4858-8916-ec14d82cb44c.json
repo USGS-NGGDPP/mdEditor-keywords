@@ -1,0 +1,30 @@
+[
+  {
+    "uuid": "1638caf0-d46c-4858-8916-ec14d82cb44c",
+    "label": "Dataset Progress",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "0f1e9a71-9bda-43d6-86ef-f29472c36ebf",
+        "label": "PLANNED",
+        "parentId": "1638caf0-d46c-4858-8916-ec14d82cb44c",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "4607c5df-a8ed-415b-b962-d28e7583d1ef",
+        "label": "COMPLETE",
+        "parentId": "1638caf0-d46c-4858-8916-ec14d82cb44c",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "946029f4-771c-4399-b0ed-e9e709f05fc1",
+        "label": "IN WORK",
+        "parentId": "1638caf0-d46c-4858-8916-ec14d82cb44c",
+        "definition": "",
+        "children": []
+      }
+    ]
+  }
+]

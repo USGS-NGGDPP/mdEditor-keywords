@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-31T13:32:51",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Product Flag",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/54cfb555-6e95-4e89-96b9-57863cbf732f?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "54cfb555-6e95-4e89-96b9-57863cbf732f"
+      }
+    ]
+  },
+  "label": "Product Flag",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-54cfb555-6e95-4e89-96b9-57863cbf732f.json"
+}

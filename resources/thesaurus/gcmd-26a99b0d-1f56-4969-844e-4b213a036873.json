@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-05-31T13:32:54",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Spatial Coverage Type",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/26a99b0d-1f56-4969-844e-4b213a036873?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "26a99b0d-1f56-4969-844e-4b213a036873"
+      }
+    ]
+  },
+  "label": "Spatial Coverage Type",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-26a99b0d-1f56-4969-844e-4b213a036873.json"
+}

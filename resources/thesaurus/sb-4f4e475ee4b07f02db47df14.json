@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-24T10:58:43-06:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "primaryPurpose",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/4f4e475ee4b07f02db47df14"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "4f4e475ee4b07f02db47df14"
+      }
+    ]
+  },
+  "label": "primaryPurpose",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-4f4e475ee4b07f02db47df14.json"
+}

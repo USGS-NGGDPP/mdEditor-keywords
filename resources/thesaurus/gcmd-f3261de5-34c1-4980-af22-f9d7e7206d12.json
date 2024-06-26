@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-07T15:02:33",
+        "dateType": "revision"
+      }
+    ],
+    "description": "No description available.",
+    "title": "Global Change Master Directory (GCMD) Platforms",
+    "edition": "Version 18.7",
+    "onlineResource": [
+      {
+        "uri": "https://gcmd.earthdata.nasa.gov/kms/concept/f3261de5-34c1-4980-af22-f9d7e7206d12?format=json"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "f3261de5-34c1-4980-af22-f9d7e7206d12"
+      }
+    ]
+  },
+  "label": "Platforms",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gcmd-f3261de5-34c1-4980-af22-f9d7e7206d12.json"
+}

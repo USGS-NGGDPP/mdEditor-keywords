@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2024-06-24T11:19:36-06:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "Favret Container Condition (fluid)",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/6112869ef0d1326bc2b4bee9"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "6112869ef0d1326bc2b4bee9"
+      }
+    ]
+  },
+  "label": "Favret Container Condition (fluid)",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-6112869ef0d1326bc2b4bee9.json"
+}
