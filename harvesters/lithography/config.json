@@ -1,0 +1,6 @@
+{
+  "THCODE": "4",
+  "BASE_URL": "https://apps.usgs.gov/",
+  "THESAURUS": "thesaurus/thesaurus.php",
+  "TERM": "thesaurus/term.php"
+}
