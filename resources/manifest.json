@@ -168,6 +168,10 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gcmd-fb0b9fcd-5c96-4989-8c64-a479bbed83ab.json"
   },
   {
+    "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-antarctica.json"
+  },
+  {
     "name": "userGroup",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/sb-4f4e475ee4b07f02db47df0b.json"
   },
