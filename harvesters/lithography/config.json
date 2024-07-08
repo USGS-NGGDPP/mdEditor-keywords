@@ -1,6 +1,8 @@
 {
-  "LITHOGRAPHY_CODE": "23",
+  "LITHOGRAPHY_CODE": "4",
   "BASE_URL": "https://apps.usgs.gov/",
   "THESAURUS": "thesaurus/thesaurus.php",
-  "TERM": "thesaurus/term.php"
+  "TERM": "thesaurus/term.php",
+  "THESAURUS_DIR": "resources/thesaurus/",
+  "KEYWORDS_DIR": "resources/keywords/"
 }
