@@ -1,8 +1,10 @@
 {
   "LITHOGRAPHY_CODE": "4",
+  "LITHOGRAPHY_LABEL": "Lithography",
+  "BASE_REPO_URL": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main",
   "BASE_URL": "https://apps.usgs.gov/",
-  "THESAURUS": "thesaurus/thesaurus.php",
+  "KEYWORDS_DIR": "resources/keywords",
   "TERM": "thesaurus/term.php",
-  "THESAURUS_DIR": "resources/thesaurus/",
-  "KEYWORDS_DIR": "resources/keywords/"
+  "THESAURUS": "thesaurus/thesaurus.php",
+  "THESAURUS_DIR": "resources/thesaurus"
 }

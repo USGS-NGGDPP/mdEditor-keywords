@@ -240,6 +240,10 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/sb-611d3f2dbfff3461918aba4d.json"
   },
   {
+    "name": "Lithography",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-4-lithclass.json"
+  },
+  {
     "name": "USGS Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-thesaurus.json"
   }

@@ -2,7 +2,16 @@ import axios from 'axios';
 import { writeToLocalFile } from '../utils';
 import config from './config.json';
 
-const { BASE_URL, THESAURUS, TERM, LITHOGRAPHY_CODE } = config;
+const {
+  LITHOGRAPHY_CODE,
+  LITHOGRAPHY_LABEL,
+  BASE_REPO_URL,
+  BASE_URL,
+  KEYWORDS_DIR,
+  TERM,
+  THESAURUS,
+  THESAURUS_DIR
+} = config;
 
 async function getThesaurus(thcode) {
   const thesaurusUrl = `${BASE_URL}${THESAURUS}?thcode=${thcode}`;
@@ -65,17 +74,54 @@ async function generateKeywords(name, thcode, root_code) {
   return rootKeyword;
 }
 
-async function harvestLithography() {
-  const thesaurus = await getThesaurus(LITHOGRAPHY_CODE);
-  const { name, root_code } = thesaurus;
-  const keywords = [await generateKeywords(name, LITHOGRAPHY_CODE, root_code)];
-  writeToLocalFile(thesaurus, 'tmp/thesaurus.json');
-  writeToLocalFile(keywords, 'tmp/keywords.json');
+function generateThesaurusConfig(thesaurus, filename) {
+  console.log('Generating thesaurus config');
+  if (!thesaurus.name) {
+    throw new Error('Thesaurus name is required');
+  }
+  if (!filename) {
+    throw new Error('Keywords URL is required');
+  }
+  return {
+    citation: {
+      date: [
+        {
+          date: thesaurus.date || null,
+          dateType: 'revision'
+        }
+      ],
+      description: thesaurus.scope || 'No description available',
+      title: thesaurus.name,
+      edition: thesaurus.edition || null,
+      onlineResource: [
+        {
+          uri: thesaurus.uri || null
+        }
+      ],
+      identifier: [
+        {
+          identifier: thesaurus.thcode
+        }
+      ]
+    },
+    label: LITHOGRAPHY_LABEL,
+    keywordsUrl: `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`
+  };
+}
+
+async function harvestVocabulary(thcode) {
+  const thesaurus = await getThesaurus(thcode);
+  const { name, root_code, prefix } = thesaurus;
+  const filename = `usgs-${thcode}-${prefix}.json`;
+  const keywords = [await generateKeywords(name, thcode, root_code)];
+  writeToLocalFile(keywords, `${KEYWORDS_DIR}/${filename}`);
+  const thesaurusConfig = generateThesaurusConfig(thesaurus, filename);
+  writeToLocalFile(thesaurusConfig, `${THESAURUS_DIR}/${filename}`);
 }
 
 export default async function main() {
   try {
-    await harvestLithography();
+    await harvestVocabulary(LITHOGRAPHY_CODE);
   } catch (error) {
     console.error('Error:', error);
   }
