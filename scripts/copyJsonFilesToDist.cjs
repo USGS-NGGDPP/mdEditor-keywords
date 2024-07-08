@@ -1,18 +1,28 @@
 const fs = require('fs-extra');
+const path = require('path');
 
 const copyJsonFilesToDist = async () => {
-  await fs.copy(
-    './harvesters/gcmd/vocabularies.json',
-    './dist/harvesters/gcmd/vocabularies.json'
-  );
-  await fs.copy(
-    './harvesters/sciencebase/vocabularies.json',
-    './dist/harvesters/sciencebase/vocabularies.json'
-  );
-  await fs.copy(
-    './harvesters/usgs/thesaurusConfig.json',
-    './dist/harvesters/usgs/thesaurusConfig.json'
-  );
+  const srcDir = './harvesters';
+  const destDir = './dist/harvesters';
+
+  const copyFiles = async (dir, dest) => {
+    const entries = await fs.readdir(dir, { withFileTypes: true });
+
+    for (const entry of entries) {
+      const srcPath = path.join(dir, entry.name);
+      const destPath = path.join(dest, entry.name);
+
+      if (entry.isDirectory()) {
+        await copyFiles(srcPath, destPath);
+      } else if (entry.isFile() && path.extname(entry.name) === '.json') {
+        await fs.copy(srcPath, destPath);
+      }
+    }
+  };
+
+  await copyFiles(srcDir, destDir);
 };
 
-copyJsonFilesToDist();
+copyJsonFilesToDist()
+  .then(() => console.log('JSON files copied successfully'))
+  .catch(err => console.error('Error copying JSON files:', err));

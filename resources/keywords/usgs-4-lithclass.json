@@ -1,0 +1,1297 @@
+[
+  {
+    "uuid": "0",
+    "label": "Earth material",
+    "definition": "Geologic map unit classification (Bruce R. Johnson) version 6.2: A hierarchical classification of earth materials for digital geologic maps.",
+    "children": [
+      {
+        "uuid": "5",
+        "label": "Metamorphic rock",
+        "definition": "A rock derived from pre-existing rocks by mineralogical, chemical, and/or structural changes, essentially in the solid state, in response to marked changes in temperature, pressure, shearing stress, and chemical environment, generally at depth in the earth's crust.",
+        "children": [
+          {
+            "uuid": "5.8",
+            "label": "Amphibolite",
+            "definition": "A crystalloblastic rock consisting mainly of amphibole and plagioclase with little or no quartz.",
+            "children": []
+          },
+          {
+            "uuid": "5.13",
+            "label": "Calc-silicate rock",
+            "definition": "A metamorphic rock consisting mainly of calcium-bearing silicates such as diopside and wollastonite, and formed by metamorphism of impure limestone or dolomite.",
+            "children": []
+          },
+          {
+            "uuid": "5.10",
+            "label": "Eclogite",
+            "definition": "A granular rock composed essentially of garnet (almandine-pyrope) and sodic pyroxene (omphacite).",
+            "children": []
+          },
+          {
+            "uuid": "5.7",
+            "label": "Gneiss",
+            "definition": "A foliated rock formed by regional metamorphism, in which bands or lenticles of granular minerals alternate with bands or lenticles in which minerals having flaky or elongate prismatic habits predominate. Generally less than 50% of the minerals show preferred orientation.",
+            "children": [
+              {
+                "uuid": "5.7.1",
+                "label": "Felsic gneiss",
+                "definition": "A gneissic rock dominated by light-colored minerals, commonly quartz and feldspar",
+                "children": [
+                  {
+                    "uuid": "5.7.1.1",
+                    "label": "Granitic gneiss",
+                    "definition": "A gneissic rock with a general granitoid composition",
+                    "children": [
+                      {
+                        "uuid": "5.7.1.1.1",
+                        "label": "Biotite gneiss",
+                        "definition": "A granitic gneiss in which the dominant mafic mineral is biotite",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "5.7.2",
+                "label": "Mafic gneiss",
+                "definition": "A gneissic rock dominated by dark-colored minerals, commonly biotite and hornblende",
+                "children": []
+              },
+              {
+                "uuid": "5.7.5",
+                "label": "Migmatite",
+                "definition": "A composite \"mixed rock\" composed of igneous or igneous-appearing and metamorphic portions",
+                "children": []
+              },
+              {
+                "uuid": "5.7.3",
+                "label": "Orthogneiss",
+                "definition": "A gneissic rock formed from an igneous parent",
+                "children": []
+              },
+              {
+                "uuid": "5.7.4",
+                "label": "Paragneiss",
+                "definition": "A gneissic rock formed from a sedimentary parent",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5.6",
+            "label": "Granofels",
+            "definition": "A medium- to coarse-grained granoblastic metamorphic rock with little or no foliation or lineation.",
+            "children": []
+          },
+          {
+            "uuid": "5.9",
+            "label": "Granulite",
+            "definition": "A metamorphic rock consisting of even-sized, interlocking mineral grains less than 10% of which have any obvious preferred orientation.",
+            "children": []
+          },
+          {
+            "uuid": "5.11",
+            "label": "Greisen",
+            "definition": "A pneumatolytically altered granitic rock composed largely of quartz, mica, and topaz.",
+            "children": []
+          },
+          {
+            "uuid": "5.1",
+            "label": "Hornfels",
+            "definition": "A fine-grained rock composed of a mosaic of equidimensional grains without preferred orientation and typically formed by contact metamorphism.",
+            "children": []
+          },
+          {
+            "uuid": "5.2",
+            "label": "Metasedimentary rock",
+            "definition": "A sedimentary rock that shows evidence of having been subjected to metamorphism.",
+            "children": [
+              {
+                "uuid": "5.2.5",
+                "label": "Marble",
+                "definition": "A metamorphic rock consisting predominantly of fine- to coarse-grained recrystallized calcite and/or dolomite, usually with a granoblastic, saccharoidal texture.",
+                "children": []
+              },
+              {
+                "uuid": "5.2.1",
+                "label": "Meta-argillite",
+                "definition": "An argillite that has been metamorphosed.",
+                "children": []
+              },
+              {
+                "uuid": "5.2.4",
+                "label": "Metaconglomerate",
+                "definition": "A metamorphic rock formed by recrystallization of a conglomerate.",
+                "children": []
+              },
+              {
+                "uuid": "5.2.3",
+                "label": "Quartzite",
+                "definition": "A granoblastic metamorphic rock consisting mainly of quartz and formed by recrystallization of sandstone or chert by either regional or thermal metamorphism.",
+                "children": []
+              },
+              {
+                "uuid": "5.2.2",
+                "label": "Slate",
+                "definition": "A compact, fine-grained metamorphic rock that possesses slaty cleavage and hence can be split into slabs and thin plates",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5.3",
+            "label": "Metavolcanic rock",
+            "definition": "A volcanic rock that shows evidence of having been subjected to metamorphism.",
+            "children": [
+              {
+                "uuid": "5.3.1",
+                "label": "Felsic metavolcanic rock",
+                "definition": "A metavolcanic rock having abundant light-colored minerals, typically quartz and feldspar",
+                "children": [
+                  {
+                    "uuid": "5.3.1.2",
+                    "label": "Keratophyre",
+                    "definition": "...all salic extrusive and hypabyssal rocks characterized by the presence of albite or albite-oligoclase and chlorite, epidote, and calcite, generally of secondary order.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "5.3.1.1",
+                    "label": "Metarhyolite",
+                    "definition": "A low-grade, felsic metavolcanic rock with preserved evidence of its original rhyolitic character",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "5.3.2",
+                "label": "Intermediate metavolcanic rock",
+                "definition": "A metavolcanic rock having approximately equal light- and dark-colored minerals in its mode",
+                "children": []
+              },
+              {
+                "uuid": "5.3.3",
+                "label": "Mafic metavolcanic rock",
+                "definition": "A metavolcanic rock having abundant dark-colored minerals, typically feldspar, amphibole, and/or pyroxene",
+                "children": [
+                  {
+                    "uuid": "5.3.3.3",
+                    "label": "Greenstone",
+                    "definition": "A field term applied to any compact, dark-green, altered or metamorphosed basic igneous rock (e.g. spilite, basalt, gabbro, diabase) that owes its color to the presence of chlorite, actinolite, or epidote.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "5.3.3.1",
+                    "label": "Metabasalt",
+                    "definition": "A low-grade, mafic metavolcanic rock with preserved evidence of its original basaltic character",
+                    "children": []
+                  },
+                  {
+                    "uuid": "5.3.3.2",
+                    "label": "Spilite",
+                    "definition": "An altered basalt, characteristically amygdaloidal or vesicular, in which the feldspar has been albitized and is typically accompanied by chlorite, calcite, epidote, chalcedony, prehnite, or other low-temperature hydrous crystallization products characteristic of a greenstone.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "5.4",
+            "label": "Phyllite",
+            "definition": "A metamorphosed rock, intermediate in grade between slate and mica schist. Minute crystals of graphite, sericite, or chlorite impart a silky sheen to the surfaces of cleavage (or schistosity).",
+            "children": []
+          },
+          {
+            "uuid": "5.5",
+            "label": "Schist",
+            "definition": "A strongly foliated crystalline rock, formed by dynamic metamorphism, that can be readily split into thin flakes or slabs due to the well developed parallelism of more than 50% of the minerals present, particularly those of the lamellar or elongate prismatic habit, e.g. mica and hornblende.",
+            "children": [
+              {
+                "uuid": "5.5.7",
+                "label": "Amphibole schist",
+                "definition": "A schist whose essential constituent is amphibole with lesser amounts of feldspar, quartz, and/or mica",
+                "children": []
+              },
+              {
+                "uuid": "5.5.2",
+                "label": "Blueschist",
+                "definition": "A schistose metamorphic rock with a blue color owing to the presence of sodic amphibole, glaucophane, or crossite, and commonly mottled bluish-gray lawsonite; characteristic of metamorphism in areas of unusually low thermal gradient, such as subduction zones",
+                "children": []
+              },
+              {
+                "uuid": "5.5.6",
+                "label": "Calc-silicate schist",
+                "definition": "A metamorphosed calcareous rock, commonly derived from argillaceous limestone or calcareous mudstone, containing calcium-bearing silicates such as diopside and wollastonite, with a schistose structure produced by parallelism of platy minerals",
+                "children": []
+              },
+              {
+                "uuid": "5.5.1",
+                "label": "Greenschist",
+                "definition": "A schistose metamorphic rock whose green color is due to the presence of chlorite, epidote, or actinolite; a common product of low-grade regional metamorphism of pelitic or basic igneous rocks",
+                "children": []
+              },
+              {
+                "uuid": "5.5.3",
+                "label": "Mica schist",
+                "definition": "A schist whose essential constituents are mica and quartz, and whose schistosity is mainly due to the parallel arrangement of mica flakes.",
+                "children": []
+              },
+              {
+                "uuid": "5.5.4",
+                "label": "Pelitic schist",
+                "definition": "A schistose metamorphic rock derived by metamorphism of an argillaceous or a fine-grained alluminous sediment.",
+                "children": []
+              },
+              {
+                "uuid": "5.5.5",
+                "label": "Quartz-feldspar schist",
+                "definition": "A schist whose essential constituents are quartz and feldspar and having lesser amounts of mica and/or hornblende",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5.14",
+            "label": "Serpentinite",
+            "definition": "A rock consisting almost wholly of serpentine-group minerals derived from the hydration of ferromagnesian silicate minerals such as olivine and pyroxene.",
+            "children": []
+          },
+          {
+            "uuid": "5.12",
+            "label": "Skarn",
+            "definition": "A rock of complex mineralogic composition formed by contact metamorphism and metasomatism of carbonate rocks.  It is typically coarse-grained and rich in garnet, iron-rich pyroxene, epidote, wollastonite, and scapolite.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "4",
+        "label": "Plutonic rock",
+        "definition": "A rock formed at considerable depth by crystallization of magma and/or by chemical alteration.  It is characteristically medium- to coarse-grained, of granitoid texture.",
+        "children": [
+          {
+            "uuid": "4.6",
+            "label": "Alkalic intrusive rock",
+            "definition": "A plutonic rock that contains more sodium and/or potassium than is required to form feldspar with the available silica.",
+            "children": [
+              {
+                "uuid": "4.6.1",
+                "label": "Nepheline syenite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having F/(F+A+P) between 10 an 60%, and P/(P+A) < 50%; composed essentially of alkali feldspar and nepheline...",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4.1",
+            "label": "Aplite",
+            "definition": "A light-colored igneous rock characterized by a fine-grained allotriomorphic-granular (i.e. aplitic) texture.",
+            "children": []
+          },
+          {
+            "uuid": "4.5",
+            "label": "Gabbroid",
+            "definition": "A plutonic rock with Q < 20% or F < 10%, P/(A+P) > 65%, and pl/(pl+px+ol) between 10 and 90%.",
+            "children": [
+              {
+                "uuid": "4.5.5",
+                "label": "Anorthosite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 0 and 5, P/(A+P) greater than 90, and M less than 10.  A group of monomineralogic plutonic igneous rocks composed almost entirely of plagioclase feldspar...",
+                "children": []
+              },
+              {
+                "uuid": "4.5.4",
+                "label": "Gabbro",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 0 and 5% or F/(F+A+P) < 10%, P/(A+P) greater than 90% and plagioclase more calcic than An50",
+                "children": [
+                  {
+                    "uuid": "4.5.4.1",
+                    "label": "Norite",
+                    "definition": "A plutonic rock satisfying the definition of gabbro, in which pl/(pl+px+ol) is between 10 and 90% and opx/(opx+cpx) is greater than 95%.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4.5.4.2",
+                    "label": "Troctolite",
+                    "definition": "A plutonic rock satisfying the definition of gabbro, in which pl/(pl+px+ol) is between 10 and 90% and px/(pl+px+ol) is less than 5%.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4.5.2",
+                "label": "Monzogabbro",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q < 5% or F/(F+A+P) < 10%, and P/(A+P) between 65 and 90%, and plagioclase more calcic than An50 ",
+                "children": []
+              },
+              {
+                "uuid": "4.5.3",
+                "label": "Quartz gabbro",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20%, P/(A+P) > 90%, and plagioclase more calcic than An50",
+                "children": []
+              },
+              {
+                "uuid": "4.5.1",
+                "label": "Quartz monzogabbro",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20% and P/(A+P) between 65 and 90%, and plagioclase more calcic than An50 ",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4.4",
+            "label": "Granitoid",
+            "definition": "A general term for all phaneritic igneous rocks dominated by quartz and feldspars.",
+            "children": [
+              {
+                "uuid": "4.4.1",
+                "label": "Alkali-feldspar granite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 20 and 60% and P/(A+P) < 10%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.5",
+                "label": "Alkali-feldspar syenite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, and P/(P+A) < 10%...",
+                "children": []
+              },
+              {
+                "uuid": "4.4.13",
+                "label": "Diorite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 0 and 5% or F/(F+A+P) < 10%, P/(A+P) greater than 90% and plagioclase more sodic than An50",
+                "children": [
+                  {
+                    "uuid": "4.4.13.1",
+                    "label": "Diabase",
+                    "definition": "A plutonic rock whose main components are labradorite and pyroxene and which is characterized by ophitic texture.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4.4.2",
+                "label": "Granite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 20 and 60% and P/(A+P) between 10 and 65%",
+                "children": [
+                  {
+                    "uuid": "4.4.2.2",
+                    "label": "Metaluminous granite",
+                    "definition": "A granite with aluminum oxide > sodium oxide + potassium oxide, but with aluminum oxide < sodium oxide + potassium oxide + calcium oxide; typical accessories include: hornblende, epidote, melilite, or biotite + pyroxene",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4.4.2.4",
+                    "label": "Peralkaline granite",
+                    "definition": "A granite with aluminum oxide < sodium oxide + potassium oxide; typical accessories include: soda pyroxene and soda amphibole",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4.4.2.1",
+                    "label": "Peraluminous granite",
+                    "definition": "A granite with aluminum oxide > sodium oxide + potassium oxide + calcium oxide; typical accessories include: muscovite, biotite, corundum, topaz, garnet",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4.4.2.3",
+                    "label": "Subaluminous granite",
+                    "definition": "A granite with aluminum oxide approximately equal to sodium oxide + potassium oxide; typical accessories include: olivine, orthopyroxene, clinopyroxene",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4.4.3",
+                "label": "Granodiorite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 20 and 60% and P/(A+P) between 65 and 90%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.11",
+                "label": "Monzodiorite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q < 5% or F/(F+A+P) < 10%, and P/(A+P) between 65 and 90%, and plagioclase more sodic than An50 ",
+                "children": []
+              },
+              {
+                "uuid": "4.4.9",
+                "label": "Monzonite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q < 5% or F/(F+A+P) < 10%, and P/(A+P) between 35 and 65%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.12",
+                "label": "Quartz diorite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20%, P/(A+P) > 90%, and plagioclase more sodic than An50",
+                "children": []
+              },
+              {
+                "uuid": "4.4.10",
+                "label": "Quartz monzodiorite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20% and P/(A+P) between 65 and 90%, and plagioclase more sodic than An50 ",
+                "children": []
+              },
+              {
+                "uuid": "4.4.8",
+                "label": "Quartz monzonite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20% and P/(A+P) between 35 and 65%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.6",
+                "label": "Quartz syenite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 5 and 20% and P/(A+P) between 10 and 35%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.7",
+                "label": "Syenite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q < 5% or F/(F+A+P) < 10%, and P/(A+P) between 10 and 35%",
+                "children": []
+              },
+              {
+                "uuid": "4.4.4",
+                "label": "Tonalite",
+                "definition": "A plutonic rock defined in the QAPF diagram as having Q between 20 and 60% and P/(A+P) > 90%",
+                "children": [
+                  {
+                    "uuid": "4.4.4.1",
+                    "label": "Trondhjemite",
+                    "definition": "A tonalite with color index (M) less than 15; composed essentially of sodic plagioclase, quartz, sparse biotite, and little or no alkali feldspar",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "4.8",
+            "label": "Intrusive carbonatite",
+            "definition": "A plutonic rock composed of at least 50% carbonate minerals.",
+            "children": []
+          },
+          {
+            "uuid": "4.3",
+            "label": "Pegmatite",
+            "definition": "An exceptionally coarse-grained igneous rock, with interlocking crystals, usually found as irregular dikes, lenses, or veins, esp. at the margins of batholiths.",
+            "children": []
+          },
+          {
+            "uuid": "4.2",
+            "label": "Porphyry",
+            "definition": "An igneous rock of any composition that contains conspicuous phenocrysts in a fine-grained groundmass.",
+            "children": [
+              {
+                "uuid": "4.2.1",
+                "label": "Lamprophyre",
+                "definition": "A group of porphyritic igneous rocks in which mafic minerals form the phenocrysts; feldspars, if present, are restricted to the groundmass.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4.7",
+            "label": "Ultramafic intrusive rock",
+            "definition": "A general name for plutonic rock with color index (M) greater than or equal to 90...",
+            "children": [
+              {
+                "uuid": "4.7.3",
+                "label": "Hornblendite",
+                "definition": "A plutonic rock with M equal to or greater than 90 and hbl/(hbl+px+ol) greater than 90%.",
+                "children": []
+              },
+              {
+                "uuid": "4.7.1",
+                "label": "Peridotite",
+                "definition": "A plutonic rock with M equal to or greater than 90 and ol/(ol+opx+cpx) greater than 40%",
+                "children": [
+                  {
+                    "uuid": "4.7.1.1",
+                    "label": "Dunite",
+                    "definition": "A plutonic rock with M equal to or greater than 90 and ol/(ol+opx+cpx) greater than 90%",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4.7.1.2",
+                    "label": "Kimberlite",
+                    "definition": "A porphyritic alkalic peridotite containing abundant phenocrysts of olivine and phlogopite, and possibly geikielite and chromian pyrope, in a fine-grained groundmass of calcite and second-generation olivine and phlogopite...",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4.7.2",
+                "label": "Pyroxenite",
+                "definition": "A plutonic rock with M equal to or greater than 90 and ol/(ol+opx+cpx) less than 40%.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "2",
+        "label": "Sedimentary rock",
+        "definition": "A rock resulting from the consolidation of loose sediment that has accumulated in layers...",
+        "children": [
+          {
+            "uuid": "2.2",
+            "label": "Carbonate rock",
+            "definition": "A sedimentary rock composed of more than 50% by weight carbonate minerals.",
+            "children": [
+              {
+                "uuid": "2.2.2",
+                "label": "Dolostone",
+                "definition": "A carbonate sedimentary rock of which more than 50% by weight or by areal percentages under the microscope consists of the mineral dolomite.",
+                "children": []
+              },
+              {
+                "uuid": "2.2.1",
+                "label": "Limestone",
+                "definition": "A sedimentary rock consisting chiefly (more than 50% by weight or by areal percentages under the microscope) of calcium carbonate, primarily in the form of the mineral calcite...",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "2.6",
+            "label": "Chemical sedimentary rock",
+            "definition": "A sedimentary rock composed primarily of material formed directly by precipitation from solution or colloidal suspension or by the deposition of insoluble precipitates.",
+            "children": [
+              {
+                "uuid": "2.6.2",
+                "label": "Chert",
+                "definition": "A hard, extremely dense or compact, dull to semivitreous, microcrystalline or cryptocrystalline sedimentary rock, consisting dominantly of interlocking crystals of quartz less than 30 Âµm in diameter...",
+                "children": []
+              },
+              {
+                "uuid": "2.6.1",
+                "label": "Evaporite",
+                "definition": "A nonclastic sedimentary rock composed primarily of minerals produced from a saline solution as a result of extensive or total evaporation of the solvent.",
+                "children": []
+              },
+              {
+                "uuid": "2.6.5",
+                "label": "Exhalite",
+                "definition": "A chemical sedimentary rock, usually containing oxide, carbonate, or sulfide as anions, and iron, magnesium, base metals, and gold as cations, formed by the issuance of volcanically derived fluids onto the sea floor or into the sea.",
+                "children": []
+              },
+              {
+                "uuid": "2.6.4",
+                "label": "Iron formation",
+                "definition": "A chemical sedimentary rock, typically thin-bedded and/or finely laminated, containing at least 15% iron of sedimentary origin, and commonly but not necessarily containing layers of chert",
+                "children": []
+              },
+              {
+                "uuid": "2.6.3",
+                "label": "Novaculite",
+                "definition": "A dense, hard, even-textured, light-colored, cryptocrystalline siliceous sedimentary rock, similar to chert but characterized by dominance of microcrystalline quartz over chalcedony.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "2.1",
+            "label": "Clastic rock",
+            "definition": "A composed principally of broken fragments that are derived from preexisting rocks or minerals and that have been transported some distance from their place of origin.",
+            "children": [
+              {
+                "uuid": "2.1.7",
+                "label": "Coarse-grained mixed clastic rock",
+                "definition": "A mixture of clastic sedimentary rocks varying from siltstone to conglomerate, dominated by rocks containing coarse sand-sized or gravel-sized particles.",
+                "children": []
+              },
+              {
+                "uuid": "2.1.5",
+                "label": "Conglomerate",
+                "definition": "A coarse-grained clastic sedimentary rock, composed of rounded to subangular fragments larger than 2 mm in diameter typically containing fine-grained particles in the interstices, and commonly cemented by calcium carbonate, iron oxide, silica, or hardened clay...",
+                "children": []
+              },
+              {
+                "uuid": "2.1.2",
+                "label": "Fine-grained mixed clastic rock",
+                "definition": "A mixture of clastic sedimentary rocks varying from mudstone to sandstone, dominated by rocks containing clay-sized or silt-sized particles",
+                "children": []
+              },
+              {
+                "uuid": "2.1.4",
+                "label": "Medium-grained mixed clastic rock",
+                "definition": "A mixture of clastic sedimentary rocks varying from siltstone to conglomerate, dominated by rocks containing sand-sized particles",
+                "children": []
+              },
+              {
+                "uuid": "2.1.1",
+                "label": "Mudstone",
+                "definition": "A general term that includes claystone, siltstone, shale, and argillite, and that should be used only when the amounts of clay-sized and silt-sized particles are not known or specified, or cannot be precisely identified...",
+                "children": [
+                  {
+                    "uuid": "2.1.1.3",
+                    "label": "Argillite",
+                    "definition": "A compact rock derived either from mudstone or shale, that has undergone a somewhat higher degree of induration than mudstone or shale but is less clearly laminated than shale and without its fissility, and that lacks the cleavage distinctive of slate.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "2.1.1.1",
+                    "label": "Claystone",
+                    "definition": "An indurated rock having more than 67% clay-sized minerals.",
+                    "children": [
+                      {
+                        "uuid": "2.1.1.1.1",
+                        "label": "Bentonite",
+                        "definition": "A soft, plastic, porous, light-colored rock composed essentially of clay minerals of the montmorillonite (smectite) group plus colloidal silica, and produced by devitrification and accompanying chemical alteration of a glassy igneous material, usually a tuff or volcanic ash.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "2.1.1.2",
+                    "label": "Shale",
+                    "definition": "A laminated, indurated rock having more than 67% clay-sized minerals.",
+                    "children": [
+                      {
+                        "uuid": "2.1.1.2.1",
+                        "label": "Black shale",
+                        "definition": "A dark, thinly laminated carbonaceous shale, exceptionally rich in organic matter (5% or more carbon content) and sulfide (esp. iron sulfide, usually pyrite), and often containing unusual concentrations of certain trace elements (U, V, Cu, Ni).",
+                        "children": []
+                      },
+                      {
+                        "uuid": "2.1.1.2.2",
+                        "label": "Oil shale",
+                        "definition": "A kerogen-bearing, finely laminated brown or black sedimentary rock that will yield liquid or gaseous hydrocarbon on distillation.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "2.1.1.4",
+                    "label": "Siltstone",
+                    "definition": "An indurated silt having the texture and composition of shale but lacking its fine lamination or fissility; a massive mudstone in which silt-sized particles predominate over clay-sized particles.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "2.1.8",
+                "label": "Olistostrome",
+                "definition": "A sedimentary deposit consisting of a chaotic mass of intimately mixed heterogeneous materials (such as blocks and muds) that accumulated as a semi-fluid body by submarine gravity sliding or slumping of unconsolidated sediments.",
+                "children": [
+                  {
+                    "uuid": "2.1.8.1",
+                    "label": "MÃ©lange",
+                    "definition": "A body of rock characterized by a lack of internal continuity of contacts or strata and by the inclusion of fragments and blocks of all sizes, both exotic and native, embedded in a fragmental matrix of finer-grained material.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "2.1.3",
+                "label": "Sandstone",
+                "definition": "A medium-grained clastic sedimentary rock composed of abundant sand-sized fragments, which may have a finer-grained matrix (silt or clay), and which is more or less indurated by a cementing material...",
+                "children": [
+                  {
+                    "uuid": "2.1.3.1",
+                    "label": "Arenite",
+                    "definition": "A \"clean\" sandstone that is well-sorted, contains little or no matrix material, and has a relatively simple mineralogic composition; specif. a pure or nearly pure, chemically cemented sandstone containing less than 10% argillaceous matrix.",
+                    "children": [
+                      {
+                        "uuid": "2.1.3.1.2",
+                        "label": "Calcarenite",
+                        "definition": "A clastic sedimentary rock that is made up predominantly of recycled carbonate particles of sand size; a consolidated calcareous sand",
+                        "children": []
+                      },
+                      {
+                        "uuid": "2.1.3.1.1",
+                        "label": "Orthoquartzite",
+                        "definition": "A clastic sedimentary rock that is made up almost exclusively of quartz sand (with or without chert), that is relatively free of or lacks a fine-grained matrix; a quartzite of sedimentary origin, or a \"pure quartz sandstone\".",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "2.1.3.2",
+                    "label": "Arkose",
+                    "definition": "A feldspar-rich sandstone, commonly coarse-grained and pink or reddish, that is typically composed of angular to subangular grains that may be either poorly or moderately well sorted... Quartz is usually the dominant mineral, with feldspars constituting at least 25%.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "2.1.3.3",
+                    "label": "Wacke",
+                    "definition": "A \"dirty\" sandstone that consists of a mixed variety of unsorted or poorly sorted mineral and rock fragments and of an abundant matrix of clay and fine silt; specif. an impure sandstone containing more than 10% argillaceous matrix.",
+                    "children": [
+                      {
+                        "uuid": "2.1.3.3.1",
+                        "label": "Graywacke",
+                        "definition": "...a dark gray, firmly indurated, coarse-grained sandstone that consists of poorly sorted angular to subangular grains of quartz and feldspar, with a variety of dark rock and mineral fragments embedded in a compact clayey matrix having the general composition of slate and containing an abundance of very fine-grained illite, sericite, and chloritic minerals.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "2.1.6",
+                "label": "Sedimentary breccia",
+                "definition": "A breccia (coarse-grained clastic rock composed of angular broken rock fragments held together by a mineral cement or a fine-grained matrix) formed by sedimentary processes",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "2.7",
+            "label": "Coal",
+            "definition": "A readily combustible rock containing more than 50% by weight and more than 70% by volume carbonaceous material, formed by compaction and induration of variously altered plant remains...",
+            "children": []
+          },
+          {
+            "uuid": "2.3",
+            "label": "Mixed carbonate/clastic rock",
+            "definition": "An undivided mixture of carbonate and clastic sedimentary rocks.",
+            "children": []
+          },
+          {
+            "uuid": "2.8",
+            "label": "Mixed coal/clastic rock",
+            "definition": "An undivided mixture of coal and clastic sedimentary rock.",
+            "children": []
+          },
+          {
+            "uuid": "2.4",
+            "label": "Mixed volcanic/clastic rock",
+            "definition": "An undivided mixture of volcanic rock and clastic sedimentary rock.",
+            "children": []
+          },
+          {
+            "uuid": "2.5",
+            "label": "Phosphorite",
+            "definition": "A sedimentary rock with a high enough content of phosphate minerals to be of economic interest.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "6",
+        "label": "Tectonite",
+        "definition": "A rock whose fabric reflects the history of its deformation.",
+        "children": [
+          {
+            "uuid": "6.7",
+            "label": "Augen gneiss",
+            "definition": "Gneissic rock containing augen (large lenticular mineral grains or mineral aggregates having the shape of an eye in cross section)",
+            "children": []
+          },
+          {
+            "uuid": "6.3",
+            "label": "Cataclasite",
+            "definition": "A fine-grained, cohesive cataclastic rock, normally lacking a penetrative foliation or microfabric, formed during fault movement.",
+            "children": []
+          },
+          {
+            "uuid": "6.6",
+            "label": "Flaser gneiss",
+            "definition": "A dynamically metamorphosed rock in which lenses or layers of original or relatively unaltered granular materials are surrounded by a matrix of highly sheared and crushed material, giving the appearance of a crude flow structure",
+            "children": []
+          },
+          {
+            "uuid": "6.5",
+            "label": "Mylonite",
+            "definition": "A compact, chert-like rock without cleavage, but with a streaky or banded structure, produced by the extreme granulation and shearing of rocks that have been pulverized and rolled during overthrusting or intense dynamic metamorphism.",
+            "children": []
+          },
+          {
+            "uuid": "6.4",
+            "label": "Phyllonite",
+            "definition": "A rock that macroscopically resembles phyllite but that is formed by mechanical degradation (mylonitization) of initially coarser rocks...",
+            "children": []
+          },
+          {
+            "uuid": "6.2",
+            "label": "Tectonic breccia",
+            "definition": "A breccia formed as a result of crustal movements, usually developed from brittle rocks.",
+            "children": []
+          },
+          {
+            "uuid": "6.1",
+            "label": "Tectonic mÃ©lange",
+            "definition": "A mÃ©lange produced by tectonic processes.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "1",
+        "label": "Unconsolidated material",
+        "definition": "A sediment that is loosely arranged or unstratified, or whose particles are not cemented together, found either at the surface or at depth.",
+        "children": [
+          {
+            "uuid": "1.1",
+            "label": "Alluvium",
+            "definition": "A general term for clay, silt, sand, gravel or similar unconsolidated detrital material, deposited during comparatively recent geologic time by a stream or other body of running water, as a sorted or semi-sorted sediment...",
+            "children": [
+              {
+                "uuid": "1.1.4",
+                "label": "Alluvial fan",
+                "definition": "A low, outspread, relatively flat to gently sloping mass of loose rock material, shaped like an open fan or a segment of a cone, deposited by a stream (esp. in a semiarid region) at the place where it issues from a narrow mountain valley upon a plain or broad valley...",
+                "children": []
+              },
+              {
+                "uuid": "1.1.5",
+                "label": "Alluvial terrace",
+                "definition": "A stream terrace composed of unconsolidated alluvium (including gravel), produced by renewed downcutting of the flood plain or valley floor...",
+                "children": []
+              },
+              {
+                "uuid": "1.1.3",
+                "label": "Delta",
+                "definition": "The low, nearly flat, alluvial tract of land at or near the mouth of a river, commonly forming a triangular or fan-shaped plain of considerable area...",
+                "children": []
+              },
+              {
+                "uuid": "1.1.1",
+                "label": "Flood plain",
+                "definition": "Unconsolidated sediment deposited adjacent to a river channel, constructed by the present river in its existing regimen and covered with water when the river overflows its banks.",
+                "children": []
+              },
+              {
+                "uuid": "1.1.2",
+                "label": "Levee",
+                "definition": "A long broad low ridge or embankment of sand and coarse silt, built by a stream on its flood plain and along both banks of its channel, esp. in time of flood when water overflowing the normal banks is forced to deposit the coarsest part of its load.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "1.7",
+            "label": "Biogenic material",
+            "definition": "An organic material produced directly by the physiologic activities of organisms, either plant or animal",
+            "children": [
+              {
+                "uuid": "1.7.2",
+                "label": "Coral",
+                "definition": "A hard calcareous substance consisting of the continuous skeleton secreted by coral polyps for their support and habitation and found in single specimens growing plant-like on the sea bottom or in extensive, solidified accumulations (coral reefs).",
+                "children": []
+              },
+              {
+                "uuid": "1.7.1",
+                "label": "Peat",
+                "definition": "An unconsolidated deposit of semicarbonized plant remains in a water saturated environment, such as a bog or fen, and of persistently high moisture content (at least 75%).",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "1.9",
+            "label": "Clay or mud",
+            "definition": "A loose, earthy, extremely fine-grained, natural sediment composed primarily of clay-size or colloidal particles and characterized by high plasticity and by a considerable content of clay minerals...",
+            "children": []
+          },
+          {
+            "uuid": "1.3",
+            "label": "Eolian material",
+            "definition": "Sediments such as loess or sand deposited by the action of the wind",
+            "children": [
+              {
+                "uuid": "1.3.1",
+                "label": "Dune sand",
+                "definition": "A type of blown sand that has been piled up by the wind into a sand dune, usually consisting of rounded mineral grains, commonly quartz, having diameters ranging from 0.1 to 1 mm.",
+                "children": []
+              },
+              {
+                "uuid": "1.3.3",
+                "label": "Loess",
+                "definition": "A widespread, homogeneous, commonly nonstratified, porous, friable, slightly coherent, usually highly calcareous, fine-grained blanket deposit, consisting predominantly of silt with subordinate grain sizes ranging from clay to fine sand.",
+                "children": []
+              },
+              {
+                "uuid": "1.3.2",
+                "label": "Sand sheet",
+                "definition": "A large irregularly shaped plain of eolian sand, lacking the discernible slip faces that are common on dunes.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "1.6",
+            "label": "Glacial drift",
+            "definition": "A general term applied to all rock material (clay, silt, sand, gravel, boulders) transported by a glacier and deposited directly by or from the ice, or by running water emanating from a glacier.",
+            "children": [
+              {
+                "uuid": "1.6.2",
+                "label": "Stratified glacial sediment",
+                "definition": "Stratified glacial drift deposited by, or reworked by running water, or deposited in standing water.",
+                "children": [
+                  {
+                    "uuid": "1.6.2.1",
+                    "label": "Glacial outwash sediment",
+                    "definition": "Stratified detritus (chiefly sand and gravel) removed or \"washed out\" from a glacier by meltwater streams and deposited in front of or behind the end moraine or the margin of an active glacier.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "1.6.2.4",
+                    "label": "Glacial-marine sediment",
+                    "definition": "Deposits of glacially eroded, terrestrially derived sediment in the marine environment.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "1.6.2.3",
+                    "label": "Glaciolacustrine sediment",
+                    "definition": "Deposits and landforms composed of suspended material brought by meltwater streams flowing into lakes bordering the glacier, such as deltas, kame deltas, and varved sediments.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "1.6.2.2",
+                    "label": "Sub/supra-glacial sediment",
+                    "definition": "A variety of irregularly stratified sand and gravel deposits, such as eskers, kames, etc., that were deposited by a subglacial or supra-glacial stream or pond and were left behind when the ice melted",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "1.6.1",
+                "label": "Till",
+                "definition": "Dominantly unsorted and unstratified drift, generally unconsolidated, deposited directly by and underneath a glacier without subsequent reworking by meltwater...",
+                "children": [
+                  {
+                    "uuid": "1.6.1.1",
+                    "label": "Moraine",
+                    "definition": "A mound, ridge, or other distinct accumulation of unsorted, unstratified glacial drift, predominantly till, deposited chiefly by direct action of glacial ice...",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "1.12",
+            "label": "Gravel",
+            "definition": "A loose accumulation of rock fragments composed predominantly of more or less rounded pebbles and small stones",
+            "children": []
+          },
+          {
+            "uuid": "1.2",
+            "label": "Lake or marine sediment",
+            "definition": "A sedimentary deposit laid down conformably on the floor of, or along the shore of, a lake, sea, or ocean, usually consisting of coarse material near the shore and sometimes passing into clay and limestone in deeper water...",
+            "children": [
+              {
+                "uuid": "1.2.3",
+                "label": "Beach sand",
+                "definition": "A loose aggregate of unlithified mineral or rock particles of sand size forming a beach (the relatively thick and temporary accumulation of loose water-borne material that is in active transit along, or deposited on, the shore zone between the limits of low water and high water)",
+                "children": []
+              },
+              {
+                "uuid": "1.2.2",
+                "label": "Mud flat",
+                "definition": "A relatively level area of fine silt along a shore (as in a sheltered estuary) or around an island, alternately covered and uncovered by the tide, or covered by shallow water...",
+                "children": []
+              },
+              {
+                "uuid": "1.2.1",
+                "label": "Playa",
+                "definition": "...a dry, vegetation-free, flat area at the lowest part of an undrained desert basin, underlain by stratified clay, silt, or sand, and commonly by soluble salts.",
+                "children": []
+              },
+              {
+                "uuid": "1.2.4",
+                "label": "Terrace",
+                "definition": "A narrow shelf, partly cut and partly built, produced along a lake shore...and later exposed when the water level falls, or ...a wave-cut platform that has been exposed by uplift along a seacoast or by the lowering of sea level, and from 3 m to more than 40 m above mean sea level; an elevated marine-cut bench.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "1.5",
+            "label": "Mass wasting material",
+            "definition": "Deposits formed by the dislodgement and downslope transport of soil and rock material under the direct application of gravitational body stresses.",
+            "children": [
+              {
+                "uuid": "1.5.1",
+                "label": "Colluvium",
+                "definition": "A general term applied to any loose, heterogeneous, and incoherent mass of soil material and/or rock fragments deposited by rainwash, sheetwash, or slow, continuous downslope creep, usually collecting at the base of gentle slopes or hillsides.",
+                "children": []
+              },
+              {
+                "uuid": "1.5.3",
+                "label": "Debris flow",
+                "definition": "A moving mass of rock fragments, soil, and mud, more than half of the particles being larger than sand size.",
+                "children": []
+              },
+              {
+                "uuid": "1.5.4",
+                "label": "Landslide",
+                "definition": "A general term covering a wide variety of mass-movement landforms and processes involving the downslope transport, under gravitational influence, of soil and rock material, en mass.",
+                "children": []
+              },
+              {
+                "uuid": "1.5.2",
+                "label": "Mudflow",
+                "definition": "Deposits formed by a process characterized by a flowing mass of predominantly fine-grained earth material possessing a high degree of fluidity during movement.",
+                "children": [
+                  {
+                    "uuid": "1.5.2.1",
+                    "label": "Lahar",
+                    "definition": "A mudflow composed chiefly of volcaniclastic materials on the flank of a volcano.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "1.5.5",
+                "label": "Talus",
+                "definition": "An outward sloping and accumulated heap or mass of rock fragments of any size or shape (usually coarse and angular) derived from and lying at the base of a cliff or very steep, rocky slope, and formed chiefly by gravitational falling, rolling, or sliding.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "1.8",
+            "label": "Residuum",
+            "definition": "An accumulation or rock debris formed by weathering and remaining essentially in place after all but the least soluble constituents have been removed...",
+            "children": []
+          },
+          {
+            "uuid": "1.11",
+            "label": "Sand",
+            "definition": "A loose aggregate of unlithified mineral or rock particles of sand size (1/16 to 2 mm); an unconsolidated deposit consisting essentially of medium-grained clastic particles.",
+            "children": []
+          },
+          {
+            "uuid": "1.10",
+            "label": "Silt",
+            "definition": "A loose aggregate of unlithified mineral or rock particles of silt size (1/256 to 1/16 mm); an unconsolidated deposit consisting essentially of fine-grained clastic particles.",
+            "children": []
+          },
+          {
+            "uuid": "1.4",
+            "label": "Volcanic ash",
+            "definition": "A fine pyroclastic material (under 2.0 mm in diameter).  The term usually refers to the unconsolidated material...",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "3",
+        "label": "Volcanic rock",
+        "definition": "A generally finely crystalline or glassy igneous rock resulting from volcanic action at or near the Earth's surface, either ejected explosively or extruded as a lava.  The term includes near-surface intrusions that form a part of the volcanic structure.",
+        "children": [
+          {
+            "uuid": "3.7",
+            "label": "Alkalic volcanic rock",
+            "definition": "A volcanic rock that contains more sodium and/or potassium than is required to form feldspar with the available silica.",
+            "children": [
+              {
+                "uuid": "3.7.1",
+                "label": "Phonolite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having F/(F+A+P) between 10 and 60%, and P/(P+A) < 10%...",
+                "children": []
+              },
+              {
+                "uuid": "3.7.2",
+                "label": "Tephrite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having F/(F+A+P) between 10 and 60%, and P/(P+A) > 90%...",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.4",
+            "label": "Felsic volcanic rock",
+            "definition": "A light-colored, fine-grained or aphanitic extrusive or hypabyssal rock, with or without phenocrysts and composed chiefly of quartz and feldspar.",
+            "children": [
+              {
+                "uuid": "3.4.1",
+                "label": "Alkali-feldspar rhyolite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) between 20 and 60% and P/(P+A) < 10%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.5",
+                "label": "Alkali-feldspar trachyte",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, and P/(P+A) < 10%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.4",
+                "label": "Dacite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) between 20 and 60% and P/(P+A) > 65%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.8",
+                "label": "Latite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) < 5% or F/(F+A+P) < 10%, and P/(P+A) between 35 and 65%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.7",
+                "label": "Quartz latite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) between 5 and 20% and P/(P+A) between 35 and 65%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.3",
+                "label": "Rhyodacite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) between 20 and 60% and P/(P+A) between 35 and 65%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.2",
+                "label": "Rhyolite",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) between 20 and 60% and P/(P+A) between 10 and 35%...",
+                "children": []
+              },
+              {
+                "uuid": "3.4.6",
+                "label": "Trachyte",
+                "definition": "A volcanic rock defined in the QAPF diagram as having Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, and P/(P+A) between 10 and 35%...",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.1",
+            "label": "Glassy volcanic rock",
+            "definition": "Extrusive rock having a texture which is similar to that of glass or quartz and developed as a result of rapid cooling of the lava without distinct crystallization.",
+            "children": [
+              {
+                "uuid": "3.1.1",
+                "label": "Obsidian",
+                "definition": "A black or dark-colored volcanic glass, usually of rhyolite composition, characterized by conchoidal fracture.",
+                "children": []
+              },
+              {
+                "uuid": "3.1.3",
+                "label": "Pumice",
+                "definition": "A light-colored vesicular glassy rock commonly having the composition of rhyolite.",
+                "children": []
+              },
+              {
+                "uuid": "3.1.2",
+                "label": "Vitrophyre",
+                "definition": "Any porphyritic igneous rock having a glassy groundmass.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.5",
+            "label": "Intermediate volcanic rock",
+            "definition": "A solidified body of volcanic rock having approximately equal light- and dark-colored minerals in its mode",
+            "children": [
+              {
+                "uuid": "3.5.2",
+                "label": "Andesite",
+                "definition": "A volcanic rock defined modally by Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, P/(A+P) > 90%, and M < 35",
+                "children": []
+              },
+              {
+                "uuid": "3.5.1",
+                "label": "Trachyandesite",
+                "definition": "A volcanic rock defined modally by Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, P/(A+P) between 65 and 90%, and M < 35",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.3",
+            "label": "Lava flow",
+            "definition": "A solidified body of rock that is formed by the lateral, surficial outpouring of molten lava from a vent or a fissure.",
+            "children": [
+              {
+                "uuid": "3.3.1",
+                "label": "Bimodal suite",
+                "definition": "A mixed sequence of sub-equal amounts of felsic and mafic volcanic rocks, commonly rhyolite and basalt with little or no intermediate composition rock.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.6",
+            "label": "Mafic volcanic rock",
+            "definition": "A solidified body of volcanic rock having abundant dark-colored minerals in its mode ",
+            "children": [
+              {
+                "uuid": "3.6.2",
+                "label": "Basalt",
+                "definition": "A volcanic rock defined modally by Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, P/(A+P) > 90%, and M > 35.",
+                "children": [
+                  {
+                    "uuid": "3.6.2.3",
+                    "label": "Alkaline basalt",
+                    "definition": "A basalt with nepheline and/or acmite in the CIPW norm.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "3.6.2.2",
+                    "label": "Hawaiite",
+                    "definition": "A basalt in which the normative and modal feldspar is andesine, and with soda:potash ratio greater than 2:1.  It generally, but not always, lacks normative quartz, and commonly contains normative and modal olivine.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "3.6.2.1",
+                    "label": "Tholeiite",
+                    "definition": "A silica-oversaturated basalt, characterized by the presence of low-calcium pyroxenes in addition to clinopyroxene and calcic plagioclase.  Olivine may be present in the mode, but neither olivine nor nepheline appear in the norm.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "3.6.1",
+                "label": "Trachybasalt",
+                "definition": "A volcanic rock defined modally by Q/(Q+A+P) < 20% or F/(F+A+P) < 10%, P/(A+P) between 65 and 90%, and M > 35.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.2",
+            "label": "Pyroclastic rock",
+            "definition": "...clastic rock material formed by volcanic explosion or aerial expulsion from a volcanic vent.",
+            "children": [
+              {
+                "uuid": "3.2.2",
+                "label": "Ignimbrite",
+                "definition": "The deposit of a pyroclastic flow.",
+                "children": []
+              },
+              {
+                "uuid": "3.2.1",
+                "label": "Tuff",
+                "definition": "Consolidated or cemented volcanic ash.",
+                "children": [
+                  {
+                    "uuid": "3.2.1.2",
+                    "label": "Ash-flow tuff",
+                    "definition": "A tuff deposited by an ash flow or gaseous cloud; a type of ignimbrite.  It is a consolidated, but not necessarily welded deposit.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "3.2.1.1",
+                    "label": "Welded tuff",
+                    "definition": "A glass-rich pyroclastic rock that has been indurated by the welding together of its glass shards under the combined action of the heat retained by particles, the weight of the overlying material, and hot gasses.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "3.2.3",
+                "label": "Volcanic breccia",
+                "definition": "A pyroclastic rock that consists of angular volcanic fragments that are larger than 64 mm in diameter and that may or may not have a matrix.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "3.8",
+            "label": "Ultramafitite",
+            "definition": "A volcanic rock with color index (M) greater than or equal to 90",
+            "children": []
+          },
+          {
+            "uuid": "3.9",
+            "label": "Volcanic carbonatite",
+            "definition": "A rock of apparent volcanic origin composed of at least 50% carbonate minerals",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
