@@ -8,7 +8,8 @@ const { DATA_DIR } = gnisConfig;
 
 export async function parseTxtFileToJson(filePath) {
   console.log('Parsing TXT File', filePath);
-  const filestream = fs.createReadStream(`${DATA_DIR}/${filePath}`, 'utf-8');
+  const fullRelativePath = `${DATA_DIR}/${filePath}`;
+  const filestream = fs.createReadStream(fullRelativePath, 'utf-8');
   const rl = readline.createInterface({
     input: filestream,
     crlfDelay: Infinity
