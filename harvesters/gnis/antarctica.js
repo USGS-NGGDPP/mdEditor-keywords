@@ -1,11 +1,11 @@
 import dayjs from 'dayjs';
-import { writeToLocalFile } from '../utils.js';
+import { writeToLocalFile } from '../utils';
 import {
   AntarcticaConfig,
   GNIS_HARVESTERS_ENUM,
   gnisConfig
-} from './gnisConfig.js';
-import { parseCitationFromXml, parseTxtFileToJson } from './gnisUtils.js';
+} from './gnisConfig';
+import { parseCitationFromXml, parseTxtFileToJson } from './gnisUtils';
 
 const { ANTARCTICA } = GNIS_HARVESTERS_ENUM;
 const { CITATION_FILENAME, DST_FILENAME, TXT_FILENAME } = AntarcticaConfig;
@@ -70,7 +70,7 @@ function generateThesaurusConfig(keywordsUrl, citation) {
 }
 
 export async function harvestAntarctica() {
-  console.log('Harvesting Antarctica', ANTARCTICA);
+  console.log('Harvesting Antarctica');
   const jsonData = await parseTxtFileToJson(`${ANTARCTICA}/${TXT_FILENAME}`);
   const classList = extractClasses(jsonData);
   const keywords = [
