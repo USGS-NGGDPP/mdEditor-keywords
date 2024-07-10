@@ -15,30 +15,39 @@ export async function harvestDomesticNames() {
   const states = Array.from(statesSet);
 
   const namesByState = {};
-  states.forEach(state => {
-    const stateData = jsonData.filter(item => item.state_name === state);
-    const uniqueNames = Array.from(
-      new Set(stateData.map(item => item.feature_name))
-    );
 
-    const uniqueData = uniqueNames.map(feature_name => {
-      const matchingItems = jsonData.filter(
-        item => item.feature_name === feature_name
-      );
+  const stateFeatureMap = {};
+  jsonData.forEach(item => {
+    if (!stateFeatureMap[item.state_name]) {
+      stateFeatureMap[item.state_name] = {};
+    }
+    if (!stateFeatureMap[item.state_name][item.feature_name]) {
+      stateFeatureMap[item.state_name][item.feature_name] = {
+        feature_name: item.feature_name,
+        state_names: new Set(),
+        feature_ids: [],
+        feature_class: item.feature_class,
+        county_names: new Set()
+      };
+    }
+    const feature = stateFeatureMap[item.state_name][item.feature_name];
+    feature.state_names.add(item.state_name);
+    feature.feature_ids.push(item.feature_id);
+    feature.county_names.add(item.county_name);
+  });
+
+  Object.keys(stateFeatureMap).forEach(state => {
+    namesByState[state] = Object.values(stateFeatureMap[state]).map(feature => {
       return {
-        feature_name,
-        state_names: Array.from(
-          new Set(matchingItems.map(item => item.state_name))
-        ),
-        feature_ids: matchingItems.map(item => item.feature_id),
-        feature_class: matchingItems[0].feature_class,
-        county_names: Array.from(
-          new Set(matchingItems.map(item => item.county_name))
-        )
+        feature_name: feature.feature_name,
+        feature_class: feature.feature_class,
+        number_of_ids: feature.feature_ids.length,
+        number_of_counties: feature.county_names.size,
+        state_names: Array.from(feature.state_names),
+        feature_ids: feature.feature_ids,
+        county_names: Array.from(feature.county_names)
       };
     });
-
-    namesByState[state] = uniqueData;
   });
 
   const numberOfRecordsByState = {};
@@ -47,18 +56,29 @@ export async function harvestDomesticNames() {
     numberOfRecordsByState[state] = count;
   });
 
-  writeToLocalFile(numberOfRecordsByState, 'tmp/numberOfRecordsByState.json');
+  // sort numberOfRecordsByState by state name
+  const sortedNumberOfRecordsByState = {};
+  Object.keys(numberOfRecordsByState)
+    .sort()
+    .forEach(key => {
+      sortedNumberOfRecordsByState[key] = numberOfRecordsByState[key];
+    });
+
+  writeToLocalFile(
+    sortedNumberOfRecordsByState,
+    'tmp/numberOfRecordsByState.json'
+  );
 
   states.forEach(state => {
     let filename = state;
     if (filename === '') {
-      filename = 'unknown';
+      filename = 'Unknown';
     }
     writeToLocalFile(
       namesByState[state].sort((a, b) =>
         a.feature_name.localeCompare(b.feature_name)
       ),
-      `tmp/${filename}.json`
+      `tmp/states/${filename}.json`
     );
   });
 }
