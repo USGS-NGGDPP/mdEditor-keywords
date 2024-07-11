@@ -21,5 +21,5 @@
     ]
   },
   "label": "GNIS - Domestic Names - California - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-california.json"
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/keywords/gnis-domestic-california.json"
 }
