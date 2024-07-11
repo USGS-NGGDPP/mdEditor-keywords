@@ -1,84 +1,106 @@
 import { writeToLocalFile } from '../utils';
-import { DomesticNamesConfig, GNIS_HARVESTERS_ENUM } from './gnisConfig';
-import { parseTxtFileToJson } from './gnisUtils';
+import {
+  DomesticNamesConfig,
+  GNIS_HARVESTERS_ENUM,
+  gnisConfig
+} from './gnisConfig';
+import { parseCitationFromXml, parseTxtFileToJson } from './gnisUtils';
+import { v4 as uuidv4 } from 'uuid';
 
 const { DOMESTIC_NAMES } = GNIS_HARVESTERS_ENUM;
-const { NATIONAL_FILENAME } = DomesticNamesConfig;
+const { CITATION_FILANAME, DST_FILENAME_PREFIX, TXT_FILENAME } =
+  DomesticNamesConfig;
+const { KEYWORDS_DIR, THESAURUS_DIR } = gnisConfig;
 
 export async function harvestDomesticNames() {
   console.log('Harvesting Domestic Names');
+
+  // Load the data from the file and parse it into JSON
+  // The resulting JSON will have an array of objects with the following properties:
+  //  "feature_id"
+  //  "feature_name"
+  //  "feature_class"
+  //  "state_name"
+  //  "state_numeric"
+  //  "county_name"
+  //  "county_numeric"
+  //  "map_name"
+  //  "date_created"
+  //  "date_edited"
+  // The JSON data also contains additional keys not listed above, which contain coordinates for the features
   const jsonData = await parseTxtFileToJson(
-    `${DOMESTIC_NAMES}/${NATIONAL_FILENAME}`
+    `${DOMESTIC_NAMES}/${TXT_FILENAME}`
   );
 
-  const statesSet = new Set(jsonData.map(item => item.state_name));
-  const states = Array.from(statesSet);
+  const hierarchy = [];
+  const stateMap = {};
 
-  const namesByState = {};
-
-  const stateFeatureMap = {};
   jsonData.forEach(item => {
-    if (!stateFeatureMap[item.state_name]) {
-      stateFeatureMap[item.state_name] = {};
-    }
-    if (!stateFeatureMap[item.state_name][item.feature_name]) {
-      stateFeatureMap[item.state_name][item.feature_name] = {
-        feature_name: item.feature_name,
-        state_names: new Set(),
-        feature_ids: [],
-        feature_class: item.feature_class,
-        county_names: new Set()
+    const {
+      state_name: state,
+      state_numeric: stateNumeric,
+      feature_class: featureClass,
+      feature_name: featureName,
+      feature_id: featureId
+    } = item;
+
+    if (!stateMap[state]) {
+      const stateNode = {
+        uuid: `${stateNumeric}-${state}`,
+        label: state,
+        definition: `${state} is a state in the United States.`,
+        children: []
       };
+      stateMap[state] = stateNode;
+      hierarchy.push(stateNode);
     }
-    const feature = stateFeatureMap[item.state_name][item.feature_name];
-    feature.state_names.add(item.state_name);
-    feature.feature_ids.push(item.feature_id);
-    feature.county_names.add(item.county_name);
-  });
 
-  Object.keys(stateFeatureMap).forEach(state => {
-    namesByState[state] = Object.values(stateFeatureMap[state]).map(feature => {
-      return {
-        feature_name: feature.feature_name,
-        feature_class: feature.feature_class,
-        number_of_ids: feature.feature_ids.length,
-        number_of_counties: feature.county_names.size,
-        state_names: Array.from(feature.state_names),
-        feature_ids: feature.feature_ids,
-        county_names: Array.from(feature.county_names)
+    const stateNode = stateMap[state];
+
+    let featureClassNode = stateNode.children.find(
+      child => child.label === featureClass
+    );
+
+    if (!featureClassNode) {
+      featureClassNode = {
+        uuid: uuidv4(),
+        label: featureClass,
+        definition: `${featureClass} is a type of feature found in ${state}.`,
+        children: []
       };
-    });
+      stateNode.children.push(featureClassNode);
+    }
+
+    const featureExists = featureClassNode.children.some(
+      child => child.label === featureName
+    );
+
+    if (!featureExists) {
+      featureClassNode.children.push({
+        uuid: featureId,
+        label: featureName,
+        definition: `${featureName} is a specific ${featureClass} in ${state}.`,
+        children: []
+      });
+    }
   });
 
-  const numberOfRecordsByState = {};
-  states.forEach(state => {
-    const count = namesByState[state].length;
-    numberOfRecordsByState[state] = count;
-  });
-
-  // sort numberOfRecordsByState by state name
-  const sortedNumberOfRecordsByState = {};
-  Object.keys(numberOfRecordsByState)
-    .sort()
-    .forEach(key => {
-      sortedNumberOfRecordsByState[key] = numberOfRecordsByState[key];
-    });
-
-  writeToLocalFile(
-    sortedNumberOfRecordsByState,
-    'tmp/numberOfRecordsByState.json'
+  const citation = await parseCitationFromXml(
+    `${DOMESTIC_NAMES}/${CITATION_FILANAME}`
   );
 
-  states.forEach(state => {
-    let filename = state;
-    if (filename === '') {
-      filename = 'Unknown';
+  hierarchy.forEach(state => {
+    let statename = state.label;
+    if (statename === '') {
+      statename = 'Unknown';
     }
+    const filename = `${DST_FILENAME_PREFIX}${statename}.json`;
+    writeToLocalFile([state], filename);
+    const keywordsUrl = `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`;
+    const thesaurusConfig = generateThesaurusConfig(keywordsUrl, citation);
     writeToLocalFile(
-      namesByState[state].sort((a, b) =>
-        a.feature_name.localeCompare(b.feature_name)
-      ),
-      `tmp/states/${filename}.json`
+      thesaurusConfig,
+      `${BASE_REPO_URL}/${THESAURUS_DIR}/${filename}`
     );
   });
 }
