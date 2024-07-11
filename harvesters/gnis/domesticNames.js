@@ -1,5 +1,4 @@
 import dayjs from 'dayjs';
-import { v4 as uuidv4 } from 'uuid';
 
 import { writeToLocalFile } from '../utils';
 import {
@@ -94,7 +93,7 @@ export async function harvestDomesticNames() {
 
     if (!featureClassNode) {
       featureClassNode = {
-        uuid: uuidv4(),
+        uuid: `${state}-${featureClass}`,
         label: featureClass,
         definition: `${featureClass} is a type of feature found in ${state}.`,
         children: []
@@ -128,7 +127,7 @@ export async function harvestDomesticNames() {
       statename = 'Unknown';
     }
     const filename = `${DST_FILENAME_PREFIX}${statename}.json`;
-    writeToLocalFile([state], filename);
+    writeToLocalFile([state], `${KEYWORDS_DIR}/${filename}`);
     const keywordsUrl = `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`;
     const thesaurusConfig = generateThesaurusConfig(
       state.label,
