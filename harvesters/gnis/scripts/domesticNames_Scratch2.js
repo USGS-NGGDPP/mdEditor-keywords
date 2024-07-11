@@ -1,6 +1,6 @@
-import { writeToLocalFile } from '../utils';
-import { DomesticNamesConfig, GNIS_HARVESTERS_ENUM } from './gnisConfig';
-import { parseTxtFileToJson } from './gnisUtils';
+import { writeToLocalFile } from '../../utils';
+import { DomesticNamesConfig, GNIS_HARVESTERS_ENUM } from '../gnisConfig';
+import { parseTxtFileToJson } from '../gnisUtils';
 
 const { DOMESTIC_NAMES } = GNIS_HARVESTERS_ENUM;
 const { NATIONAL_FILENAME } = DomesticNamesConfig;

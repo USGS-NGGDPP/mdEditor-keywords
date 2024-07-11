@@ -1,12 +1,12 @@
 import { readdir } from 'fs/promises';
 
-import { writeToLocalFile } from '../utils';
+import { writeToLocalFile } from '../../utils';
 import {
   DomesticNamesConfig,
   GNIS_HARVESTERS_ENUM,
   gnisConfig
-} from './gnisConfig';
-import { parseTxtFileToJson } from './gnisUtils';
+} from '../gnisConfig';
+import { parseTxtFileToJson } from '../gnisUtils';
 
 const { DOMESTIC_NAMES } = GNIS_HARVESTERS_ENUM;
 const { NATIONAL_FILENAME } = DomesticNamesConfig;
