@@ -1,3 +1,6 @@
+import dayjs from 'dayjs';
+import { v4 as uuidv4 } from 'uuid';
+
 import { writeToLocalFile } from '../utils';
 import {
   DomesticNamesConfig,
@@ -5,12 +8,40 @@ import {
   gnisConfig
 } from './gnisConfig';
 import { parseCitationFromXml, parseTxtFileToJson } from './gnisUtils';
-import { v4 as uuidv4 } from 'uuid';
 
 const { DOMESTIC_NAMES } = GNIS_HARVESTERS_ENUM;
 const { CITATION_FILANAME, DST_FILENAME_PREFIX, TXT_FILENAME } =
   DomesticNamesConfig;
-const { KEYWORDS_DIR, THESAURUS_DIR } = gnisConfig;
+const { BASE_REPO_URL, KEYWORDS_DIR, THESAURUS_DIR } = gnisConfig;
+
+function generateThesaurusConfig(statename, keywordsUrl, citation) {
+  const { pubdate, title } =
+    citation.metadata.idinfo[0].citation[0].citeinfo[0];
+  const { abstract } = citation.metadata.idinfo[0].descript[0];
+  const { browsen } = citation.metadata.idinfo[0].browse[0];
+  const thesaurusConfig = {
+    citation: {
+      date: [
+        {
+          date: dayjs(pubdate[0]).format('YYYY-MM-DDTHH:mm:ssZ'),
+          dateType: 'revision'
+        }
+      ],
+      description: abstract[0],
+      title: title[0],
+      edition: '',
+      onlineResource: [{ uri: browsen[0] }],
+      identifier: [
+        {
+          identifier: `gnis-domestic-names-${statename}`
+        }
+      ]
+    },
+    label: `GNIS - Domestic Names - ${statename} - Thesaurus`,
+    keywordsUrl
+  };
+  return thesaurusConfig;
+}
 
 export async function harvestDomesticNames() {
   console.log('Harvesting Domestic Names');
@@ -89,6 +120,8 @@ export async function harvestDomesticNames() {
     `${DOMESTIC_NAMES}/${CITATION_FILANAME}`
   );
 
+  console.log('Writing files to disk', JSON.stringify(citation, null, 2));
+
   hierarchy.forEach(state => {
     let statename = state.label;
     if (statename === '') {
@@ -97,10 +130,11 @@ export async function harvestDomesticNames() {
     const filename = `${DST_FILENAME_PREFIX}${statename}.json`;
     writeToLocalFile([state], filename);
     const keywordsUrl = `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`;
-    const thesaurusConfig = generateThesaurusConfig(keywordsUrl, citation);
-    writeToLocalFile(
-      thesaurusConfig,
-      `${BASE_REPO_URL}/${THESAURUS_DIR}/${filename}`
+    const thesaurusConfig = generateThesaurusConfig(
+      state.label,
+      keywordsUrl,
+      citation
     );
+    writeToLocalFile(thesaurusConfig, `${THESAURUS_DIR}/${filename}`);
   });
 }
