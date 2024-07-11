@@ -75,8 +75,10 @@ export async function harvestDomesticNames() {
     } = item;
 
     if (!stateMap[state]) {
+      let stateUuid = `${stateNumeric}-${state}`;
+      stateUuid = stateUuid.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
       const stateNode = {
-        uuid: `${stateNumeric}-${state}`,
+        uuid: stateUuid,
         label: state,
         definition: `${state} is a state in the United States.`,
         children: []
