@@ -5,7 +5,7 @@
     "definition": "Nebraska is a state in the United States.",
     "children": [
       {
-        "uuid": "661719ed-7e33-410c-a652-9581bcd45aff",
+        "uuid": "nebraska-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Nebraska.",
         "children": [
@@ -1428,7 +1428,7 @@
         ]
       },
       {
-        "uuid": "07ce990e-82f3-4ccf-bc9a-9343e0946520",
+        "uuid": "nebraska-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Nebraska.",
         "children": [
@@ -7057,7 +7057,7 @@
         ]
       },
       {
-        "uuid": "f349d0c2-185c-4e8f-9c3d-7dea8dc952d6",
+        "uuid": "nebraska-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Nebraska.",
         "children": [
@@ -15146,7 +15146,7 @@
         ]
       },
       {
-        "uuid": "40c4e7c0-d523-4fc0-bd2a-7fe7d015b89c",
+        "uuid": "nebraska-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Nebraska.",
         "children": [
@@ -27345,7 +27345,7 @@
         ]
       },
       {
-        "uuid": "aa20c777-986b-43ff-8b53-ea2d57bf3155",
+        "uuid": "nebraska-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Nebraska.",
         "children": [
@@ -34972,7 +34972,7 @@
         ]
       },
       {
-        "uuid": "3b174055-0d24-46f2-b59b-656f8ce83040",
+        "uuid": "nebraska-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Nebraska.",
         "children": [
@@ -40499,7 +40499,7 @@
         ]
       },
       {
-        "uuid": "cd4ebc58-e246-44f2-962d-c82272b0a343",
+        "uuid": "nebraska-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Nebraska.",
         "children": [
@@ -41472,7 +41472,7 @@
         ]
       },
       {
-        "uuid": "dba97ee7-75fd-4cdc-b1e4-0b8ff2578886",
+        "uuid": "nebraska-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Nebraska.",
         "children": [
@@ -42691,7 +42691,7 @@
         ]
       },
       {
-        "uuid": "6c4415bf-f741-4df6-bb6c-edad7a5e1bf3",
+        "uuid": "nebraska-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Nebraska.",
         "children": [
@@ -42938,7 +42938,7 @@
         ]
       },
       {
-        "uuid": "f5a2ffd0-2622-48de-8fbd-2c7ed8bbbced",
+        "uuid": "nebraska-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Nebraska.",
         "children": [
@@ -43863,7 +43863,7 @@
         ]
       },
       {
-        "uuid": "f7566625-63a5-4f1d-8873-5bb7c0fc6415",
+        "uuid": "nebraska-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Nebraska.",
         "children": [
@@ -44362,7 +44362,7 @@
         ]
       },
       {
-        "uuid": "455213e2-e9cc-4282-a4f1-b76192b25d20",
+        "uuid": "nebraska-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Nebraska.",
         "children": [
@@ -44753,7 +44753,7 @@
         ]
       },
       {
-        "uuid": "2a228ba9-fbfa-474f-94f3-a434b4a2ceb6",
+        "uuid": "nebraska-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Nebraska.",
         "children": [
@@ -44892,7 +44892,7 @@
         ]
       },
       {
-        "uuid": "9afe092e-0d84-4bf9-8141-1ff9509f3432",
+        "uuid": "nebraska-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Nebraska.",
         "children": [
@@ -45031,7 +45031,7 @@
         ]
       },
       {
-        "uuid": "8d028d27-4a2a-4659-acb6-bcd0ed8484d4",
+        "uuid": "nebraska-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Nebraska.",
         "children": [
@@ -45122,7 +45122,7 @@
         ]
       },
       {
-        "uuid": "9e660acb-4453-47c4-8747-6a0c51387922",
+        "uuid": "nebraska-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Nebraska.",
         "children": [
@@ -45177,7 +45177,7 @@
         ]
       },
       {
-        "uuid": "18ec9c36-e0e4-47a9-bf37-3ac38732e7cb",
+        "uuid": "nebraska-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Nebraska.",
         "children": [
@@ -45250,7 +45250,7 @@
         ]
       },
       {
-        "uuid": "904d057c-f33d-4f0e-b821-dc0a17e8555d",
+        "uuid": "nebraska-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Nebraska.",
         "children": [
@@ -45317,7 +45317,7 @@
         ]
       },
       {
-        "uuid": "ddea1fb6-894c-4042-a223-c099eabbf1c3",
+        "uuid": "nebraska-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Nebraska.",
         "children": [
@@ -45402,7 +45402,7 @@
         ]
       },
       {
-        "uuid": "6e6cbc77-877d-4f56-912c-eb191a292cff",
+        "uuid": "nebraska-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Nebraska.",
         "children": [
@@ -45457,7 +45457,7 @@
         ]
       },
       {
-        "uuid": "3dcb1dd8-99c0-464d-bf54-6c14ce2ff275",
+        "uuid": "nebraska-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Nebraska.",
         "children": [
@@ -45500,7 +45500,7 @@
         ]
       },
       {
-        "uuid": "12017d3b-a565-4578-8710-7117e82e8570",
+        "uuid": "nebraska-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Nebraska.",
         "children": [
@@ -45543,7 +45543,7 @@
         ]
       },
       {
-        "uuid": "8e28476e-c48f-44f7-9036-d1bbcbbe1aed",
+        "uuid": "nebraska-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Nebraska.",
         "children": [
@@ -45562,7 +45562,7 @@
         ]
       },
       {
-        "uuid": "9cd8fab5-eb8f-49b3-91db-074390c37568",
+        "uuid": "nebraska-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Nebraska.",
         "children": [
@@ -45575,7 +45575,7 @@
         ]
       },
       {
-        "uuid": "c85485b7-5620-47f6-b094-78ca4391020f",
+        "uuid": "nebraska-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Nebraska.",
         "children": [
@@ -45642,7 +45642,7 @@
         ]
       },
       {
-        "uuid": "c28dcf0e-d274-4135-9b17-621a226161f9",
+        "uuid": "nebraska-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Nebraska.",
         "children": [
@@ -45859,7 +45859,7 @@
         ]
       },
       {
-        "uuid": "ff6c6eab-23f6-44e8-abed-7d8f20a18eb9",
+        "uuid": "nebraska-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Nebraska.",
         "children": [
@@ -45872,7 +45872,7 @@
         ]
       },
       {
-        "uuid": "5d2753d8-c27d-4a1c-8f34-62a525493e6c",
+        "uuid": "nebraska-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Nebraska.",
         "children": [
@@ -45885,7 +45885,7 @@
         ]
       },
       {
-        "uuid": "39272b05-f8ce-4a8b-bf2f-3dbc2d962f62",
+        "uuid": "nebraska-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Nebraska.",
         "children": [
@@ -45898,7 +45898,7 @@
         ]
       },
       {
-        "uuid": "85455805-edc0-44bd-afd0-840b3ed79495",
+        "uuid": "nebraska-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Nebraska.",
         "children": [
@@ -45941,7 +45941,7 @@
         ]
       },
       {
-        "uuid": "eb2616c6-8de8-4c18-a5bf-240a3b4f3d0f",
+        "uuid": "nebraska-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Nebraska.",
         "children": [
@@ -45978,7 +45978,7 @@
         ]
       },
       {
-        "uuid": "70c45f06-71af-4323-9a0d-3ec967d9c2c8",
+        "uuid": "nebraska-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Nebraska.",
         "children": [
@@ -45997,7 +45997,7 @@
         ]
       },
       {
-        "uuid": "9a8909fa-77e1-4a2f-9fe0-da36c3296ca4",
+        "uuid": "nebraska-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Nebraska.",
         "children": [
@@ -46010,7 +46010,7 @@
         ]
       },
       {
-        "uuid": "93025ed4-ee63-4fc3-8025-9c9fc3aff973",
+        "uuid": "nebraska-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Nebraska.",
         "children": [
@@ -46023,7 +46023,7 @@
         ]
       },
       {
-        "uuid": "b9ccb76d-c03c-4d9f-bfb3-cdc9d034d5b9",
+        "uuid": "nebraska-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Nebraska.",
         "children": [

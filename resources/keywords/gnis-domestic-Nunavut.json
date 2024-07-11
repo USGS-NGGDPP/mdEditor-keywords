@@ -5,7 +5,7 @@
     "definition": "Nunavut is a state in the United States.",
     "children": [
       {
-        "uuid": "f2b99b49-16ad-4c7d-878f-3911b5ebfe6e",
+        "uuid": "nunavut-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Nunavut.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "Guam is a state in the United States.",
     "children": [
       {
-        "uuid": "937562be-ada6-48f0-bfce-b6d83de5a8f1",
+        "uuid": "guam-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Guam.",
         "children": [
@@ -312,7 +312,7 @@
         ]
       },
       {
-        "uuid": "85c7b2e7-8f34-435b-a911-b75ebf8dd10a",
+        "uuid": "guam-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Guam.",
         "children": [
@@ -1705,7 +1705,7 @@
         ]
       },
       {
-        "uuid": "b9090e32-b5ee-4f1e-a5b8-8ccffe6ffc8b",
+        "uuid": "guam-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Guam.",
         "children": [
@@ -1958,7 +1958,7 @@
         ]
       },
       {
-        "uuid": "bd66a405-9343-4a1d-978c-78b816fe7ce5",
+        "uuid": "guam-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Guam.",
         "children": [
@@ -2037,7 +2037,7 @@
         ]
       },
       {
-        "uuid": "17d40dae-4189-40cc-bd35-9f853e914ee4",
+        "uuid": "guam-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Guam.",
         "children": [
@@ -2530,7 +2530,7 @@
         ]
       },
       {
-        "uuid": "05eb6de6-98e3-4287-86e0-4b045d3bfe8b",
+        "uuid": "guam-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Guam.",
         "children": [
@@ -2621,7 +2621,7 @@
         ]
       },
       {
-        "uuid": "1302b5a8-2f19-4633-bd7a-8d8a7bfa5d6c",
+        "uuid": "guam-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Guam.",
         "children": [
@@ -2952,7 +2952,7 @@
         ]
       },
       {
-        "uuid": "415730a1-b16c-4a9b-9c52-5bc57a9b4c2d",
+        "uuid": "guam-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Guam.",
         "children": [
@@ -3001,7 +3001,7 @@
         ]
       },
       {
-        "uuid": "3a6d3bad-e293-43b9-b09f-ccbefe175ef5",
+        "uuid": "guam-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Guam.",
         "children": [
@@ -3866,7 +3866,7 @@
         ]
       },
       {
-        "uuid": "fc7977c5-0e9b-47a7-89d9-8cefee858cac",
+        "uuid": "guam-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Guam.",
         "children": [
@@ -3909,7 +3909,7 @@
         ]
       },
       {
-        "uuid": "b8051b13-349f-44b2-ae8a-3d31b099defa",
+        "uuid": "guam-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Guam.",
         "children": [
@@ -4504,7 +4504,7 @@
         ]
       },
       {
-        "uuid": "e91589ac-fbad-4f49-949a-a4a95dbee467",
+        "uuid": "guam-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Guam.",
         "children": [
@@ -4661,7 +4661,7 @@
         ]
       },
       {
-        "uuid": "1b054edc-6a72-4e10-b652-8321f76e5abe",
+        "uuid": "guam-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Guam.",
         "children": [
@@ -4692,7 +4692,7 @@
         ]
       },
       {
-        "uuid": "459368db-e80d-4e36-b2f9-1bfcf7f92225",
+        "uuid": "guam-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Guam.",
         "children": [
@@ -4795,7 +4795,7 @@
         ]
       },
       {
-        "uuid": "275726b7-8005-4ba0-963e-54b6adcd02e5",
+        "uuid": "guam-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Guam.",
         "children": [
@@ -4904,7 +4904,7 @@
         ]
       },
       {
-        "uuid": "20d972e3-a857-4951-895a-99cc09c85dbd",
+        "uuid": "guam-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Guam.",
         "children": [
@@ -4917,7 +4917,7 @@
         ]
       },
       {
-        "uuid": "160b1dcf-984a-4edc-aff7-7354edcb4223",
+        "uuid": "guam-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Guam.",
         "children": [
@@ -5074,7 +5074,7 @@
         ]
       },
       {
-        "uuid": "fac98d03-d1be-444d-b45f-ec2368bcb19d",
+        "uuid": "guam-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Guam.",
         "children": [
@@ -5111,7 +5111,7 @@
         ]
       },
       {
-        "uuid": "297b5fa1-f8d0-4ec4-9cb9-6f6dfd43ea00",
+        "uuid": "guam-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Guam.",
         "children": [
@@ -5124,7 +5124,7 @@
         ]
       },
       {
-        "uuid": "0dc8398c-d7ce-4cd5-ade9-d871d4eeb548",
+        "uuid": "guam-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Guam.",
         "children": [
@@ -5167,7 +5167,7 @@
         ]
       },
       {
-        "uuid": "da0c572c-d895-41ae-9b4c-ce5333d7326a",
+        "uuid": "guam-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Guam.",
         "children": [
@@ -5180,7 +5180,7 @@
         ]
       },
       {
-        "uuid": "360b3f92-c378-4a24-bd42-19fbbae89910",
+        "uuid": "guam-sea",
         "label": "Sea",
         "definition": "Sea is a type of feature found in Guam.",
         "children": [
@@ -5193,7 +5193,7 @@
         ]
       },
       {
-        "uuid": "75561d95-9230-40cb-a5dd-0f8228e175bf",
+        "uuid": "guam-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Guam.",
         "children": [
@@ -5206,7 +5206,7 @@
         ]
       },
       {
-        "uuid": "538f2c09-6dbf-4247-8f87-ef7860303272",
+        "uuid": "guam-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Guam.",
         "children": [
@@ -5321,7 +5321,7 @@
         ]
       },
       {
-        "uuid": "ebd61684-9723-4e87-8700-499222ad53b9",
+        "uuid": "guam-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Guam.",
         "children": [
@@ -5334,7 +5334,7 @@
         ]
       },
       {
-        "uuid": "7553dd49-891b-4d3f-b269-9c4cf02b7e59",
+        "uuid": "guam-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Guam.",
         "children": [
@@ -5347,7 +5347,7 @@
         ]
       },
       {
-        "uuid": "d8479f1a-c68b-4ab0-bba5-eccc95e93b54",
+        "uuid": "guam-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Guam.",
         "children": [

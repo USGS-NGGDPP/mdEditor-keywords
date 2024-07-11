@@ -5,7 +5,7 @@
     "definition": "New Jersey is a state in the United States.",
     "children": [
       {
-        "uuid": "0d8a1d4a-25f9-46ea-a485-047d1b5d77e8",
+        "uuid": "new-jersey-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in New Jersey.",
         "children": [
@@ -246,7 +246,7 @@
         ]
       },
       {
-        "uuid": "0f6109e7-87a5-4592-9713-8956f2a4cf3e",
+        "uuid": "new-jersey-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in New Jersey.",
         "children": [
@@ -871,7 +871,7 @@
         ]
       },
       {
-        "uuid": "3ccb21d7-e477-4725-9049-4fd48d86ebc2",
+        "uuid": "new-jersey-island",
         "label": "Island",
         "definition": "Island is a type of feature found in New Jersey.",
         "children": [
@@ -2048,7 +2048,7 @@
         ]
       },
       {
-        "uuid": "e6e8ed63-4efe-4089-a28b-b4e515aa0dc9",
+        "uuid": "new-jersey-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in New Jersey.",
         "children": [
@@ -4113,7 +4113,7 @@
         ]
       },
       {
-        "uuid": "88a5312b-9388-4f25-bf8e-7468fa530b5e",
+        "uuid": "new-jersey-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in New Jersey.",
         "children": [
@@ -11440,7 +11440,7 @@
         ]
       },
       {
-        "uuid": "bb826eea-92bd-42ac-8f40-a04f7cf2cb8d",
+        "uuid": "new-jersey-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in New Jersey.",
         "children": [
@@ -26081,7 +26081,7 @@
         ]
       },
       {
-        "uuid": "29f30d8e-1424-4133-9367-a10bb651019c",
+        "uuid": "new-jersey-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in New Jersey.",
         "children": [
@@ -27000,7 +27000,7 @@
         ]
       },
       {
-        "uuid": "4fde0858-4a70-4fa7-9451-d95c49407319",
+        "uuid": "new-jersey-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in New Jersey.",
         "children": [
@@ -28201,7 +28201,7 @@
         ]
       },
       {
-        "uuid": "a553daac-dd8d-47c4-8550-ce7dae93ff09",
+        "uuid": "new-jersey-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in New Jersey.",
         "children": [
@@ -28568,7 +28568,7 @@
         ]
       },
       {
-        "uuid": "fd03f3aa-513d-4959-83b7-a54f8e5923c6",
+        "uuid": "new-jersey-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in New Jersey.",
         "children": [
@@ -30057,7 +30057,7 @@
         ]
       },
       {
-        "uuid": "3183259a-5490-4318-a16d-e6d38e8dba5b",
+        "uuid": "new-jersey-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in New Jersey.",
         "children": [
@@ -30292,7 +30292,7 @@
         ]
       },
       {
-        "uuid": "8d650f5c-0b58-43fb-98b1-6c9239eb492f",
+        "uuid": "new-jersey-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in New Jersey.",
         "children": [
@@ -30317,7 +30317,7 @@
         ]
       },
       {
-        "uuid": "50609633-fa8e-48b9-bcec-7b1dce13b3be",
+        "uuid": "new-jersey-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in New Jersey.",
         "children": [
@@ -30330,7 +30330,7 @@
         ]
       },
       {
-        "uuid": "a9a6a49e-233b-4607-abfc-0d2e21d0d350",
+        "uuid": "new-jersey-military",
         "label": "Military",
         "definition": "Military is a type of feature found in New Jersey.",
         "children": [
@@ -30637,7 +30637,7 @@
         ]
       },
       {
-        "uuid": "05727abc-9f8d-4437-a042-26782e5eb7ec",
+        "uuid": "new-jersey-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in New Jersey.",
         "children": [
@@ -34538,7 +34538,7 @@
         ]
       },
       {
-        "uuid": "a3f83b26-7410-40e5-9bad-7a38970dd5c0",
+        "uuid": "new-jersey-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in New Jersey.",
         "children": [
@@ -35457,7 +35457,7 @@
         ]
       },
       {
-        "uuid": "7c09e220-590e-481b-99bf-34eff32ddb05",
+        "uuid": "new-jersey-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in New Jersey.",
         "children": [
@@ -35698,7 +35698,7 @@
         ]
       },
       {
-        "uuid": "50b01b7d-b28b-4c4b-8c1b-fba855d72bde",
+        "uuid": "new-jersey-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in New Jersey.",
         "children": [
@@ -35777,7 +35777,7 @@
         ]
       },
       {
-        "uuid": "e7584966-dcad-4b81-9247-d60b4652e558",
+        "uuid": "new-jersey-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in New Jersey.",
         "children": [
@@ -35826,7 +35826,7 @@
         ]
       },
       {
-        "uuid": "3891f824-8caa-43f4-9373-95f5fc5ac02e",
+        "uuid": "new-jersey-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in New Jersey.",
         "children": [
@@ -35869,7 +35869,7 @@
         ]
       },
       {
-        "uuid": "fc841ca6-8151-45f6-88ab-01636cbafce8",
+        "uuid": "new-jersey-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in New Jersey.",
         "children": [
@@ -35990,7 +35990,7 @@
         ]
       },
       {
-        "uuid": "6ddc8cbc-5c63-4796-8607-e558d31fcee3",
+        "uuid": "new-jersey-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in New Jersey.",
         "children": [
@@ -36021,7 +36021,7 @@
         ]
       },
       {
-        "uuid": "ca78392d-f07a-444f-995e-dcc021699c85",
+        "uuid": "new-jersey-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in New Jersey.",
         "children": [
@@ -36052,7 +36052,7 @@
         ]
       },
       {
-        "uuid": "4eccb088-a6a7-4526-b85f-6e8cea1c2760",
+        "uuid": "new-jersey-range",
         "label": "Range",
         "definition": "Range is a type of feature found in New Jersey.",
         "children": [
@@ -36107,7 +36107,7 @@
         ]
       },
       {
-        "uuid": "81c9c853-2aa2-4dac-b44d-5a745ad29942",
+        "uuid": "new-jersey-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in New Jersey.",
         "children": [
@@ -36132,7 +36132,7 @@
         ]
       },
       {
-        "uuid": "d500425b-ae76-4482-b310-f5fffd13c773",
+        "uuid": "new-jersey-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in New Jersey.",
         "children": [
@@ -39589,7 +39589,7 @@
         ]
       },
       {
-        "uuid": "38c64327-9d95-4b09-ae4f-a4a4dfe3e306",
+        "uuid": "new-jersey-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in New Jersey.",
         "children": [
@@ -39632,7 +39632,7 @@
         ]
       },
       {
-        "uuid": "9d5ccf37-8d8c-483d-a8ee-42b2f2b1896a",
+        "uuid": "new-jersey-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in New Jersey.",
         "children": [
@@ -39675,7 +39675,7 @@
         ]
       },
       {
-        "uuid": "c31ae0e7-72ce-4f58-af21-24bbd60de99c",
+        "uuid": "new-jersey-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in New Jersey.",
         "children": [
@@ -39718,7 +39718,7 @@
         ]
       },
       {
-        "uuid": "8be07eaa-dfd1-483a-abf4-aeb054bc2d22",
+        "uuid": "new-jersey-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in New Jersey.",
         "children": [
@@ -39731,7 +39731,7 @@
         ]
       },
       {
-        "uuid": "f4e0a313-8eda-47c6-94f1-3939afd95331",
+        "uuid": "new-jersey-area",
         "label": "Area",
         "definition": "Area is a type of feature found in New Jersey.",
         "children": [
@@ -39756,7 +39756,7 @@
         ]
       },
       {
-        "uuid": "195ae604-adc9-4cc0-92a3-5bbecf41dd4d",
+        "uuid": "new-jersey-census",
         "label": "Census",
         "definition": "Census is a type of feature found in New Jersey.",
         "children": [

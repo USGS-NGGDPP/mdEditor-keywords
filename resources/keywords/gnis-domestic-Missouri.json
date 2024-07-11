@@ -5,7 +5,7 @@
     "definition": "Missouri is a state in the United States.",
     "children": [
       {
-        "uuid": "2b3dc0ee-837b-45dc-b847-d892db77010e",
+        "uuid": "missouri-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Missouri.",
         "children": [
@@ -22872,7 +22872,7 @@
         ]
       },
       {
-        "uuid": "18587006-6444-4875-89a0-9e5456a12658",
+        "uuid": "missouri-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Missouri.",
         "children": [
@@ -52249,7 +52249,7 @@
         ]
       },
       {
-        "uuid": "0357f350-1e51-48f2-ba4d-525e4310f400",
+        "uuid": "missouri-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Missouri.",
         "children": [
@@ -64166,7 +64166,7 @@
         ]
       },
       {
-        "uuid": "50b50410-fe0b-486c-94ab-ac12f135806a",
+        "uuid": "missouri-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Missouri.",
         "children": [
@@ -65493,7 +65493,7 @@
         ]
       },
       {
-        "uuid": "364bab6e-3bf7-4bcb-9a3c-78d0df21da0e",
+        "uuid": "missouri-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Missouri.",
         "children": [
@@ -77842,7 +77842,7 @@
         ]
       },
       {
-        "uuid": "ba39a8ac-bc4c-4154-bfe7-5c04e112090c",
+        "uuid": "missouri-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Missouri.",
         "children": [
@@ -80873,7 +80873,7 @@
         ]
       },
       {
-        "uuid": "ab010fa3-df0b-445a-910e-d6940efc9c70",
+        "uuid": "missouri-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Missouri.",
         "children": [
@@ -82254,7 +82254,7 @@
         ]
       },
       {
-        "uuid": "16c29fcf-a43e-4ea8-91ab-90ec9e832cf2",
+        "uuid": "missouri-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Missouri.",
         "children": [
@@ -86203,7 +86203,7 @@
         ]
       },
       {
-        "uuid": "f5ab8df7-0e33-465c-9bf6-dcbe1b7b8193",
+        "uuid": "missouri-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Missouri.",
         "children": [
@@ -86480,7 +86480,7 @@
         ]
       },
       {
-        "uuid": "03cea8a5-aa3d-40f0-b176-a08f448cee5f",
+        "uuid": "missouri-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Missouri.",
         "children": [
@@ -90363,7 +90363,7 @@
         ]
       },
       {
-        "uuid": "97eba36f-e68f-42d9-85e1-d6d8b175c2f7",
+        "uuid": "missouri-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Missouri.",
         "children": [
@@ -91540,7 +91540,7 @@
         ]
       },
       {
-        "uuid": "d1e82455-2238-4116-831b-42338394af05",
+        "uuid": "missouri-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Missouri.",
         "children": [
@@ -93053,7 +93053,7 @@
         ]
       },
       {
-        "uuid": "27c876eb-cf3d-4761-8458-bf4b6d13a963",
+        "uuid": "missouri-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Missouri.",
         "children": [
@@ -94140,7 +94140,7 @@
         ]
       },
       {
-        "uuid": "6f9bd3a4-86af-41e5-8a81-7106d35c2ea1",
+        "uuid": "missouri-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Missouri.",
         "children": [
@@ -94345,7 +94345,7 @@
         ]
       },
       {
-        "uuid": "d18263fd-8ad2-41d3-bcf5-3afbfd03b4e6",
+        "uuid": "missouri-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Missouri.",
         "children": [
@@ -95474,7 +95474,7 @@
         ]
       },
       {
-        "uuid": "ec18a345-9a82-4cdf-b731-86477048ed63",
+        "uuid": "missouri-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Missouri.",
         "children": [
@@ -97347,7 +97347,7 @@
         ]
       },
       {
-        "uuid": "03c3c073-6c83-44d8-b689-013a76619295",
+        "uuid": "missouri-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Missouri.",
         "children": [
@@ -97852,7 +97852,7 @@
         ]
       },
       {
-        "uuid": "652b37a4-d418-4a2f-b03d-83742a75ab42",
+        "uuid": "missouri-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Missouri.",
         "children": [
@@ -98021,7 +98021,7 @@
         ]
       },
       {
-        "uuid": "874f3602-728a-48dc-be9c-6a5ee7f64fba",
+        "uuid": "missouri-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Missouri.",
         "children": [
@@ -98346,7 +98346,7 @@
         ]
       },
       {
-        "uuid": "a3f82dda-3507-4048-8aa1-d99abc5c6f29",
+        "uuid": "missouri-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Missouri.",
         "children": [
@@ -98737,7 +98737,7 @@
         ]
       },
       {
-        "uuid": "ba2220a2-cd30-4be9-a343-967985f8119f",
+        "uuid": "missouri-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Missouri.",
         "children": [
@@ -99014,7 +99014,7 @@
         ]
       },
       {
-        "uuid": "231e6612-ac61-4e6a-be07-685d8bde346f",
+        "uuid": "missouri-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Missouri.",
         "children": [
@@ -99165,7 +99165,7 @@
         ]
       },
       {
-        "uuid": "e6c164b2-84e6-4ec1-a0bf-3e16577cd067",
+        "uuid": "missouri-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Missouri.",
         "children": [
@@ -99232,7 +99232,7 @@
         ]
       },
       {
-        "uuid": "5aacfe93-3e91-47d5-ab33-981ca9492374",
+        "uuid": "missouri-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Missouri.",
         "children": [
@@ -99371,7 +99371,7 @@
         ]
       },
       {
-        "uuid": "0643bc1b-fa5c-4a71-9b75-9a52a2eb50c8",
+        "uuid": "missouri-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Missouri.",
         "children": [
@@ -99522,7 +99522,7 @@
         ]
       },
       {
-        "uuid": "e9db4c99-116e-4e27-a1e4-ebd2999c42a2",
+        "uuid": "missouri-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Missouri.",
         "children": [
@@ -99625,7 +99625,7 @@
         ]
       },
       {
-        "uuid": "830cee00-7029-4da5-9f69-ad8ea3f36fde",
+        "uuid": "missouri-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Missouri.",
         "children": [
@@ -99722,7 +99722,7 @@
         ]
       },
       {
-        "uuid": "052f794d-e5cb-420b-a3c9-6dc292fbd00b",
+        "uuid": "missouri-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Missouri.",
         "children": [
@@ -99921,7 +99921,7 @@
         ]
       },
       {
-        "uuid": "27d20360-89e3-497a-bd8e-8b9e96f7ac86",
+        "uuid": "missouri-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Missouri.",
         "children": [
@@ -100066,7 +100066,7 @@
         ]
       },
       {
-        "uuid": "f6003421-b87c-4455-90dc-e9ac08e0c89f",
+        "uuid": "missouri-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Missouri.",
         "children": [
@@ -100385,7 +100385,7 @@
         ]
       },
       {
-        "uuid": "c56f61a7-85a1-4aeb-918a-bb9a5e730850",
+        "uuid": "missouri-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Missouri.",
         "children": [
@@ -113094,7 +113094,7 @@
         ]
       },
       {
-        "uuid": "0fe5c5a9-4204-460d-acde-1e1590f955c3",
+        "uuid": "missouri-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Missouri.",
         "children": [
@@ -113107,7 +113107,7 @@
         ]
       },
       {
-        "uuid": "9fa3ff9d-3a57-4246-b229-bc780235e664",
+        "uuid": "missouri-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Missouri.",
         "children": [
@@ -114056,7 +114056,7 @@
         ]
       },
       {
-        "uuid": "f817c80e-2525-45b5-9c03-2af02339e1a4",
+        "uuid": "missouri-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Missouri.",
         "children": [
@@ -114081,7 +114081,7 @@
         ]
       },
       {
-        "uuid": "022b569e-ae91-46df-9692-d6891158c54f",
+        "uuid": "missouri-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Missouri.",
         "children": [
@@ -114124,7 +114124,7 @@
         ]
       },
       {
-        "uuid": "6bffe04e-cb36-41fd-bf20-d34dc1d74eea",
+        "uuid": "missouri-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Missouri.",
         "children": [
@@ -114137,7 +114137,7 @@
         ]
       },
       {
-        "uuid": "66975357-4347-44c8-aea9-8762e970526c",
+        "uuid": "missouri-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Missouri.",
         "children": [

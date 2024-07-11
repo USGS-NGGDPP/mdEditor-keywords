@@ -5,7 +5,7 @@
     "definition": "Yukon is a state in the United States.",
     "children": [
       {
-        "uuid": "4704b2a4-0cb9-4f89-b4a0-33f5debd3833",
+        "uuid": "yukon-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Yukon.",
         "children": [
@@ -66,7 +66,7 @@
         ]
       },
       {
-        "uuid": "d867f4db-f94e-4bc7-b0d4-dd5cbc75405d",
+        "uuid": "yukon-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Yukon.",
         "children": [
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "uuid": "a94e41ee-b8a0-45de-b7f2-867c17427ca6",
+        "uuid": "yukon-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Yukon.",
         "children": [

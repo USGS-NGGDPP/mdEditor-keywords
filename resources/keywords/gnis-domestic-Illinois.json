@@ -5,7 +5,7 @@
     "definition": "Illinois is a state in the United States.",
     "children": [
       {
-        "uuid": "9b8b2345-3df2-46d0-bd59-f1dfbb01f9e4",
+        "uuid": "illinois-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Illinois.",
         "children": [
@@ -1620,7 +1620,7 @@
         ]
       },
       {
-        "uuid": "a0c63a2f-c6bc-4b24-b933-db9932b83341",
+        "uuid": "illinois-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Illinois.",
         "children": [
@@ -29899,7 +29899,7 @@
         ]
       },
       {
-        "uuid": "4b4c37eb-f380-4d02-ac94-9c11e4486c03",
+        "uuid": "illinois-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Illinois.",
         "children": [
@@ -31094,7 +31094,7 @@
         ]
       },
       {
-        "uuid": "7d95dbc8-fcb9-4bb4-b277-e7b6fe4b419f",
+        "uuid": "illinois-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Illinois.",
         "children": [
@@ -35715,7 +35715,7 @@
         ]
       },
       {
-        "uuid": "f43f1404-c0f7-42d9-adeb-1d28353baff2",
+        "uuid": "illinois-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Illinois.",
         "children": [
@@ -46546,7 +46546,7 @@
         ]
       },
       {
-        "uuid": "7c464e01-6155-4443-ac6f-b19304f2782a",
+        "uuid": "illinois-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Illinois.",
         "children": [
@@ -52685,7 +52685,7 @@
         ]
       },
       {
-        "uuid": "d453d771-1c26-442d-814e-e67d2918fadd",
+        "uuid": "illinois-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Illinois.",
         "children": [
@@ -53322,7 +53322,7 @@
         ]
       },
       {
-        "uuid": "c8b4f912-fec8-42fc-aaee-626fdd0f4590",
+        "uuid": "illinois-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Illinois.",
         "children": [
@@ -53623,7 +53623,7 @@
         ]
       },
       {
-        "uuid": "46d064b8-f35c-473b-83ff-f5563547c95d",
+        "uuid": "illinois-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Illinois.",
         "children": [
@@ -53888,7 +53888,7 @@
         ]
       },
       {
-        "uuid": "c95849cb-85c7-4d5c-ae2a-71b3b0afc838",
+        "uuid": "illinois-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Illinois.",
         "children": [
@@ -54939,7 +54939,7 @@
         ]
       },
       {
-        "uuid": "d5b9df5e-3092-416e-80a2-9194da38fb3c",
+        "uuid": "illinois-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Illinois.",
         "children": [
@@ -56758,7 +56758,7 @@
         ]
       },
       {
-        "uuid": "75ff82a2-f0e8-4543-a909-6c335f600f8d",
+        "uuid": "illinois-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Illinois.",
         "children": [
@@ -56867,7 +56867,7 @@
         ]
       },
       {
-        "uuid": "3bd04472-2999-40ec-8dda-193475f6720e",
+        "uuid": "illinois-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Illinois.",
         "children": [
@@ -58236,7 +58236,7 @@
         ]
       },
       {
-        "uuid": "47af3f44-4de8-4ed5-9abe-05af9cf03f2f",
+        "uuid": "illinois-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Illinois.",
         "children": [
@@ -58627,7 +58627,7 @@
         ]
       },
       {
-        "uuid": "2cbf193c-f61e-4376-98a2-233ccc310973",
+        "uuid": "illinois-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Illinois.",
         "children": [
@@ -58874,7 +58874,7 @@
         ]
       },
       {
-        "uuid": "dd6ea19a-04ce-4e60-a671-1a4b30a9828d",
+        "uuid": "illinois-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Illinois.",
         "children": [
@@ -59013,7 +59013,7 @@
         ]
       },
       {
-        "uuid": "be76b453-3ec8-4164-93b2-1819e2d27e9f",
+        "uuid": "illinois-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Illinois.",
         "children": [
@@ -59248,7 +59248,7 @@
         ]
       },
       {
-        "uuid": "ee735a18-2a3c-4be1-9565-2c0936586e4b",
+        "uuid": "illinois-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Illinois.",
         "children": [
@@ -59399,7 +59399,7 @@
         ]
       },
       {
-        "uuid": "f58d9899-4cfc-4c5b-b0c3-ea94f5a488d7",
+        "uuid": "illinois-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Illinois.",
         "children": [
@@ -59550,7 +59550,7 @@
         ]
       },
       {
-        "uuid": "8c7527d4-f62e-4e66-b998-048f62b70b3c",
+        "uuid": "illinois-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Illinois.",
         "children": [
@@ -59791,7 +59791,7 @@
         ]
       },
       {
-        "uuid": "3665f180-c218-4c55-a5d1-bfdd25b07e15",
+        "uuid": "illinois-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Illinois.",
         "children": [
@@ -60224,7 +60224,7 @@
         ]
       },
       {
-        "uuid": "27c9c9ae-7dd9-4d88-948d-71302dc617ea",
+        "uuid": "illinois-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Illinois.",
         "children": [
@@ -60351,7 +60351,7 @@
         ]
       },
       {
-        "uuid": "678e77a8-ad5f-44fe-9058-e4fc9abd8a10",
+        "uuid": "illinois-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Illinois.",
         "children": [
@@ -60376,7 +60376,7 @@
         ]
       },
       {
-        "uuid": "41de4bf2-076f-40bc-b216-dd6e637e9768",
+        "uuid": "illinois-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Illinois.",
         "children": [
@@ -60611,7 +60611,7 @@
         ]
       },
       {
-        "uuid": "81da6282-be9a-4734-addc-bf049e92c8b4",
+        "uuid": "illinois-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Illinois.",
         "children": [
@@ -60684,7 +60684,7 @@
         ]
       },
       {
-        "uuid": "48780203-f52b-4cad-943b-c8ed7df62ac2",
+        "uuid": "illinois-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Illinois.",
         "children": [
@@ -60775,7 +60775,7 @@
         ]
       },
       {
-        "uuid": "54b3bffa-3fbd-4b0e-9f31-1c1955860903",
+        "uuid": "illinois-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Illinois.",
         "children": [
@@ -60824,7 +60824,7 @@
         ]
       },
       {
-        "uuid": "cd0353f4-ca24-4c82-bc90-f24b9d363932",
+        "uuid": "illinois-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Illinois.",
         "children": [
@@ -60837,7 +60837,7 @@
         ]
       },
       {
-        "uuid": "c738f491-268a-4cc7-b326-e5d7785a39e4",
+        "uuid": "illinois-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Illinois.",
         "children": [
@@ -60880,7 +60880,7 @@
         ]
       },
       {
-        "uuid": "242d56f6-e960-418c-967d-7c249c521b8f",
+        "uuid": "illinois-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Illinois.",
         "children": [
@@ -60923,7 +60923,7 @@
         ]
       },
       {
-        "uuid": "f03f8918-a47f-4be0-a6e7-5d32d9340e99",
+        "uuid": "illinois-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Illinois.",
         "children": [
@@ -61104,7 +61104,7 @@
         ]
       },
       {
-        "uuid": "3e449047-d651-422e-9ebc-b261584caa29",
+        "uuid": "illinois-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Illinois.",
         "children": [
@@ -61123,7 +61123,7 @@
         ]
       },
       {
-        "uuid": "18032649-d572-4d73-bfb6-75ce69a5ce4c",
+        "uuid": "illinois-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Illinois.",
         "children": [
@@ -79580,7 +79580,7 @@
         ]
       },
       {
-        "uuid": "5987cf10-805f-465d-ba73-37b747e3da61",
+        "uuid": "illinois-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Illinois.",
         "children": [
@@ -79593,7 +79593,7 @@
         ]
       },
       {
-        "uuid": "f3abf046-4e13-4356-a58e-e488fff6eac8",
+        "uuid": "illinois-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Illinois.",
         "children": [

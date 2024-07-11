@@ -5,7 +5,7 @@
     "definition": "Kansas is a state in the United States.",
     "children": [
       {
-        "uuid": "2a4e36e5-b6d3-47f7-8cd0-9a09e56e28ed",
+        "uuid": "kansas-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Kansas.",
         "children": [
@@ -8142,7 +8142,7 @@
         ]
       },
       {
-        "uuid": "a9927c9f-5461-47f5-b73d-1ae23b6843a8",
+        "uuid": "kansas-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Kansas.",
         "children": [
@@ -8191,7 +8191,7 @@
         ]
       },
       {
-        "uuid": "813ef585-c432-4974-88b0-b5d36f683747",
+        "uuid": "kansas-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Kansas.",
         "children": [
@@ -18128,7 +18128,7 @@
         ]
       },
       {
-        "uuid": "3797f377-8768-4b7f-92a2-6928eeab5630",
+        "uuid": "kansas-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Kansas.",
         "children": [
@@ -19863,7 +19863,7 @@
         ]
       },
       {
-        "uuid": "1224430d-a2de-41e7-94f2-a1d209362424",
+        "uuid": "kansas-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Kansas.",
         "children": [
@@ -29824,7 +29824,7 @@
         ]
       },
       {
-        "uuid": "1b0d28ef-a806-4b8b-8490-542aa477d947",
+        "uuid": "kansas-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Kansas.",
         "children": [
@@ -29849,7 +29849,7 @@
         ]
       },
       {
-        "uuid": "ac40a52c-c176-4db0-8d3d-72a5dd3947e1",
+        "uuid": "kansas-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Kansas.",
         "children": [
@@ -30438,7 +30438,7 @@
         ]
       },
       {
-        "uuid": "1c8b1354-7a92-4725-9243-a4bab8a1ed43",
+        "uuid": "kansas-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Kansas.",
         "children": [
@@ -31213,7 +31213,7 @@
         ]
       },
       {
-        "uuid": "e17676b7-3be5-4d1e-a183-4e2dcfaa00f9",
+        "uuid": "kansas-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Kansas.",
         "children": [
@@ -31304,7 +31304,7 @@
         ]
       },
       {
-        "uuid": "148ede3e-4744-4d53-af92-e82fd7fb698b",
+        "uuid": "kansas-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Kansas.",
         "children": [
@@ -31473,7 +31473,7 @@
         ]
       },
       {
-        "uuid": "e249dca0-afea-49cd-8f26-89b2fe2a462a",
+        "uuid": "kansas-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Kansas.",
         "children": [
@@ -32200,7 +32200,7 @@
         ]
       },
       {
-        "uuid": "acc1f4f8-ba14-4de9-89fc-98d60bf6b78d",
+        "uuid": "kansas-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Kansas.",
         "children": [
@@ -32261,7 +32261,7 @@
         ]
       },
       {
-        "uuid": "c96a21ee-ae1a-4ad2-af5d-5f5694c4d3c0",
+        "uuid": "kansas-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Kansas.",
         "children": [
@@ -32370,7 +32370,7 @@
         ]
       },
       {
-        "uuid": "94112593-7dad-4891-8bbb-76167bc57064",
+        "uuid": "kansas-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Kansas.",
         "children": [
@@ -32539,7 +32539,7 @@
         ]
       },
       {
-        "uuid": "8ccc88fc-4bf2-4f69-b107-654116faa54d",
+        "uuid": "kansas-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Kansas.",
         "children": [
@@ -33002,7 +33002,7 @@
         ]
       },
       {
-        "uuid": "8d0b7cd2-85ea-4f08-9285-00408e008113",
+        "uuid": "kansas-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Kansas.",
         "children": [
@@ -33039,7 +33039,7 @@
         ]
       },
       {
-        "uuid": "50220b96-f243-4033-a6cf-06c340e8c313",
+        "uuid": "kansas-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Kansas.",
         "children": [
@@ -33070,7 +33070,7 @@
         ]
       },
       {
-        "uuid": "998ac5e2-be58-4c1f-9171-c5428f00b35f",
+        "uuid": "kansas-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Kansas.",
         "children": [
@@ -33119,7 +33119,7 @@
         ]
       },
       {
-        "uuid": "983ed571-244f-4a23-a589-9c14c024cb21",
+        "uuid": "kansas-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Kansas.",
         "children": [
@@ -33156,7 +33156,7 @@
         ]
       },
       {
-        "uuid": "ffebb71c-530a-49e3-870d-782eb2eab303",
+        "uuid": "kansas-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Kansas.",
         "children": [
@@ -33175,7 +33175,7 @@
         ]
       },
       {
-        "uuid": "6e30d936-163e-4a8a-b719-19b1840af30e",
+        "uuid": "kansas-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Kansas.",
         "children": [
@@ -33200,7 +33200,7 @@
         ]
       },
       {
-        "uuid": "7d70d3c7-b74f-4fa9-86ea-00d887fff906",
+        "uuid": "kansas-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Kansas.",
         "children": [
@@ -33261,7 +33261,7 @@
         ]
       },
       {
-        "uuid": "b23318e7-a9f8-45c7-924b-83308345ff8a",
+        "uuid": "kansas-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Kansas.",
         "children": [
@@ -33280,7 +33280,7 @@
         ]
       },
       {
-        "uuid": "8b76b26a-44a9-4b65-b2ed-4909edbf60ad",
+        "uuid": "kansas-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Kansas.",
         "children": [
@@ -33305,7 +33305,7 @@
         ]
       },
       {
-        "uuid": "ea89dc79-c577-4579-8d23-59ded8bc3a50",
+        "uuid": "kansas-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Kansas.",
         "children": [
@@ -33366,7 +33366,7 @@
         ]
       },
       {
-        "uuid": "55403eef-3e05-4cf6-83f1-8cea2ec65caf",
+        "uuid": "kansas-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Kansas.",
         "children": [
@@ -33709,7 +33709,7 @@
         ]
       },
       {
-        "uuid": "f6c36a93-e368-4233-b88a-d40d7c16ce28",
+        "uuid": "kansas-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Kansas.",
         "children": [
@@ -34424,7 +34424,7 @@
         ]
       },
       {
-        "uuid": "92b2a698-1047-414d-a97d-a2396521b7d5",
+        "uuid": "kansas-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Kansas.",
         "children": [
@@ -34437,7 +34437,7 @@
         ]
       },
       {
-        "uuid": "4f67c991-e56d-46e3-a822-8675531d8a61",
+        "uuid": "kansas-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Kansas.",
         "children": [
@@ -34468,7 +34468,7 @@
         ]
       },
       {
-        "uuid": "8a3a3d40-0040-496d-ada8-fbda52053b9e",
+        "uuid": "kansas-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Kansas.",
         "children": [

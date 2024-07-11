@@ -5,7 +5,7 @@
     "definition": "Sonora is a state in the United States.",
     "children": [
       {
-        "uuid": "20f6e25b-100b-4939-8f55-975efd8fdc33",
+        "uuid": "sonora-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Sonora.",
         "children": [
@@ -42,7 +42,7 @@
         ]
       },
       {
-        "uuid": "43df3960-9a16-4209-baa4-68ba75dd19ed",
+        "uuid": "sonora-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Sonora.",
         "children": [

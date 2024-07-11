@@ -5,7 +5,7 @@
     "definition": "North Dakota is a state in the United States.",
     "children": [
       {
-        "uuid": "05b48fe3-cb60-4de1-95cc-77e619002741",
+        "uuid": "north-dakota-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in North Dakota.",
         "children": [
@@ -2604,7 +2604,7 @@
         ]
       },
       {
-        "uuid": "32129792-6a2d-4420-a84b-3a119b6f188f",
+        "uuid": "north-dakota-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in North Dakota.",
         "children": [
@@ -3505,7 +3505,7 @@
         ]
       },
       {
-        "uuid": "a6c7d4d7-3326-4e44-962b-b3aa62153b76",
+        "uuid": "north-dakota-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in North Dakota.",
         "children": [
@@ -4262,7 +4262,7 @@
         ]
       },
       {
-        "uuid": "1d2daa67-eeeb-4e22-8efe-c93c8470edea",
+        "uuid": "north-dakota-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in North Dakota.",
         "children": [
@@ -4635,7 +4635,7 @@
         ]
       },
       {
-        "uuid": "61395a48-07c9-4de6-91df-a482e2b3d677",
+        "uuid": "north-dakota-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in North Dakota.",
         "children": [
@@ -6154,7 +6154,7 @@
         ]
       },
       {
-        "uuid": "691dbc44-7785-466c-b2e3-b8553ca10d9e",
+        "uuid": "north-dakota-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in North Dakota.",
         "children": [
@@ -9851,7 +9851,7 @@
         ]
       },
       {
-        "uuid": "59da92fa-e554-4650-bf5a-8464c8a54371",
+        "uuid": "north-dakota-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in North Dakota.",
         "children": [
@@ -15312,7 +15312,7 @@
         ]
       },
       {
-        "uuid": "abd16a48-b4fc-405d-b23c-c0460fe15696",
+        "uuid": "north-dakota-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in North Dakota.",
         "children": [
@@ -15469,7 +15469,7 @@
         ]
       },
       {
-        "uuid": "d030b9ac-3684-4e3c-9474-1172fe1db823",
+        "uuid": "north-dakota-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in North Dakota.",
         "children": [
@@ -15764,7 +15764,7 @@
         ]
       },
       {
-        "uuid": "24b9a262-16b6-4a5f-a0c6-ef57b055cf03",
+        "uuid": "north-dakota-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in North Dakota.",
         "children": [
@@ -15879,7 +15879,7 @@
         ]
       },
       {
-        "uuid": "d523afa9-43a5-4eb0-be7f-733f3464fac6",
+        "uuid": "north-dakota-range",
         "label": "Range",
         "definition": "Range is a type of feature found in North Dakota.",
         "children": [
@@ -16132,7 +16132,7 @@
         ]
       },
       {
-        "uuid": "64f9dfda-8275-4c6d-9b75-ae024b5b6b0a",
+        "uuid": "north-dakota-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in North Dakota.",
         "children": [
@@ -16163,7 +16163,7 @@
         ]
       },
       {
-        "uuid": "2ac8614b-5720-4c8d-87ff-e5de2005c2d7",
+        "uuid": "north-dakota-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in North Dakota.",
         "children": [
@@ -16308,7 +16308,7 @@
         ]
       },
       {
-        "uuid": "ee57ddd1-8c8e-4c85-a9f8-7c3c05658a42",
+        "uuid": "north-dakota-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in North Dakota.",
         "children": [
@@ -16399,7 +16399,7 @@
         ]
       },
       {
-        "uuid": "800ae49f-bece-45a5-9870-7d83980e9d9f",
+        "uuid": "north-dakota-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in North Dakota.",
         "children": [
@@ -16592,7 +16592,7 @@
         ]
       },
       {
-        "uuid": "773e7b58-e86e-45b4-87a6-8d1d7740abcf",
+        "uuid": "north-dakota-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in North Dakota.",
         "children": [
@@ -16671,7 +16671,7 @@
         ]
       },
       {
-        "uuid": "4660a909-1392-4a35-a3c0-015ea7bcd2a9",
+        "uuid": "north-dakota-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in North Dakota.",
         "children": [
@@ -16798,7 +16798,7 @@
         ]
       },
       {
-        "uuid": "2bc2e8cc-5cbf-46ec-8142-8e8a8da5fe20",
+        "uuid": "north-dakota-area",
         "label": "Area",
         "definition": "Area is a type of feature found in North Dakota.",
         "children": [
@@ -16823,7 +16823,7 @@
         ]
       },
       {
-        "uuid": "b6e85e06-b599-4046-971c-82af7816920f",
+        "uuid": "north-dakota-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in North Dakota.",
         "children": [
@@ -16884,7 +16884,7 @@
         ]
       },
       {
-        "uuid": "ee7d5123-09f4-4845-b9cf-310388df96a1",
+        "uuid": "north-dakota-island",
         "label": "Island",
         "definition": "Island is a type of feature found in North Dakota.",
         "children": [
@@ -16987,7 +16987,7 @@
         ]
       },
       {
-        "uuid": "878b438a-0695-4957-8693-9b82bfca373e",
+        "uuid": "north-dakota-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in North Dakota.",
         "children": [
@@ -17006,7 +17006,7 @@
         ]
       },
       {
-        "uuid": "6e01a075-20a5-47a4-9130-e43ca3e0e26d",
+        "uuid": "north-dakota-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in North Dakota.",
         "children": [
@@ -17025,7 +17025,7 @@
         ]
       },
       {
-        "uuid": "4addeea1-ba35-47c5-bfc1-7be99cad6bde",
+        "uuid": "north-dakota-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in North Dakota.",
         "children": [
@@ -17062,7 +17062,7 @@
         ]
       },
       {
-        "uuid": "5357d796-dca1-4fca-87ca-5cd1bb611c3c",
+        "uuid": "north-dakota-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in North Dakota.",
         "children": [
@@ -28679,7 +28679,7 @@
         ]
       },
       {
-        "uuid": "47826b28-1241-43d7-acb3-ca1f83acfa23",
+        "uuid": "north-dakota-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in North Dakota.",
         "children": [
@@ -28704,7 +28704,7 @@
         ]
       },
       {
-        "uuid": "a57cdf94-11ae-4add-a681-a65299d2b24b",
+        "uuid": "north-dakota-military",
         "label": "Military",
         "definition": "Military is a type of feature found in North Dakota.",
         "children": [
@@ -28771,7 +28771,7 @@
         ]
       },
       {
-        "uuid": "3e90086e-ae93-48d4-843d-0b0c25da32fb",
+        "uuid": "north-dakota-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in North Dakota.",
         "children": [
@@ -28790,7 +28790,7 @@
         ]
       },
       {
-        "uuid": "abdacbbd-8300-4f51-8f3f-f348b9c079cb",
+        "uuid": "north-dakota-census",
         "label": "Census",
         "definition": "Census is a type of feature found in North Dakota.",
         "children": [
@@ -29199,7 +29199,7 @@
         ]
       },
       {
-        "uuid": "e4c1d746-81b2-4316-8bf2-8e65ae9ffba5",
+        "uuid": "north-dakota-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in North Dakota.",
         "children": [
@@ -29212,7 +29212,7 @@
         ]
       },
       {
-        "uuid": "4fd621a4-c59b-4092-9210-e4d188718ac0",
+        "uuid": "north-dakota-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in North Dakota.",
         "children": [

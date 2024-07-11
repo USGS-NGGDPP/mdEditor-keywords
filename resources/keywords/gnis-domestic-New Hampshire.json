@@ -5,7 +5,7 @@
     "definition": "New Hampshire is a state in the United States.",
     "children": [
       {
-        "uuid": "b2548f22-4f80-4ceb-a081-0079d766aee7",
+        "uuid": "new-hampshire-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in New Hampshire.",
         "children": [
@@ -7224,7 +7224,7 @@
         ]
       },
       {
-        "uuid": "1fe1e9cf-3542-4e09-a173-31959e95cce4",
+        "uuid": "new-hampshire-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in New Hampshire.",
         "children": [
@@ -11317,7 +11317,7 @@
         ]
       },
       {
-        "uuid": "35522ae6-21d0-4c6f-bb16-0de17256a0c9",
+        "uuid": "new-hampshire-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in New Hampshire.",
         "children": [
@@ -17168,7 +17168,7 @@
         ]
       },
       {
-        "uuid": "8c4fa35d-f2fd-44de-a6cb-04c661e26699",
+        "uuid": "new-hampshire-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in New Hampshire.",
         "children": [
@@ -17637,7 +17637,7 @@
         ]
       },
       {
-        "uuid": "4d00360a-7737-4d40-8a28-7a726de35a0f",
+        "uuid": "new-hampshire-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in New Hampshire.",
         "children": [
@@ -25420,7 +25420,7 @@
         ]
       },
       {
-        "uuid": "4953469c-c9d0-438a-ac7f-89e80fd9d0f6",
+        "uuid": "new-hampshire-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in New Hampshire.",
         "children": [
@@ -25649,7 +25649,7 @@
         ]
       },
       {
-        "uuid": "f1a8671e-b78a-425a-b393-1db8d48b8f51",
+        "uuid": "new-hampshire-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in New Hampshire.",
         "children": [
@@ -28518,7 +28518,7 @@
         ]
       },
       {
-        "uuid": "b71a72fc-ce3e-4654-b78c-35b51dcac8ae",
+        "uuid": "new-hampshire-island",
         "label": "Island",
         "definition": "Island is a type of feature found in New Hampshire.",
         "children": [
@@ -29947,7 +29947,7 @@
         ]
       },
       {
-        "uuid": "9f88e1d9-9daf-4d6b-8b63-408efc84b5af",
+        "uuid": "new-hampshire-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in New Hampshire.",
         "children": [
@@ -30212,7 +30212,7 @@
         ]
       },
       {
-        "uuid": "a1b7212b-a15d-48a6-99d7-237743252020",
+        "uuid": "new-hampshire-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in New Hampshire.",
         "children": [
@@ -30993,7 +30993,7 @@
         ]
       },
       {
-        "uuid": "06a950ac-2b19-4d20-a67b-3610b75c64f1",
+        "uuid": "new-hampshire-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in New Hampshire.",
         "children": [
@@ -31660,7 +31660,7 @@
         ]
       },
       {
-        "uuid": "5aac2833-c44a-4f10-b44a-46401d60726a",
+        "uuid": "new-hampshire-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in New Hampshire.",
         "children": [
@@ -31769,7 +31769,7 @@
         ]
       },
       {
-        "uuid": "5950c751-7459-4a36-810f-a3008c840ecd",
+        "uuid": "new-hampshire-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in New Hampshire.",
         "children": [
@@ -31788,7 +31788,7 @@
         ]
       },
       {
-        "uuid": "0e2e4144-04cf-4da5-a235-34c4b49e1a0b",
+        "uuid": "new-hampshire-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in New Hampshire.",
         "children": [
@@ -32491,7 +32491,7 @@
         ]
       },
       {
-        "uuid": "55ba2274-f49e-4414-935b-1396cb1a871a",
+        "uuid": "new-hampshire-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in New Hampshire.",
         "children": [
@@ -32642,7 +32642,7 @@
         ]
       },
       {
-        "uuid": "07ba44c6-2a7f-4c54-b8fd-6d68a0c98e9d",
+        "uuid": "new-hampshire-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in New Hampshire.",
         "children": [
@@ -32721,7 +32721,7 @@
         ]
       },
       {
-        "uuid": "8a20129b-f631-4404-a558-7a494e02e0fa",
+        "uuid": "new-hampshire-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in New Hampshire.",
         "children": [
@@ -32968,7 +32968,7 @@
         ]
       },
       {
-        "uuid": "5422c2c4-658d-4ef0-ad41-41efc2afd6c3",
+        "uuid": "new-hampshire-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in New Hampshire.",
         "children": [
@@ -33113,7 +33113,7 @@
         ]
       },
       {
-        "uuid": "3abe4162-6c25-481d-a41a-dc7efc77cbb4",
+        "uuid": "new-hampshire-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in New Hampshire.",
         "children": [
@@ -33408,7 +33408,7 @@
         ]
       },
       {
-        "uuid": "97ea5328-fd28-4ae1-917c-95f639cd3c79",
+        "uuid": "new-hampshire-range",
         "label": "Range",
         "definition": "Range is a type of feature found in New Hampshire.",
         "children": [
@@ -33469,7 +33469,7 @@
         ]
       },
       {
-        "uuid": "7c75e222-0017-4077-a078-22307e2dfbeb",
+        "uuid": "new-hampshire-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in New Hampshire.",
         "children": [
@@ -33494,7 +33494,7 @@
         ]
       },
       {
-        "uuid": "fb02e1fd-ca88-4d8b-82cf-bf6357d66fbe",
+        "uuid": "new-hampshire-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in New Hampshire.",
         "children": [
@@ -33609,7 +33609,7 @@
         ]
       },
       {
-        "uuid": "815d6ee0-82fe-4e2f-8bce-c3cfe197b2ad",
+        "uuid": "new-hampshire-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in New Hampshire.",
         "children": [
@@ -33652,7 +33652,7 @@
         ]
       },
       {
-        "uuid": "0bd6e2c2-bd29-4f9b-a9a5-515c883b417b",
+        "uuid": "new-hampshire-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in New Hampshire.",
         "children": [
@@ -33677,7 +33677,7 @@
         ]
       },
       {
-        "uuid": "782566f2-2ab2-4384-b4d8-54c481dff50a",
+        "uuid": "new-hampshire-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in New Hampshire.",
         "children": [
@@ -33708,7 +33708,7 @@
         ]
       },
       {
-        "uuid": "a36fe90e-c781-4075-ab60-bfc6559233b0",
+        "uuid": "new-hampshire-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in New Hampshire.",
         "children": [
@@ -33793,7 +33793,7 @@
         ]
       },
       {
-        "uuid": "f56d476f-2e5b-430f-929b-3cdb9b7e3b87",
+        "uuid": "new-hampshire-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in New Hampshire.",
         "children": [
@@ -33890,7 +33890,7 @@
         ]
       },
       {
-        "uuid": "478e93e0-16e8-4f91-a154-4208b5e7bfcb",
+        "uuid": "new-hampshire-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in New Hampshire.",
         "children": [
@@ -33915,7 +33915,7 @@
         ]
       },
       {
-        "uuid": "bcfef98d-3ec8-41f3-9330-1bd669f1599c",
+        "uuid": "new-hampshire-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in New Hampshire.",
         "children": [
@@ -33940,7 +33940,7 @@
         ]
       },
       {
-        "uuid": "7413eece-ff7a-4099-bc84-cdef7c2dde01",
+        "uuid": "new-hampshire-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in New Hampshire.",
         "children": [
@@ -35567,7 +35567,7 @@
         ]
       },
       {
-        "uuid": "29be83e1-b3b3-4cc5-b3f9-78621cfb8714",
+        "uuid": "new-hampshire-military",
         "label": "Military",
         "definition": "Military is a type of feature found in New Hampshire.",
         "children": [
@@ -35652,7 +35652,7 @@
         ]
       },
       {
-        "uuid": "8da4552c-68fe-4cc7-b329-7f070afd21f3",
+        "uuid": "new-hampshire-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in New Hampshire.",
         "children": [
@@ -35665,7 +35665,7 @@
         ]
       },
       {
-        "uuid": "21646741-6313-4e1e-816e-fc6a06b82c03",
+        "uuid": "new-hampshire-census",
         "label": "Census",
         "definition": "Census is a type of feature found in New Hampshire.",
         "children": [
@@ -36206,7 +36206,7 @@
         ]
       },
       {
-        "uuid": "cf38b61a-5465-47be-9ade-c452af1f137c",
+        "uuid": "new-hampshire-area",
         "label": "Area",
         "definition": "Area is a type of feature found in New Hampshire.",
         "children": [

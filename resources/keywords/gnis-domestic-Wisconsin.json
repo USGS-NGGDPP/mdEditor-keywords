@@ -5,7 +5,7 @@
     "definition": "Wisconsin is a state in the United States.",
     "children": [
       {
-        "uuid": "4299af65-0c0a-4f5b-9284-b54a8e3f4647",
+        "uuid": "wisconsin-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Wisconsin.",
         "children": [
@@ -19164,7 +19164,7 @@
         ]
       },
       {
-        "uuid": "cb383bf4-308a-4c53-a783-d9d7ffe3639f",
+        "uuid": "wisconsin-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Wisconsin.",
         "children": [
@@ -32791,7 +32791,7 @@
         ]
       },
       {
-        "uuid": "22d55e15-3601-48b7-85c0-e80844ef6436",
+        "uuid": "wisconsin-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Wisconsin.",
         "children": [
@@ -33074,7 +33074,7 @@
         ]
       },
       {
-        "uuid": "2ced64de-0eb0-4cac-bed5-211c8761fef8",
+        "uuid": "wisconsin-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Wisconsin.",
         "children": [
@@ -36639,7 +36639,7 @@
         ]
       },
       {
-        "uuid": "6049c4c3-9121-4801-a250-259ec865885a",
+        "uuid": "wisconsin-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Wisconsin.",
         "children": [
@@ -51298,7 +51298,7 @@
         ]
       },
       {
-        "uuid": "4106a7a2-c696-443d-be0d-4aa03fff6b92",
+        "uuid": "wisconsin-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Wisconsin.",
         "children": [
@@ -52049,7 +52049,7 @@
         ]
       },
       {
-        "uuid": "2511aa39-a061-4aed-9b39-9541ce061b48",
+        "uuid": "wisconsin-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Wisconsin.",
         "children": [
@@ -53214,7 +53214,7 @@
         ]
       },
       {
-        "uuid": "4147c04a-f41e-460b-a06f-ca4f9c2820d3",
+        "uuid": "wisconsin-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Wisconsin.",
         "children": [
@@ -55429,7 +55429,7 @@
         ]
       },
       {
-        "uuid": "87370183-ca3d-42a1-8392-48c7bd51fe75",
+        "uuid": "wisconsin-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Wisconsin.",
         "children": [
@@ -61622,7 +61622,7 @@
         ]
       },
       {
-        "uuid": "a0e30b08-bc04-48ee-b9f3-778bba91c240",
+        "uuid": "wisconsin-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Wisconsin.",
         "children": [
@@ -62151,7 +62151,7 @@
         ]
       },
       {
-        "uuid": "4cce964b-7de2-4123-835b-bd56d7848c3b",
+        "uuid": "wisconsin-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Wisconsin.",
         "children": [
@@ -62644,7 +62644,7 @@
         ]
       },
       {
-        "uuid": "e7fd35e2-595e-4ae6-b12f-f7e275fffc4c",
+        "uuid": "wisconsin-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Wisconsin.",
         "children": [
@@ -63599,7 +63599,7 @@
         ]
       },
       {
-        "uuid": "0c37b1a1-6f02-4dd5-8792-aa8060ba9ebb",
+        "uuid": "wisconsin-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Wisconsin.",
         "children": [
@@ -64818,7 +64818,7 @@
         ]
       },
       {
-        "uuid": "55b62a04-63a7-4e45-87fa-95f2563415be",
+        "uuid": "wisconsin-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Wisconsin.",
         "children": [
@@ -65251,7 +65251,7 @@
         ]
       },
       {
-        "uuid": "f10f9f4b-7897-4f97-84c6-96f28602ce49",
+        "uuid": "wisconsin-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Wisconsin.",
         "children": [
@@ -66368,7 +66368,7 @@
         ]
       },
       {
-        "uuid": "307c9f16-dca1-47ff-a791-840ffb4ea43e",
+        "uuid": "wisconsin-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Wisconsin.",
         "children": [
@@ -66495,7 +66495,7 @@
         ]
       },
       {
-        "uuid": "53ec787e-1ea5-4598-babb-5692bbec06e3",
+        "uuid": "wisconsin-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Wisconsin.",
         "children": [
@@ -68176,7 +68176,7 @@
         ]
       },
       {
-        "uuid": "bd1e4250-9afc-4ef9-a7b7-5d5005306d6e",
+        "uuid": "wisconsin-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Wisconsin.",
         "children": [
@@ -68417,7 +68417,7 @@
         ]
       },
       {
-        "uuid": "11d4f41e-a957-4ef4-9451-405475c7eaa6",
+        "uuid": "wisconsin-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Wisconsin.",
         "children": [
@@ -68514,7 +68514,7 @@
         ]
       },
       {
-        "uuid": "a575fddc-06c3-4e34-8351-9511484edd1b",
+        "uuid": "wisconsin-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Wisconsin.",
         "children": [
@@ -69157,7 +69157,7 @@
         ]
       },
       {
-        "uuid": "ee65d6ff-73c6-4ed7-b1cd-471f11272752",
+        "uuid": "wisconsin-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Wisconsin.",
         "children": [
@@ -69428,7 +69428,7 @@
         ]
       },
       {
-        "uuid": "3cdd4c01-b4d8-447d-b050-a3f1a20cec66",
+        "uuid": "wisconsin-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Wisconsin.",
         "children": [
@@ -69705,7 +69705,7 @@
         ]
       },
       {
-        "uuid": "e808f985-c27b-478a-a45f-d42db347b196",
+        "uuid": "wisconsin-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Wisconsin.",
         "children": [
@@ -69754,7 +69754,7 @@
         ]
       },
       {
-        "uuid": "9ea0a7ef-e56d-4c6d-b56f-bd05e3e99020",
+        "uuid": "wisconsin-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Wisconsin.",
         "children": [
@@ -69839,7 +69839,7 @@
         ]
       },
       {
-        "uuid": "15b999fa-4ff9-4916-bd15-a7dc3f797265",
+        "uuid": "wisconsin-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Wisconsin.",
         "children": [
@@ -69924,7 +69924,7 @@
         ]
       },
       {
-        "uuid": "48028725-09d6-48ff-a7ad-4e27696c351a",
+        "uuid": "wisconsin-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Wisconsin.",
         "children": [
@@ -70057,7 +70057,7 @@
         ]
       },
       {
-        "uuid": "d0aabbc1-88af-4684-90e7-50edee389cc6",
+        "uuid": "wisconsin-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Wisconsin.",
         "children": [
@@ -71402,7 +71402,7 @@
         ]
       },
       {
-        "uuid": "ce05bfbd-2069-4543-a5fc-ce9f942eb9ed",
+        "uuid": "wisconsin-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Wisconsin.",
         "children": [
@@ -71421,7 +71421,7 @@
         ]
       },
       {
-        "uuid": "2b6726da-9f5c-481f-b943-0ca3acf29b7f",
+        "uuid": "wisconsin-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Wisconsin.",
         "children": [
@@ -81790,7 +81790,7 @@
         ]
       },
       {
-        "uuid": "6ad2e7f8-e21b-4ce9-92f0-aae2013b7906",
+        "uuid": "wisconsin-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Wisconsin.",
         "children": [
@@ -81863,7 +81863,7 @@
         ]
       },
       {
-        "uuid": "49c8ab67-12c0-4cf9-9b22-d4087016450a",
+        "uuid": "wisconsin-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Wisconsin.",
         "children": [
@@ -81960,7 +81960,7 @@
         ]
       },
       {
-        "uuid": "510e746c-35b4-4768-80c3-ea976006fb21",
+        "uuid": "wisconsin-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Wisconsin.",
         "children": [
@@ -82021,7 +82021,7 @@
         ]
       },
       {
-        "uuid": "ff8ea619-dcd0-4a8b-b491-d4089083093a",
+        "uuid": "wisconsin-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Wisconsin.",
         "children": [
@@ -82052,7 +82052,7 @@
         ]
       },
       {
-        "uuid": "a98a6eef-fda0-4d50-8130-edc4126ad1f4",
+        "uuid": "wisconsin-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Wisconsin.",
         "children": [
@@ -82209,7 +82209,7 @@
         ]
       },
       {
-        "uuid": "5496f0f4-a5ea-4163-87e5-d3486ae73250",
+        "uuid": "wisconsin-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Wisconsin.",
         "children": [

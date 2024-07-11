@@ -5,7 +5,7 @@
     "definition": "Alberta is a state in the United States.",
     "children": [
       {
-        "uuid": "aaf9247c-2b0b-4b02-8746-9a1cef3144c9",
+        "uuid": "alberta-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Alberta.",
         "children": [
@@ -18,7 +18,7 @@
         ]
       },
       {
-        "uuid": "88a177ab-c37c-49f4-9696-904c379d107f",
+        "uuid": "alberta-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Alberta.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "United States Virgin Islands is a state in the United States.",
     "children": [
       {
-        "uuid": "a46efa6e-610d-4bd7-95d2-f02a1dc6acfe",
+        "uuid": "united-states-virgin-islands-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -1272,7 +1272,7 @@
         ]
       },
       {
-        "uuid": "a0571024-e314-40f4-ac36-88f97d8d8206",
+        "uuid": "united-states-virgin-islands-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -1969,7 +1969,7 @@
         ]
       },
       {
-        "uuid": "03992e91-920c-4bf6-8fe7-b60ce14f6854",
+        "uuid": "united-states-virgin-islands-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -3170,7 +3170,7 @@
         ]
       },
       {
-        "uuid": "44da700a-fa1a-47f6-93e9-386788f3104f",
+        "uuid": "united-states-virgin-islands-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4041,7 +4041,7 @@
         ]
       },
       {
-        "uuid": "9c3c0267-ab96-4810-b99d-01cd2c1760e2",
+        "uuid": "united-states-virgin-islands-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4078,7 +4078,7 @@
         ]
       },
       {
-        "uuid": "75cf77eb-5886-4d27-bfd8-1e37a0750e5f",
+        "uuid": "united-states-virgin-islands-island",
         "label": "Island",
         "definition": "Island is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4613,7 +4613,7 @@
         ]
       },
       {
-        "uuid": "46bc1a73-9805-459f-acfe-c242acf85f4e",
+        "uuid": "united-states-virgin-islands-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4656,7 +4656,7 @@
         ]
       },
       {
-        "uuid": "0887dd2c-3dd4-4e95-a284-5c14e2fb9bbb",
+        "uuid": "united-states-virgin-islands-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4819,7 +4819,7 @@
         ]
       },
       {
-        "uuid": "45ca0e9d-cc90-4175-8398-9bfe285e4788",
+        "uuid": "united-states-virgin-islands-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4868,7 +4868,7 @@
         ]
       },
       {
-        "uuid": "94f6729f-a506-4b6e-98f3-f7af26c7758f",
+        "uuid": "united-states-virgin-islands-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4887,7 +4887,7 @@
         ]
       },
       {
-        "uuid": "b7de0f76-abb0-4b46-8beb-81d1888e9cf6",
+        "uuid": "united-states-virgin-islands-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -4906,7 +4906,7 @@
         ]
       },
       {
-        "uuid": "eae4565e-698b-49bb-b36a-feb3c68bc29c",
+        "uuid": "united-states-virgin-islands-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -5435,7 +5435,7 @@
         ]
       },
       {
-        "uuid": "0d4b14b9-5e72-433b-aa23-79df58f4d960",
+        "uuid": "united-states-virgin-islands-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -5532,7 +5532,7 @@
         ]
       },
       {
-        "uuid": "1ede802c-472e-4744-a5f6-47a61aa895e3",
+        "uuid": "united-states-virgin-islands-military",
         "label": "Military",
         "definition": "Military is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -5605,7 +5605,7 @@
         ]
       },
       {
-        "uuid": "769b53b6-f642-45f5-b34c-a1427c6ec455",
+        "uuid": "united-states-virgin-islands-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -5654,7 +5654,7 @@
         ]
       },
       {
-        "uuid": "5d0e8c63-8524-462e-829f-7692dfa801b5",
+        "uuid": "united-states-virgin-islands-isthmus",
         "label": "Isthmus",
         "definition": "Isthmus is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -5667,7 +5667,7 @@
         ]
       },
       {
-        "uuid": "a0c3fd68-542d-4e4e-8382-b8ec3e2fbbe8",
+        "uuid": "united-states-virgin-islands-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -8608,7 +8608,7 @@
         ]
       },
       {
-        "uuid": "d68d80b5-59d4-47a5-a4eb-929ccdb1770c",
+        "uuid": "united-states-virgin-islands-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -8633,7 +8633,7 @@
         ]
       },
       {
-        "uuid": "31c8c527-5a76-45e3-9726-65c98e9a7e1f",
+        "uuid": "united-states-virgin-islands-census",
         "label": "Census",
         "definition": "Census is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -8694,7 +8694,7 @@
         ]
       },
       {
-        "uuid": "f2362d4f-91a1-4f4e-ae66-4137d693d044",
+        "uuid": "united-states-virgin-islands-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in United States Virgin Islands.",
         "children": [
@@ -8707,7 +8707,7 @@
         ]
       },
       {
-        "uuid": "729de8aa-bc39-4b23-a50c-dc124a1db010",
+        "uuid": "united-states-virgin-islands-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in United States Virgin Islands.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "Connecticut is a state in the United States.",
     "children": [
       {
-        "uuid": "445e3fae-d2a2-4069-a665-446b782eb1c1",
+        "uuid": "connecticut-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Connecticut.",
         "children": [
@@ -7194,7 +7194,7 @@
         ]
       },
       {
-        "uuid": "f0dbf1da-84b9-458b-af05-5c9ebf8ab213",
+        "uuid": "connecticut-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Connecticut.",
         "children": [
@@ -12721,7 +12721,7 @@
         ]
       },
       {
-        "uuid": "107d2b4f-d3be-4702-bead-9c7277f252d5",
+        "uuid": "connecticut-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Connecticut.",
         "children": [
@@ -17288,7 +17288,7 @@
         ]
       },
       {
-        "uuid": "a970f34c-5a05-4a4c-b624-9de549a5eef6",
+        "uuid": "connecticut-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Connecticut.",
         "children": [
@@ -21549,7 +21549,7 @@
         ]
       },
       {
-        "uuid": "c9b71ef2-f08d-4a74-ae6c-f339c9852da6",
+        "uuid": "connecticut-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Connecticut.",
         "children": [
@@ -29200,7 +29200,7 @@
         ]
       },
       {
-        "uuid": "004abd87-3592-4e24-8a18-5d96e9ea58ea",
+        "uuid": "connecticut-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Connecticut.",
         "children": [
@@ -29807,7 +29807,7 @@
         ]
       },
       {
-        "uuid": "423df076-3585-4e67-99b6-520b450c82ce",
+        "uuid": "connecticut-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Connecticut.",
         "children": [
@@ -30726,7 +30726,7 @@
         ]
       },
       {
-        "uuid": "ba48270f-366c-4924-a347-e808a807a761",
+        "uuid": "connecticut-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Connecticut.",
         "children": [
@@ -31585,7 +31585,7 @@
         ]
       },
       {
-        "uuid": "129a3d3f-d9fc-4b58-8824-234e1b23a5fc",
+        "uuid": "connecticut-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Connecticut.",
         "children": [
@@ -32180,7 +32180,7 @@
         ]
       },
       {
-        "uuid": "1cccf8cf-9055-4ca9-890f-08779fc8a292",
+        "uuid": "connecticut-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Connecticut.",
         "children": [
@@ -34071,7 +34071,7 @@
         ]
       },
       {
-        "uuid": "5229411b-9fc4-496b-8621-ba09cdd12aec",
+        "uuid": "connecticut-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Connecticut.",
         "children": [
@@ -35542,7 +35542,7 @@
         ]
       },
       {
-        "uuid": "22a720c5-fa2d-41e0-9aba-79dbc2eca8ca",
+        "uuid": "connecticut-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Connecticut.",
         "children": [
@@ -35579,7 +35579,7 @@
         ]
       },
       {
-        "uuid": "1bb4497b-77a6-4a52-b23d-148952453383",
+        "uuid": "connecticut-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Connecticut.",
         "children": [
@@ -35766,7 +35766,7 @@
         ]
       },
       {
-        "uuid": "65b6b7c2-505a-436e-a38a-2bb76e5ec0f5",
+        "uuid": "connecticut-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Connecticut.",
         "children": [
@@ -35803,7 +35803,7 @@
         ]
       },
       {
-        "uuid": "8fd9a6ba-4478-42be-b583-53cc4692b5af",
+        "uuid": "connecticut-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Connecticut.",
         "children": [
@@ -35942,7 +35942,7 @@
         ]
       },
       {
-        "uuid": "415740f1-1aa0-4d7d-8724-57bf0e8bba6f",
+        "uuid": "connecticut-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Connecticut.",
         "children": [
@@ -36093,7 +36093,7 @@
         ]
       },
       {
-        "uuid": "720e322b-e14a-4889-87fe-d4890f64dab2",
+        "uuid": "connecticut-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Connecticut.",
         "children": [
@@ -36184,7 +36184,7 @@
         ]
       },
       {
-        "uuid": "7012aaba-a18e-45dc-acc9-d88f83fa179e",
+        "uuid": "connecticut-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Connecticut.",
         "children": [
@@ -36365,7 +36365,7 @@
         ]
       },
       {
-        "uuid": "92716466-473d-418b-9196-fc1bff29ff90",
+        "uuid": "connecticut-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Connecticut.",
         "children": [
@@ -36450,7 +36450,7 @@
         ]
       },
       {
-        "uuid": "76778e4c-9ffa-4306-a3e3-67431e5edd27",
+        "uuid": "connecticut-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Connecticut.",
         "children": [
@@ -36469,7 +36469,7 @@
         ]
       },
       {
-        "uuid": "fe4c06b5-987b-4ac8-8f4c-80d323169d3d",
+        "uuid": "connecticut-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Connecticut.",
         "children": [
@@ -36560,7 +36560,7 @@
         ]
       },
       {
-        "uuid": "9957a9b4-c030-44b8-956a-f7a8a981448c",
+        "uuid": "connecticut-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Connecticut.",
         "children": [
@@ -36615,7 +36615,7 @@
         ]
       },
       {
-        "uuid": "cd2c4643-ec0f-4ba3-b4ad-182ee432853c",
+        "uuid": "connecticut-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Connecticut.",
         "children": [
@@ -36706,7 +36706,7 @@
         ]
       },
       {
-        "uuid": "0750ed03-9397-402f-900d-908caca95e0a",
+        "uuid": "connecticut-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Connecticut.",
         "children": [
@@ -36737,7 +36737,7 @@
         ]
       },
       {
-        "uuid": "69bc0e83-007a-40f3-8ecc-09716e4dccc7",
+        "uuid": "connecticut-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Connecticut.",
         "children": [
@@ -36786,7 +36786,7 @@
         ]
       },
       {
-        "uuid": "790c1cee-42d5-4547-a386-a9984e07d5cc",
+        "uuid": "connecticut-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Connecticut.",
         "children": [
@@ -36943,7 +36943,7 @@
         ]
       },
       {
-        "uuid": "a2a063eb-fbcd-40f7-abf4-385dd4deee47",
+        "uuid": "connecticut-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Connecticut.",
         "children": [
@@ -37004,7 +37004,7 @@
         ]
       },
       {
-        "uuid": "0c3ad55a-0590-415d-ab28-359362115cf0",
+        "uuid": "connecticut-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Connecticut.",
         "children": [
@@ -37041,7 +37041,7 @@
         ]
       },
       {
-        "uuid": "1aa55dda-c3c7-42ba-9cb2-63757671c831",
+        "uuid": "connecticut-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Connecticut.",
         "children": [
@@ -37096,7 +37096,7 @@
         ]
       },
       {
-        "uuid": "fdb69c76-dd31-4e80-a8a3-bd9b0cae00e2",
+        "uuid": "connecticut-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Connecticut.",
         "children": [
@@ -37121,7 +37121,7 @@
         ]
       },
       {
-        "uuid": "38cbfaea-0897-45b4-ae4e-aa610fdfbfb2",
+        "uuid": "connecticut-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Connecticut.",
         "children": [
@@ -38466,7 +38466,7 @@
         ]
       },
       {
-        "uuid": "aa3af337-169e-41cf-8447-56be68854e85",
+        "uuid": "connecticut-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Connecticut.",
         "children": [
@@ -38479,7 +38479,7 @@
         ]
       },
       {
-        "uuid": "465ee1de-49a4-4016-8a5c-5014b6e76599",
+        "uuid": "connecticut-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Connecticut.",
         "children": [
@@ -38648,7 +38648,7 @@
         ]
       },
       {
-        "uuid": "fd3cd15d-29f4-41ce-b4d6-b883818eebc6",
+        "uuid": "connecticut-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Connecticut.",
         "children": [
@@ -38661,7 +38661,7 @@
         ]
       },
       {
-        "uuid": "f2a3199b-175d-411c-a8ef-cbf1a7d3d365",
+        "uuid": "connecticut-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Connecticut.",
         "children": [

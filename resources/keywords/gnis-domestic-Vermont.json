@@ -5,7 +5,7 @@
     "definition": "Vermont is a state in the United States.",
     "children": [
       {
-        "uuid": "7c233b5a-3dad-4615-92a7-a35e723b77d0",
+        "uuid": "vermont-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Vermont.",
         "children": [
@@ -5976,7 +5976,7 @@
         ]
       },
       {
-        "uuid": "39be908c-6468-4ea0-b5a5-ff92830bbf81",
+        "uuid": "vermont-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Vermont.",
         "children": [
@@ -7231,7 +7231,7 @@
         ]
       },
       {
-        "uuid": "052a17db-79f0-45c5-bb16-f54e21f9faa3",
+        "uuid": "vermont-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Vermont.",
         "children": [
@@ -9236,7 +9236,7 @@
         ]
       },
       {
-        "uuid": "664f7d29-3b35-46cd-bd66-73010abc0bb2",
+        "uuid": "vermont-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Vermont.",
         "children": [
@@ -9261,7 +9261,7 @@
         ]
       },
       {
-        "uuid": "ed0dfb37-aaae-43bd-9559-86f2f8663057",
+        "uuid": "vermont-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Vermont.",
         "children": [
@@ -9694,7 +9694,7 @@
         ]
       },
       {
-        "uuid": "7507fe02-3833-42de-99ad-16e17d2121b9",
+        "uuid": "vermont-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Vermont.",
         "children": [
@@ -10139,7 +10139,7 @@
         ]
       },
       {
-        "uuid": "c7e92426-1a15-4486-977e-a88f30a64a77",
+        "uuid": "vermont-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Vermont.",
         "children": [
@@ -10332,7 +10332,7 @@
         ]
       },
       {
-        "uuid": "9b8a6fcc-57c4-4bd3-8cae-bd33c29ef011",
+        "uuid": "vermont-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Vermont.",
         "children": [
@@ -16357,7 +16357,7 @@
         ]
       },
       {
-        "uuid": "e6acd04d-d22c-49d7-aac4-05764cf377a0",
+        "uuid": "vermont-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Vermont.",
         "children": [
@@ -21734,7 +21734,7 @@
         ]
       },
       {
-        "uuid": "939651c4-834d-41b0-8663-90581062a54b",
+        "uuid": "vermont-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Vermont.",
         "children": [
@@ -21777,7 +21777,7 @@
         ]
       },
       {
-        "uuid": "b8e67725-66ff-41a7-b3b9-b94d53c5c273",
+        "uuid": "vermont-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Vermont.",
         "children": [
@@ -22426,7 +22426,7 @@
         ]
       },
       {
-        "uuid": "3b9c5192-441f-4698-ba06-29bc8fbe85b5",
+        "uuid": "vermont-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Vermont.",
         "children": [
@@ -22925,7 +22925,7 @@
         ]
       },
       {
-        "uuid": "4a196202-f650-4410-af1d-b297f5fe6df6",
+        "uuid": "vermont-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Vermont.",
         "children": [
@@ -23016,7 +23016,7 @@
         ]
       },
       {
-        "uuid": "1c6213e3-579e-4fda-aed7-d7da4bb222f8",
+        "uuid": "vermont-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Vermont.",
         "children": [
@@ -23143,7 +23143,7 @@
         ]
       },
       {
-        "uuid": "694e485a-b01f-449a-976c-9dc2e997f2b8",
+        "uuid": "vermont-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Vermont.",
         "children": [
@@ -23264,7 +23264,7 @@
         ]
       },
       {
-        "uuid": "942b79c8-0d88-4edf-a1c2-4e70f1c8f284",
+        "uuid": "vermont-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Vermont.",
         "children": [
@@ -23541,7 +23541,7 @@
         ]
       },
       {
-        "uuid": "8afb7b83-fc3d-4e4f-abd5-5547cb7bfdeb",
+        "uuid": "vermont-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Vermont.",
         "children": [
@@ -23590,7 +23590,7 @@
         ]
       },
       {
-        "uuid": "a9f28f73-74f2-4ef8-8bb5-17d2712733de",
+        "uuid": "vermont-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Vermont.",
         "children": [
@@ -23843,7 +23843,7 @@
         ]
       },
       {
-        "uuid": "2b52873f-a4bc-42fb-98ff-346cf4f99cbd",
+        "uuid": "vermont-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Vermont.",
         "children": [
@@ -24012,7 +24012,7 @@
         ]
       },
       {
-        "uuid": "a93b024b-18d2-44b4-adda-b86aaa5e7e36",
+        "uuid": "vermont-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Vermont.",
         "children": [
@@ -24049,7 +24049,7 @@
         ]
       },
       {
-        "uuid": "560936e5-62db-4487-9adf-f6048743b678",
+        "uuid": "vermont-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Vermont.",
         "children": [
@@ -24128,7 +24128,7 @@
         ]
       },
       {
-        "uuid": "5c1fec7a-454f-4bea-ab60-5471f095766a",
+        "uuid": "vermont-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Vermont.",
         "children": [
@@ -24189,7 +24189,7 @@
         ]
       },
       {
-        "uuid": "a8b303cd-1bee-4535-8442-a11bb40530b0",
+        "uuid": "vermont-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Vermont.",
         "children": [
@@ -24268,7 +24268,7 @@
         ]
       },
       {
-        "uuid": "4ae54f28-c40e-483e-83af-90f609e8459b",
+        "uuid": "vermont-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Vermont.",
         "children": [
@@ -24299,7 +24299,7 @@
         ]
       },
       {
-        "uuid": "1f445879-f9eb-4f36-b7f7-77955d1f7ede",
+        "uuid": "vermont-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Vermont.",
         "children": [
@@ -24312,7 +24312,7 @@
         ]
       },
       {
-        "uuid": "af99590c-dbc6-4fc7-82fd-5e763328c242",
+        "uuid": "vermont-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Vermont.",
         "children": [
@@ -24331,7 +24331,7 @@
         ]
       },
       {
-        "uuid": "0bf5ce08-5155-48a7-9e16-499e66aa7b11",
+        "uuid": "vermont-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Vermont.",
         "children": [
@@ -26192,7 +26192,7 @@
         ]
       },
       {
-        "uuid": "06760a98-62e7-402d-8d17-bde252520117",
+        "uuid": "vermont-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Vermont.",
         "children": [
@@ -26211,7 +26211,7 @@
         ]
       },
       {
-        "uuid": "a219e916-64c1-43a0-a80e-c0765ac509ec",
+        "uuid": "vermont-glacier",
         "label": "Glacier",
         "definition": "Glacier is a type of feature found in Vermont.",
         "children": [
@@ -26224,7 +26224,7 @@
         ]
       },
       {
-        "uuid": "f8efa6b4-598c-4fe4-8086-60f8b20daf42",
+        "uuid": "vermont-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Vermont.",
         "children": [
@@ -26363,7 +26363,7 @@
         ]
       },
       {
-        "uuid": "61e9b6af-fab1-4341-a776-29907aaeaad8",
+        "uuid": "vermont-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Vermont.",
         "children": [
@@ -26382,7 +26382,7 @@
         ]
       },
       {
-        "uuid": "282e357d-2f9c-4d37-b86f-b1bc597dca59",
+        "uuid": "vermont-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Vermont.",
         "children": [
@@ -26395,7 +26395,7 @@
         ]
       },
       {
-        "uuid": "7278e990-3fc1-4e47-804c-881b4a23ec8b",
+        "uuid": "vermont-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Vermont.",
         "children": [
@@ -26408,7 +26408,7 @@
         ]
       },
       {
-        "uuid": "e23f1f6e-b1c3-45f6-820d-d3662cff8d31",
+        "uuid": "vermont-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Vermont.",
         "children": [
@@ -27261,7 +27261,7 @@
         ]
       },
       {
-        "uuid": "f89e3101-9400-45ff-a8a0-aec1e7c176cf",
+        "uuid": "vermont-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Vermont.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "Indiana is a state in the United States.",
     "children": [
       {
-        "uuid": "9e47c984-fcc9-4502-8696-87e85d4e18e1",
+        "uuid": "indiana-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Indiana.",
         "children": [
@@ -3930,7 +3930,7 @@
         ]
       },
       {
-        "uuid": "3806d07d-c546-4fcf-b2cc-2286274df484",
+        "uuid": "indiana-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Indiana.",
         "children": [
@@ -19351,7 +19351,7 @@
         ]
       },
       {
-        "uuid": "22450011-455c-450d-be62-875b6d91fdde",
+        "uuid": "indiana-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Indiana.",
         "children": [
@@ -31916,7 +31916,7 @@
         ]
       },
       {
-        "uuid": "832657c7-b004-4c6c-a60e-217d2df6a5a7",
+        "uuid": "indiana-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Indiana.",
         "children": [
@@ -51939,7 +51939,7 @@
         ]
       },
       {
-        "uuid": "cb15632e-9487-4737-b043-a4853c3f2e41",
+        "uuid": "indiana-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Indiana.",
         "children": [
@@ -53596,7 +53596,7 @@
         ]
       },
       {
-        "uuid": "a19fb555-ddcc-4621-b74e-679d59f79a30",
+        "uuid": "indiana-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Indiana.",
         "children": [
@@ -53747,7 +53747,7 @@
         ]
       },
       {
-        "uuid": "3df56072-437a-44ad-b113-717b2b861cd1",
+        "uuid": "indiana-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Indiana.",
         "children": [
@@ -55296,7 +55296,7 @@
         ]
       },
       {
-        "uuid": "a878f31d-e917-4c76-9e31-3a9fafec35b7",
+        "uuid": "indiana-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Indiana.",
         "children": [
@@ -59149,7 +59149,7 @@
         ]
       },
       {
-        "uuid": "30e3ec68-487a-4541-8e05-f24faf8d9179",
+        "uuid": "indiana-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Indiana.",
         "children": [
@@ -59324,7 +59324,7 @@
         ]
       },
       {
-        "uuid": "698565d3-9f81-4e02-a01c-c0d636e573bc",
+        "uuid": "indiana-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Indiana.",
         "children": [
@@ -60519,7 +60519,7 @@
         ]
       },
       {
-        "uuid": "c561d1ee-4c64-4579-ad98-6dce58cbcb5a",
+        "uuid": "indiana-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Indiana.",
         "children": [
@@ -60544,7 +60544,7 @@
         ]
       },
       {
-        "uuid": "b776ec80-9461-441d-860e-ddf90085b488",
+        "uuid": "indiana-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Indiana.",
         "children": [
@@ -60599,7 +60599,7 @@
         ]
       },
       {
-        "uuid": "03833903-9dcd-4f7e-b845-7c6c0ffc071e",
+        "uuid": "indiana-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Indiana.",
         "children": [
@@ -60654,7 +60654,7 @@
         ]
       },
       {
-        "uuid": "eddf1cc5-d982-4690-b0e4-9e8fd4f232d3",
+        "uuid": "indiana-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Indiana.",
         "children": [
@@ -60973,7 +60973,7 @@
         ]
       },
       {
-        "uuid": "31f0b092-f6ca-4b11-8a73-0a094b45eba4",
+        "uuid": "indiana-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Indiana.",
         "children": [
@@ -61184,7 +61184,7 @@
         ]
       },
       {
-        "uuid": "86e606a1-bb5d-4be3-aa13-e15496327a33",
+        "uuid": "indiana-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Indiana.",
         "children": [
@@ -61389,7 +61389,7 @@
         ]
       },
       {
-        "uuid": "a727b460-bc74-41e9-8afb-531ee8600088",
+        "uuid": "indiana-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Indiana.",
         "children": [
@@ -61480,7 +61480,7 @@
         ]
       },
       {
-        "uuid": "27012db5-d231-44ce-92e4-63406b39d56e",
+        "uuid": "indiana-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Indiana.",
         "children": [
@@ -61517,7 +61517,7 @@
         ]
       },
       {
-        "uuid": "51343719-2a09-4d2f-b347-feb8fb0eb685",
+        "uuid": "indiana-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Indiana.",
         "children": [
@@ -61626,7 +61626,7 @@
         ]
       },
       {
-        "uuid": "8c7e9ab4-b770-4c52-bb38-469b7c7d73d9",
+        "uuid": "indiana-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Indiana.",
         "children": [
@@ -61675,7 +61675,7 @@
         ]
       },
       {
-        "uuid": "bd81257b-1c5e-4c94-922b-a41bb9a958dd",
+        "uuid": "indiana-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Indiana.",
         "children": [
@@ -61808,7 +61808,7 @@
         ]
       },
       {
-        "uuid": "1e9719f4-7d9e-4472-a40c-7b50ecdbc01f",
+        "uuid": "indiana-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Indiana.",
         "children": [
@@ -61839,7 +61839,7 @@
         ]
       },
       {
-        "uuid": "d1d3ff7d-85ce-48c7-8b81-6bef29c12691",
+        "uuid": "indiana-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Indiana.",
         "children": [
@@ -61918,7 +61918,7 @@
         ]
       },
       {
-        "uuid": "781f8b64-1ba0-4b6b-8af4-cc93d3902e74",
+        "uuid": "indiana-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Indiana.",
         "children": [
@@ -61949,7 +61949,7 @@
         ]
       },
       {
-        "uuid": "90bca008-10d2-40dd-8c9c-34acee751161",
+        "uuid": "indiana-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Indiana.",
         "children": [
@@ -62022,7 +62022,7 @@
         ]
       },
       {
-        "uuid": "2ee560c5-610f-4804-904a-9aa7f0f68cc2",
+        "uuid": "indiana-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Indiana.",
         "children": [
@@ -62059,7 +62059,7 @@
         ]
       },
       {
-        "uuid": "0712c5e2-3431-4586-af49-f2661c8c7ddc",
+        "uuid": "indiana-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Indiana.",
         "children": [
@@ -62078,7 +62078,7 @@
         ]
       },
       {
-        "uuid": "defb91e8-a301-4a35-8607-4b3e9445db63",
+        "uuid": "indiana-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Indiana.",
         "children": [
@@ -62151,7 +62151,7 @@
         ]
       },
       {
-        "uuid": "1efd77cb-d91b-4ca3-8e61-0ffcea28cfcb",
+        "uuid": "indiana-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Indiana.",
         "children": [
@@ -62170,7 +62170,7 @@
         ]
       },
       {
-        "uuid": "1568e934-ff8c-429c-92b7-253fe0d1105b",
+        "uuid": "indiana-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Indiana.",
         "children": [
@@ -62201,7 +62201,7 @@
         ]
       },
       {
-        "uuid": "d67ac626-c10f-4bec-af15-a99afd08014a",
+        "uuid": "indiana-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Indiana.",
         "children": [
@@ -64710,7 +64710,7 @@
         ]
       },
       {
-        "uuid": "71ba8707-8b67-4c7b-b8f3-9d82259ca6ec",
+        "uuid": "indiana-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Indiana.",
         "children": [
@@ -64723,7 +64723,7 @@
         ]
       },
       {
-        "uuid": "7613400d-5046-4212-bd74-2337d624a874",
+        "uuid": "indiana-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Indiana.",
         "children": [
@@ -71258,7 +71258,7 @@
         ]
       },
       {
-        "uuid": "d558c20e-d3dd-4da6-ac4c-0f6c4ea6800b",
+        "uuid": "indiana-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Indiana.",
         "children": [
@@ -71331,7 +71331,7 @@
         ]
       },
       {
-        "uuid": "d3beb0df-1f43-4baf-b039-b51f75839afa",
+        "uuid": "indiana-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Indiana.",
         "children": [
@@ -71344,7 +71344,7 @@
         ]
       },
       {
-        "uuid": "9c12a259-ba2b-4152-9ac1-e7ae7e60d38b",
+        "uuid": "indiana-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Indiana.",
         "children": [

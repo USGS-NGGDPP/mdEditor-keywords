@@ -5,7 +5,7 @@
     "definition": "Delaware is a state in the United States.",
     "children": [
       {
-        "uuid": "c3ccc855-4a9f-463b-a9d5-c417d62247ae",
+        "uuid": "delaware-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Delaware.",
         "children": [
@@ -2358,7 +2358,7 @@
         ]
       },
       {
-        "uuid": "cb60d529-7eeb-45e9-afe2-e8bde4fcbf8f",
+        "uuid": "delaware-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Delaware.",
         "children": [
@@ -2791,7 +2791,7 @@
         ]
       },
       {
-        "uuid": "6f28e4a6-931a-4379-bf55-695aaf88d83c",
+        "uuid": "delaware-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Delaware.",
         "children": [
@@ -3116,7 +3116,7 @@
         ]
       },
       {
-        "uuid": "a7b49207-5722-49ad-b951-4f2ff68d0b84",
+        "uuid": "delaware-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Delaware.",
         "children": [
@@ -3897,7 +3897,7 @@
         ]
       },
       {
-        "uuid": "ea6cfa84-86d6-48c7-be62-5b6c38c1764d",
+        "uuid": "delaware-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Delaware.",
         "children": [
@@ -13546,7 +13546,7 @@
         ]
       },
       {
-        "uuid": "9eb88b3d-7edf-4aa7-a5d9-7f1ade7d17eb",
+        "uuid": "delaware-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Delaware.",
         "children": [
@@ -13943,7 +13943,7 @@
         ]
       },
       {
-        "uuid": "9d515432-8fc8-49a9-8370-b1331fbaefeb",
+        "uuid": "delaware-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Delaware.",
         "children": [
@@ -14352,7 +14352,7 @@
         ]
       },
       {
-        "uuid": "f4bf1982-aef5-4da8-a167-43c6f3fddd48",
+        "uuid": "delaware-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Delaware.",
         "children": [
@@ -14713,7 +14713,7 @@
         ]
       },
       {
-        "uuid": "b432d373-03dd-42a2-90b7-aaabde504ae0",
+        "uuid": "delaware-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Delaware.",
         "children": [
@@ -15050,7 +15050,7 @@
         ]
       },
       {
-        "uuid": "2c23d722-f9c5-4902-a701-21f506bdaac8",
+        "uuid": "delaware-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Delaware.",
         "children": [
@@ -15147,7 +15147,7 @@
         ]
       },
       {
-        "uuid": "af0f1aaf-1d43-4beb-a856-54dbaa7a5463",
+        "uuid": "delaware-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Delaware.",
         "children": [
@@ -15418,7 +15418,7 @@
         ]
       },
       {
-        "uuid": "4f5798b4-23f1-46eb-a040-dacaa2c0603c",
+        "uuid": "delaware-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Delaware.",
         "children": [
@@ -15569,7 +15569,7 @@
         ]
       },
       {
-        "uuid": "8cebf564-2590-4a15-b55a-31cd34e75ac1",
+        "uuid": "delaware-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Delaware.",
         "children": [
@@ -15600,7 +15600,7 @@
         ]
       },
       {
-        "uuid": "6e72e5ab-04f2-4bde-a5e7-4fbfde2cce41",
+        "uuid": "delaware-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Delaware.",
         "children": [
@@ -15697,7 +15697,7 @@
         ]
       },
       {
-        "uuid": "89c56d27-8d7a-4d3e-91b3-6dd91c27a712",
+        "uuid": "delaware-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Delaware.",
         "children": [
@@ -15848,7 +15848,7 @@
         ]
       },
       {
-        "uuid": "9e854903-bcfd-458b-b160-8f152a2c7bfa",
+        "uuid": "delaware-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Delaware.",
         "children": [
@@ -15873,7 +15873,7 @@
         ]
       },
       {
-        "uuid": "f4e39990-f33f-4e54-994c-0b8269420882",
+        "uuid": "delaware-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Delaware.",
         "children": [
@@ -15886,7 +15886,7 @@
         ]
       },
       {
-        "uuid": "bcb9cf37-f1cf-483f-bea9-9e439599a01e",
+        "uuid": "delaware-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Delaware.",
         "children": [
@@ -15905,7 +15905,7 @@
         ]
       },
       {
-        "uuid": "19dccd2c-179b-4b06-a867-8bdd35cf8120",
+        "uuid": "delaware-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Delaware.",
         "children": [
@@ -15960,7 +15960,7 @@
         ]
       },
       {
-        "uuid": "97a40550-abbb-4a82-88d1-2cb1cab3a946",
+        "uuid": "delaware-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Delaware.",
         "children": [
@@ -16081,7 +16081,7 @@
         ]
       },
       {
-        "uuid": "46aa591b-54d3-4e8f-be1c-3755c0bb1246",
+        "uuid": "delaware-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Delaware.",
         "children": [
@@ -16094,7 +16094,7 @@
         ]
       },
       {
-        "uuid": "7c6a7582-9e8e-4211-9208-51fb52d81e73",
+        "uuid": "delaware-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Delaware.",
         "children": [
@@ -16851,7 +16851,7 @@
         ]
       },
       {
-        "uuid": "7f3c7b8b-6441-4b89-b80f-084e03c539ee",
+        "uuid": "delaware-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Delaware.",
         "children": [
@@ -16864,7 +16864,7 @@
         ]
       },
       {
-        "uuid": "4b4bfb3c-e463-4f26-a898-cbbf023f9dd5",
+        "uuid": "delaware-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Delaware.",
         "children": [

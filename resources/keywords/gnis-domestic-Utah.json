@@ -5,7 +5,7 @@
     "definition": "Utah is a state in the United States.",
     "children": [
       {
-        "uuid": "b7f450c5-f87b-4415-b29a-782d411d7a08",
+        "uuid": "utah-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Utah.",
         "children": [
@@ -22338,7 +22338,7 @@
         ]
       },
       {
-        "uuid": "328715d3-56bc-483c-8c18-9e05c304e61c",
+        "uuid": "utah-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Utah.",
         "children": [
@@ -33295,7 +33295,7 @@
         ]
       },
       {
-        "uuid": "f760c6f9-58c4-438d-ab52-51c87271bc2c",
+        "uuid": "utah-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Utah.",
         "children": [
@@ -36044,7 +36044,7 @@
         ]
       },
       {
-        "uuid": "0cdcaba1-56c9-4b1a-b83d-798372fe6055",
+        "uuid": "utah-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Utah.",
         "children": [
@@ -47475,7 +47475,7 @@
         ]
       },
       {
-        "uuid": "766c4955-668e-4051-8ea4-eb3ded56f531",
+        "uuid": "utah-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Utah.",
         "children": [
@@ -47860,7 +47860,7 @@
         ]
       },
       {
-        "uuid": "f9259334-8644-400b-872e-3c89c2867dde",
+        "uuid": "utah-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Utah.",
         "children": [
@@ -48527,7 +48527,7 @@
         ]
       },
       {
-        "uuid": "8673c1b0-826c-4bcb-b5d0-0628d560ff00",
+        "uuid": "utah-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Utah.",
         "children": [
@@ -50796,7 +50796,7 @@
         ]
       },
       {
-        "uuid": "89e16d53-b7b8-423d-b3f7-46297e5d7ac7",
+        "uuid": "utah-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Utah.",
         "children": [
@@ -56245,7 +56245,7 @@
         ]
       },
       {
-        "uuid": "75dd6727-ee7e-4555-bc07-966a3e874437",
+        "uuid": "utah-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Utah.",
         "children": [
@@ -60164,7 +60164,7 @@
         ]
       },
       {
-        "uuid": "5305ea8e-4c8f-45a0-8261-613465be289a",
+        "uuid": "utah-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Utah.",
         "children": [
@@ -60429,7 +60429,7 @@
         ]
       },
       {
-        "uuid": "8c205884-c266-44b1-a2dd-a311f3275a0b",
+        "uuid": "utah-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Utah.",
         "children": [
@@ -80842,7 +80842,7 @@
         ]
       },
       {
-        "uuid": "d2a65a77-03cb-42b5-b1b4-740b17e2ee52",
+        "uuid": "utah-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Utah.",
         "children": [
@@ -82085,7 +82085,7 @@
         ]
       },
       {
-        "uuid": "cf0379f8-c9dd-4973-a1dd-ba8bec0450ab",
+        "uuid": "utah-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Utah.",
         "children": [
@@ -85266,7 +85266,7 @@
         ]
       },
       {
-        "uuid": "5d188b58-4196-44d2-9761-c17b927fb68c",
+        "uuid": "utah-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Utah.",
         "children": [
@@ -95341,7 +95341,7 @@
         ]
       },
       {
-        "uuid": "ab47765d-3ace-498c-acc2-c709e45a0b43",
+        "uuid": "utah-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Utah.",
         "children": [
@@ -96320,7 +96320,7 @@
         ]
       },
       {
-        "uuid": "2807b91e-6bf6-4ddd-bb94-c58c14a75e84",
+        "uuid": "utah-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Utah.",
         "children": [
@@ -97899,7 +97899,7 @@
         ]
       },
       {
-        "uuid": "f95d7cd2-baa4-4313-a361-1655a2eedacf",
+        "uuid": "utah-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Utah.",
         "children": [
@@ -102250,7 +102250,7 @@
         ]
       },
       {
-        "uuid": "bc8a8e0c-beeb-41bb-a0e0-df23dcc3cce3",
+        "uuid": "utah-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Utah.",
         "children": [
@@ -102845,7 +102845,7 @@
         ]
       },
       {
-        "uuid": "bbaa1c11-93fc-4dac-a3e5-bfd830e62391",
+        "uuid": "utah-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Utah.",
         "children": [
@@ -104016,7 +104016,7 @@
         ]
       },
       {
-        "uuid": "cf7daacb-06ae-4b46-a60b-18b19c5304aa",
+        "uuid": "utah-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Utah.",
         "children": [
@@ -104185,7 +104185,7 @@
         ]
       },
       {
-        "uuid": "a9edf6b8-59c7-4cd1-bb9d-382dbbe05897",
+        "uuid": "utah-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Utah.",
         "children": [
@@ -104252,7 +104252,7 @@
         ]
       },
       {
-        "uuid": "befb30e8-986b-434a-abf5-9064ca1eb9f4",
+        "uuid": "utah-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Utah.",
         "children": [
@@ -104415,7 +104415,7 @@
         ]
       },
       {
-        "uuid": "fc64a741-8e0f-4120-896a-7df40532a7da",
+        "uuid": "utah-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Utah.",
         "children": [
@@ -104494,7 +104494,7 @@
         ]
       },
       {
-        "uuid": "c407277b-385e-4228-b09d-fc546b7fd0f5",
+        "uuid": "utah-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Utah.",
         "children": [
@@ -105497,7 +105497,7 @@
         ]
       },
       {
-        "uuid": "c182b3b0-e2b1-4e9c-83a7-2f3dab0bf08e",
+        "uuid": "utah-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Utah.",
         "children": [
@@ -105696,7 +105696,7 @@
         ]
       },
       {
-        "uuid": "791352fc-7f6b-4887-83df-68269d4c6c2e",
+        "uuid": "utah-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Utah.",
         "children": [
@@ -106249,7 +106249,7 @@
         ]
       },
       {
-        "uuid": "b641baca-89e6-4272-aae9-64fc4d34a4a0",
+        "uuid": "utah-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Utah.",
         "children": [
@@ -106514,7 +106514,7 @@
         ]
       },
       {
-        "uuid": "1d20c7eb-7bc6-497e-b350-25529735c166",
+        "uuid": "utah-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in Utah.",
         "children": [
@@ -106539,7 +106539,7 @@
         ]
       },
       {
-        "uuid": "5b27431d-938a-4eaa-9603-3912af0ea73c",
+        "uuid": "utah-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Utah.",
         "children": [
@@ -106600,7 +106600,7 @@
         ]
       },
       {
-        "uuid": "3e503ddf-9c3b-464c-8b9e-fbc1c46bc6bb",
+        "uuid": "utah-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Utah.",
         "children": [
@@ -107207,7 +107207,7 @@
         ]
       },
       {
-        "uuid": "ea9fb935-6229-404d-acd4-6028b5fc92c3",
+        "uuid": "utah-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Utah.",
         "children": [
@@ -107310,7 +107310,7 @@
         ]
       },
       {
-        "uuid": "e940ebb4-d23f-41bb-9b77-e72446dc26dd",
+        "uuid": "utah-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Utah.",
         "children": [
@@ -107647,7 +107647,7 @@
         ]
       },
       {
-        "uuid": "1d3d7a4d-49dd-4cb1-b7be-345352042d5e",
+        "uuid": "utah-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in Utah.",
         "children": [
@@ -107750,7 +107750,7 @@
         ]
       },
       {
-        "uuid": "2369256b-615a-4d9a-afe5-21a270022f64",
+        "uuid": "utah-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Utah.",
         "children": [
@@ -107973,7 +107973,7 @@
         ]
       },
       {
-        "uuid": "eb9a94b7-fcc5-4491-9c15-1a618e60648f",
+        "uuid": "utah-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Utah.",
         "children": [
@@ -108124,7 +108124,7 @@
         ]
       },
       {
-        "uuid": "e1f507f9-63d2-41b3-96e1-0f97fa2f0147",
+        "uuid": "utah-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Utah.",
         "children": [
@@ -108173,7 +108173,7 @@
         ]
       },
       {
-        "uuid": "1f41114a-fdbe-4e15-bb28-6c3464f60cbc",
+        "uuid": "utah-lava",
         "label": "Lava",
         "definition": "Lava is a type of feature found in Utah.",
         "children": [
@@ -108192,7 +108192,7 @@
         ]
       },
       {
-        "uuid": "960a19f3-0d36-4674-aef5-e19edbf3cb35",
+        "uuid": "utah-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Utah.",
         "children": [
@@ -110617,7 +110617,7 @@
         ]
       },
       {
-        "uuid": "bf37c20e-ac98-4e5b-9526-0082069c9bf6",
+        "uuid": "utah-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Utah.",
         "children": [
@@ -110642,7 +110642,7 @@
         ]
       },
       {
-        "uuid": "2499c815-bf81-4ca2-adc5-26a11cc32df8",
+        "uuid": "utah-glacier",
         "label": "Glacier",
         "definition": "Glacier is a type of feature found in Utah.",
         "children": [
@@ -110655,7 +110655,7 @@
         ]
       },
       {
-        "uuid": "3419a810-47e0-41df-a072-cf66dec1cc46",
+        "uuid": "utah-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Utah.",
         "children": [

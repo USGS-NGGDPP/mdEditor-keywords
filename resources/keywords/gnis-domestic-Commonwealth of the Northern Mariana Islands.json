@@ -5,7 +5,7 @@
     "definition": "Commonwealth of the Northern Mariana Islands is a state in the United States.",
     "children": [
       {
-        "uuid": "d841b48c-b8bb-4671-afd6-b6c6cd7807db",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -858,7 +858,7 @@
         ]
       },
       {
-        "uuid": "420fd05f-f7e1-4a2f-b24b-806c8933a7d7",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -907,7 +907,7 @@
         ]
       },
       {
-        "uuid": "9958dbf6-54d6-4e28-93aa-c01a08486abe",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -1148,7 +1148,7 @@
         ]
       },
       {
-        "uuid": "fe2b73a0-8626-4346-ab39-4dd4dde2a9ab",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -1479,7 +1479,7 @@
         ]
       },
       {
-        "uuid": "e2e5bf21-7149-48eb-bb39-b0ea8fae4f03",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -1834,7 +1834,7 @@
         ]
       },
       {
-        "uuid": "d1741e76-76e8-4676-ad69-a0acd0f8d880",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2045,7 +2045,7 @@
         ]
       },
       {
-        "uuid": "8b9d57d9-2176-41e2-93e4-a533ea40bafe",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2244,7 +2244,7 @@
         ]
       },
       {
-        "uuid": "0e82bfbb-2205-498c-a730-d94ee6f65c23",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2407,7 +2407,7 @@
         ]
       },
       {
-        "uuid": "296d3ddb-9357-4a17-b3d1-755b4f4e3243",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2510,7 +2510,7 @@
         ]
       },
       {
-        "uuid": "8739313c-9f8f-453f-813d-fbc8091ed149",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2697,7 +2697,7 @@
         ]
       },
       {
-        "uuid": "4588a58a-152b-4bb1-a5d9-1deba25c47be",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2734,7 +2734,7 @@
         ]
       },
       {
-        "uuid": "cf6aef81-a226-4c91-95c0-be1326ee2270",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2795,7 +2795,7 @@
         ]
       },
       {
-        "uuid": "24741ee0-111a-480f-ad6f-83b7a22eb77d",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2814,7 +2814,7 @@
         ]
       },
       {
-        "uuid": "9016f454-7f75-43f2-a84f-ab4b5a704de3",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2839,7 +2839,7 @@
         ]
       },
       {
-        "uuid": "6f5cb4e6-78e8-4c59-a214-7074a46fdb60",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2864,7 +2864,7 @@
         ]
       },
       {
-        "uuid": "16be8406-4235-4fc5-a116-ff75fedd3b48",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2883,7 +2883,7 @@
         ]
       },
       {
-        "uuid": "56e55996-4f6f-4c18-9eae-5066bbebf3de",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2902,7 +2902,7 @@
         ]
       },
       {
-        "uuid": "0fa19c21-96b1-4770-9dfa-388c841854b2",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2933,7 +2933,7 @@
         ]
       },
       {
-        "uuid": "a510c450-35c5-4021-bf10-270727dc8ceb",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-sea",
         "label": "Sea",
         "definition": "Sea is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2958,7 +2958,7 @@
         ]
       },
       {
-        "uuid": "8fff0889-8978-45d7-bce3-8a966af2006b",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2971,7 +2971,7 @@
         ]
       },
       {
-        "uuid": "fcb86f04-122e-4168-96d5-badfb33058e3",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -2990,7 +2990,7 @@
         ]
       },
       {
-        "uuid": "2278fbde-d94d-4c9f-a0b9-390052bce14c",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -3909,7 +3909,7 @@
         ]
       },
       {
-        "uuid": "ed4940fb-6e62-48eb-a896-ecc4ebfb3fcd",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -3922,7 +3922,7 @@
         ]
       },
       {
-        "uuid": "b918a1ed-67bc-4b9f-b673-5824c7803033",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -3935,7 +3935,7 @@
         ]
       },
       {
-        "uuid": "ba5a80e5-27eb-473f-a617-54b86dbff994",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [
@@ -3954,7 +3954,7 @@
         ]
       },
       {
-        "uuid": "43a39a28-00a4-4e92-ae4c-8657f1868f9c",
+        "uuid": "commonwealth-of-the-northern-mariana-islands-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Commonwealth of the Northern Mariana Islands.",
         "children": [

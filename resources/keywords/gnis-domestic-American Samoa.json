@@ -5,7 +5,7 @@
     "definition": "American Samoa is a state in the United States.",
     "children": [
       {
-        "uuid": "481ce65e-bb2f-4f95-853d-f16ec62d68e5",
+        "uuid": "american-samoa-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in American Samoa.",
         "children": [
@@ -882,7 +882,7 @@
         ]
       },
       {
-        "uuid": "332dcc45-4cc8-4c2c-bf9c-7447a9f7b4a9",
+        "uuid": "american-samoa-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in American Samoa.",
         "children": [
@@ -1987,7 +1987,7 @@
         ]
       },
       {
-        "uuid": "a47c3d92-d98a-46f6-a134-517ed61ec710",
+        "uuid": "american-samoa-island",
         "label": "Island",
         "definition": "Island is a type of feature found in American Samoa.",
         "children": [
@@ -2366,7 +2366,7 @@
         ]
       },
       {
-        "uuid": "c6513547-8abb-4566-a39f-0ae44df37b9f",
+        "uuid": "american-samoa-sea",
         "label": "Sea",
         "definition": "Sea is a type of feature found in American Samoa.",
         "children": [
@@ -2379,7 +2379,7 @@
         ]
       },
       {
-        "uuid": "945081d3-9ae8-49df-b52d-c48fadc140cb",
+        "uuid": "american-samoa-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in American Samoa.",
         "children": [
@@ -3148,7 +3148,7 @@
         ]
       },
       {
-        "uuid": "414c2660-0fbe-4877-a437-08db81b537cc",
+        "uuid": "american-samoa-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in American Samoa.",
         "children": [
@@ -3695,7 +3695,7 @@
         ]
       },
       {
-        "uuid": "cb27141d-9072-400a-a721-dda6cc90abbe",
+        "uuid": "american-samoa-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in American Samoa.",
         "children": [
@@ -4062,7 +4062,7 @@
         ]
       },
       {
-        "uuid": "dc9ca5ec-6103-4b7b-b0f4-13e137ca1c13",
+        "uuid": "american-samoa-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in American Samoa.",
         "children": [
@@ -4321,7 +4321,7 @@
         ]
       },
       {
-        "uuid": "d01e6b98-58a9-4074-8c43-c6fc3a42c977",
+        "uuid": "american-samoa-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in American Samoa.",
         "children": [
@@ -4376,7 +4376,7 @@
         ]
       },
       {
-        "uuid": "bb9b7ebe-0a91-4a84-b35b-90e038e183ef",
+        "uuid": "american-samoa-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in American Samoa.",
         "children": [
@@ -4401,7 +4401,7 @@
         ]
       },
       {
-        "uuid": "685d1790-5966-4001-bfdd-76e5aedfc1fa",
+        "uuid": "american-samoa-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in American Samoa.",
         "children": [
@@ -4438,7 +4438,7 @@
         ]
       },
       {
-        "uuid": "80ab03ba-3c73-41f7-8119-46940a330ce5",
+        "uuid": "american-samoa-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in American Samoa.",
         "children": [
@@ -4505,7 +4505,7 @@
         ]
       },
       {
-        "uuid": "ef8c97ce-eff1-43d1-a31e-b37ea1c0312f",
+        "uuid": "american-samoa-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in American Samoa.",
         "children": [
@@ -4554,7 +4554,7 @@
         ]
       },
       {
-        "uuid": "93a213fd-a749-4473-8844-fcb7a4c5b4ba",
+        "uuid": "american-samoa-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in American Samoa.",
         "children": [
@@ -4603,7 +4603,7 @@
         ]
       },
       {
-        "uuid": "2ac2b6b6-996c-43b7-bdd0-c8fe1a8548cd",
+        "uuid": "american-samoa-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in American Samoa.",
         "children": [
@@ -4634,7 +4634,7 @@
         ]
       },
       {
-        "uuid": "c6f7b5fd-e190-4fbb-b5d2-e7861101638d",
+        "uuid": "american-samoa-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in American Samoa.",
         "children": [
@@ -4647,7 +4647,7 @@
         ]
       },
       {
-        "uuid": "d0c3599c-9ec5-4d52-8322-469cd6e698df",
+        "uuid": "american-samoa-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in American Samoa.",
         "children": [
@@ -4684,7 +4684,7 @@
         ]
       },
       {
-        "uuid": "59059b07-17c2-4bd7-9533-e087637093e2",
+        "uuid": "american-samoa-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in American Samoa.",
         "children": [
@@ -4697,7 +4697,7 @@
         ]
       },
       {
-        "uuid": "79592572-6eb2-4fde-8754-18382796ff8a",
+        "uuid": "american-samoa-area",
         "label": "Area",
         "definition": "Area is a type of feature found in American Samoa.",
         "children": [
@@ -4716,7 +4716,7 @@
         ]
       },
       {
-        "uuid": "d0903027-1618-42f9-8baf-e7bb877d89b2",
+        "uuid": "american-samoa-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in American Samoa.",
         "children": [
@@ -4747,7 +4747,7 @@
         ]
       },
       {
-        "uuid": "b9b226f6-35f2-43d4-8963-78bc7946c43f",
+        "uuid": "american-samoa-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in American Samoa.",
         "children": [
@@ -5354,7 +5354,7 @@
         ]
       },
       {
-        "uuid": "478d4224-0a84-4e42-bb22-9064526a206e",
+        "uuid": "american-samoa-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in American Samoa.",
         "children": [
@@ -5385,7 +5385,7 @@
         ]
       },
       {
-        "uuid": "698e7a39-77b3-49a3-bf2e-ebc4610afd62",
+        "uuid": "american-samoa-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in American Samoa.",
         "children": [
@@ -5404,7 +5404,7 @@
         ]
       },
       {
-        "uuid": "e5331e22-9024-4b6f-8a3a-f0c35edfb9eb",
+        "uuid": "american-samoa-military",
         "label": "Military",
         "definition": "Military is a type of feature found in American Samoa.",
         "children": [

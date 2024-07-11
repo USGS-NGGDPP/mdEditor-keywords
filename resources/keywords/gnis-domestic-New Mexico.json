@@ -5,7 +5,7 @@
     "definition": "New Mexico is a state in the United States.",
     "children": [
       {
-        "uuid": "c35b26bb-23e8-43b8-b615-33b7979ac962",
+        "uuid": "new-mexico-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in New Mexico.",
         "children": [
@@ -21564,7 +21564,7 @@
         ]
       },
       {
-        "uuid": "80b57cc6-3d6e-4f4a-83be-9f1319b6b54e",
+        "uuid": "new-mexico-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in New Mexico.",
         "children": [
@@ -31219,7 +31219,7 @@
         ]
       },
       {
-        "uuid": "f8d42736-7fd5-4709-8438-4befe8302e2e",
+        "uuid": "new-mexico-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in New Mexico.",
         "children": [
@@ -55154,7 +55154,7 @@
         ]
       },
       {
-        "uuid": "33e8ec39-180a-4e1a-a1be-46b5f878ac63",
+        "uuid": "new-mexico-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in New Mexico.",
         "children": [
@@ -56529,7 +56529,7 @@
         ]
       },
       {
-        "uuid": "5ff38c07-d4e9-4269-9d31-ddb3d4dad86f",
+        "uuid": "new-mexico-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in New Mexico.",
         "children": [
@@ -69136,7 +69136,7 @@
         ]
       },
       {
-        "uuid": "45338b70-e17a-4111-a22d-61153dd97bf3",
+        "uuid": "new-mexico-range",
         "label": "Range",
         "definition": "Range is a type of feature found in New Mexico.",
         "children": [
@@ -70079,7 +70079,7 @@
         ]
       },
       {
-        "uuid": "2dc66946-0595-4c7b-83c6-abc0d2ca67ce",
+        "uuid": "new-mexico-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in New Mexico.",
         "children": [
@@ -73254,7 +73254,7 @@
         ]
       },
       {
-        "uuid": "5a911b8e-a735-41e4-8052-cda211510684",
+        "uuid": "new-mexico-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in New Mexico.",
         "children": [
@@ -73297,7 +73297,7 @@
         ]
       },
       {
-        "uuid": "6d4d59dd-70ba-4b1f-b7d0-65619cec04c6",
+        "uuid": "new-mexico-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in New Mexico.",
         "children": [
@@ -76694,7 +76694,7 @@
         ]
       },
       {
-        "uuid": "5a99b3b6-b3ee-4455-9cc6-f7a66f8f9817",
+        "uuid": "new-mexico-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in New Mexico.",
         "children": [
@@ -78261,7 +78261,7 @@
         ]
       },
       {
-        "uuid": "4900cce2-b8d9-4bc2-b81e-d3283a7c7396",
+        "uuid": "new-mexico-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in New Mexico.",
         "children": [
@@ -89950,7 +89950,7 @@
         ]
       },
       {
-        "uuid": "519be3d1-74dd-4df9-8dac-c71d4999467a",
+        "uuid": "new-mexico-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in New Mexico.",
         "children": [
@@ -101717,7 +101717,7 @@
         ]
       },
       {
-        "uuid": "685ea5f8-611e-4c15-8738-d534fb220da4",
+        "uuid": "new-mexico-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in New Mexico.",
         "children": [
@@ -102948,7 +102948,7 @@
         ]
       },
       {
-        "uuid": "24798391-519e-4699-afb2-1d6cebc01fa9",
+        "uuid": "new-mexico-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in New Mexico.",
         "children": [
@@ -106993,7 +106993,7 @@
         ]
       },
       {
-        "uuid": "f65d5c95-bd52-4851-9984-4ed9690ec565",
+        "uuid": "new-mexico-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in New Mexico.",
         "children": [
@@ -108020,7 +108020,7 @@
         ]
       },
       {
-        "uuid": "6a0ec977-38ce-40c7-850e-9595921cb90f",
+        "uuid": "new-mexico-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in New Mexico.",
         "children": [
@@ -108513,7 +108513,7 @@
         ]
       },
       {
-        "uuid": "9c9318c9-5e45-43b8-be32-ba115d1b4457",
+        "uuid": "new-mexico-area",
         "label": "Area",
         "definition": "Area is a type of feature found in New Mexico.",
         "children": [
@@ -109492,7 +109492,7 @@
         ]
       },
       {
-        "uuid": "bfb8fe2b-4115-4428-9ca7-9008808a12fd",
+        "uuid": "new-mexico-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in New Mexico.",
         "children": [
@@ -109835,7 +109835,7 @@
         ]
       },
       {
-        "uuid": "cb5ed3cf-82e9-4b51-a7e1-65ab8100454f",
+        "uuid": "new-mexico-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in New Mexico.",
         "children": [
@@ -109944,7 +109944,7 @@
         ]
       },
       {
-        "uuid": "073481c9-da46-4eaa-b6f7-7b776b269ea6",
+        "uuid": "new-mexico-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in New Mexico.",
         "children": [
@@ -110041,7 +110041,7 @@
         ]
       },
       {
-        "uuid": "065f3e07-8710-4dc1-8e0b-4e98daf6c36c",
+        "uuid": "new-mexico-island",
         "label": "Island",
         "definition": "Island is a type of feature found in New Mexico.",
         "children": [
@@ -110084,7 +110084,7 @@
         ]
       },
       {
-        "uuid": "6e123bb3-0cf7-4ef6-afa7-d226552ae361",
+        "uuid": "new-mexico-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in New Mexico.",
         "children": [
@@ -110451,7 +110451,7 @@
         ]
       },
       {
-        "uuid": "9324fe22-5e65-4e11-9714-7830bc18ec36",
+        "uuid": "new-mexico-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in New Mexico.",
         "children": [
@@ -110602,7 +110602,7 @@
         ]
       },
       {
-        "uuid": "b4108072-c867-480b-ba85-7b1e829b1add",
+        "uuid": "new-mexico-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in New Mexico.",
         "children": [
@@ -110873,7 +110873,7 @@
         ]
       },
       {
-        "uuid": "7208092f-fcc7-408c-88b0-cc5a72a42626",
+        "uuid": "new-mexico-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in New Mexico.",
         "children": [
@@ -110886,7 +110886,7 @@
         ]
       },
       {
-        "uuid": "ca3b7d55-3514-477b-a15b-6e7b9184f981",
+        "uuid": "new-mexico-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in New Mexico.",
         "children": [
@@ -110965,7 +110965,7 @@
         ]
       },
       {
-        "uuid": "acef7a70-c703-4716-ba25-62576b915dc6",
+        "uuid": "new-mexico-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in New Mexico.",
         "children": [
@@ -110984,7 +110984,7 @@
         ]
       },
       {
-        "uuid": "f0974c18-e409-4a00-aa9e-5fab3c1c05d3",
+        "uuid": "new-mexico-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in New Mexico.",
         "children": [
@@ -111051,7 +111051,7 @@
         ]
       },
       {
-        "uuid": "08df1032-4346-4ed9-94ae-6e4046761e18",
+        "uuid": "new-mexico-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in New Mexico.",
         "children": [
@@ -111136,7 +111136,7 @@
         ]
       },
       {
-        "uuid": "6f043f1f-7f01-4c99-a4a4-8d4fed47c7d4",
+        "uuid": "new-mexico-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in New Mexico.",
         "children": [
@@ -111173,7 +111173,7 @@
         ]
       },
       {
-        "uuid": "669fab31-9338-4f24-8a9e-82c4ca46335d",
+        "uuid": "new-mexico-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in New Mexico.",
         "children": [
@@ -111204,7 +111204,7 @@
         ]
       },
       {
-        "uuid": "c8706780-11af-4250-a7d1-fcd823544d7d",
+        "uuid": "new-mexico-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in New Mexico.",
         "children": [
@@ -111217,7 +111217,7 @@
         ]
       },
       {
-        "uuid": "a64578c8-75b4-476a-a274-41407f7e7edc",
+        "uuid": "new-mexico-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in New Mexico.",
         "children": [
@@ -111404,7 +111404,7 @@
         ]
       },
       {
-        "uuid": "097b3eff-b2a3-43c1-a90b-3b91fad0e618",
+        "uuid": "new-mexico-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in New Mexico.",
         "children": [
@@ -111417,7 +111417,7 @@
         ]
       },
       {
-        "uuid": "b5698b30-8f51-4c53-be6c-b1a2ffb3bd52",
+        "uuid": "new-mexico-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in New Mexico.",
         "children": [
@@ -111448,7 +111448,7 @@
         ]
       },
       {
-        "uuid": "35d5e474-9917-490e-912f-1a4f32615f75",
+        "uuid": "new-mexico-military",
         "label": "Military",
         "definition": "Military is a type of feature found in New Mexico.",
         "children": [
@@ -111671,7 +111671,7 @@
         ]
       },
       {
-        "uuid": "e3d40fd8-ea24-4189-bc11-11c40ffe57f5",
+        "uuid": "new-mexico-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in New Mexico.",
         "children": [
@@ -111780,7 +111780,7 @@
         ]
       },
       {
-        "uuid": "96ca83c3-9b8c-4bce-b5d7-f0753bf621b3",
+        "uuid": "new-mexico-census",
         "label": "Census",
         "definition": "Census is a type of feature found in New Mexico.",
         "children": [

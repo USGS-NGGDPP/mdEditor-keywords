@@ -5,7 +5,7 @@
     "definition": " is a state in the United States.",
     "children": [
       {
-        "uuid": "a257a36d-960e-4be5-8a7d-5c28c54dab35",
+        "uuid": "-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in .",
         "children": [
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "uuid": "e44a365b-35f9-442a-b696-0d332180c0cb",
+        "uuid": "-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in .",
         "children": [
@@ -85,7 +85,7 @@
         ]
       },
       {
-        "uuid": "c0af89a4-3aa3-4440-ad45-95ce50e20a63",
+        "uuid": "-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in .",
         "children": [
@@ -110,7 +110,7 @@
         ]
       },
       {
-        "uuid": "bb4af351-be1d-4358-9f38-006dc8d8a0ce",
+        "uuid": "-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in .",
         "children": [
@@ -123,7 +123,7 @@
         ]
       },
       {
-        "uuid": "c0a2d511-87a2-4498-a34e-128634ca25e3",
+        "uuid": "-island",
         "label": "Island",
         "definition": "Island is a type of feature found in .",
         "children": [
@@ -154,7 +154,7 @@
         ]
       },
       {
-        "uuid": "b181dc04-9456-4eb3-9988-117cb18e001e",
+        "uuid": "-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in .",
         "children": [
@@ -167,7 +167,7 @@
         ]
       },
       {
-        "uuid": "781b448b-4d6c-4249-a544-5b2c63f162e2",
+        "uuid": "-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in .",
         "children": [
@@ -180,7 +180,7 @@
         ]
       },
       {
-        "uuid": "a670b8a3-8ec8-4dab-82b0-dea966ac4a30",
+        "uuid": "-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in .",
         "children": [

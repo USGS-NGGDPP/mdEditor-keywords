@@ -5,7 +5,7 @@
     "definition": "District of Columbia is a state in the United States.",
     "children": [
       {
-        "uuid": "48bf606d-e760-4324-8b16-5e2b349c3b81",
+        "uuid": "district-of-columbia-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in District of Columbia.",
         "children": [
@@ -144,7 +144,7 @@
         ]
       },
       {
-        "uuid": "3e8a1859-ccb4-4193-8f28-d60835e57835",
+        "uuid": "district-of-columbia-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in District of Columbia.",
         "children": [
@@ -1207,7 +1207,7 @@
         ]
       },
       {
-        "uuid": "4072ca5c-0651-4162-a0d2-9ca938904913",
+        "uuid": "district-of-columbia-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in District of Columbia.",
         "children": [
@@ -1238,7 +1238,7 @@
         ]
       },
       {
-        "uuid": "5a3a7d17-5c2f-4ca4-a441-1cf11c4b1e65",
+        "uuid": "district-of-columbia-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in District of Columbia.",
         "children": [
@@ -1407,7 +1407,7 @@
         ]
       },
       {
-        "uuid": "0678240b-bf25-4d03-a5c5-ce4e41fd6305",
+        "uuid": "district-of-columbia-military",
         "label": "Military",
         "definition": "Military is a type of feature found in District of Columbia.",
         "children": [
@@ -1732,7 +1732,7 @@
         ]
       },
       {
-        "uuid": "51a2f511-5e5f-43c6-8762-274938d43ef4",
+        "uuid": "district-of-columbia-island",
         "label": "Island",
         "definition": "Island is a type of feature found in District of Columbia.",
         "children": [
@@ -1787,7 +1787,7 @@
         ]
       },
       {
-        "uuid": "2215ef02-bf8f-4213-bd22-037bf34fae1d",
+        "uuid": "district-of-columbia-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in District of Columbia.",
         "children": [
@@ -1800,7 +1800,7 @@
         ]
       },
       {
-        "uuid": "d9ee0c43-1037-4fe5-b5a3-99dbf89f73b9",
+        "uuid": "district-of-columbia-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in District of Columbia.",
         "children": [
@@ -2149,7 +2149,7 @@
         ]
       },
       {
-        "uuid": "3426cb74-e60b-4f40-847a-554fe0a215bb",
+        "uuid": "district-of-columbia-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in District of Columbia.",
         "children": [
@@ -2180,7 +2180,7 @@
         ]
       },
       {
-        "uuid": "f394c5b2-bdbe-4bd7-8445-0e65e575bf01",
+        "uuid": "district-of-columbia-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in District of Columbia.",
         "children": [
@@ -2259,7 +2259,7 @@
         ]
       },
       {
-        "uuid": "a4311dbf-a4c4-47cf-ab42-2b302b6003e9",
+        "uuid": "district-of-columbia-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in District of Columbia.",
         "children": [
@@ -2284,7 +2284,7 @@
         ]
       },
       {
-        "uuid": "fd7f78ea-03fb-435e-9dcc-7125d7f4f759",
+        "uuid": "district-of-columbia-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in District of Columbia.",
         "children": [
@@ -2363,7 +2363,7 @@
         ]
       },
       {
-        "uuid": "8193c17a-bf49-4c86-9bf7-926f61731fcc",
+        "uuid": "district-of-columbia-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in District of Columbia.",
         "children": [
@@ -2400,7 +2400,7 @@
         ]
       },
       {
-        "uuid": "c8935f4d-04f3-4cd6-bbc3-f845cc1997ad",
+        "uuid": "district-of-columbia-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in District of Columbia.",
         "children": [
@@ -2437,7 +2437,7 @@
         ]
       },
       {
-        "uuid": "91c9d22b-6bc9-4895-af0d-d3f78cc6101e",
+        "uuid": "district-of-columbia-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in District of Columbia.",
         "children": [
@@ -2450,7 +2450,7 @@
         ]
       },
       {
-        "uuid": "d938485e-985a-45ec-95fe-37dec1bc9644",
+        "uuid": "district-of-columbia-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in District of Columbia.",
         "children": [
@@ -2487,7 +2487,7 @@
         ]
       },
       {
-        "uuid": "2229d21e-49b4-4fdd-a20c-b8fed8c8e09a",
+        "uuid": "district-of-columbia-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in District of Columbia.",
         "children": [
@@ -2500,7 +2500,7 @@
         ]
       },
       {
-        "uuid": "d4497244-a732-420a-a98c-d410dddd73f9",
+        "uuid": "district-of-columbia-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in District of Columbia.",
         "children": [
@@ -2519,7 +2519,7 @@
         ]
       },
       {
-        "uuid": "759a6a3d-0d08-4ceb-aab1-e5a70a119914",
+        "uuid": "district-of-columbia-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in District of Columbia.",
         "children": [
@@ -2538,7 +2538,7 @@
         ]
       },
       {
-        "uuid": "d190968a-082d-4311-a9f5-9fd623bf7c20",
+        "uuid": "district-of-columbia-area",
         "label": "Area",
         "definition": "Area is a type of feature found in District of Columbia.",
         "children": [
@@ -2575,7 +2575,7 @@
         ]
       },
       {
-        "uuid": "9b3565d0-eb0f-461c-bdad-81d2e23ba7c2",
+        "uuid": "district-of-columbia-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in District of Columbia.",
         "children": [
@@ -2588,7 +2588,7 @@
         ]
       },
       {
-        "uuid": "4f54dea7-1f1d-44b5-a839-e4e589a804ce",
+        "uuid": "district-of-columbia-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in District of Columbia.",
         "children": [

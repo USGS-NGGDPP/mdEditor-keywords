@@ -5,7 +5,7 @@
     "definition": "Hawaii is a state in the United States.",
     "children": [
       {
-        "uuid": "29981084-4cdb-49ba-a593-40a36c5a87ed",
+        "uuid": "hawaii-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Hawaii.",
         "children": [
@@ -864,7 +864,7 @@
         ]
       },
       {
-        "uuid": "10d5ecbc-f829-4821-a800-d28e3be3fbe4",
+        "uuid": "hawaii-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Hawaii.",
         "children": [
@@ -2743,7 +2743,7 @@
         ]
       },
       {
-        "uuid": "05c40732-ec5a-4d85-946e-38bf40452375",
+        "uuid": "hawaii-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Hawaii.",
         "children": [
@@ -3446,7 +3446,7 @@
         ]
       },
       {
-        "uuid": "a24009e0-83db-4cc6-b965-09719adc2390",
+        "uuid": "hawaii-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Hawaii.",
         "children": [
@@ -7659,7 +7659,7 @@
         ]
       },
       {
-        "uuid": "5a0ca157-d972-4752-be1e-ceccf5cf0eec",
+        "uuid": "hawaii-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Hawaii.",
         "children": [
@@ -13480,7 +13480,7 @@
         ]
       },
       {
-        "uuid": "25ae9422-cff6-46e6-b412-66e33160fff4",
+        "uuid": "hawaii-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Hawaii.",
         "children": [
@@ -16655,7 +16655,7 @@
         ]
       },
       {
-        "uuid": "2bd02616-081e-4f4e-8ffb-caa5a0579198",
+        "uuid": "hawaii-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Hawaii.",
         "children": [
@@ -16890,7 +16890,7 @@
         ]
       },
       {
-        "uuid": "c665ae1e-8a49-4a44-894d-dd0767dd8bfa",
+        "uuid": "hawaii-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Hawaii.",
         "children": [
@@ -17575,7 +17575,7 @@
         ]
       },
       {
-        "uuid": "1c4c23d7-2d46-4dc6-b27b-be66349b8825",
+        "uuid": "hawaii-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Hawaii.",
         "children": [
@@ -17960,7 +17960,7 @@
         ]
       },
       {
-        "uuid": "6dd371ae-b81e-43eb-ba65-819ed5d1d224",
+        "uuid": "hawaii-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Hawaii.",
         "children": [
@@ -19023,7 +19023,7 @@
         ]
       },
       {
-        "uuid": "e7b04fbf-0fb3-4b6b-8bd4-f1eceac504c0",
+        "uuid": "hawaii-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Hawaii.",
         "children": [
@@ -22270,7 +22270,7 @@
         ]
       },
       {
-        "uuid": "4f682bdc-3fef-451b-8d53-f7cd9dcd0a92",
+        "uuid": "hawaii-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Hawaii.",
         "children": [
@@ -26729,7 +26729,7 @@
         ]
       },
       {
-        "uuid": "6a95f980-cffb-4fb1-a075-83892cc13739",
+        "uuid": "hawaii-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Hawaii.",
         "children": [
@@ -34116,7 +34116,7 @@
         ]
       },
       {
-        "uuid": "a7a97afb-1ed3-4f4b-aa34-faf0cc231056",
+        "uuid": "hawaii-lava",
         "label": "Lava",
         "definition": "Lava is a type of feature found in Hawaii.",
         "children": [
@@ -34687,7 +34687,7 @@
         ]
       },
       {
-        "uuid": "2ae04145-2e6f-4a27-98d2-7d18839c7d23",
+        "uuid": "hawaii-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Hawaii.",
         "children": [
@@ -35282,7 +35282,7 @@
         ]
       },
       {
-        "uuid": "75f3b6eb-ddc8-4b71-8988-7eaf367aa5e5",
+        "uuid": "hawaii-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Hawaii.",
         "children": [
@@ -37413,7 +37413,7 @@
         ]
       },
       {
-        "uuid": "b6022730-b040-4642-b63e-6e48887f6556",
+        "uuid": "hawaii-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Hawaii.",
         "children": [
@@ -38296,7 +38296,7 @@
         ]
       },
       {
-        "uuid": "ec680058-0e95-4242-b0d0-f25f09c79af9",
+        "uuid": "hawaii-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in Hawaii.",
         "children": [
@@ -38819,7 +38819,7 @@
         ]
       },
       {
-        "uuid": "5e843d5c-53a8-4daa-bd35-4ab5764e3408",
+        "uuid": "hawaii-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Hawaii.",
         "children": [
@@ -38910,7 +38910,7 @@
         ]
       },
       {
-        "uuid": "3b084208-7d7f-4086-a267-ef98e5470506",
+        "uuid": "hawaii-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Hawaii.",
         "children": [
@@ -39361,7 +39361,7 @@
         ]
       },
       {
-        "uuid": "76d82a42-bf51-41d9-be32-5346cf78ad6a",
+        "uuid": "hawaii-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Hawaii.",
         "children": [
@@ -39794,7 +39794,7 @@
         ]
       },
       {
-        "uuid": "8316fea9-bf53-42eb-a798-a8f2b5e29b02",
+        "uuid": "hawaii-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Hawaii.",
         "children": [
@@ -39855,7 +39855,7 @@
         ]
       },
       {
-        "uuid": "b5baf93b-bf36-4281-a834-12970c9a499d",
+        "uuid": "hawaii-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Hawaii.",
         "children": [
@@ -40162,7 +40162,7 @@
         ]
       },
       {
-        "uuid": "b6db5bf1-a5b2-41d5-9af2-d023a44809b5",
+        "uuid": "hawaii-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Hawaii.",
         "children": [
@@ -40199,7 +40199,7 @@
         ]
       },
       {
-        "uuid": "ed85df80-f012-4e9d-b85b-ebffed02d780",
+        "uuid": "hawaii-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Hawaii.",
         "children": [
@@ -40236,7 +40236,7 @@
         ]
       },
       {
-        "uuid": "ca040cdd-d2ed-4957-a576-6394ebc15dfc",
+        "uuid": "hawaii-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Hawaii.",
         "children": [
@@ -40291,7 +40291,7 @@
         ]
       },
       {
-        "uuid": "926868af-fc6d-4489-8381-bd008bbb136e",
+        "uuid": "hawaii-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Hawaii.",
         "children": [
@@ -40406,7 +40406,7 @@
         ]
       },
       {
-        "uuid": "9aae090e-908c-4349-a5fb-1822f524bc87",
+        "uuid": "hawaii-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Hawaii.",
         "children": [
@@ -40479,7 +40479,7 @@
         ]
       },
       {
-        "uuid": "a64e0239-7015-4834-a8e6-fe634535cb39",
+        "uuid": "hawaii-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Hawaii.",
         "children": [
@@ -40540,7 +40540,7 @@
         ]
       },
       {
-        "uuid": "0495ca8e-fc42-4701-bfed-a02f269b277e",
+        "uuid": "hawaii-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Hawaii.",
         "children": [
@@ -40553,7 +40553,7 @@
         ]
       },
       {
-        "uuid": "7d959355-7932-4de9-9718-b2ca85d5dc94",
+        "uuid": "hawaii-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Hawaii.",
         "children": [
@@ -40638,7 +40638,7 @@
         ]
       },
       {
-        "uuid": "2102d506-3259-415c-be21-d869432f5881",
+        "uuid": "hawaii-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Hawaii.",
         "children": [
@@ -40669,7 +40669,7 @@
         ]
       },
       {
-        "uuid": "7fb1b81c-01e7-4166-8940-ae682a82cf76",
+        "uuid": "hawaii-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Hawaii.",
         "children": [
@@ -41162,7 +41162,7 @@
         ]
       },
       {
-        "uuid": "11adef7c-68ed-4154-936f-70e130748f14",
+        "uuid": "hawaii-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Hawaii.",
         "children": [

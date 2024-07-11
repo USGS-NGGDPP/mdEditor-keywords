@@ -5,7 +5,7 @@
     "definition": "U.S. Minor Outlying Islands is a state in the United States.",
     "children": [
       {
-        "uuid": "44402059-5bc4-4b4b-91b1-7c17721eb47d",
+        "uuid": "u-s--minor-outlying-islands-island",
         "label": "Island",
         "definition": "Island is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -222,7 +222,7 @@
         ]
       },
       {
-        "uuid": "a09b40bb-c198-46d1-be1b-71f035ea5010",
+        "uuid": "u-s--minor-outlying-islands-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -247,7 +247,7 @@
         ]
       },
       {
-        "uuid": "c64cf6a3-dd76-4628-a186-1ee1c7408b27",
+        "uuid": "u-s--minor-outlying-islands-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -290,7 +290,7 @@
         ]
       },
       {
-        "uuid": "f6fd078b-f621-4c5d-a5c8-4ee4034aafcd",
+        "uuid": "u-s--minor-outlying-islands-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -333,7 +333,7 @@
         ]
       },
       {
-        "uuid": "840ad81b-bc21-42cf-a679-022f5326ff64",
+        "uuid": "u-s--minor-outlying-islands-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -418,7 +418,7 @@
         ]
       },
       {
-        "uuid": "fe863a62-0d9d-4343-9271-84f88967fa3d",
+        "uuid": "u-s--minor-outlying-islands-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -443,7 +443,7 @@
         ]
       },
       {
-        "uuid": "f6593b6d-6dbb-4ab1-be1c-05f8969147c8",
+        "uuid": "u-s--minor-outlying-islands-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -510,7 +510,7 @@
         ]
       },
       {
-        "uuid": "a5c5dc0e-b74f-4b30-b669-bf55376c11a0",
+        "uuid": "u-s--minor-outlying-islands-military",
         "label": "Military",
         "definition": "Military is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [
@@ -541,7 +541,7 @@
         ]
       },
       {
-        "uuid": "7a8c4ba1-9e7b-440e-a05f-a5e2814dbb3e",
+        "uuid": "u-s--minor-outlying-islands-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in U.S. Minor Outlying Islands.",
         "children": [

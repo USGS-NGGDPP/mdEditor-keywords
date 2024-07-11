@@ -5,7 +5,7 @@
     "definition": "South Carolina is a state in the United States.",
     "children": [
       {
-        "uuid": "593d2dd4-0646-4958-b8cb-f9e550bf2692",
+        "uuid": "south-carolina-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in South Carolina.",
         "children": [
@@ -15552,7 +15552,7 @@
         ]
       },
       {
-        "uuid": "094627b0-1fdc-464f-babc-15f7a8ade856",
+        "uuid": "south-carolina-island",
         "label": "Island",
         "definition": "Island is a type of feature found in South Carolina.",
         "children": [
@@ -17413,7 +17413,7 @@
         ]
       },
       {
-        "uuid": "360375d2-abc9-472b-ad34-2aa6d79c805e",
+        "uuid": "south-carolina-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in South Carolina.",
         "children": [
@@ -17888,7 +17888,7 @@
         ]
       },
       {
-        "uuid": "65db4156-74d9-4f0f-9d9d-e0e7c69ac502",
+        "uuid": "south-carolina-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in South Carolina.",
         "children": [
@@ -19155,7 +19155,7 @@
         ]
       },
       {
-        "uuid": "3334adfc-9952-4719-a632-ff389c33f78a",
+        "uuid": "south-carolina-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in South Carolina.",
         "children": [
@@ -19240,7 +19240,7 @@
         ]
       },
       {
-        "uuid": "5471ce02-f010-44ee-88bb-d3fec2a02594",
+        "uuid": "south-carolina-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in South Carolina.",
         "children": [
@@ -27857,7 +27857,7 @@
         ]
       },
       {
-        "uuid": "78b46166-5d5f-407d-8d3c-984980901369",
+        "uuid": "south-carolina-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in South Carolina.",
         "children": [
@@ -29508,7 +29508,7 @@
         ]
       },
       {
-        "uuid": "9303a492-30c1-425a-9629-cd063b98cfdc",
+        "uuid": "south-carolina-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in South Carolina.",
         "children": [
@@ -29743,7 +29743,7 @@
         ]
       },
       {
-        "uuid": "9e481287-7f2a-43d3-809d-2497d25813c2",
+        "uuid": "south-carolina-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in South Carolina.",
         "children": [
@@ -32474,7 +32474,7 @@
         ]
       },
       {
-        "uuid": "d2d20f49-35d5-4192-ab09-76ee0a0e6021",
+        "uuid": "south-carolina-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in South Carolina.",
         "children": [
@@ -32727,7 +32727,7 @@
         ]
       },
       {
-        "uuid": "4b01cd4a-9cd3-4a63-bed9-28214ffbd30b",
+        "uuid": "south-carolina-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in South Carolina.",
         "children": [
@@ -35278,7 +35278,7 @@
         ]
       },
       {
-        "uuid": "dcb15833-b749-40f5-ad80-d5196603f1fa",
+        "uuid": "south-carolina-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in South Carolina.",
         "children": [
@@ -61757,7 +61757,7 @@
         ]
       },
       {
-        "uuid": "6877d079-e615-4d76-a216-36caaa0d6b7c",
+        "uuid": "south-carolina-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in South Carolina.",
         "children": [
@@ -61806,7 +61806,7 @@
         ]
       },
       {
-        "uuid": "a63173b3-c48f-431a-b749-c31f03348514",
+        "uuid": "south-carolina-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in South Carolina.",
         "children": [
@@ -62773,7 +62773,7 @@
         ]
       },
       {
-        "uuid": "0fe4fd65-dcde-4bb6-ac39-0f0651112451",
+        "uuid": "south-carolina-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in South Carolina.",
         "children": [
@@ -63422,7 +63422,7 @@
         ]
       },
       {
-        "uuid": "a5295e0a-8182-4ced-ad49-fc2b90c5ab4f",
+        "uuid": "south-carolina-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in South Carolina.",
         "children": [
@@ -63549,7 +63549,7 @@
         ]
       },
       {
-        "uuid": "ab18d2ed-48ae-4cff-b8e7-f9ef041fde38",
+        "uuid": "south-carolina-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in South Carolina.",
         "children": [
@@ -63772,7 +63772,7 @@
         ]
       },
       {
-        "uuid": "2ba3ad75-09a0-42f9-a161-205703c707cd",
+        "uuid": "south-carolina-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in South Carolina.",
         "children": [
@@ -64109,7 +64109,7 @@
         ]
       },
       {
-        "uuid": "dd0075a9-e54e-458d-9006-c45d06129ac1",
+        "uuid": "south-carolina-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in South Carolina.",
         "children": [
@@ -64356,7 +64356,7 @@
         ]
       },
       {
-        "uuid": "5a1dabaa-0cb2-49a9-8049-ef7a4f243733",
+        "uuid": "south-carolina-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in South Carolina.",
         "children": [
@@ -64483,7 +64483,7 @@
         ]
       },
       {
-        "uuid": "24021b9e-7470-4e35-9b42-6de0d141d76c",
+        "uuid": "south-carolina-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in South Carolina.",
         "children": [
@@ -64850,7 +64850,7 @@
         ]
       },
       {
-        "uuid": "96930fd5-a44a-4fce-96f0-d4594f42b1bf",
+        "uuid": "south-carolina-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in South Carolina.",
         "children": [
@@ -64941,7 +64941,7 @@
         ]
       },
       {
-        "uuid": "2ba5cfa4-ac52-47c3-8f7e-ac35fc2496f5",
+        "uuid": "south-carolina-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in South Carolina.",
         "children": [
@@ -65092,7 +65092,7 @@
         ]
       },
       {
-        "uuid": "1f472bd1-4014-415c-850f-8c6dae8b2550",
+        "uuid": "south-carolina-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in South Carolina.",
         "children": [
@@ -65333,7 +65333,7 @@
         ]
       },
       {
-        "uuid": "7a3f3612-1376-4ef8-be45-13249826104c",
+        "uuid": "south-carolina-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in South Carolina.",
         "children": [
@@ -65490,7 +65490,7 @@
         ]
       },
       {
-        "uuid": "1516e5fb-2cab-49d3-9768-9558c4d22c37",
+        "uuid": "south-carolina-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in South Carolina.",
         "children": [
@@ -65509,7 +65509,7 @@
         ]
       },
       {
-        "uuid": "4ce0926c-428f-44e5-b6e9-b0093bb14c2e",
+        "uuid": "south-carolina-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in South Carolina.",
         "children": [
@@ -65540,7 +65540,7 @@
         ]
       },
       {
-        "uuid": "2d411d20-4b71-4995-85b2-8ff9695da61f",
+        "uuid": "south-carolina-area",
         "label": "Area",
         "definition": "Area is a type of feature found in South Carolina.",
         "children": [
@@ -65607,7 +65607,7 @@
         ]
       },
       {
-        "uuid": "cee3484d-814a-40f2-8e99-848b2eaa5b7f",
+        "uuid": "south-carolina-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in South Carolina.",
         "children": [
@@ -65620,7 +65620,7 @@
         ]
       },
       {
-        "uuid": "2cf05c14-51de-4a2b-8630-3bc46988d592",
+        "uuid": "south-carolina-range",
         "label": "Range",
         "definition": "Range is a type of feature found in South Carolina.",
         "children": [
@@ -65639,7 +65639,7 @@
         ]
       },
       {
-        "uuid": "11df5056-bda8-4a10-8bdd-85de3496cf39",
+        "uuid": "south-carolina-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in South Carolina.",
         "children": [
@@ -69372,7 +69372,7 @@
         ]
       },
       {
-        "uuid": "6b74c91e-a618-4a68-a6fe-a1ec53c32200",
+        "uuid": "south-carolina-military",
         "label": "Military",
         "definition": "Military is a type of feature found in South Carolina.",
         "children": [
@@ -69721,7 +69721,7 @@
         ]
       },
       {
-        "uuid": "336046b4-8757-43b0-a323-80501b8c7cc9",
+        "uuid": "south-carolina-census",
         "label": "Census",
         "definition": "Census is a type of feature found in South Carolina.",
         "children": [

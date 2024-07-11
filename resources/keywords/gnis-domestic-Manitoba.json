@@ -5,7 +5,7 @@
     "definition": "Manitoba is a state in the United States.",
     "children": [
       {
-        "uuid": "7ecb86f8-2060-4e1b-8bd0-3d3f68b29e09",
+        "uuid": "manitoba-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Manitoba.",
         "children": [

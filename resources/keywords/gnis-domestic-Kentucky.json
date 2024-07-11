@@ -5,7 +5,7 @@
     "definition": "Kentucky is a state in the United States.",
     "children": [
       {
-        "uuid": "ee85cb68-761b-4047-9969-fa41f98cb3e5",
+        "uuid": "kentucky-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Kentucky.",
         "children": [
@@ -40596,7 +40596,7 @@
         ]
       },
       {
-        "uuid": "7c24b266-d06f-47d1-92ae-9e14503772c9",
+        "uuid": "kentucky-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Kentucky.",
         "children": [
@@ -48391,7 +48391,7 @@
         ]
       },
       {
-        "uuid": "eb1befe7-f649-44de-a6c8-c67f4701d2ea",
+        "uuid": "kentucky-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Kentucky.",
         "children": [
@@ -81314,7 +81314,7 @@
         ]
       },
       {
-        "uuid": "ba7971ec-6ce2-4279-9ff2-0a640fac5842",
+        "uuid": "kentucky-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Kentucky.",
         "children": [
@@ -87603,7 +87603,7 @@
         ]
       },
       {
-        "uuid": "dda15476-65a8-4667-92a5-d81296768c4a",
+        "uuid": "kentucky-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Kentucky.",
         "children": [
@@ -90928,7 +90928,7 @@
         ]
       },
       {
-        "uuid": "99a6e338-a479-4180-a911-9de5b5682689",
+        "uuid": "kentucky-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Kentucky.",
         "children": [
@@ -92291,7 +92291,7 @@
         ]
       },
       {
-        "uuid": "fcc8cdad-618f-4366-8935-a5b4861c8bde",
+        "uuid": "kentucky-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Kentucky.",
         "children": [
@@ -92448,7 +92448,7 @@
         ]
       },
       {
-        "uuid": "6f867ac0-a994-4691-93ec-659fa9abc057",
+        "uuid": "kentucky-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Kentucky.",
         "children": [
@@ -94045,7 +94045,7 @@
         ]
       },
       {
-        "uuid": "ff4538f0-b450-4578-94ae-28f52d4cf2f7",
+        "uuid": "kentucky-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Kentucky.",
         "children": [
@@ -94424,7 +94424,7 @@
         ]
       },
       {
-        "uuid": "80623cde-adb4-4942-b600-fc07abcf11e1",
+        "uuid": "kentucky-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Kentucky.",
         "children": [
@@ -95727,7 +95727,7 @@
         ]
       },
       {
-        "uuid": "499bc1cd-43fa-469f-b54b-ab93628c07cf",
+        "uuid": "kentucky-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Kentucky.",
         "children": [
@@ -95890,7 +95890,7 @@
         ]
       },
       {
-        "uuid": "2eb50f1a-3025-4afb-9d3b-ee09b80bc673",
+        "uuid": "kentucky-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Kentucky.",
         "children": [
@@ -96551,7 +96551,7 @@
         ]
       },
       {
-        "uuid": "f87d6a1d-a3a1-4c29-8b87-a3aa92b25282",
+        "uuid": "kentucky-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Kentucky.",
         "children": [
@@ -97554,7 +97554,7 @@
         ]
       },
       {
-        "uuid": "486b5eb0-1ef9-4a17-8230-cdd383e56621",
+        "uuid": "kentucky-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Kentucky.",
         "children": [
@@ -98077,7 +98077,7 @@
         ]
       },
       {
-        "uuid": "d12e40fc-fce1-4935-a732-f08a85f9e45f",
+        "uuid": "kentucky-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Kentucky.",
         "children": [
@@ -98276,7 +98276,7 @@
         ]
       },
       {
-        "uuid": "dc2115fa-073f-4e19-8568-7984d10014ed",
+        "uuid": "kentucky-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Kentucky.",
         "children": [
@@ -99573,7 +99573,7 @@
         ]
       },
       {
-        "uuid": "9a4fd537-e7ec-4076-8cac-2b72827fa771",
+        "uuid": "kentucky-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Kentucky.",
         "children": [
@@ -100564,7 +100564,7 @@
         ]
       },
       {
-        "uuid": "b70b4b4f-db1b-4a67-9ef0-17ea00f5346f",
+        "uuid": "kentucky-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Kentucky.",
         "children": [
@@ -100751,7 +100751,7 @@
         ]
       },
       {
-        "uuid": "2fc6f670-5cd7-47b7-bc2d-c9a95b51e93f",
+        "uuid": "kentucky-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Kentucky.",
         "children": [
@@ -100878,7 +100878,7 @@
         ]
       },
       {
-        "uuid": "18375b98-8960-408f-a48b-e72aa44be2d5",
+        "uuid": "kentucky-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Kentucky.",
         "children": [
@@ -101047,7 +101047,7 @@
         ]
       },
       {
-        "uuid": "ff35aafe-5b9e-427b-9302-ecde37d596bd",
+        "uuid": "kentucky-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Kentucky.",
         "children": [
@@ -101192,7 +101192,7 @@
         ]
       },
       {
-        "uuid": "bc6c0a0f-483c-4c58-a48c-b9ddda653a7b",
+        "uuid": "kentucky-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Kentucky.",
         "children": [
@@ -101409,7 +101409,7 @@
         ]
       },
       {
-        "uuid": "2fe2feae-e3df-46fc-a89e-6d8255a97fda",
+        "uuid": "kentucky-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Kentucky.",
         "children": [
@@ -101434,7 +101434,7 @@
         ]
       },
       {
-        "uuid": "7e12cf65-9611-4a75-b249-46fb133c9c7c",
+        "uuid": "kentucky-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Kentucky.",
         "children": [
@@ -102155,7 +102155,7 @@
         ]
       },
       {
-        "uuid": "11768b40-ac68-4a8b-a9bb-c1bb67de6a52",
+        "uuid": "kentucky-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Kentucky.",
         "children": [
@@ -102288,7 +102288,7 @@
         ]
       },
       {
-        "uuid": "a461eb63-8a52-4c94-a08f-dd97a649e014",
+        "uuid": "kentucky-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Kentucky.",
         "children": [
@@ -102385,7 +102385,7 @@
         ]
       },
       {
-        "uuid": "7792176d-9e60-44b9-9744-ac32bef9da42",
+        "uuid": "kentucky-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Kentucky.",
         "children": [
@@ -102410,7 +102410,7 @@
         ]
       },
       {
-        "uuid": "6fc118f0-a767-4c29-90eb-caf0e0fe68f9",
+        "uuid": "kentucky-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Kentucky.",
         "children": [
@@ -102429,7 +102429,7 @@
         ]
       },
       {
-        "uuid": "47839cbb-969a-4819-b851-80d20116d1f9",
+        "uuid": "kentucky-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Kentucky.",
         "children": [
@@ -102628,7 +102628,7 @@
         ]
       },
       {
-        "uuid": "730d35ef-7a04-478a-8786-98da167ce1d0",
+        "uuid": "kentucky-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Kentucky.",
         "children": [
@@ -108923,7 +108923,7 @@
         ]
       },
       {
-        "uuid": "03ad7696-de76-4be3-b26c-32ae28611937",
+        "uuid": "kentucky-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Kentucky.",
         "children": [
@@ -108936,7 +108936,7 @@
         ]
       },
       {
-        "uuid": "69de9939-b430-4d7f-b87d-73ca15c654c6",
+        "uuid": "kentucky-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Kentucky.",
         "children": [
@@ -110149,7 +110149,7 @@
         ]
       },
       {
-        "uuid": "72ac2bca-17b9-49a7-af54-802262f7fc52",
+        "uuid": "kentucky-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Kentucky.",
         "children": [
@@ -110246,7 +110246,7 @@
         ]
       },
       {
-        "uuid": "6eba0e33-680d-4f25-8100-3dd78bb29ae6",
+        "uuid": "kentucky-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Kentucky.",
         "children": [

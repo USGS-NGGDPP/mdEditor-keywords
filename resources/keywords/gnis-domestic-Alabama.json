@@ -5,7 +5,7 @@
     "definition": "Alabama is a state in the United States.",
     "children": [
       {
-        "uuid": "8182930d-8a75-4d4e-a91f-c2a06d8818b3",
+        "uuid": "alabama-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Alabama.",
         "children": [
@@ -24054,7 +24054,7 @@
         ]
       },
       {
-        "uuid": "1189cb45-8036-43d1-8afb-22b022134c9b",
+        "uuid": "alabama-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Alabama.",
         "children": [
@@ -57223,7 +57223,7 @@
         ]
       },
       {
-        "uuid": "af7239f9-43fa-4511-ab4e-8c989b2473df",
+        "uuid": "alabama-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Alabama.",
         "children": [
@@ -68714,7 +68714,7 @@
         ]
       },
       {
-        "uuid": "27a46a7e-606d-47f0-b5cb-41ed2c59e2b9",
+        "uuid": "alabama-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Alabama.",
         "children": [
@@ -71847,7 +71847,7 @@
         ]
       },
       {
-        "uuid": "cabe7db4-9596-418c-aa54-d6951ded4c9c",
+        "uuid": "alabama-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Alabama.",
         "children": [
@@ -76414,7 +76414,7 @@
         ]
       },
       {
-        "uuid": "8a68e2fb-16f7-4ad0-8519-c253fc566e23",
+        "uuid": "alabama-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Alabama.",
         "children": [
@@ -77639,7 +77639,7 @@
         ]
       },
       {
-        "uuid": "ba78bae3-16ad-4a3f-923e-6695a4c122aa",
+        "uuid": "alabama-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Alabama.",
         "children": [
@@ -82074,7 +82074,7 @@
         ]
       },
       {
-        "uuid": "d360a887-8a5f-43fc-a06d-4a632b44081f",
+        "uuid": "alabama-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Alabama.",
         "children": [
@@ -82231,7 +82231,7 @@
         ]
       },
       {
-        "uuid": "ccff029f-3c90-4637-af95-8afb35223b0f",
+        "uuid": "alabama-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Alabama.",
         "children": [
@@ -84950,7 +84950,7 @@
         ]
       },
       {
-        "uuid": "4dd81417-0f0b-4488-b77f-e850b2ed5b2a",
+        "uuid": "alabama-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Alabama.",
         "children": [
@@ -87669,7 +87669,7 @@
         ]
       },
       {
-        "uuid": "dc447413-f4c5-41dd-979b-b9a5d3858507",
+        "uuid": "alabama-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Alabama.",
         "children": [
@@ -88510,7 +88510,7 @@
         ]
       },
       {
-        "uuid": "72651b4a-da02-4b41-bce5-01c893e2a3b5",
+        "uuid": "alabama-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Alabama.",
         "children": [
@@ -89033,7 +89033,7 @@
         ]
       },
       {
-        "uuid": "a6cfcde7-161d-49d8-89d4-9701a9b3c6be",
+        "uuid": "alabama-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Alabama.",
         "children": [
@@ -90588,7 +90588,7 @@
         ]
       },
       {
-        "uuid": "6d306ac1-42c2-49bd-a2d8-1be5de32f6b5",
+        "uuid": "alabama-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Alabama.",
         "children": [
@@ -91747,7 +91747,7 @@
         ]
       },
       {
-        "uuid": "a2aafbe5-3efa-47ae-8768-fb57e29ab385",
+        "uuid": "alabama-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Alabama.",
         "children": [
@@ -92078,7 +92078,7 @@
         ]
       },
       {
-        "uuid": "dc1d2577-2578-492c-a82f-31552971e986",
+        "uuid": "alabama-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Alabama.",
         "children": [
@@ -92883,7 +92883,7 @@
         ]
       },
       {
-        "uuid": "798dfa81-af18-4054-a568-ce0bec2b1c9b",
+        "uuid": "alabama-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Alabama.",
         "children": [
@@ -93442,7 +93442,7 @@
         ]
       },
       {
-        "uuid": "6c452911-56bd-4080-a7dd-e523e4763142",
+        "uuid": "alabama-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Alabama.",
         "children": [
@@ -95735,7 +95735,7 @@
         ]
       },
       {
-        "uuid": "7df384c6-443f-4717-818c-f24df0831391",
+        "uuid": "alabama-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Alabama.",
         "children": [
@@ -101388,7 +101388,7 @@
         ]
       },
       {
-        "uuid": "e589559d-23a9-43d8-8e33-2163f60116f1",
+        "uuid": "alabama-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Alabama.",
         "children": [
@@ -102283,7 +102283,7 @@
         ]
       },
       {
-        "uuid": "0dd44487-7a81-41de-9edd-39c839f0be90",
+        "uuid": "alabama-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Alabama.",
         "children": [
@@ -102650,7 +102650,7 @@
         ]
       },
       {
-        "uuid": "3b6f7291-e5c2-4a49-a172-f3d12873b5ea",
+        "uuid": "alabama-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Alabama.",
         "children": [
@@ -103077,7 +103077,7 @@
         ]
       },
       {
-        "uuid": "ee82a0b2-ae58-44a9-887b-406dd3e5e9e6",
+        "uuid": "alabama-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Alabama.",
         "children": [
@@ -103102,7 +103102,7 @@
         ]
       },
       {
-        "uuid": "ff94d337-27e4-4ef2-8f7a-b7c1f1eca9d5",
+        "uuid": "alabama-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Alabama.",
         "children": [
@@ -103259,7 +103259,7 @@
         ]
       },
       {
-        "uuid": "7b00a1eb-d850-4d62-ba32-e08a7af78226",
+        "uuid": "alabama-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Alabama.",
         "children": [
@@ -103566,7 +103566,7 @@
         ]
       },
       {
-        "uuid": "a881fe5e-d7d9-48eb-854e-0e63d6165b8c",
+        "uuid": "alabama-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Alabama.",
         "children": [
@@ -103783,7 +103783,7 @@
         ]
       },
       {
-        "uuid": "ee1bc1a6-baff-4291-bb2f-031fed7a824b",
+        "uuid": "alabama-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Alabama.",
         "children": [
@@ -103802,7 +103802,7 @@
         ]
       },
       {
-        "uuid": "0e9ca536-d944-45a5-9be6-cacab53dbd58",
+        "uuid": "alabama-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Alabama.",
         "children": [
@@ -104715,7 +104715,7 @@
         ]
       },
       {
-        "uuid": "91f06931-e256-4ec5-bd20-2f653d9f2873",
+        "uuid": "alabama-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Alabama.",
         "children": [
@@ -104788,7 +104788,7 @@
         ]
       },
       {
-        "uuid": "766df006-05cd-4966-a907-58e663b53801",
+        "uuid": "alabama-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Alabama.",
         "children": [
@@ -104855,7 +104855,7 @@
         ]
       },
       {
-        "uuid": "a3227e62-4d30-49af-9151-a57256197fe6",
+        "uuid": "alabama-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Alabama.",
         "children": [
@@ -104928,7 +104928,7 @@
         ]
       },
       {
-        "uuid": "1aeb99e2-b0a8-4939-8de9-0c54c8c21b77",
+        "uuid": "alabama-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Alabama.",
         "children": [
@@ -105031,7 +105031,7 @@
         ]
       },
       {
-        "uuid": "f76e354a-ed0c-4a90-b0c1-61fece2109b9",
+        "uuid": "alabama-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Alabama.",
         "children": [
@@ -105056,7 +105056,7 @@
         ]
       },
       {
-        "uuid": "6b139325-f973-4652-bd7e-58b0a49c16ce",
+        "uuid": "alabama-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Alabama.",
         "children": [
@@ -105123,7 +105123,7 @@
         ]
       },
       {
-        "uuid": "92b2e9bf-6424-41c5-83ea-c8a10ffa7ec5",
+        "uuid": "alabama-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in Alabama.",
         "children": [
@@ -105136,7 +105136,7 @@
         ]
       },
       {
-        "uuid": "b7d516a8-10b3-47cc-a7b6-6a060bd99bff",
+        "uuid": "alabama-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Alabama.",
         "children": [
@@ -105149,7 +105149,7 @@
         ]
       },
       {
-        "uuid": "4bfa6337-9a1a-490e-a590-27232d296469",
+        "uuid": "alabama-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Alabama.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "South Dakota is a state in the United States.",
     "children": [
       {
-        "uuid": "357a9453-2529-4542-8595-5da4edabfd3c",
+        "uuid": "south-dakota-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in South Dakota.",
         "children": [
@@ -2400,7 +2400,7 @@
         ]
       },
       {
-        "uuid": "53311fd6-e8be-40b7-8035-f52e0e7c477e",
+        "uuid": "south-dakota-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in South Dakota.",
         "children": [
@@ -12649,7 +12649,7 @@
         ]
       },
       {
-        "uuid": "d091c7ec-3561-4510-9723-67a374b81b7d",
+        "uuid": "south-dakota-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in South Dakota.",
         "children": [
@@ -12662,7 +12662,7 @@
         ]
       },
       {
-        "uuid": "f817cfa5-81cf-438f-bbcc-b7c3560b55a2",
+        "uuid": "south-dakota-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in South Dakota.",
         "children": [
@@ -18765,7 +18765,7 @@
         ]
       },
       {
-        "uuid": "959ce16e-da3d-4ebb-96ad-cb542016012a",
+        "uuid": "south-dakota-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in South Dakota.",
         "children": [
@@ -22204,7 +22204,7 @@
         ]
       },
       {
-        "uuid": "754d10db-e260-4c54-ad77-2cc814831660",
+        "uuid": "south-dakota-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in South Dakota.",
         "children": [
@@ -23945,7 +23945,7 @@
         ]
       },
       {
-        "uuid": "14da1fbb-fc5d-48d9-a810-93e568ff27bd",
+        "uuid": "south-dakota-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in South Dakota.",
         "children": [
@@ -24114,7 +24114,7 @@
         ]
       },
       {
-        "uuid": "bb4dd6fe-ccaf-485a-8ecd-5273f863abd5",
+        "uuid": "south-dakota-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in South Dakota.",
         "children": [
@@ -30175,7 +30175,7 @@
         ]
       },
       {
-        "uuid": "da5e2e23-f95e-4a82-a75e-b3c33f7ef99a",
+        "uuid": "south-dakota-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in South Dakota.",
         "children": [
@@ -32552,7 +32552,7 @@
         ]
       },
       {
-        "uuid": "1e639077-588a-4ea6-81ac-7f2a76eb2f08",
+        "uuid": "south-dakota-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in South Dakota.",
         "children": [
@@ -33099,7 +33099,7 @@
         ]
       },
       {
-        "uuid": "969c0208-c64b-44c1-9c38-acaa7aa48051",
+        "uuid": "south-dakota-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in South Dakota.",
         "children": [
@@ -34684,7 +34684,7 @@
         ]
       },
       {
-        "uuid": "76e1f9d6-3f39-4cca-a965-6849b8bbc1e8",
+        "uuid": "south-dakota-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in South Dakota.",
         "children": [
@@ -34961,7 +34961,7 @@
         ]
       },
       {
-        "uuid": "f7ef0ec0-6fc2-4b9e-9b6c-3c46407bbc45",
+        "uuid": "south-dakota-island",
         "label": "Island",
         "definition": "Island is a type of feature found in South Dakota.",
         "children": [
@@ -35412,7 +35412,7 @@
         ]
       },
       {
-        "uuid": "7b13f775-48c6-48e4-9e89-0bb61ffb7e8d",
+        "uuid": "south-dakota-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in South Dakota.",
         "children": [
@@ -35545,7 +35545,7 @@
         ]
       },
       {
-        "uuid": "88604a3b-8b25-4142-be88-f6d18695c0ac",
+        "uuid": "south-dakota-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in South Dakota.",
         "children": [
@@ -36062,7 +36062,7 @@
         ]
       },
       {
-        "uuid": "fc0604ca-4c0a-4501-907e-9ed2d07f9fd9",
+        "uuid": "south-dakota-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in South Dakota.",
         "children": [
@@ -36159,7 +36159,7 @@
         ]
       },
       {
-        "uuid": "dd15d389-c59e-4626-ae73-2b6bce47f031",
+        "uuid": "south-dakota-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in South Dakota.",
         "children": [
@@ -36274,7 +36274,7 @@
         ]
       },
       {
-        "uuid": "88331f3b-d826-4428-8724-da3bb04d95d5",
+        "uuid": "south-dakota-range",
         "label": "Range",
         "definition": "Range is a type of feature found in South Dakota.",
         "children": [
@@ -36503,7 +36503,7 @@
         ]
       },
       {
-        "uuid": "834d4dda-6859-4062-8549-1b0347b73cfa",
+        "uuid": "south-dakota-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in South Dakota.",
         "children": [
@@ -36654,7 +36654,7 @@
         ]
       },
       {
-        "uuid": "886bb9e3-d169-43d4-8f2c-09af727e2ad3",
+        "uuid": "south-dakota-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in South Dakota.",
         "children": [
@@ -36811,7 +36811,7 @@
         ]
       },
       {
-        "uuid": "0cc08b20-95c4-42ba-a6c7-596cdd07b331",
+        "uuid": "south-dakota-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in South Dakota.",
         "children": [
@@ -36902,7 +36902,7 @@
         ]
       },
       {
-        "uuid": "3170f692-ffdb-4e55-b8f2-f6db592586ee",
+        "uuid": "south-dakota-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in South Dakota.",
         "children": [
@@ -36993,7 +36993,7 @@
         ]
       },
       {
-        "uuid": "c24f5864-d657-4d13-a60b-075057826613",
+        "uuid": "south-dakota-area",
         "label": "Area",
         "definition": "Area is a type of feature found in South Dakota.",
         "children": [
@@ -37078,7 +37078,7 @@
         ]
       },
       {
-        "uuid": "31863539-3256-4699-8b46-d713277ef4eb",
+        "uuid": "south-dakota-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in South Dakota.",
         "children": [
@@ -37157,7 +37157,7 @@
         ]
       },
       {
-        "uuid": "0d0ca870-48e9-4aba-a743-253cd0e3b20c",
+        "uuid": "south-dakota-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in South Dakota.",
         "children": [
@@ -37206,7 +37206,7 @@
         ]
       },
       {
-        "uuid": "65f5b313-aeb4-46cf-ab31-301215870aae",
+        "uuid": "south-dakota-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in South Dakota.",
         "children": [
@@ -37255,7 +37255,7 @@
         ]
       },
       {
-        "uuid": "f2d3f8d9-6c37-4660-bcf3-651f4a4c61ea",
+        "uuid": "south-dakota-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in South Dakota.",
         "children": [
@@ -37274,7 +37274,7 @@
         ]
       },
       {
-        "uuid": "a65d77df-78bd-4039-b571-f739d7deb5ff",
+        "uuid": "south-dakota-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in South Dakota.",
         "children": [
@@ -37287,7 +37287,7 @@
         ]
       },
       {
-        "uuid": "b46a4c2f-7e37-4d7f-a22b-e3c1ad104549",
+        "uuid": "south-dakota-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in South Dakota.",
         "children": [
@@ -37312,7 +37312,7 @@
         ]
       },
       {
-        "uuid": "729fe4c9-107a-4df4-b000-d4b50b3f52f6",
+        "uuid": "south-dakota-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in South Dakota.",
         "children": [
@@ -37349,7 +37349,7 @@
         ]
       },
       {
-        "uuid": "615df5f6-b032-448f-8587-3863473bc150",
+        "uuid": "south-dakota-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in South Dakota.",
         "children": [
@@ -37386,7 +37386,7 @@
         ]
       },
       {
-        "uuid": "a0023302-ab85-4c5e-8a72-b3dcec4d66dd",
+        "uuid": "south-dakota-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in South Dakota.",
         "children": [
@@ -37399,7 +37399,7 @@
         ]
       },
       {
-        "uuid": "38961023-6e0f-4c87-be82-c013b55a8c28",
+        "uuid": "south-dakota-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in South Dakota.",
         "children": [
@@ -37418,7 +37418,7 @@
         ]
       },
       {
-        "uuid": "ceec3c23-fc97-46a1-9bff-69fe5767710e",
+        "uuid": "south-dakota-census",
         "label": "Census",
         "definition": "Census is a type of feature found in South Dakota.",
         "children": [
@@ -38655,7 +38655,7 @@
         ]
       },
       {
-        "uuid": "57f42dcd-7952-4884-96a1-5b4a98fb15b1",
+        "uuid": "south-dakota-military",
         "label": "Military",
         "definition": "Military is a type of feature found in South Dakota.",
         "children": [

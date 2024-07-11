@@ -5,7 +5,7 @@
     "definition": "Arkansas is a state in the United States.",
     "children": [
       {
-        "uuid": "af176b75-b2b8-4654-860e-b719ce2c7dbc",
+        "uuid": "arkansas-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Arkansas.",
         "children": [
@@ -17946,7 +17946,7 @@
         ]
       },
       {
-        "uuid": "77fe3c09-7508-4536-84b2-665f5eae5027",
+        "uuid": "arkansas-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Arkansas.",
         "children": [
@@ -20041,7 +20041,7 @@
         ]
       },
       {
-        "uuid": "6582e300-addb-4cee-8eb0-e3d3d924b889",
+        "uuid": "arkansas-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Arkansas.",
         "children": [
@@ -26558,7 +26558,7 @@
         ]
       },
       {
-        "uuid": "634ac9b8-7178-422a-886b-a41e799498bf",
+        "uuid": "arkansas-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Arkansas.",
         "children": [
@@ -27849,7 +27849,7 @@
         ]
       },
       {
-        "uuid": "0fa2c036-40f4-42ee-bc18-0e500342f4f6",
+        "uuid": "arkansas-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Arkansas.",
         "children": [
@@ -29764,7 +29764,7 @@
         ]
       },
       {
-        "uuid": "822afc6c-6d36-4057-93c9-87eada46dc9e",
+        "uuid": "arkansas-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Arkansas.",
         "children": [
@@ -53807,7 +53807,7 @@
         ]
       },
       {
-        "uuid": "7117cd28-eb98-49c7-a013-e569feb03972",
+        "uuid": "arkansas-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Arkansas.",
         "children": [
@@ -54480,7 +54480,7 @@
         ]
       },
       {
-        "uuid": "08612ff9-852b-4ac6-861c-c63a5eb6a511",
+        "uuid": "arkansas-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Arkansas.",
         "children": [
@@ -55627,7 +55627,7 @@
         ]
       },
       {
-        "uuid": "17a391c4-f564-461c-9426-2a79063d6564",
+        "uuid": "arkansas-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Arkansas.",
         "children": [
@@ -55946,7 +55946,7 @@
         ]
       },
       {
-        "uuid": "68febdef-ab22-4d5c-8411-22ab14518dc6",
+        "uuid": "arkansas-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Arkansas.",
         "children": [
@@ -57351,7 +57351,7 @@
         ]
       },
       {
-        "uuid": "504b944f-c866-41d2-b919-470ed1d8e18c",
+        "uuid": "arkansas-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Arkansas.",
         "children": [
@@ -62356,7 +62356,7 @@
         ]
       },
       {
-        "uuid": "ca491e81-c775-4877-8698-ae0d1c80e8ac",
+        "uuid": "arkansas-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Arkansas.",
         "children": [
@@ -62855,7 +62855,7 @@
         ]
       },
       {
-        "uuid": "4bb52272-e18e-464d-8049-29c54250b44b",
+        "uuid": "arkansas-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Arkansas.",
         "children": [
@@ -69300,7 +69300,7 @@
         ]
       },
       {
-        "uuid": "dbec6f7c-14e4-49af-9aba-ed759a49bed9",
+        "uuid": "arkansas-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Arkansas.",
         "children": [
@@ -70837,7 +70837,7 @@
         ]
       },
       {
-        "uuid": "8c6a05e9-fa87-4ef6-bc71-588d3aa95f50",
+        "uuid": "arkansas-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Arkansas.",
         "children": [
@@ -71630,7 +71630,7 @@
         ]
       },
       {
-        "uuid": "6d4486af-81c4-42bd-ad74-02bf9f0cf3fe",
+        "uuid": "arkansas-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Arkansas.",
         "children": [
@@ -71919,7 +71919,7 @@
         ]
       },
       {
-        "uuid": "c302f5b1-8183-4847-97b6-a5761c959729",
+        "uuid": "arkansas-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Arkansas.",
         "children": [
@@ -72808,7 +72808,7 @@
         ]
       },
       {
-        "uuid": "596769b0-f915-4b6f-87d5-505ef63be0f8",
+        "uuid": "arkansas-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Arkansas.",
         "children": [
@@ -73097,7 +73097,7 @@
         ]
       },
       {
-        "uuid": "eee97d0e-1e88-4ce3-86ef-cda07c9a851e",
+        "uuid": "arkansas-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Arkansas.",
         "children": [
@@ -73560,7 +73560,7 @@
         ]
       },
       {
-        "uuid": "5583f55c-c4bf-4028-aa49-e23ee5c85ea5",
+        "uuid": "arkansas-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Arkansas.",
         "children": [
@@ -73987,7 +73987,7 @@
         ]
       },
       {
-        "uuid": "d7ffab78-9ccf-4951-8153-72f73268bf8d",
+        "uuid": "arkansas-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Arkansas.",
         "children": [
@@ -74528,7 +74528,7 @@
         ]
       },
       {
-        "uuid": "40545547-99af-45e2-83cc-10eb5c28503d",
+        "uuid": "arkansas-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Arkansas.",
         "children": [
@@ -74607,7 +74607,7 @@
         ]
       },
       {
-        "uuid": "dff38672-3e49-4835-99df-db96723845be",
+        "uuid": "arkansas-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Arkansas.",
         "children": [
@@ -74680,7 +74680,7 @@
         ]
       },
       {
-        "uuid": "3523d7fe-2b09-43c0-becd-59e28208cafe",
+        "uuid": "arkansas-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Arkansas.",
         "children": [
@@ -81149,7 +81149,7 @@
         ]
       },
       {
-        "uuid": "faaacce9-ca65-4dc3-8504-db7fc3e16111",
+        "uuid": "arkansas-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Arkansas.",
         "children": [
@@ -82680,7 +82680,7 @@
         ]
       },
       {
-        "uuid": "25677ec6-5b1e-4f24-9fc6-86b13947a567",
+        "uuid": "arkansas-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Arkansas.",
         "children": [
@@ -82777,7 +82777,7 @@
         ]
       },
       {
-        "uuid": "167cc490-77ea-4296-b1ab-cd44fa3d9518",
+        "uuid": "arkansas-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Arkansas.",
         "children": [
@@ -82802,7 +82802,7 @@
         ]
       },
       {
-        "uuid": "b0327004-09d7-440a-9aae-49e3004cf73e",
+        "uuid": "arkansas-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Arkansas.",
         "children": [
@@ -82881,7 +82881,7 @@
         ]
       },
       {
-        "uuid": "09078bfe-d619-4faf-b809-6a43f1e40b95",
+        "uuid": "arkansas-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Arkansas.",
         "children": [
@@ -82942,7 +82942,7 @@
         ]
       },
       {
-        "uuid": "22f4775f-aabb-40d0-833d-c1bab97f74da",
+        "uuid": "arkansas-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Arkansas.",
         "children": [
@@ -94493,7 +94493,7 @@
         ]
       },
       {
-        "uuid": "d462a93e-bd21-4712-ab8b-836644a94e5a",
+        "uuid": "arkansas-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Arkansas.",
         "children": [
@@ -94506,7 +94506,7 @@
         ]
       },
       {
-        "uuid": "82e894bf-7109-4a7f-855c-6385f8cbb1d1",
+        "uuid": "arkansas-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Arkansas.",
         "children": [
@@ -94675,7 +94675,7 @@
         ]
       },
       {
-        "uuid": "60be2ecf-268d-4e7b-9577-c7af9a3b9fd1",
+        "uuid": "arkansas-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Arkansas.",
         "children": [
@@ -95462,7 +95462,7 @@
         ]
       },
       {
-        "uuid": "33177a19-cbbd-4bcd-8335-3a4f65c41cf5",
+        "uuid": "arkansas-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Arkansas.",
         "children": [
@@ -95493,7 +95493,7 @@
         ]
       },
       {
-        "uuid": "f3ba6345-b680-4872-965f-53b4c84e809a",
+        "uuid": "arkansas-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Arkansas.",
         "children": [
@@ -95518,7 +95518,7 @@
         ]
       },
       {
-        "uuid": "9783e9bc-95c1-415e-a2d2-c624e2672e52",
+        "uuid": "arkansas-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Arkansas.",
         "children": [

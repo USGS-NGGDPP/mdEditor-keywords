@@ -5,7 +5,7 @@
     "definition": "Michigan is a state in the United States.",
     "children": [
       {
-        "uuid": "45909334-4b88-49c5-8515-67bca69d2100",
+        "uuid": "michigan-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Michigan.",
         "children": [
@@ -24336,7 +24336,7 @@
         ]
       },
       {
-        "uuid": "cc50dbe7-faec-4c3d-b103-fe91dc83f36d",
+        "uuid": "michigan-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Michigan.",
         "children": [
@@ -45331,7 +45331,7 @@
         ]
       },
       {
-        "uuid": "febf7694-dffa-4b23-806d-8248e270fd99",
+        "uuid": "michigan-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Michigan.",
         "children": [
@@ -47462,7 +47462,7 @@
         ]
       },
       {
-        "uuid": "17f712e3-6a0e-4beb-a31b-7df8167ab09b",
+        "uuid": "michigan-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Michigan.",
         "children": [
@@ -56667,7 +56667,7 @@
         ]
       },
       {
-        "uuid": "6a96d55e-8f4e-49cc-b283-12b358f0dab4",
+        "uuid": "michigan-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Michigan.",
         "children": [
@@ -57988,7 +57988,7 @@
         ]
       },
       {
-        "uuid": "ab75750c-23d9-40aa-9b60-95ca7f0313cf",
+        "uuid": "michigan-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Michigan.",
         "children": [
@@ -60779,7 +60779,7 @@
         ]
       },
       {
-        "uuid": "cca0548d-bfcc-4497-8a97-57a469b97604",
+        "uuid": "michigan-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Michigan.",
         "children": [
@@ -77820,7 +77820,7 @@
         ]
       },
       {
-        "uuid": "91ab44bf-c614-4c99-b48e-065d7fa2d269",
+        "uuid": "michigan-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Michigan.",
         "children": [
@@ -80377,7 +80377,7 @@
         ]
       },
       {
-        "uuid": "019d8f26-073e-448b-a8e5-10e31c3db894",
+        "uuid": "michigan-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Michigan.",
         "children": [
@@ -81608,7 +81608,7 @@
         ]
       },
       {
-        "uuid": "72f567c5-4fa2-4a0e-9bb0-9b867a3d12b8",
+        "uuid": "michigan-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Michigan.",
         "children": [
@@ -81867,7 +81867,7 @@
         ]
       },
       {
-        "uuid": "3265b683-401d-4897-98c0-ae6f02a98cc4",
+        "uuid": "michigan-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Michigan.",
         "children": [
@@ -82990,7 +82990,7 @@
         ]
       },
       {
-        "uuid": "1f8795e7-b196-4975-8d69-67b78bb61b49",
+        "uuid": "michigan-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Michigan.",
         "children": [
@@ -84467,7 +84467,7 @@
         ]
       },
       {
-        "uuid": "ce4853fb-8ae2-4a1a-9d16-5139f8de6b96",
+        "uuid": "michigan-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Michigan.",
         "children": [
@@ -85170,7 +85170,7 @@
         ]
       },
       {
-        "uuid": "b2994c0a-ec92-4d19-b5f0-c0d253d7e468",
+        "uuid": "michigan-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Michigan.",
         "children": [
@@ -85213,7 +85213,7 @@
         ]
       },
       {
-        "uuid": "73a848b5-9c07-4b94-954d-8cc635ba93b9",
+        "uuid": "michigan-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Michigan.",
         "children": [
@@ -85412,7 +85412,7 @@
         ]
       },
       {
-        "uuid": "08953df3-5183-4e91-929d-c11eeab6b502",
+        "uuid": "michigan-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Michigan.",
         "children": [
@@ -85539,7 +85539,7 @@
         ]
       },
       {
-        "uuid": "ab6929d9-14cc-48a7-8009-a0c0061aafcb",
+        "uuid": "michigan-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Michigan.",
         "children": [
@@ -85558,7 +85558,7 @@
         ]
       },
       {
-        "uuid": "136aae51-0ac6-489e-af35-0eefd0f50b99",
+        "uuid": "michigan-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Michigan.",
         "children": [
@@ -85715,7 +85715,7 @@
         ]
       },
       {
-        "uuid": "bfe46c9b-7bf1-42f3-90d8-75f1487813eb",
+        "uuid": "michigan-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Michigan.",
         "children": [
@@ -85836,7 +85836,7 @@
         ]
       },
       {
-        "uuid": "a66bbb43-f139-4295-ab7c-ca89cc00dbfe",
+        "uuid": "michigan-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Michigan.",
         "children": [
@@ -86449,7 +86449,7 @@
         ]
       },
       {
-        "uuid": "567ea1db-1f83-42aa-86cb-aa83190ad62d",
+        "uuid": "michigan-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Michigan.",
         "children": [
@@ -86564,7 +86564,7 @@
         ]
       },
       {
-        "uuid": "59ebfae6-4937-47a9-9183-c13b1585bb19",
+        "uuid": "michigan-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Michigan.",
         "children": [
@@ -86655,7 +86655,7 @@
         ]
       },
       {
-        "uuid": "e9bb1186-ef12-4e19-8b78-d1829fd3610f",
+        "uuid": "michigan-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Michigan.",
         "children": [
@@ -86686,7 +86686,7 @@
         ]
       },
       {
-        "uuid": "94c649ce-5962-4724-ad65-563087cca977",
+        "uuid": "michigan-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Michigan.",
         "children": [
@@ -86747,7 +86747,7 @@
         ]
       },
       {
-        "uuid": "4816dd4b-a41c-446e-a111-36ab8733f704",
+        "uuid": "michigan-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Michigan.",
         "children": [
@@ -86796,7 +86796,7 @@
         ]
       },
       {
-        "uuid": "4de46aa4-9135-4dbb-b571-19caea548817",
+        "uuid": "michigan-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Michigan.",
         "children": [
@@ -86845,7 +86845,7 @@
         ]
       },
       {
-        "uuid": "12b5233f-0a9a-4035-94ca-8b8eb373c8be",
+        "uuid": "michigan-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Michigan.",
         "children": [
@@ -86912,7 +86912,7 @@
         ]
       },
       {
-        "uuid": "97845fcc-6a70-443c-98a9-50ba41423a40",
+        "uuid": "michigan-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Michigan.",
         "children": [
@@ -86949,7 +86949,7 @@
         ]
       },
       {
-        "uuid": "d20a8e54-5e24-433a-86c8-dee17e9c69c7",
+        "uuid": "michigan-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Michigan.",
         "children": [
@@ -86962,7 +86962,7 @@
         ]
       },
       {
-        "uuid": "b1287ba2-04d3-49ca-80cf-995c9fdf0c53",
+        "uuid": "michigan-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Michigan.",
         "children": [
@@ -97109,7 +97109,7 @@
         ]
       },
       {
-        "uuid": "1b26e307-5606-429f-b404-61f58b1bedcc",
+        "uuid": "michigan-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Michigan.",
         "children": [
@@ -97302,7 +97302,7 @@
         ]
       },
       {
-        "uuid": "db4be668-b6d5-4360-a725-c753231c17d4",
+        "uuid": "michigan-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Michigan.",
         "children": [
@@ -97351,7 +97351,7 @@
         ]
       },
       {
-        "uuid": "f7a04677-6fff-472b-bfc4-2b6ab5bedde2",
+        "uuid": "michigan-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Michigan.",
         "children": [
@@ -97370,7 +97370,7 @@
         ]
       },
       {
-        "uuid": "1fe48d06-69b6-4bb2-bff8-024853c9c164",
+        "uuid": "michigan-lava",
         "label": "Lava",
         "definition": "Lava is a type of feature found in Michigan.",
         "children": [
@@ -97383,7 +97383,7 @@
         ]
       },
       {
-        "uuid": "f8e0ab45-3b3c-4064-ad6f-9911fce2684c",
+        "uuid": "michigan-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Michigan.",
         "children": [

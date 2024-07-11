@@ -5,7 +5,7 @@
     "definition": "Rhode Island is a state in the United States.",
     "children": [
       {
-        "uuid": "e835dc8d-f81f-4e6a-af5b-7a223ed01265",
+        "uuid": "rhode-island-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Rhode Island.",
         "children": [
@@ -1638,7 +1638,7 @@
         ]
       },
       {
-        "uuid": "94923989-688f-4de1-b233-d42e00a5410a",
+        "uuid": "rhode-island-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Rhode Island.",
         "children": [
@@ -2755,7 +2755,7 @@
         ]
       },
       {
-        "uuid": "726f8570-52e8-4c8e-8b7d-e0d69497bd66",
+        "uuid": "rhode-island-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Rhode Island.",
         "children": [
@@ -4166,7 +4166,7 @@
         ]
       },
       {
-        "uuid": "2c531ecd-0b26-4843-924c-e3f5a71ba452",
+        "uuid": "rhode-island-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Rhode Island.",
         "children": [
@@ -4503,7 +4503,7 @@
         ]
       },
       {
-        "uuid": "38376f9e-2b6f-4385-8ef0-95001db762bd",
+        "uuid": "rhode-island-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Rhode Island.",
         "children": [
@@ -7114,7 +7114,7 @@
         ]
       },
       {
-        "uuid": "e2814971-9aa1-447c-851f-debe1e3856c5",
+        "uuid": "rhode-island-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Rhode Island.",
         "children": [
@@ -8471,7 +8471,7 @@
         ]
       },
       {
-        "uuid": "bf27a837-b001-4d44-aa0c-9f5559b561db",
+        "uuid": "rhode-island-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Rhode Island.",
         "children": [
@@ -9354,7 +9354,7 @@
         ]
       },
       {
-        "uuid": "b998fcc1-0d43-4d4b-9fca-1383756aba3f",
+        "uuid": "rhode-island-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Rhode Island.",
         "children": [
@@ -10129,7 +10129,7 @@
         ]
       },
       {
-        "uuid": "01ac020f-cb39-41dd-8f8f-ca781ce98f87",
+        "uuid": "rhode-island-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Rhode Island.",
         "children": [
@@ -11474,7 +11474,7 @@
         ]
       },
       {
-        "uuid": "7a2cdfd9-37a2-4f92-961e-904429241c07",
+        "uuid": "rhode-island-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Rhode Island.",
         "children": [
@@ -11541,7 +11541,7 @@
         ]
       },
       {
-        "uuid": "54eaa8bb-3725-425b-93b6-6d659a44b98f",
+        "uuid": "rhode-island-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Rhode Island.",
         "children": [
@@ -12088,7 +12088,7 @@
         ]
       },
       {
-        "uuid": "0f46236d-220b-4b2e-8631-745fea9132f3",
+        "uuid": "rhode-island-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Rhode Island.",
         "children": [
@@ -12671,7 +12671,7 @@
         ]
       },
       {
-        "uuid": "3a956ef0-57f4-429a-9aa2-fcb7bbf43b09",
+        "uuid": "rhode-island-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Rhode Island.",
         "children": [
@@ -12720,7 +12720,7 @@
         ]
       },
       {
-        "uuid": "93e92d0e-c72b-4632-8afe-161e681ceaa1",
+        "uuid": "rhode-island-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Rhode Island.",
         "children": [
@@ -12745,7 +12745,7 @@
         ]
       },
       {
-        "uuid": "4f3e7057-eda7-4061-8c6d-ec34cbaa2859",
+        "uuid": "rhode-island-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Rhode Island.",
         "children": [
@@ -12842,7 +12842,7 @@
         ]
       },
       {
-        "uuid": "8ec223ed-f622-48d4-b08a-4a324242ca33",
+        "uuid": "rhode-island-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Rhode Island.",
         "children": [
@@ -13155,7 +13155,7 @@
         ]
       },
       {
-        "uuid": "cc290942-887e-43e2-99d7-927995818500",
+        "uuid": "rhode-island-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Rhode Island.",
         "children": [
@@ -13216,7 +13216,7 @@
         ]
       },
       {
-        "uuid": "7635c7f8-765f-49c8-b1b8-f9d2f463bf39",
+        "uuid": "rhode-island-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Rhode Island.",
         "children": [
@@ -13229,7 +13229,7 @@
         ]
       },
       {
-        "uuid": "ef64836a-888d-4fb9-9577-cd6bca4b7c99",
+        "uuid": "rhode-island-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Rhode Island.",
         "children": [
@@ -13272,7 +13272,7 @@
         ]
       },
       {
-        "uuid": "ed286687-60ff-4c2e-92bb-a9170c10d939",
+        "uuid": "rhode-island-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Rhode Island.",
         "children": [
@@ -13309,7 +13309,7 @@
         ]
       },
       {
-        "uuid": "61014bba-55aa-47b1-b6cf-3e49769fe3de",
+        "uuid": "rhode-island-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Rhode Island.",
         "children": [
@@ -13424,7 +13424,7 @@
         ]
       },
       {
-        "uuid": "26e5cdf0-ff4f-43a6-b026-3d54ca1873da",
+        "uuid": "rhode-island-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Rhode Island.",
         "children": [
@@ -13437,7 +13437,7 @@
         ]
       },
       {
-        "uuid": "635a8189-b46d-4a68-ab73-e9b84f106bbc",
+        "uuid": "rhode-island-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Rhode Island.",
         "children": [
@@ -13498,7 +13498,7 @@
         ]
       },
       {
-        "uuid": "b712cb16-f6f9-4846-9ef8-d214b13f5e24",
+        "uuid": "rhode-island-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Rhode Island.",
         "children": [
@@ -13511,7 +13511,7 @@
         ]
       },
       {
-        "uuid": "a099a8e6-a8b9-40c2-bf71-e84544cfc2b8",
+        "uuid": "rhode-island-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Rhode Island.",
         "children": [
@@ -13854,7 +13854,7 @@
         ]
       },
       {
-        "uuid": "ac8a5313-aee8-4908-8c9d-1d1eeb983329",
+        "uuid": "rhode-island-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Rhode Island.",
         "children": [
@@ -14071,7 +14071,7 @@
         ]
       },
       {
-        "uuid": "dd5c4a1c-64b5-4a2c-b809-d83ac13c22b1",
+        "uuid": "rhode-island-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Rhode Island.",
         "children": [
@@ -14300,7 +14300,7 @@
         ]
       },
       {
-        "uuid": "ebae9137-845a-4d29-a264-f3dbfb96a816",
+        "uuid": "rhode-island-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Rhode Island.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "Maine is a state in the United States.",
     "children": [
       {
-        "uuid": "91fa980d-5a63-454f-8116-133826b1d3f4",
+        "uuid": "maine-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Maine.",
         "children": [
@@ -15774,7 +15774,7 @@
         ]
       },
       {
-        "uuid": "3e1155e4-b1a7-4016-90d3-5f430c2e1f93",
+        "uuid": "maine-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Maine.",
         "children": [
@@ -23467,7 +23467,7 @@
         ]
       },
       {
-        "uuid": "322917a0-840e-4357-b9a7-dbeed861471a",
+        "uuid": "maine-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Maine.",
         "children": [
@@ -34466,7 +34466,7 @@
         ]
       },
       {
-        "uuid": "765385f9-1009-47f9-85ac-04d762241f42",
+        "uuid": "maine-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Maine.",
         "children": [
@@ -36237,7 +36237,7 @@
         ]
       },
       {
-        "uuid": "273c0edb-8ec1-4fa8-aabc-fe605ad9262e",
+        "uuid": "maine-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Maine.",
         "children": [
@@ -47884,7 +47884,7 @@
         ]
       },
       {
-        "uuid": "56d19beb-f80b-400f-939a-2096bc9cab8b",
+        "uuid": "maine-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Maine.",
         "children": [
@@ -53459,7 +53459,7 @@
         ]
       },
       {
-        "uuid": "8a0d7904-2aca-4f77-aae6-b55fb8f2320c",
+        "uuid": "maine-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Maine.",
         "children": [
@@ -66120,7 +66120,7 @@
         ]
       },
       {
-        "uuid": "12eed1a0-f4de-499b-b80a-006c8dba79cf",
+        "uuid": "maine-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Maine.",
         "children": [
@@ -66775,7 +66775,7 @@
         ]
       },
       {
-        "uuid": "26974da4-583d-4700-812f-01af7059a459",
+        "uuid": "maine-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Maine.",
         "children": [
@@ -67382,7 +67382,7 @@
         ]
       },
       {
-        "uuid": "0eb7bf86-4c93-4628-9876-31e1ab7c1e53",
+        "uuid": "maine-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Maine.",
         "children": [
@@ -70503,7 +70503,7 @@
         ]
       },
       {
-        "uuid": "3408225c-2883-42bd-a6e2-d8550fb2f52b",
+        "uuid": "maine-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Maine.",
         "children": [
@@ -72646,7 +72646,7 @@
         ]
       },
       {
-        "uuid": "4c5668cf-0771-4aa5-a258-212943381502",
+        "uuid": "maine-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Maine.",
         "children": [
@@ -77579,7 +77579,7 @@
         ]
       },
       {
-        "uuid": "484c609c-ad56-43c7-89df-632209c1fba7",
+        "uuid": "maine-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Maine.",
         "children": [
@@ -83406,7 +83406,7 @@
         ]
       },
       {
-        "uuid": "d3e62d25-a07f-4e9f-8e59-913629964128",
+        "uuid": "maine-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Maine.",
         "children": [
@@ -84061,7 +84061,7 @@
         ]
       },
       {
-        "uuid": "e0feae14-3273-453d-9334-582e619625c2",
+        "uuid": "maine-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Maine.",
         "children": [
@@ -84212,7 +84212,7 @@
         ]
       },
       {
-        "uuid": "5e86a66a-f91c-496c-8ad4-b62566258077",
+        "uuid": "maine-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Maine.",
         "children": [
@@ -84699,7 +84699,7 @@
         ]
       },
       {
-        "uuid": "5a9263d4-f2db-4de4-8a26-377076336a2c",
+        "uuid": "maine-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Maine.",
         "children": [
@@ -84820,7 +84820,7 @@
         ]
       },
       {
-        "uuid": "6c5677c5-b249-41a2-84fb-1e83928e9285",
+        "uuid": "maine-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Maine.",
         "children": [
@@ -85313,7 +85313,7 @@
         ]
       },
       {
-        "uuid": "630497fa-81e1-491a-a524-c11c20047e2c",
+        "uuid": "maine-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Maine.",
         "children": [
@@ -85356,7 +85356,7 @@
         ]
       },
       {
-        "uuid": "be3a98da-6e92-42c7-9bca-cac3f0219c5b",
+        "uuid": "maine-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Maine.",
         "children": [
@@ -85519,7 +85519,7 @@
         ]
       },
       {
-        "uuid": "41b03686-06da-40c1-bf97-aa73f8f1dc3f",
+        "uuid": "maine-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Maine.",
         "children": [
@@ -85640,7 +85640,7 @@
         ]
       },
       {
-        "uuid": "bc04bbc8-c33c-484a-b6e6-9fceda7a390b",
+        "uuid": "maine-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Maine.",
         "children": [
@@ -85755,7 +85755,7 @@
         ]
       },
       {
-        "uuid": "b1718cf8-c917-4a83-be8b-c242dfefc647",
+        "uuid": "maine-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Maine.",
         "children": [
@@ -85912,7 +85912,7 @@
         ]
       },
       {
-        "uuid": "4a76d48f-e671-4e89-bbd4-d30c4896bc7e",
+        "uuid": "maine-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Maine.",
         "children": [
@@ -85955,7 +85955,7 @@
         ]
       },
       {
-        "uuid": "18540141-eaea-4ebb-aeac-860d5228ecd7",
+        "uuid": "maine-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Maine.",
         "children": [
@@ -86046,7 +86046,7 @@
         ]
       },
       {
-        "uuid": "bb4440c3-8ad7-41b0-aa64-c00197d3f3df",
+        "uuid": "maine-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Maine.",
         "children": [
@@ -86227,7 +86227,7 @@
         ]
       },
       {
-        "uuid": "e60d2a71-444a-4438-9891-a583d59b8ae2",
+        "uuid": "maine-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Maine.",
         "children": [
@@ -86282,7 +86282,7 @@
         ]
       },
       {
-        "uuid": "702d66e4-0869-4f71-8dfc-f9560f7af325",
+        "uuid": "maine-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Maine.",
         "children": [
@@ -86367,7 +86367,7 @@
         ]
       },
       {
-        "uuid": "24ae9f3f-1e2c-45f8-b0ea-018eb00f2a6a",
+        "uuid": "maine-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Maine.",
         "children": [
@@ -86392,7 +86392,7 @@
         ]
       },
       {
-        "uuid": "b14dfe93-2c99-4bbd-a301-070915064dec",
+        "uuid": "maine-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Maine.",
         "children": [
@@ -86675,7 +86675,7 @@
         ]
       },
       {
-        "uuid": "d7a0f718-610f-4872-9fa6-e9328ce8fb63",
+        "uuid": "maine-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Maine.",
         "children": [
@@ -92598,7 +92598,7 @@
         ]
       },
       {
-        "uuid": "555c0a5c-fc31-46dd-ad12-2bd681b4f55c",
+        "uuid": "maine-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Maine.",
         "children": [
@@ -92647,7 +92647,7 @@
         ]
       },
       {
-        "uuid": "11b494c4-da80-4860-b511-eec863c55683",
+        "uuid": "maine-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Maine.",
         "children": [
@@ -92660,7 +92660,7 @@
         ]
       },
       {
-        "uuid": "902ebfb9-275f-4684-83c7-e9b06073603e",
+        "uuid": "maine-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Maine.",
         "children": [
@@ -92673,7 +92673,7 @@
         ]
       },
       {
-        "uuid": "817f088d-e488-4ccf-9b67-4f848df43c58",
+        "uuid": "maine-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Maine.",
         "children": [

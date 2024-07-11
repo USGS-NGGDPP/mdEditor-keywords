@@ -5,7 +5,7 @@
     "definition": "Quebec is a state in the United States.",
     "children": [
       {
-        "uuid": "1a78948f-c919-4daa-9171-d5b318282313",
+        "uuid": "quebec-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Quebec.",
         "children": [

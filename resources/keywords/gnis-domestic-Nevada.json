@@ -5,7 +5,7 @@
     "definition": "Nevada is a state in the United States.",
     "children": [
       {
-        "uuid": "8c1c3510-d0df-4acb-8056-4f615b9299b4",
+        "uuid": "nevada-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Nevada.",
         "children": [
@@ -10272,7 +10272,7 @@
         ]
       },
       {
-        "uuid": "bb7c313d-6488-486f-8afc-ea6978f581bc",
+        "uuid": "nevada-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Nevada.",
         "children": [
@@ -18955,7 +18955,7 @@
         ]
       },
       {
-        "uuid": "53168a55-7958-406f-b81c-3e8142b7b4e7",
+        "uuid": "nevada-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Nevada.",
         "children": [
@@ -19010,7 +19010,7 @@
         ]
       },
       {
-        "uuid": "644a0d74-097f-4c75-8d72-2f447a6f8f06",
+        "uuid": "nevada-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Nevada.",
         "children": [
@@ -22245,7 +22245,7 @@
         ]
       },
       {
-        "uuid": "b90cce9a-5083-4a8f-8924-93c90a1614c9",
+        "uuid": "nevada-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Nevada.",
         "children": [
@@ -31996,7 +31996,7 @@
         ]
       },
       {
-        "uuid": "fcf25a7d-19bd-4447-8741-361a2da23f27",
+        "uuid": "nevada-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in Nevada.",
         "children": [
@@ -32267,7 +32267,7 @@
         ]
       },
       {
-        "uuid": "fa5ea934-b60f-4a65-b4c0-fd0ae68cde95",
+        "uuid": "nevada-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Nevada.",
         "children": [
@@ -47946,7 +47946,7 @@
         ]
       },
       {
-        "uuid": "a0c65c71-0ca8-4840-a476-03fe46758f7a",
+        "uuid": "nevada-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Nevada.",
         "children": [
@@ -49543,7 +49543,7 @@
         ]
       },
       {
-        "uuid": "dfbeb0ed-714d-4051-a76e-190c1e7586ab",
+        "uuid": "nevada-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Nevada.",
         "children": [
@@ -51416,7 +51416,7 @@
         ]
       },
       {
-        "uuid": "32aeabac-d4b6-49ab-a320-62994eacd88b",
+        "uuid": "nevada-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Nevada.",
         "children": [
@@ -53565,7 +53565,7 @@
         ]
       },
       {
-        "uuid": "46cb5dc1-6de5-4861-9996-5b0ceddd0db6",
+        "uuid": "nevada-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Nevada.",
         "children": [
@@ -55696,7 +55696,7 @@
         ]
       },
       {
-        "uuid": "9004b586-bd8b-4642-a36d-f5f95043223f",
+        "uuid": "nevada-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Nevada.",
         "children": [
@@ -57053,7 +57053,7 @@
         ]
       },
       {
-        "uuid": "75ff38e9-dac7-4176-bc00-eceed24218a0",
+        "uuid": "nevada-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Nevada.",
         "children": [
@@ -58782,7 +58782,7 @@
         ]
       },
       {
-        "uuid": "1729ce99-b88c-47d8-9e92-a78ed2048b6b",
+        "uuid": "nevada-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Nevada.",
         "children": [
@@ -60151,7 +60151,7 @@
         ]
       },
       {
-        "uuid": "df239dc5-4d79-4256-9f8e-d36db9068f8f",
+        "uuid": "nevada-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Nevada.",
         "children": [
@@ -66920,7 +66920,7 @@
         ]
       },
       {
-        "uuid": "236500ac-bd23-480a-a534-85a0fd9f9b70",
+        "uuid": "nevada-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Nevada.",
         "children": [
@@ -67209,7 +67209,7 @@
         ]
       },
       {
-        "uuid": "dca3ef79-f563-412e-8506-c8349690fa14",
+        "uuid": "nevada-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Nevada.",
         "children": [
@@ -68434,7 +68434,7 @@
         ]
       },
       {
-        "uuid": "09674680-e231-49a3-a149-03ad84d304da",
+        "uuid": "nevada-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Nevada.",
         "children": [
@@ -68717,7 +68717,7 @@
         ]
       },
       {
-        "uuid": "8b367156-9ea0-4e40-a712-98558d37c9f8",
+        "uuid": "nevada-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Nevada.",
         "children": [
@@ -72360,7 +72360,7 @@
         ]
       },
       {
-        "uuid": "08ccaca9-d9d1-40cb-83c1-9fdbb6e8a6c5",
+        "uuid": "nevada-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Nevada.",
         "children": [
@@ -72439,7 +72439,7 @@
         ]
       },
       {
-        "uuid": "a415ede5-7d88-49d2-94ad-8ac0d477bc94",
+        "uuid": "nevada-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Nevada.",
         "children": [
@@ -72662,7 +72662,7 @@
         ]
       },
       {
-        "uuid": "c91bfe0f-bd46-4572-8dc6-29d69fef0d0e",
+        "uuid": "nevada-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Nevada.",
         "children": [
@@ -72939,7 +72939,7 @@
         ]
       },
       {
-        "uuid": "31f473d6-a9a1-4b84-bf65-572207ce81b5",
+        "uuid": "nevada-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Nevada.",
         "children": [
@@ -73078,7 +73078,7 @@
         ]
       },
       {
-        "uuid": "b9b5aa13-f80e-44bc-88a6-dc8f24d12b81",
+        "uuid": "nevada-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in Nevada.",
         "children": [
@@ -73157,7 +73157,7 @@
         ]
       },
       {
-        "uuid": "a29d3e56-4d57-4413-82d1-5016c4f77222",
+        "uuid": "nevada-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Nevada.",
         "children": [
@@ -73296,7 +73296,7 @@
         ]
       },
       {
-        "uuid": "d799ee94-f9e8-4fdf-8605-cd84972bb0b4",
+        "uuid": "nevada-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Nevada.",
         "children": [
@@ -73357,7 +73357,7 @@
         ]
       },
       {
-        "uuid": "c83c85c8-475b-43d4-911f-47f74003f40a",
+        "uuid": "nevada-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Nevada.",
         "children": [
@@ -73376,7 +73376,7 @@
         ]
       },
       {
-        "uuid": "753200f5-a753-4cb4-b6d7-74222332bc97",
+        "uuid": "nevada-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Nevada.",
         "children": [
@@ -73431,7 +73431,7 @@
         ]
       },
       {
-        "uuid": "43b132b8-61ee-46e4-8892-43a4f26aa387",
+        "uuid": "nevada-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Nevada.",
         "children": [
@@ -73456,7 +73456,7 @@
         ]
       },
       {
-        "uuid": "0203f24c-cab0-4b0d-b128-28e1b83fa577",
+        "uuid": "nevada-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Nevada.",
         "children": [
@@ -73529,7 +73529,7 @@
         ]
       },
       {
-        "uuid": "6e011b74-6b34-4105-a7ef-daa1dc55dddf",
+        "uuid": "nevada-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Nevada.",
         "children": [
@@ -73572,7 +73572,7 @@
         ]
       },
       {
-        "uuid": "0498c407-f4b7-4b24-a99f-9e05de97e15a",
+        "uuid": "nevada-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Nevada.",
         "children": [
@@ -73591,7 +73591,7 @@
         ]
       },
       {
-        "uuid": "9a25a186-280b-4eca-9abf-1a3026a3b11e",
+        "uuid": "nevada-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Nevada.",
         "children": [
@@ -73760,7 +73760,7 @@
         ]
       },
       {
-        "uuid": "1556ce46-2219-406e-8cbf-8cb721306130",
+        "uuid": "nevada-lava",
         "label": "Lava",
         "definition": "Lava is a type of feature found in Nevada.",
         "children": [
@@ -73773,7 +73773,7 @@
         ]
       },
       {
-        "uuid": "288b155a-a3bc-4788-8a3f-43fbef6146a8",
+        "uuid": "nevada-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Nevada.",
         "children": [
@@ -73864,7 +73864,7 @@
         ]
       },
       {
-        "uuid": "53b9ce8c-f1a6-4171-84e2-2a1da0641d6e",
+        "uuid": "nevada-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Nevada.",
         "children": [
@@ -73943,7 +73943,7 @@
         ]
       },
       {
-        "uuid": "2dea17f6-0887-4991-8476-66364fff34c4",
+        "uuid": "nevada-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Nevada.",
         "children": [
@@ -74028,7 +74028,7 @@
         ]
       },
       {
-        "uuid": "16a360b8-c438-42a8-a759-1b0614c64bdb",
+        "uuid": "nevada-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Nevada.",
         "children": [
@@ -74245,7 +74245,7 @@
         ]
       },
       {
-        "uuid": "0f51809d-61a5-4c52-9de4-1380fd0f7063",
+        "uuid": "nevada-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Nevada.",
         "children": [
@@ -74270,7 +74270,7 @@
         ]
       },
       {
-        "uuid": "df8e8703-30a0-402f-9dd5-4369e35a3738",
+        "uuid": "nevada-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Nevada.",
         "children": [

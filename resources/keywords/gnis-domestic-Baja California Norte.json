@@ -5,7 +5,7 @@
     "definition": "Baja California Norte is a state in the United States.",
     "children": [
       {
-        "uuid": "baebf60b-fe47-4e9e-98d3-2a4bde16d9fa",
+        "uuid": "baja-california-norte-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Baja California Norte.",
         "children": [

@@ -5,7 +5,7 @@
     "definition": "British Columbia is a state in the United States.",
     "children": [
       {
-        "uuid": "973ee8e8-98c9-4d89-b39a-72746d683485",
+        "uuid": "british-columbia-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in British Columbia.",
         "children": [
@@ -198,7 +198,7 @@
         ]
       },
       {
-        "uuid": "f7f0d83a-3eed-4f12-b09d-b2f2178207ec",
+        "uuid": "british-columbia-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in British Columbia.",
         "children": [
@@ -235,7 +235,7 @@
         ]
       },
       {
-        "uuid": "0738b6aa-4338-4152-a5af-be2c110192e4",
+        "uuid": "british-columbia-range",
         "label": "Range",
         "definition": "Range is a type of feature found in British Columbia.",
         "children": [

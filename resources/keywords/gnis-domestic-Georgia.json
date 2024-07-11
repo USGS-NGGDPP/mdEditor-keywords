@@ -5,7 +5,7 @@
     "definition": "Georgia is a state in the United States.",
     "children": [
       {
-        "uuid": "f98b9d12-7e08-4a10-b790-80c0ec7fa163",
+        "uuid": "georgia-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Georgia.",
         "children": [
@@ -1302,7 +1302,7 @@
         ]
       },
       {
-        "uuid": "109f569b-b9b5-441b-86ae-282e8c42bfae",
+        "uuid": "georgia-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Georgia.",
         "children": [
@@ -22453,7 +22453,7 @@
         ]
       },
       {
-        "uuid": "2e3b608a-df50-4dd9-be08-904aba4b41a5",
+        "uuid": "georgia-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Georgia.",
         "children": [
@@ -40628,7 +40628,7 @@
         ]
       },
       {
-        "uuid": "1f26d08c-3f10-457e-bb87-9cfefe37e08b",
+        "uuid": "georgia-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Georgia.",
         "children": [
@@ -41973,7 +41973,7 @@
         ]
       },
       {
-        "uuid": "c7530495-ba84-412a-bec3-62aa6c394d12",
+        "uuid": "georgia-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Georgia.",
         "children": [
@@ -44578,7 +44578,7 @@
         ]
       },
       {
-        "uuid": "2c232efd-b959-44bc-8fa6-b392cbf2d98c",
+        "uuid": "georgia-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Georgia.",
         "children": [
@@ -46985,7 +46985,7 @@
         ]
       },
       {
-        "uuid": "0c4b7911-6cee-451b-91f9-ce65c9304701",
+        "uuid": "georgia-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Georgia.",
         "children": [
@@ -47142,7 +47142,7 @@
         ]
       },
       {
-        "uuid": "d561b499-1fea-4d9d-bdb3-21ade50628e7",
+        "uuid": "georgia-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Georgia.",
         "children": [
@@ -47347,7 +47347,7 @@
         ]
       },
       {
-        "uuid": "75bb5d87-6d82-44fc-a52c-7b7f4f54356c",
+        "uuid": "georgia-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Georgia.",
         "children": [
@@ -48140,7 +48140,7 @@
         ]
       },
       {
-        "uuid": "e6830c76-c89e-4e30-8077-0f9533aa58c9",
+        "uuid": "georgia-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Georgia.",
         "children": [
@@ -48699,7 +48699,7 @@
         ]
       },
       {
-        "uuid": "fdf0159d-0a05-45b2-a418-145b2fe76a6b",
+        "uuid": "georgia-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Georgia.",
         "children": [
@@ -52810,7 +52810,7 @@
         ]
       },
       {
-        "uuid": "06955bbc-6296-4125-be64-8b74cbebc7f3",
+        "uuid": "georgia-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Georgia.",
         "children": [
@@ -55229,7 +55229,7 @@
         ]
       },
       {
-        "uuid": "e0b2d16e-3c58-48ec-a00b-a6c48bf54b18",
+        "uuid": "georgia-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Georgia.",
         "children": [
@@ -93972,7 +93972,7 @@
         ]
       },
       {
-        "uuid": "62a48e91-5b91-4c4d-a7ec-d81529a15504",
+        "uuid": "georgia-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Georgia.",
         "children": [
@@ -95095,7 +95095,7 @@
         ]
       },
       {
-        "uuid": "1c81f258-4ab0-4140-aa9c-14086fd93fbb",
+        "uuid": "georgia-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Georgia.",
         "children": [
@@ -100304,7 +100304,7 @@
         ]
       },
       {
-        "uuid": "438315bf-417f-4d1b-9895-8c5b42dafc3d",
+        "uuid": "georgia-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Georgia.",
         "children": [
@@ -100725,7 +100725,7 @@
         ]
       },
       {
-        "uuid": "b0413f4e-6e5c-4466-b1a1-6b97218c19c2",
+        "uuid": "georgia-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Georgia.",
         "children": [
@@ -102502,7 +102502,7 @@
         ]
       },
       {
-        "uuid": "50b81186-091e-48d1-a364-52831fff685f",
+        "uuid": "georgia-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Georgia.",
         "children": [
@@ -102791,7 +102791,7 @@
         ]
       },
       {
-        "uuid": "1583e104-5f86-4117-9ea3-02e80d82be97",
+        "uuid": "georgia-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Georgia.",
         "children": [
@@ -103452,7 +103452,7 @@
         ]
       },
       {
-        "uuid": "6cc943cc-e88d-4a28-9a98-e2c06bae8ba3",
+        "uuid": "georgia-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Georgia.",
         "children": [
@@ -103741,7 +103741,7 @@
         ]
       },
       {
-        "uuid": "660c2e2b-bc30-4594-ae89-053ba93bb50f",
+        "uuid": "georgia-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Georgia.",
         "children": [
@@ -103970,7 +103970,7 @@
         ]
       },
       {
-        "uuid": "932ac343-3823-4929-a371-1e8e4dbc82ce",
+        "uuid": "georgia-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Georgia.",
         "children": [
@@ -104379,7 +104379,7 @@
         ]
       },
       {
-        "uuid": "d44104e9-c850-427f-9da9-c0ee0a9dacbd",
+        "uuid": "georgia-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Georgia.",
         "children": [
@@ -104398,7 +104398,7 @@
         ]
       },
       {
-        "uuid": "6a9a5dcb-c673-4d80-a82f-32293ff69894",
+        "uuid": "georgia-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Georgia.",
         "children": [
@@ -104447,7 +104447,7 @@
         ]
       },
       {
-        "uuid": "9e48b4ed-5b20-41a4-984d-564e6ee7834d",
+        "uuid": "georgia-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Georgia.",
         "children": [
@@ -104496,7 +104496,7 @@
         ]
       },
       {
-        "uuid": "169fdcff-cbb5-4fc8-844f-1d6267c8e4e3",
+        "uuid": "georgia-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Georgia.",
         "children": [
@@ -104665,7 +104665,7 @@
         ]
       },
       {
-        "uuid": "0de94503-92ed-4c5d-b4e4-0eea00b52b00",
+        "uuid": "georgia-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Georgia.",
         "children": [
@@ -104756,7 +104756,7 @@
         ]
       },
       {
-        "uuid": "5bed7955-48b6-4ab7-b668-48737073e624",
+        "uuid": "georgia-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Georgia.",
         "children": [
@@ -104787,7 +104787,7 @@
         ]
       },
       {
-        "uuid": "e7096bd2-1eb6-4fef-8659-93e72abc7f43",
+        "uuid": "georgia-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Georgia.",
         "children": [
@@ -104842,7 +104842,7 @@
         ]
       },
       {
-        "uuid": "ebfa7361-678a-4f8d-8875-d2d3f2ba0287",
+        "uuid": "georgia-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Georgia.",
         "children": [
@@ -104951,7 +104951,7 @@
         ]
       },
       {
-        "uuid": "c768e68c-8cb8-4245-b8ac-99bf353d705d",
+        "uuid": "georgia-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Georgia.",
         "children": [
@@ -112734,7 +112734,7 @@
         ]
       },
       {
-        "uuid": "cc740127-8a5e-4f98-987d-90a8270742ff",
+        "uuid": "georgia-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Georgia.",
         "children": [
@@ -112759,7 +112759,7 @@
         ]
       },
       {
-        "uuid": "735dbc9f-51bb-4596-b8a7-592dd4dc1f1c",
+        "uuid": "georgia-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Georgia.",
         "children": [
@@ -112772,7 +112772,7 @@
         ]
       },
       {
-        "uuid": "08564de0-894e-4b2a-a5e9-52f893c512d8",
+        "uuid": "georgia-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Georgia.",
         "children": [
@@ -113253,7 +113253,7 @@
         ]
       },
       {
-        "uuid": "03685167-9a39-4f26-93f7-bcaf66cf76a3",
+        "uuid": "georgia-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Georgia.",
         "children": [

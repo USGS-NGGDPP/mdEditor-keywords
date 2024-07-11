@@ -5,7 +5,7 @@
     "definition": "Iowa is a state in the United States.",
     "children": [
       {
-        "uuid": "85c4be47-621f-417f-89cb-ceddaf713009",
+        "uuid": "iowa-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Iowa.",
         "children": [
@@ -1080,7 +1080,7 @@
         ]
       },
       {
-        "uuid": "dafa93e3-ae41-4524-9187-aceeedfdb8d4",
+        "uuid": "iowa-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Iowa.",
         "children": [
@@ -8953,7 +8953,7 @@
         ]
       },
       {
-        "uuid": "18e66f22-a1c8-4892-86b4-ac0412e3109c",
+        "uuid": "iowa-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Iowa.",
         "children": [
@@ -22712,7 +22712,7 @@
         ]
       },
       {
-        "uuid": "a7f3863f-4f4b-47ff-9ccb-0b248d8032b9",
+        "uuid": "iowa-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Iowa.",
         "children": [
@@ -22947,7 +22947,7 @@
         ]
       },
       {
-        "uuid": "d2ea842e-b116-45ee-9d67-3d0981b96514",
+        "uuid": "iowa-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Iowa.",
         "children": [
@@ -23566,7 +23566,7 @@
         ]
       },
       {
-        "uuid": "77bd8459-e5e9-4cca-8575-7c0e0f813291",
+        "uuid": "iowa-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Iowa.",
         "children": [
@@ -23975,7 +23975,7 @@
         ]
       },
       {
-        "uuid": "b77a2a76-8522-444c-80a9-b56902547edd",
+        "uuid": "iowa-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Iowa.",
         "children": [
@@ -25908,7 +25908,7 @@
         ]
       },
       {
-        "uuid": "4ecfe5dc-bd50-445a-9785-d7ad4973ef8e",
+        "uuid": "iowa-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Iowa.",
         "children": [
@@ -26029,7 +26029,7 @@
         ]
       },
       {
-        "uuid": "b9d7ddd8-1293-48cf-b051-84f2f2003b82",
+        "uuid": "iowa-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Iowa.",
         "children": [
@@ -26276,7 +26276,7 @@
         ]
       },
       {
-        "uuid": "8f1bc215-07da-410e-a212-effc2acf4177",
+        "uuid": "iowa-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Iowa.",
         "children": [
@@ -26373,7 +26373,7 @@
         ]
       },
       {
-        "uuid": "cd6c3739-0b70-4da0-a116-f5c31b3f73f6",
+        "uuid": "iowa-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Iowa.",
         "children": [
@@ -26440,7 +26440,7 @@
         ]
       },
       {
-        "uuid": "4df82f3f-c2b5-4aa6-8d43-27038d77e448",
+        "uuid": "iowa-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Iowa.",
         "children": [
@@ -26597,7 +26597,7 @@
         ]
       },
       {
-        "uuid": "76d05266-87be-4ccd-811a-7adbbe734a5a",
+        "uuid": "iowa-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Iowa.",
         "children": [
@@ -26676,7 +26676,7 @@
         ]
       },
       {
-        "uuid": "0c5ee4cc-c14e-4a8a-aaf7-07f6db1b3ddb",
+        "uuid": "iowa-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Iowa.",
         "children": [
@@ -26827,7 +26827,7 @@
         ]
       },
       {
-        "uuid": "0eb85423-54b6-47af-b3f1-b897b7ba5030",
+        "uuid": "iowa-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Iowa.",
         "children": [
@@ -28316,7 +28316,7 @@
         ]
       },
       {
-        "uuid": "67ef8553-8911-4ac2-b6f4-94ffb3e27983",
+        "uuid": "iowa-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Iowa.",
         "children": [
@@ -28407,7 +28407,7 @@
         ]
       },
       {
-        "uuid": "6679d400-defe-4ee5-a71e-25482096f7d0",
+        "uuid": "iowa-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Iowa.",
         "children": [
@@ -28420,7 +28420,7 @@
         ]
       },
       {
-        "uuid": "a35ae30e-dbbf-4d3a-b99a-becc4b3ea339",
+        "uuid": "iowa-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Iowa.",
         "children": [
@@ -28541,7 +28541,7 @@
         ]
       },
       {
-        "uuid": "f96440c8-666f-4302-a1d3-ed880b1b3d62",
+        "uuid": "iowa-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Iowa.",
         "children": [
@@ -28824,7 +28824,7 @@
         ]
       },
       {
-        "uuid": "a1e82261-e6ca-4002-99c9-3a5629137308",
+        "uuid": "iowa-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Iowa.",
         "children": [
@@ -28939,7 +28939,7 @@
         ]
       },
       {
-        "uuid": "5c7275d2-4955-4912-8fae-bc4215c8a2cc",
+        "uuid": "iowa-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Iowa.",
         "children": [
@@ -28958,7 +28958,7 @@
         ]
       },
       {
-        "uuid": "9af5b7af-1b25-42d2-9c88-6bb27100978e",
+        "uuid": "iowa-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Iowa.",
         "children": [
@@ -28989,7 +28989,7 @@
         ]
       },
       {
-        "uuid": "29e3018c-154e-4f03-b446-05e2708e49a3",
+        "uuid": "iowa-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Iowa.",
         "children": [
@@ -29008,7 +29008,7 @@
         ]
       },
       {
-        "uuid": "9977d792-febc-45d3-8773-2e191ee1a991",
+        "uuid": "iowa-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Iowa.",
         "children": [
@@ -29063,7 +29063,7 @@
         ]
       },
       {
-        "uuid": "2f99c0fc-d105-43e5-9c8c-1839929c551d",
+        "uuid": "iowa-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Iowa.",
         "children": [
@@ -40086,7 +40086,7 @@
         ]
       },
       {
-        "uuid": "6bea8196-33e3-461e-a55c-62828a1f6e4f",
+        "uuid": "iowa-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Iowa.",
         "children": [
@@ -40171,7 +40171,7 @@
         ]
       },
       {
-        "uuid": "a11f3671-670f-4888-8616-fc41c8abb3ba",
+        "uuid": "iowa-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Iowa.",
         "children": [
@@ -40184,7 +40184,7 @@
         ]
       },
       {
-        "uuid": "8c25f63d-1d17-49d3-b4ba-73bfaed1d491",
+        "uuid": "iowa-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Iowa.",
         "children": [
@@ -40197,7 +40197,7 @@
         ]
       },
       {
-        "uuid": "052dae10-b0ec-4b4b-b23c-9359d16a104b",
+        "uuid": "iowa-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Iowa.",
         "children": [
@@ -40216,7 +40216,7 @@
         ]
       },
       {
-        "uuid": "c532061c-4c88-4382-83b3-8ccb3f1b9aaf",
+        "uuid": "iowa-levee",
         "label": "Levee",
         "definition": "Levee is a type of feature found in Iowa.",
         "children": [
@@ -40229,7 +40229,7 @@
         ]
       },
       {
-        "uuid": "63e107ed-b5c3-4fcc-8502-4a57715e0e5d",
+        "uuid": "iowa-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Iowa.",
         "children": [

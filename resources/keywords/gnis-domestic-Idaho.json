@@ -5,7 +5,7 @@
     "definition": "Idaho is a state in the United States.",
     "children": [
       {
-        "uuid": "674809d8-2a36-446a-ba63-0107c18f802b",
+        "uuid": "idaho-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Idaho.",
         "children": [
@@ -29592,7 +29592,7 @@
         ]
       },
       {
-        "uuid": "83f523eb-77f2-4107-9e7d-a636c6a03667",
+        "uuid": "idaho-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Idaho.",
         "children": [
@@ -39175,7 +39175,7 @@
         ]
       },
       {
-        "uuid": "b94d30a4-d813-4c36-b0c6-bf113c3c7f07",
+        "uuid": "idaho-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Idaho.",
         "children": [
@@ -51710,7 +51710,7 @@
         ]
       },
       {
-        "uuid": "8c614db6-8e24-45da-bed2-183da13b1aad",
+        "uuid": "idaho-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Idaho.",
         "children": [
@@ -64461,7 +64461,7 @@
         ]
       },
       {
-        "uuid": "1eec619a-8c5d-44cd-8138-23a01e5df4f7",
+        "uuid": "idaho-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Idaho.",
         "children": [
@@ -67222,7 +67222,7 @@
         ]
       },
       {
-        "uuid": "184bd3f6-85a7-40d0-bba7-75aee8b2d705",
+        "uuid": "idaho-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Idaho.",
         "children": [
@@ -75011,7 +75011,7 @@
         ]
       },
       {
-        "uuid": "1d2d19af-1183-43db-87b7-cba6325473e0",
+        "uuid": "idaho-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Idaho.",
         "children": [
@@ -78096,7 +78096,7 @@
         ]
       },
       {
-        "uuid": "47adf466-a6ba-4533-a02b-8c5acba47daa",
+        "uuid": "idaho-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Idaho.",
         "children": [
@@ -78721,7 +78721,7 @@
         ]
       },
       {
-        "uuid": "b72e8d83-bc14-48b5-9096-626cd751621f",
+        "uuid": "idaho-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Idaho.",
         "children": [
@@ -78830,7 +78830,7 @@
         ]
       },
       {
-        "uuid": "49e9683e-be1b-4d30-8ec9-8e66abdc6b95",
+        "uuid": "idaho-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Idaho.",
         "children": [
@@ -80283,7 +80283,7 @@
         ]
       },
       {
-        "uuid": "30f1e8e9-335c-4322-bd8b-3437cea8aa36",
+        "uuid": "idaho-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Idaho.",
         "children": [
@@ -84142,7 +84142,7 @@
         ]
       },
       {
-        "uuid": "e30a8183-3630-4c8e-995b-18dd1fafa78f",
+        "uuid": "idaho-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Idaho.",
         "children": [
@@ -90365,7 +90365,7 @@
         ]
       },
       {
-        "uuid": "89235a5f-8961-43ee-8df0-5132291afb2e",
+        "uuid": "idaho-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Idaho.",
         "children": [
@@ -90726,7 +90726,7 @@
         ]
       },
       {
-        "uuid": "431e3e6e-bb9a-4144-ae9a-7cf8f2ca1b22",
+        "uuid": "idaho-pillar",
         "label": "Pillar",
         "definition": "Pillar is a type of feature found in Idaho.",
         "children": [
@@ -91171,7 +91171,7 @@
         ]
       },
       {
-        "uuid": "6c7c537b-808b-4072-9807-9a7a1a71d0c1",
+        "uuid": "idaho-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Idaho.",
         "children": [
@@ -91922,7 +91922,7 @@
         ]
       },
       {
-        "uuid": "2902be66-0f8d-4810-93ad-b34b23a36cb5",
+        "uuid": "idaho-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Idaho.",
         "children": [
@@ -94173,7 +94173,7 @@
         ]
       },
       {
-        "uuid": "351b6a69-247a-4155-8f5c-d14403402784",
+        "uuid": "idaho-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Idaho.",
         "children": [
@@ -94786,7 +94786,7 @@
         ]
       },
       {
-        "uuid": "161b6d1e-e129-4b69-94e8-c78e4331c62f",
+        "uuid": "idaho-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Idaho.",
         "children": [
@@ -95027,7 +95027,7 @@
         ]
       },
       {
-        "uuid": "55add6f0-aa9c-4447-8cd7-1ebec8a7e7e2",
+        "uuid": "idaho-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Idaho.",
         "children": [
@@ -102804,7 +102804,7 @@
         ]
       },
       {
-        "uuid": "767ac32b-aff4-4791-92ef-d40005bca397",
+        "uuid": "idaho-lava",
         "label": "Lava",
         "definition": "Lava is a type of feature found in Idaho.",
         "children": [
@@ -102949,7 +102949,7 @@
         ]
       },
       {
-        "uuid": "d8097913-940c-4580-853c-ee98ddf62ee6",
+        "uuid": "idaho-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Idaho.",
         "children": [
@@ -103562,7 +103562,7 @@
         ]
       },
       {
-        "uuid": "98712e8e-30af-44cb-aac1-88e3e3b71b19",
+        "uuid": "idaho-bench",
         "label": "Bench",
         "definition": "Bench is a type of feature found in Idaho.",
         "children": [
@@ -103629,7 +103629,7 @@
         ]
       },
       {
-        "uuid": "5f50d843-1574-4c08-8990-d8b9ce01e0d2",
+        "uuid": "idaho-bend",
         "label": "Bend",
         "definition": "Bend is a type of feature found in Idaho.",
         "children": [
@@ -103810,7 +103810,7 @@
         ]
       },
       {
-        "uuid": "fab53a3b-1eb7-4a4d-97e4-1dacb5e4fb51",
+        "uuid": "idaho-rapids",
         "label": "Rapids",
         "definition": "Rapids is a type of feature found in Idaho.",
         "children": [
@@ -104477,7 +104477,7 @@
         ]
       },
       {
-        "uuid": "7932bcc3-88d9-4cea-a70f-fa7989d6ae43",
+        "uuid": "idaho-crater",
         "label": "Crater",
         "definition": "Crater is a type of feature found in Idaho.",
         "children": [
@@ -104616,7 +104616,7 @@
         ]
       },
       {
-        "uuid": "d38f2ccf-4c47-4179-afff-367d9425db5e",
+        "uuid": "idaho-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Idaho.",
         "children": [
@@ -105181,7 +105181,7 @@
         ]
       },
       {
-        "uuid": "ad8e09b8-b644-4e5f-8076-80ba1594ceb3",
+        "uuid": "idaho-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Idaho.",
         "children": [
@@ -105824,7 +105824,7 @@
         ]
       },
       {
-        "uuid": "e5d51cb0-7a0c-4249-bdb9-5d746238de4e",
+        "uuid": "idaho-arch",
         "label": "Arch",
         "definition": "Arch is a type of feature found in Idaho.",
         "children": [
@@ -105861,7 +105861,7 @@
         ]
       },
       {
-        "uuid": "435ec0e7-9e1a-40fc-8c17-79295fe449ef",
+        "uuid": "idaho-slope",
         "label": "Slope",
         "definition": "Slope is a type of feature found in Idaho.",
         "children": [
@@ -105928,7 +105928,7 @@
         ]
       },
       {
-        "uuid": "d8315aca-38b3-4e3b-8b6e-782670e4e039",
+        "uuid": "idaho-crossing",
         "label": "Crossing",
         "definition": "Crossing is a type of feature found in Idaho.",
         "children": [
@@ -106277,7 +106277,7 @@
         ]
       },
       {
-        "uuid": "b73264d3-252e-4fc5-9356-dc0d8fe47c4b",
+        "uuid": "idaho-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Idaho.",
         "children": [
@@ -106404,7 +106404,7 @@
         ]
       },
       {
-        "uuid": "c7c02f73-0ebf-4a56-8234-07e1756ebc03",
+        "uuid": "idaho-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Idaho.",
         "children": [
@@ -106441,7 +106441,7 @@
         ]
       },
       {
-        "uuid": "a6bcfd13-cbb5-494f-af47-b371d301e796",
+        "uuid": "idaho-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Idaho.",
         "children": [
@@ -106490,7 +106490,7 @@
         ]
       },
       {
-        "uuid": "5301fdba-2bec-42f2-8592-b0aba9668fb1",
+        "uuid": "idaho-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Idaho.",
         "children": [
@@ -106539,7 +106539,7 @@
         ]
       },
       {
-        "uuid": "c665bd55-509f-41ec-b822-24cfc3425069",
+        "uuid": "idaho-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Idaho.",
         "children": [
@@ -109054,7 +109054,7 @@
         ]
       },
       {
-        "uuid": "788d93aa-a127-428f-8608-6b47f2e8119c",
+        "uuid": "idaho-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Idaho.",
         "children": [
@@ -109103,7 +109103,7 @@
         ]
       },
       {
-        "uuid": "c8749aaf-c4e3-4ffc-9ed8-e458855ec59f",
+        "uuid": "idaho-arroyo",
         "label": "Arroyo",
         "definition": "Arroyo is a type of feature found in Idaho.",
         "children": [
@@ -109116,7 +109116,7 @@
         ]
       },
       {
-        "uuid": "9e85041f-8e32-456d-ab3a-11984252fef1",
+        "uuid": "idaho-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Idaho.",
         "children": [
@@ -109177,7 +109177,7 @@
         ]
       },
       {
-        "uuid": "be3dd47a-2597-484c-b8f6-bd7a47403cff",
+        "uuid": "idaho-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Idaho.",
         "children": [
@@ -109400,7 +109400,7 @@
         ]
       },
       {
-        "uuid": "84c74068-42cd-4c5a-aeab-700a7541fd20",
+        "uuid": "idaho-glacier",
         "label": "Glacier",
         "definition": "Glacier is a type of feature found in Idaho.",
         "children": [

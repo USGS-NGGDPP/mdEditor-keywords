@@ -5,7 +5,7 @@
     "definition": "Puerto Rico is a state in the United States.",
     "children": [
       {
-        "uuid": "53266195-1229-4816-8f25-813e798ad970",
+        "uuid": "puerto-rico-summit",
         "label": "Summit",
         "definition": "Summit is a type of feature found in Puerto Rico.",
         "children": [
@@ -1686,7 +1686,7 @@
         ]
       },
       {
-        "uuid": "477f6c9c-73b5-4709-9877-6214d19530d6",
+        "uuid": "puerto-rico-canal",
         "label": "Canal",
         "definition": "Canal is a type of feature found in Puerto Rico.",
         "children": [
@@ -1915,7 +1915,7 @@
         ]
       },
       {
-        "uuid": "77dce8c2-5ed1-43c2-9e97-0d1c9d1c2eaa",
+        "uuid": "puerto-rico-valley",
         "label": "Valley",
         "definition": "Valley is a type of feature found in Puerto Rico.",
         "children": [
@@ -4706,7 +4706,7 @@
         ]
       },
       {
-        "uuid": "7ec41b5a-7a0a-463d-af12-63d66d6b16bf",
+        "uuid": "puerto-rico-area",
         "label": "Area",
         "definition": "Area is a type of feature found in Puerto Rico.",
         "children": [
@@ -4755,7 +4755,7 @@
         ]
       },
       {
-        "uuid": "977a4889-0573-47e4-9bb5-acdc898bf70b",
+        "uuid": "puerto-rico-stream",
         "label": "Stream",
         "definition": "Stream is a type of feature found in Puerto Rico.",
         "children": [
@@ -6022,7 +6022,7 @@
         ]
       },
       {
-        "uuid": "038e8662-2f6a-45ac-815f-038a26fa2fa6",
+        "uuid": "puerto-rico-populated-place",
         "label": "Populated Place",
         "definition": "Populated Place is a type of feature found in Puerto Rico.",
         "children": [
@@ -19745,7 +19745,7 @@
         ]
       },
       {
-        "uuid": "47f097ef-91ce-47a9-a841-a2fd96378e35",
+        "uuid": "puerto-rico-island",
         "label": "Island",
         "definition": "Island is a type of feature found in Puerto Rico.",
         "children": [
@@ -20610,7 +20610,7 @@
         ]
       },
       {
-        "uuid": "f2cafe1b-3032-4168-ae07-8098d7c3cd3c",
+        "uuid": "puerto-rico-reservoir",
         "label": "Reservoir",
         "definition": "Reservoir is a type of feature found in Puerto Rico.",
         "children": [
@@ -20839,7 +20839,7 @@
         ]
       },
       {
-        "uuid": "7f2e9a6e-9e44-4434-a347-42e19e1fa007",
+        "uuid": "puerto-rico-range",
         "label": "Range",
         "definition": "Range is a type of feature found in Puerto Rico.",
         "children": [
@@ -20966,7 +20966,7 @@
         ]
       },
       {
-        "uuid": "4fdfca74-1923-4217-bbb6-5e4ab6621605",
+        "uuid": "puerto-rico-bay",
         "label": "Bay",
         "definition": "Bay is a type of feature found in Puerto Rico.",
         "children": [
@@ -21567,7 +21567,7 @@
         ]
       },
       {
-        "uuid": "d27965ba-52ef-4ce9-8428-79d3e86ece9e",
+        "uuid": "puerto-rico-bar",
         "label": "Bar",
         "definition": "Bar is a type of feature found in Puerto Rico.",
         "children": [
@@ -21982,7 +21982,7 @@
         ]
       },
       {
-        "uuid": "b8096301-ae0d-4b21-b95f-80a8d56de632",
+        "uuid": "puerto-rico-beach",
         "label": "Beach",
         "definition": "Beach is a type of feature found in Puerto Rico.",
         "children": [
@@ -22571,7 +22571,7 @@
         ]
       },
       {
-        "uuid": "e8807609-ce39-4e2f-a8c8-ad2caa0ca80d",
+        "uuid": "puerto-rico-gut",
         "label": "Gut",
         "definition": "Gut is a type of feature found in Puerto Rico.",
         "children": [
@@ -22614,7 +22614,7 @@
         ]
       },
       {
-        "uuid": "0d592105-89d9-4e58-9f14-b3a62273ba0b",
+        "uuid": "puerto-rico-lake",
         "label": "Lake",
         "definition": "Lake is a type of feature found in Puerto Rico.",
         "children": [
@@ -22915,7 +22915,7 @@
         ]
       },
       {
-        "uuid": "d4bc6f76-0339-461c-9b8c-95cf06ac5e7a",
+        "uuid": "puerto-rico-channel",
         "label": "Channel",
         "definition": "Channel is a type of feature found in Puerto Rico.",
         "children": [
@@ -23120,7 +23120,7 @@
         ]
       },
       {
-        "uuid": "68e76ed5-408c-440e-a5b4-be58cf0eab78",
+        "uuid": "puerto-rico-cape",
         "label": "Cape",
         "definition": "Cape is a type of feature found in Puerto Rico.",
         "children": [
@@ -24207,7 +24207,7 @@
         ]
       },
       {
-        "uuid": "714ff0e1-1e95-4688-a491-0cebfb1c9480",
+        "uuid": "puerto-rico-ridge",
         "label": "Ridge",
         "definition": "Ridge is a type of feature found in Puerto Rico.",
         "children": [
@@ -24328,7 +24328,7 @@
         ]
       },
       {
-        "uuid": "f768f8f4-8261-41fc-a31e-307fed869edf",
+        "uuid": "puerto-rico-basin",
         "label": "Basin",
         "definition": "Basin is a type of feature found in Puerto Rico.",
         "children": [
@@ -24377,7 +24377,7 @@
         ]
       },
       {
-        "uuid": "4792c7d2-a620-4c91-a073-bf603b924163",
+        "uuid": "puerto-rico-swamp",
         "label": "Swamp",
         "definition": "Swamp is a type of feature found in Puerto Rico.",
         "children": [
@@ -24438,7 +24438,7 @@
         ]
       },
       {
-        "uuid": "3ab9b407-01a8-435f-9e82-089554b911fa",
+        "uuid": "puerto-rico-military",
         "label": "Military",
         "definition": "Military is a type of feature found in Puerto Rico.",
         "children": [
@@ -24697,7 +24697,7 @@
         ]
       },
       {
-        "uuid": "76c40585-15c5-492b-ae3f-22b929b1da63",
+        "uuid": "puerto-rico-falls",
         "label": "Falls",
         "definition": "Falls is a type of feature found in Puerto Rico.",
         "children": [
@@ -24734,7 +24734,7 @@
         ]
       },
       {
-        "uuid": "e948e9e6-3bd0-44fd-8cea-c3b43c06828c",
+        "uuid": "puerto-rico-spring",
         "label": "Spring",
         "definition": "Spring is a type of feature found in Puerto Rico.",
         "children": [
@@ -24753,7 +24753,7 @@
         ]
       },
       {
-        "uuid": "17696d89-5a32-4950-92f2-38c11d0a6c16",
+        "uuid": "puerto-rico-gap",
         "label": "Gap",
         "definition": "Gap is a type of feature found in Puerto Rico.",
         "children": [
@@ -24778,7 +24778,7 @@
         ]
       },
       {
-        "uuid": "291ded40-1f50-438f-b24a-56457d779fa4",
+        "uuid": "puerto-rico-flat",
         "label": "Flat",
         "definition": "Flat is a type of feature found in Puerto Rico.",
         "children": [
@@ -24809,7 +24809,7 @@
         ]
       },
       {
-        "uuid": "f27796ef-2142-4610-8a22-5395353131ea",
+        "uuid": "puerto-rico-sea",
         "label": "Sea",
         "definition": "Sea is a type of feature found in Puerto Rico.",
         "children": [
@@ -24822,7 +24822,7 @@
         ]
       },
       {
-        "uuid": "c2183a4b-b7aa-422d-86d4-0a653bb15ce2",
+        "uuid": "puerto-rico-cliff",
         "label": "Cliff",
         "definition": "Cliff is a type of feature found in Puerto Rico.",
         "children": [
@@ -24835,7 +24835,7 @@
         ]
       },
       {
-        "uuid": "f05375b5-9c1a-4e4c-b17f-791da562027f",
+        "uuid": "puerto-rico-plain",
         "label": "Plain",
         "definition": "Plain is a type of feature found in Puerto Rico.",
         "children": [
@@ -24848,7 +24848,7 @@
         ]
       },
       {
-        "uuid": "827e7265-740a-496e-81a0-d0c9035dc132",
+        "uuid": "puerto-rico-civil",
         "label": "Civil",
         "definition": "Civil is a type of feature found in Puerto Rico.",
         "children": [
@@ -30783,7 +30783,7 @@
         ]
       },
       {
-        "uuid": "6feb9686-ee24-4779-a663-1d9e897bcb8a",
+        "uuid": "puerto-rico-census",
         "label": "Census",
         "definition": "Census is a type of feature found in Puerto Rico.",
         "children": [
@@ -30820,7 +30820,7 @@
         ]
       },
       {
-        "uuid": "de54a913-9463-4787-a201-c25d6e075152",
+        "uuid": "puerto-rico-woods",
         "label": "Woods",
         "definition": "Woods is a type of feature found in Puerto Rico.",
         "children": [
