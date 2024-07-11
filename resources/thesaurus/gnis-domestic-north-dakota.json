@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-New Jersey"
+        "identifier": "gnis-domestic-names-North Dakota"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - New Jersey - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-New Jersey.json"
+  "label": "GNIS - Domestic Names - North Dakota - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-north-dakota.json"
 }

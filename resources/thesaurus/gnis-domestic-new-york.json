@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-South Dakota"
+        "identifier": "gnis-domestic-names-New York"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - South Dakota - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-South Dakota.json"
+  "label": "GNIS - Domestic Names - New York - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-new-york.json"
 }

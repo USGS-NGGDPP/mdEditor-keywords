@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-South Carolina"
+        "identifier": "gnis-domestic-names-District of Columbia"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - South Carolina - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-South Carolina.json"
+  "label": "GNIS - Domestic Names - District of Columbia - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-district-of-columbia.json"
 }

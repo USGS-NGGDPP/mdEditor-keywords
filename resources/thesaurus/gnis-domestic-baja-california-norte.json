@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-New Brunswick"
+        "identifier": "gnis-domestic-names-Baja California Norte"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - New Brunswick - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-New Brunswick.json"
+  "label": "GNIS - Domestic Names - Baja California Norte - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-baja-california-norte.json"
 }

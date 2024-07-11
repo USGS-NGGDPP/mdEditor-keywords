@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-Baja California Norte"
+        "identifier": "gnis-domestic-names-North Carolina"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - Baja California Norte - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-Baja California Norte.json"
+  "label": "GNIS - Domestic Names - North Carolina - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-north-carolina.json"
 }

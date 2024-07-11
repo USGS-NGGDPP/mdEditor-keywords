@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-North Carolina"
+        "identifier": "gnis-domestic-names-South Carolina"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - North Carolina - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-North Carolina.json"
+  "label": "GNIS - Domestic Names - South Carolina - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-south-carolina.json"
 }

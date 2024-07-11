@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-American Samoa"
+        "identifier": "gnis-domestic-names-South Dakota"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - American Samoa - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-American Samoa.json"
+  "label": "GNIS - Domestic Names - South Dakota - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-south-dakota.json"
 }

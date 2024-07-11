@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-North Dakota"
+        "identifier": "gnis-domestic-names-Commonwealth of the Northern Mariana Islands"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - North Dakota - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-North Dakota.json"
+  "label": "GNIS - Domestic Names - Commonwealth of the Northern Mariana Islands - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-commonwealth-of-the-northern-mariana-islands.json"
 }

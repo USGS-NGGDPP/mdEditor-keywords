@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-U.S. Minor Outlying Islands"
+        "identifier": "gnis-domestic-names-New Jersey"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - U.S. Minor Outlying Islands - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-U.S. Minor Outlying Islands.json"
+  "label": "GNIS - Domestic Names - New Jersey - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-new-jersey.json"
 }

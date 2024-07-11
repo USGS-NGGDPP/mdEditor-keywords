@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-New York"
+        "identifier": "gnis-domestic-names-New Brunswick"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - New York - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-New York.json"
+  "label": "GNIS - Domestic Names - New Brunswick - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-new-brunswick.json"
 }

@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-West Virginia"
+        "identifier": "gnis-domestic-names-New Hampshire"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - West Virginia - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-West Virginia.json"
+  "label": "GNIS - Domestic Names - New Hampshire - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-new-hampshire.json"
 }

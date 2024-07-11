@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-Puerto Rico"
+        "identifier": "gnis-domestic-names-West Virginia"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - Puerto Rico - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-Puerto Rico.json"
+  "label": "GNIS - Domestic Names - West Virginia - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-west-virginia.json"
 }

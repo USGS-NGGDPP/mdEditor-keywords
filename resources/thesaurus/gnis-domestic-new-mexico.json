@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-United States Virgin Islands"
+        "identifier": "gnis-domestic-names-New Mexico"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - United States Virgin Islands - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-United States Virgin Islands.json"
+  "label": "GNIS - Domestic Names - New Mexico - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-new-mexico.json"
 }

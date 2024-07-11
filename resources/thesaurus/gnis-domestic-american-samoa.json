@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-British Columbia"
+        "identifier": "gnis-domestic-names-American Samoa"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - British Columbia - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-British Columbia.json"
+  "label": "GNIS - Domestic Names - American Samoa - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-american-samoa.json"
 }

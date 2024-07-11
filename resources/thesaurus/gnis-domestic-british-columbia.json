@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-District of Columbia"
+        "identifier": "gnis-domestic-names-British Columbia"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - District of Columbia - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-District of Columbia.json"
+  "label": "GNIS - Domestic Names - British Columbia - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-british-columbia.json"
 }

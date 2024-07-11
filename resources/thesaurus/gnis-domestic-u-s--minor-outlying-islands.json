@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-New Mexico"
+        "identifier": "gnis-domestic-names-U.S. Minor Outlying Islands"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - New Mexico - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-New Mexico.json"
+  "label": "GNIS - Domestic Names - U.S. Minor Outlying Islands - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-u-s--minor-outlying-islands.json"
 }

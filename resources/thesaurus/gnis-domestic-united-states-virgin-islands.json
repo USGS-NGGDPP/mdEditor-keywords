@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-Commonwealth of the Northern Mariana Islands"
+        "identifier": "gnis-domestic-names-United States Virgin Islands"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - Commonwealth of the Northern Mariana Islands - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-Commonwealth of the Northern Mariana Islands.json"
+  "label": "GNIS - Domestic Names - United States Virgin Islands - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-united-states-virgin-islands.json"
 }

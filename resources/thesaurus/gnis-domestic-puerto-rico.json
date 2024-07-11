@@ -16,10 +16,10 @@
     ],
     "identifier": [
       {
-        "identifier": "gnis-domestic-names-New Hampshire"
+        "identifier": "gnis-domestic-names-Puerto Rico"
       }
     ]
   },
-  "label": "GNIS - Domestic Names - New Hampshire - Thesaurus",
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-New Hampshire.json"
+  "label": "GNIS - Domestic Names - Puerto Rico - Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/gnis-domestic-puerto-rico.json"
 }

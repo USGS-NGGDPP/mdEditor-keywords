@@ -26,4 +26,19 @@ fs.writeFileSync(
   JSON.stringify(manifest, null, 2)
 );
 
+const devUrl =
+  'https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/';
+const devManifest = thesaurusFiles.map(file => {
+  const thesaurus = require(path.join(thesaurusDir, file));
+  return {
+    name: thesaurus.label,
+    url: `${devUrl}${file}`
+  };
+});
+
+fs.writeFileSync(
+  path.join(__dirname, '../resources/devManifest.json'),
+  JSON.stringify(devManifest, null, 2)
+);
+
 console.log('Manifest generated successfully');
