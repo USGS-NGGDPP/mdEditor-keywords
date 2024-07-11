@@ -1,0 +1,102 @@
+[
+  {
+    "uuid": "12-yukon",
+    "label": "Yukon",
+    "definition": "Yukon is a state in the United States.",
+    "children": [
+      {
+        "uuid": "yukon-stream",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in Yukon.",
+        "children": [
+          {
+            "uuid": "1398673",
+            "label": "Baultoff Creek",
+            "definition": "Baultoff Creek is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1398791",
+            "label": "Beaver Creek",
+            "definition": "Beaver Creek is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1399649",
+            "label": "Cache Creek",
+            "definition": "Cache Creek is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1400418",
+            "label": "Clarence River",
+            "definition": "Clarence River is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1402078",
+            "label": "Firth River",
+            "definition": "Firth River is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1405899",
+            "label": "Malcolm River",
+            "definition": "Malcolm River is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1407479",
+            "label": "Old Crow River",
+            "definition": "Old Crow River is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1409662",
+            "label": "Sixty Mile River",
+            "definition": "Sixty Mile River is a specific Stream in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1411999",
+            "label": "White River",
+            "definition": "White River is a specific Stream in Yukon.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "yukon-range",
+        "label": "Range",
+        "definition": "Range is a type of feature found in Yukon.",
+        "children": [
+          {
+            "uuid": "1408965",
+            "label": "Saint Elias Mountains",
+            "definition": "Saint Elias Mountains is a specific Range in Yukon.",
+            "children": []
+          },
+          {
+            "uuid": "1865585",
+            "label": "Centennial Range",
+            "definition": "Centennial Range is a specific Range in Yukon.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "yukon-ridge",
+        "label": "Ridge",
+        "definition": "Ridge is a type of feature found in Yukon.",
+        "children": [
+          {
+            "uuid": "1893715",
+            "label": "Boundary Ranges",
+            "definition": "Boundary Ranges is a specific Ridge in Yukon.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
