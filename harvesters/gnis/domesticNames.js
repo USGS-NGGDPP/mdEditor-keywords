@@ -128,7 +128,9 @@ export async function harvestDomesticNames() {
     if (statename === '') {
       statename = 'Unknown';
     }
-    const filename = `${DST_FILENAME_PREFIX}${statename}.json`;
+    let filename = `${DST_FILENAME_PREFIX}${statename}`;
+    filename = filename.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
+    filename = `${filename}.json`;
     writeToLocalFile([state], `${KEYWORDS_DIR}/${filename}`);
     const keywordsUrl = `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`;
     const thesaurusConfig = generateThesaurusConfig(
