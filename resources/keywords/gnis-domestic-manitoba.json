@@ -1,0 +1,58 @@
+[
+  {
+    "uuid": "03-manitoba",
+    "label": "Manitoba",
+    "definition": "Manitoba is a state in the United States.",
+    "children": [
+      {
+        "uuid": "manitoba-stream",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in Manitoba.",
+        "children": [
+          {
+            "uuid": "1028583",
+            "label": "Cypress Creek",
+            "definition": "Cypress Creek is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1032746",
+            "label": "West Snowflake Creek",
+            "definition": "West Snowflake Creek is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1035871",
+            "label": "Mowbray Creek",
+            "definition": "Mowbray Creek is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1035887",
+            "label": "Gimby Creek",
+            "definition": "Gimby Creek is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1035891",
+            "label": "Snowflake Creek",
+            "definition": "Snowflake Creek is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1035892",
+            "label": "Souris River",
+            "definition": "Souris River is a specific Stream in Manitoba.",
+            "children": []
+          },
+          {
+            "uuid": "1035895",
+            "label": "Wakopa Creek",
+            "definition": "Wakopa Creek is a specific Stream in Manitoba.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

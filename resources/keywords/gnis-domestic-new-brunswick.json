@@ -1,0 +1,48 @@
+[
+  {
+    "uuid": "04-new-brunswick",
+    "label": "New Brunswick",
+    "definition": "New Brunswick is a state in the United States.",
+    "children": [
+      {
+        "uuid": "new-brunswick-summit",
+        "label": "Summit",
+        "definition": "Summit is a type of feature found in New Brunswick.",
+        "children": [
+          {
+            "uuid": "567773",
+            "label": "Hovey Hill",
+            "definition": "Hovey Hill is a specific Summit in New Brunswick.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "new-brunswick-reservoir",
+        "label": "Reservoir",
+        "definition": "Reservoir is a type of feature found in New Brunswick.",
+        "children": [
+          {
+            "uuid": "576019",
+            "label": "Spednic Lake",
+            "definition": "Spednic Lake is a specific Reservoir in New Brunswick.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "new-brunswick-stream",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in New Brunswick.",
+        "children": [
+          {
+            "uuid": "581558",
+            "label": "Saint John River",
+            "definition": "Saint John River is a specific Stream in New Brunswick.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "uuid": "14-nunavut",
+    "label": "Nunavut",
+    "definition": "Nunavut is a state in the United States.",
+    "children": [
+      {
+        "uuid": "nunavut-civil",
+        "label": "Civil",
+        "definition": "Civil is a type of feature found in Nunavut.",
+        "children": [
+          {
+            "uuid": "1890464",
+            "label": "Canada",
+            "definition": "Canada is a specific Civil in Nunavut.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
