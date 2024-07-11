@@ -92,8 +92,10 @@ export async function harvestDomesticNames() {
     );
 
     if (!featureClassNode) {
+      let classUuid = `${state}-${featureClass}`;
+      classUuid = classUuid.replace(/[^a-zA-Z0-9]/g, '-').toLowerCase();
       featureClassNode = {
-        uuid: `${state}-${featureClass}`,
+        uuid: classUuid,
         label: featureClass,
         definition: `${featureClass} is a type of feature found in ${state}.`,
         children: []
@@ -118,8 +120,6 @@ export async function harvestDomesticNames() {
   const citation = await parseCitationFromXml(
     `${DOMESTIC_NAMES}/${CITATION_FILANAME}`
   );
-
-  console.log('Writing files to disk', JSON.stringify(citation, null, 2));
 
   hierarchy.forEach(state => {
     let statename = state.label;
