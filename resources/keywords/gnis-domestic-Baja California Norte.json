@@ -1,0 +1,22 @@
+[
+  {
+    "uuid": "02-Baja California Norte",
+    "label": "Baja California Norte",
+    "definition": "Baja California Norte is a state in the United States.",
+    "children": [
+      {
+        "uuid": "baebf60b-fe47-4e9e-98d3-2a4bde16d9fa",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in Baja California Norte.",
+        "children": [
+          {
+            "uuid": "45730",
+            "label": "Colorado River",
+            "definition": "Colorado River is a specific Stream in Baja California Norte.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

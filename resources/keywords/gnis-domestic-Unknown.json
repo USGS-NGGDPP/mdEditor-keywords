@@ -1,0 +1,197 @@
+[
+  {
+    "uuid": "-",
+    "label": "",
+    "definition": " is a state in the United States.",
+    "children": [
+      {
+        "uuid": "a257a36d-960e-4be5-8a7d-5c28c54dab35",
+        "label": "Valley",
+        "definition": "Valley is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "254541",
+            "label": "San Pedro Valley",
+            "definition": "San Pedro Valley is a specific Valley in .",
+            "children": []
+          },
+          {
+            "uuid": "617038",
+            "label": "Corsair Canyon",
+            "definition": "Corsair Canyon is a specific Valley in .",
+            "children": []
+          },
+          {
+            "uuid": "2831390",
+            "label": "Righthand Valley",
+            "definition": "Righthand Valley is a specific Valley in .",
+            "children": []
+          },
+          {
+            "uuid": "2831391",
+            "label": "Lefthand Valley",
+            "definition": "Lefthand Valley is a specific Valley in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "e44a365b-35f9-442a-b696-0d332180c0cb",
+        "label": "Bar",
+        "definition": "Bar is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "582264",
+            "label": "Jeffreys Ledge",
+            "definition": "Jeffreys Ledge is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "617045",
+            "label": "Georges Bank",
+            "definition": "Georges Bank is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "1829005",
+            "label": "Lower Stellwagen Bank",
+            "definition": "Lower Stellwagen Bank is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "1946007",
+            "label": "Bajo Nuevo",
+            "definition": "Bajo Nuevo is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "1946019",
+            "label": "West Breaker",
+            "definition": "West Breaker is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "1988227",
+            "label": "East Reef",
+            "definition": "East Reef is a specific Bar in .",
+            "children": []
+          },
+          {
+            "uuid": "1988228",
+            "label": "West Reef",
+            "definition": "West Reef is a specific Bar in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "c0af89a4-3aa3-4440-ad45-95ce50e20a63",
+        "label": "Ridge",
+        "definition": "Ridge is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "1777343",
+            "label": "Pelee-Lorain Ridge",
+            "definition": "Pelee-Lorain Ridge is a specific Ridge in .",
+            "children": []
+          },
+          {
+            "uuid": "2771581",
+            "label": "Freeport Ridge",
+            "definition": "Freeport Ridge is a specific Ridge in .",
+            "children": []
+          },
+          {
+            "uuid": "2771582",
+            "label": "Padre Island Ridges",
+            "definition": "Padre Island Ridges is a specific Ridge in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "bb4af351-be1d-4358-9f38-006dc8d8a0ce",
+        "label": "Basin",
+        "definition": "Basin is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "1851790",
+            "label": "Niagara Basin",
+            "definition": "Niagara Basin is a specific Basin in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "c0a2d511-87a2-4498-a34e-128634ca25e3",
+        "label": "Island",
+        "definition": "Island is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "1946016",
+            "label": "Beacon Cay",
+            "definition": "Beacon Cay is a specific Island in .",
+            "children": []
+          },
+          {
+            "uuid": "1946017",
+            "label": "East Cay",
+            "definition": "East Cay is a specific Island in .",
+            "children": []
+          },
+          {
+            "uuid": "1946018",
+            "label": "Middle Cay",
+            "definition": "Middle Cay is a specific Island in .",
+            "children": []
+          },
+          {
+            "uuid": "1946021",
+            "label": "Low Cay",
+            "definition": "Low Cay is a specific Island in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "b181dc04-9456-4eb3-9988-117cb18e001e",
+        "label": "Canal",
+        "definition": "Canal is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "2830610",
+            "label": "Todd Lateral",
+            "definition": "Todd Lateral is a specific Canal in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "781b448b-4d6c-4249-a544-5b2c63f162e2",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "2831283",
+            "label": "Cedar Glen Creek",
+            "definition": "Cedar Glen Creek is a specific Stream in .",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "a670b8a3-8ec8-4dab-82b0-dea966ac4a30",
+        "label": "Civil",
+        "definition": "Civil is a type of feature found in .",
+        "children": [
+          {
+            "uuid": "2831348",
+            "label": "District of Spring Hill",
+            "definition": "District of Spring Hill is a specific Civil in .",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

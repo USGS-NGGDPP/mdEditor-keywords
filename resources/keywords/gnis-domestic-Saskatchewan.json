@@ -1,0 +1,22 @@
+[
+  {
+    "uuid": "11-Saskatchewan",
+    "label": "Saskatchewan",
+    "definition": "Saskatchewan is a state in the United States.",
+    "children": [
+      {
+        "uuid": "82556f35-e76b-4b06-baf1-2baee2710052",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in Saskatchewan.",
+        "children": [
+          {
+            "uuid": "1035882",
+            "label": "East Branch Short Creek",
+            "definition": "East Branch Short Creek is a specific Stream in Saskatchewan.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

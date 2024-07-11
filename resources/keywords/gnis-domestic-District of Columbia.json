@@ -1,0 +1,2605 @@
+[
+  {
+    "uuid": "11-District of Columbia",
+    "label": "District of Columbia",
+    "definition": "District of Columbia is a state in the United States.",
+    "children": [
+      {
+        "uuid": "48bf606d-e760-4324-8b16-5e2b349c3b81",
+        "label": "Summit",
+        "definition": "Summit is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528562",
+            "label": "Bald Eagle Hill",
+            "definition": "Bald Eagle Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528617",
+            "label": "Hickey Hill",
+            "definition": "Hickey Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528623",
+            "label": "Hoover Hill",
+            "definition": "Hoover Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528646",
+            "label": "Mount Hamilton",
+            "definition": "Mount Hamilton is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529048",
+            "label": "Good Hope Hill",
+            "definition": "Good Hope Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529320",
+            "label": "Jackson Hill",
+            "definition": "Jackson Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529701",
+            "label": "Georgetown Heights",
+            "definition": "Georgetown Heights is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529703",
+            "label": "Peters Hill",
+            "definition": "Peters Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529707",
+            "label": "Linnean Hill",
+            "definition": "Linnean Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529727",
+            "label": "Camp Hill",
+            "definition": "Camp Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530156",
+            "label": "Mount Alto",
+            "definition": "Mount Alto is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530435",
+            "label": "Mount Saint Sepulchre",
+            "definition": "Mount Saint Sepulchre is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530967",
+            "label": "Round Hill",
+            "definition": "Round Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531070",
+            "label": "Bunker Hill",
+            "definition": "Bunker Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531316",
+            "label": "Capitol Hill",
+            "definition": "Capitol Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531432",
+            "label": "Cherry Hill",
+            "definition": "Cherry Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531433",
+            "label": "Fairview Hill",
+            "definition": "Fairview Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531434",
+            "label": "Forsythia Hill",
+            "definition": "Forsythia Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531435",
+            "label": "Crabapple Hill",
+            "definition": "Crabapple Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531907",
+            "label": "Lees Hill",
+            "definition": "Lees Hill is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531914",
+            "label": "Mount Saint Alban",
+            "definition": "Mount Saint Alban is a specific Summit in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2496982",
+            "label": "Point Reno",
+            "definition": "Point Reno is a specific Summit in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "3e8a1859-ccb4-4193-8f28-d60835e57835",
+        "label": "Populated Place",
+        "definition": "Populated Place is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528563",
+            "label": "Barnaby Terrace",
+            "definition": "Barnaby Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528564",
+            "label": "Barnaby Woods",
+            "definition": "Barnaby Woods is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528567",
+            "label": "Benning Heights",
+            "definition": "Benning Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528571",
+            "label": "Brightwood Park",
+            "definition": "Brightwood Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528576",
+            "label": "Burleith",
+            "definition": "Burleith is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528578",
+            "label": "Colonial Village",
+            "definition": "Colonial Village is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528580",
+            "label": "Congress Heights",
+            "definition": "Congress Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528582",
+            "label": "Congress Park",
+            "definition": "Congress Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528605",
+            "label": "Glover Park",
+            "definition": "Glover Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528606",
+            "label": "Good Hope",
+            "definition": "Good Hope is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528614",
+            "label": "Hawthorne",
+            "definition": "Hawthorne is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528624",
+            "label": "Ivy City",
+            "definition": "Ivy City is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528630",
+            "label": "Kenilworth",
+            "definition": "Kenilworth is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528631",
+            "label": "Kent",
+            "definition": "Kent is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528641",
+            "label": "Manor Park",
+            "definition": "Manor Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528651",
+            "label": "North Gate",
+            "definition": "North Gate is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528660",
+            "label": "Potomac Heights",
+            "definition": "Potomac Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528664",
+            "label": "River Terrace",
+            "definition": "River Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528690",
+            "label": "Trinidad",
+            "definition": "Trinidad is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528693",
+            "label": "Washington Highlands",
+            "definition": "Washington Highlands is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528696",
+            "label": "Wesley Heights",
+            "definition": "Wesley Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528758",
+            "label": "East Washington Heights",
+            "definition": "East Washington Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528939",
+            "label": "Garfield Heights",
+            "definition": "Garfield Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528948",
+            "label": "Park View",
+            "definition": "Park View is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528967",
+            "label": "Tunlaw Heights (historical)",
+            "definition": "Tunlaw Heights (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528968",
+            "label": "Fairview Heights (historical)",
+            "definition": "Fairview Heights (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528998",
+            "label": "Metropolis View",
+            "definition": "Metropolis View is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529001",
+            "label": "Isherwood",
+            "definition": "Isherwood is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529006",
+            "label": "Harlem (historical)",
+            "definition": "Harlem (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529007",
+            "label": "Weston (historical)",
+            "definition": "Weston (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529049",
+            "label": "Potomac City (historical)",
+            "definition": "Potomac City (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529263",
+            "label": "North Cleveland Park",
+            "definition": "North Cleveland Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529264",
+            "label": "Lanier Heights",
+            "definition": "Lanier Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529265",
+            "label": "Judiciary Square",
+            "definition": "Judiciary Square is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529266",
+            "label": "Mount Vernon Square",
+            "definition": "Mount Vernon Square is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529267",
+            "label": "Chinatown",
+            "definition": "Chinatown is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529268",
+            "label": "Thomas Circle",
+            "definition": "Thomas Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529269",
+            "label": "Logan Circle",
+            "definition": "Logan Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529270",
+            "label": "Southwest",
+            "definition": "Southwest is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529275",
+            "label": "Shepherd Park",
+            "definition": "Shepherd Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529276",
+            "label": "Rock Creek Gardens",
+            "definition": "Rock Creek Gardens is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529277",
+            "label": "Varnum",
+            "definition": "Varnum is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529278",
+            "label": "Bloomingdale",
+            "definition": "Bloomingdale is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529279",
+            "label": "Truxton Circle",
+            "definition": "Truxton Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529280",
+            "label": "East Central",
+            "definition": "East Central is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529281",
+            "label": "West End",
+            "definition": "West End is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529282",
+            "label": "Farragut Square",
+            "definition": "Farragut Square is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529283",
+            "label": "Franklin McPherson Square",
+            "definition": "Franklin McPherson Square is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529284",
+            "label": "Forest Hills",
+            "definition": "Forest Hills is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529285",
+            "label": "Friendship Heights",
+            "definition": "Friendship Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529286",
+            "label": "Foxhall",
+            "definition": "Foxhall is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529287",
+            "label": "Cathedral Heights",
+            "definition": "Cathedral Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529288",
+            "label": "Senate Heights",
+            "definition": "Senate Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529289",
+            "label": "Adams Morgan",
+            "definition": "Adams Morgan is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529290",
+            "label": "Northwest Rectangle",
+            "definition": "Northwest Rectangle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529291",
+            "label": "Scott Circle",
+            "definition": "Scott Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529292",
+            "label": "Northeast Boundary",
+            "definition": "Northeast Boundary is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529293",
+            "label": "Lincoln Heights",
+            "definition": "Lincoln Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529294",
+            "label": "Central Northeast",
+            "definition": "Central Northeast is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529295",
+            "label": "Mayfair-Parkside",
+            "definition": "Mayfair-Parkside is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529296",
+            "label": "Eastland Gardens",
+            "definition": "Eastland Gardens is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529297",
+            "label": "Gateway",
+            "definition": "Gateway is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529298",
+            "label": "Brentwood Village",
+            "definition": "Brentwood Village is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529299",
+            "label": "University Heights",
+            "definition": "University Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529300",
+            "label": "Michigan Park",
+            "definition": "Michigan Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529301",
+            "label": "Kingman Park",
+            "definition": "Kingman Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529302",
+            "label": "Lincoln Park",
+            "definition": "Lincoln Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529303",
+            "label": "Southeast",
+            "definition": "Southeast is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529304",
+            "label": "Dupont Park",
+            "definition": "Dupont Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529305",
+            "label": "Penn Branch",
+            "definition": "Penn Branch is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529306",
+            "label": "Woodland",
+            "definition": "Woodland is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529307",
+            "label": "Fairlawn",
+            "definition": "Fairlawn is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529308",
+            "label": "Randle Highlands",
+            "definition": "Randle Highlands is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529309",
+            "label": "Buena Vista",
+            "definition": "Buena Vista is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529310",
+            "label": "Shipley Terrace",
+            "definition": "Shipley Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529311",
+            "label": "Edgewood",
+            "definition": "Edgewood is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529312",
+            "label": "Stanton Park",
+            "definition": "Stanton Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529313",
+            "label": "Capitol Hill",
+            "definition": "Capitol Hill is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529314",
+            "label": "Georgetown Heights (historical)",
+            "definition": "Georgetown Heights (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529318",
+            "label": "Washington City",
+            "definition": "Washington City is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529325",
+            "label": "Youngsborough (historical)",
+            "definition": "Youngsborough (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529328",
+            "label": "East End",
+            "definition": "East End is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529329",
+            "label": "Buzzard Point",
+            "definition": "Buzzard Point is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529334",
+            "label": "Bellevue",
+            "definition": "Bellevue is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529347",
+            "label": "Eckington",
+            "definition": "Eckington is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529357",
+            "label": "Knox Hill Dwellings",
+            "definition": "Knox Hill Dwellings is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529384",
+            "label": "The Palisades",
+            "definition": "The Palisades is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529405",
+            "label": "Brightwood",
+            "definition": "Brightwood is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529406",
+            "label": "Brookland",
+            "definition": "Brookland is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529409",
+            "label": "Chillum Station",
+            "definition": "Chillum Station is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529410",
+            "label": "Cleveland Park",
+            "definition": "Cleveland Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529411",
+            "label": "Crestwood",
+            "definition": "Crestwood is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529415",
+            "label": "Greenway",
+            "definition": "Greenway is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529417",
+            "label": "Lamond Riggs",
+            "definition": "Lamond Riggs is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529419",
+            "label": "Marshall Heights",
+            "definition": "Marshall Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529423",
+            "label": "Naylor Gardens",
+            "definition": "Naylor Gardens is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529424",
+            "label": "Petworth",
+            "definition": "Petworth is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529430",
+            "label": "Spring Valley",
+            "definition": "Spring Valley is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529431",
+            "label": "Twining",
+            "definition": "Twining is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529433",
+            "label": "Woodley Park",
+            "definition": "Woodley Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529434",
+            "label": "Woodridge",
+            "definition": "Woodridge is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529471",
+            "label": "Chevy Chase",
+            "definition": "Chevy Chase is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529472",
+            "label": "Dupont Circle",
+            "definition": "Dupont Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529473",
+            "label": "Carrollsburg (historical)",
+            "definition": "Carrollsburg (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529475",
+            "label": "Giesboro",
+            "definition": "Giesboro is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529718",
+            "label": "Dobbins Addition (historical)",
+            "definition": "Dobbins Addition (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529719",
+            "label": "Armsleigh Park (historical)",
+            "definition": "Armsleigh Park (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529720",
+            "label": "Morris Addition (historical)",
+            "definition": "Morris Addition (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529721",
+            "label": "Monastery Lot (historical)",
+            "definition": "Monastery Lot (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529729",
+            "label": "Tohoga (historical)",
+            "definition": "Tohoga (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529739",
+            "label": "Chevy Chase Heights",
+            "definition": "Chevy Chase Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529740",
+            "label": "Sheridan-Kalorama",
+            "definition": "Sheridan-Kalorama is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529741",
+            "label": "Kalorama Triangle",
+            "definition": "Kalorama Triangle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529893",
+            "label": "Pretty Prospect (historical)",
+            "definition": "Pretty Prospect (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529898",
+            "label": "Westover Place",
+            "definition": "Westover Place is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529939",
+            "label": "Hampshire Knolls",
+            "definition": "Hampshire Knolls is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529940",
+            "label": "The Cloisters",
+            "definition": "The Cloisters is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529941",
+            "label": "Park Place",
+            "definition": "Park Place is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529942",
+            "label": "Foxhall Terrace",
+            "definition": "Foxhall Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529943",
+            "label": "Foxhall Crescent",
+            "definition": "Foxhall Crescent is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529944",
+            "label": "Embassy Park",
+            "definition": "Embassy Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529945",
+            "label": "Cloisters",
+            "definition": "Cloisters is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529946",
+            "label": "Sutton Place",
+            "definition": "Sutton Place is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529947",
+            "label": "Westchester",
+            "definition": "Westchester is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529948",
+            "label": "Westminster",
+            "definition": "Westminster is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529949",
+            "label": "Westmoreland Terrace",
+            "definition": "Westmoreland Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529950",
+            "label": "Riggs Park",
+            "definition": "Riggs Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529951",
+            "label": "North Michigan Park",
+            "definition": "North Michigan Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529952",
+            "label": "Edgewood Terrace",
+            "definition": "Edgewood Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529953",
+            "label": "West Over View",
+            "definition": "West Over View is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529954",
+            "label": "Fort Davis",
+            "definition": "Fort Davis is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530184",
+            "label": "Cowtown (historical)",
+            "definition": "Cowtown (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530185",
+            "label": "Bloodfield (historical)",
+            "definition": "Bloodfield (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530284",
+            "label": "Widowsville (historical)",
+            "definition": "Widowsville (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530288",
+            "label": "Robeyville (historical)",
+            "definition": "Robeyville (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530518",
+            "label": "Little Indian Rock Terrace",
+            "definition": "Little Indian Rock Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530519",
+            "label": "Indian Rock Terrace",
+            "definition": "Indian Rock Terrace is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530520",
+            "label": "Colony Hill",
+            "definition": "Colony Hill is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530554",
+            "label": "Columbia Heights",
+            "definition": "Columbia Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530559",
+            "label": "LeDroit Park",
+            "definition": "LeDroit Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530731",
+            "label": "Foxhall Village",
+            "definition": "Foxhall Village is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530786",
+            "label": "Massachusetts Avenue Heights",
+            "definition": "Massachusetts Avenue Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530787",
+            "label": "Kalorama Heights",
+            "definition": "Kalorama Heights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530794",
+            "label": "Nacotchtanke (historical)",
+            "definition": "Nacotchtanke (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530885",
+            "label": "Nacocktanke (historical)",
+            "definition": "Nacocktanke (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530887",
+            "label": "Fort Dupont",
+            "definition": "Fort Dupont is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530888",
+            "label": "Fort Lincoln New Town",
+            "definition": "Fort Lincoln New Town is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530889",
+            "label": "Tenleytown",
+            "definition": "Tenleytown is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530951",
+            "label": "Benning",
+            "definition": "Benning is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530952",
+            "label": "Capitol View",
+            "definition": "Capitol View is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530953",
+            "label": "Douglass Dwellings",
+            "definition": "Douglass Dwellings is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530955",
+            "label": "Hillcrest",
+            "definition": "Hillcrest is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530956",
+            "label": "Langdon",
+            "definition": "Langdon is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530959",
+            "label": "Terra Cotta",
+            "definition": "Terra Cotta is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530971",
+            "label": "Pennsylvania Avenue Hights",
+            "definition": "Pennsylvania Avenue Hights is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531063",
+            "label": "Sauis Addition (historical)",
+            "definition": "Sauis Addition (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531064",
+            "label": "Fernwood Heights (historical)",
+            "definition": "Fernwood Heights (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531072",
+            "label": "Fairfax Village",
+            "definition": "Fairfax Village is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531077",
+            "label": "Mount Pleasant",
+            "definition": "Mount Pleasant is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531085",
+            "label": "Pinehurst Circle",
+            "definition": "Pinehurst Circle is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531086",
+            "label": "American University Park",
+            "definition": "American University Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531096",
+            "label": "Reno",
+            "definition": "Reno is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531413",
+            "label": "Pipetown (historical)",
+            "definition": "Pipetown (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531429",
+            "label": "Cookes Park",
+            "definition": "Cookes Park is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531456",
+            "label": "Anacostia",
+            "definition": "Anacostia is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531459",
+            "label": "McLean Gardens",
+            "definition": "McLean Gardens is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531471",
+            "label": "Barry Farms",
+            "definition": "Barry Farms is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531506",
+            "label": "Foggy Bottom",
+            "definition": "Foggy Bottom is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531507",
+            "label": "Hamburgh (historical)",
+            "definition": "Hamburgh (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531513",
+            "label": "Shaw",
+            "definition": "Shaw is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531561",
+            "label": "Deanwood",
+            "definition": "Deanwood is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531619",
+            "label": "Hells Bottom (historical)",
+            "definition": "Hells Bottom (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531646",
+            "label": "Brinetown (historical)",
+            "definition": "Brinetown (historical) is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531663",
+            "label": "Georgetown",
+            "definition": "Georgetown is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531765",
+            "label": "Rosedale",
+            "definition": "Rosedale is a specific Populated Place in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531871",
+            "label": "Washington",
+            "definition": "Washington is a specific Populated Place in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "4072ca5c-0651-4162-a0d2-9ca938904913",
+        "label": "Channel",
+        "definition": "Channel is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528569",
+            "label": "Boundary Channel",
+            "definition": "Boundary Channel is a specific Channel in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528941",
+            "label": "Georgetown Channel",
+            "definition": "Georgetown Channel is a specific Channel in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529389",
+            "label": "Washington Channel",
+            "definition": "Washington Channel is a specific Channel in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530972",
+            "label": "Navy Yard Channel",
+            "definition": "Navy Yard Channel is a specific Channel in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5a3a7d17-5c2f-4ca4-a441-1cf11c4b1e65",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528572",
+            "label": "Broad Branch",
+            "definition": "Broad Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528596",
+            "label": "Fenwick Branch",
+            "definition": "Fenwick Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528618",
+            "label": "Hickey Run",
+            "definition": "Hickey Run is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528659",
+            "label": "Piney Branch",
+            "definition": "Piney Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528665",
+            "label": "Roaches Run",
+            "definition": "Roaches Run is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528879",
+            "label": "Pinehurst Branch",
+            "definition": "Pinehurst Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529274",
+            "label": "Pope Branch",
+            "definition": "Pope Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529317",
+            "label": "Spring Branch (historical)",
+            "definition": "Spring Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529327",
+            "label": "Deep Branch (historical)",
+            "definition": "Deep Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529435",
+            "label": "Saint James Creek (historical)",
+            "definition": "Saint James Creek (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529689",
+            "label": "Silver Spring Branch (historical)",
+            "definition": "Silver Spring Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529895",
+            "label": "Reedy Branch (historical)",
+            "definition": "Reedy Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530713",
+            "label": "Duck Creek (historical)",
+            "definition": "Duck Creek (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530968",
+            "label": "Bennings Branch (historical)",
+            "definition": "Bennings Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531049",
+            "label": "Davis Branch (historical)",
+            "definition": "Davis Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531050",
+            "label": "Gillam Branch (historical)",
+            "definition": "Gillam Branch (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531302",
+            "label": "Maddox Branch",
+            "definition": "Maddox Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531303",
+            "label": "Stickfoot Branch",
+            "definition": "Stickfoot Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531312",
+            "label": "Tiber Creek (historical)",
+            "definition": "Tiber Creek (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531463",
+            "label": "Rock Creek",
+            "definition": "Rock Creek is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531475",
+            "label": "Foundry Branch",
+            "definition": "Foundry Branch is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531569",
+            "label": "Slash Run (historical)",
+            "definition": "Slash Run (historical) is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532032",
+            "label": "Anacostia River",
+            "definition": "Anacostia River is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532034",
+            "label": "Beaverdam Creek",
+            "definition": "Beaverdam Creek is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532036",
+            "label": "Oxon Run",
+            "definition": "Oxon Run is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532037",
+            "label": "Piney Run",
+            "definition": "Piney Run is a specific Stream in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532039",
+            "label": "Watts Branch",
+            "definition": "Watts Branch is a specific Stream in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "0678240b-bf25-4d03-a5c5-ce4e41fd6305",
+        "label": "Military",
+        "definition": "Military is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528577",
+            "label": "Camp Simms (historical)",
+            "definition": "Camp Simms (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530173",
+            "label": "Fort Baker (historical)",
+            "definition": "Fort Baker (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530886",
+            "label": "Fort Bayard (historical)",
+            "definition": "Fort Bayard (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531009",
+            "label": "Battery Reno (historical)",
+            "definition": "Battery Reno (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531010",
+            "label": "Battery Rossell (historical)",
+            "definition": "Battery Rossell (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531011",
+            "label": "Fort on Kennedys Hill (historical)",
+            "definition": "Fort on Kennedys Hill (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531065",
+            "label": "Fort Thayer (historical)",
+            "definition": "Fort Thayer (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531066",
+            "label": "Battery Sill (historical)",
+            "definition": "Battery Sill (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531069",
+            "label": "Battery Terrill (historical)",
+            "definition": "Battery Terrill (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531298",
+            "label": "Battery Smeade (historical)",
+            "definition": "Battery Smeade (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531299",
+            "label": "Battery Parrott (historical)",
+            "definition": "Battery Parrott (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531300",
+            "label": "Battery Vermont (historical)",
+            "definition": "Battery Vermont (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531307",
+            "label": "Fort Carroll (historical)",
+            "definition": "Fort Carroll (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531308",
+            "label": "Fort Greble (historical)",
+            "definition": "Fort Greble (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531562",
+            "label": "Fort Davis (historical)",
+            "definition": "Fort Davis (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531563",
+            "label": "Fort DeRussy (historical)",
+            "definition": "Fort DeRussy (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531564",
+            "label": "Fort Slemmer (historical)",
+            "definition": "Fort Slemmer (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531565",
+            "label": "Fort Stanton (historical)",
+            "definition": "Fort Stanton (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531566",
+            "label": "Fort Stevens (historical)",
+            "definition": "Fort Stevens (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531572",
+            "label": "Fort Slocum (historical)",
+            "definition": "Fort Slocum (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531577",
+            "label": "Fort Sedgwick (historical)",
+            "definition": "Fort Sedgwick (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531578",
+            "label": "Fort Wagner (historical)",
+            "definition": "Fort Wagner (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531579",
+            "label": "Fort Snyder (historical)",
+            "definition": "Fort Snyder (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531580",
+            "label": "Fort Nonence (historical)",
+            "definition": "Fort Nonence (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531598",
+            "label": "Columbia Armory (historical)",
+            "definition": "Columbia Armory (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531620",
+            "label": "Fort Reno (historical)",
+            "definition": "Fort Reno (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531621",
+            "label": "Washington Armory (historical)",
+            "definition": "Washington Armory (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531854",
+            "label": "Fort Totten (historical)",
+            "definition": "Fort Totten (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531855",
+            "label": "Fort Saratoga (historical)",
+            "definition": "Fort Saratoga (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531936",
+            "label": "Fort Chaplin (historical)",
+            "definition": "Fort Chaplin (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "532040",
+            "label": "National Guard District of Columbia Rifle Range (historical)",
+            "definition": "National Guard District of Columbia Rifle Range (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680414",
+            "label": "Battery Gaines (historical)",
+            "definition": "Battery Gaines (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680416",
+            "label": "Battery Georgetown (historical)",
+            "definition": "Battery Georgetown (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680418",
+            "label": "Battery Kemble (historical)",
+            "definition": "Battery Kemble (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680419",
+            "label": "Battery Kingsbury (historical)",
+            "definition": "Battery Kingsbury (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680420",
+            "label": "Battery Mahon (historical)",
+            "definition": "Battery Mahon (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680421",
+            "label": "Battery Martin Scott (historical)",
+            "definition": "Battery Martin Scott (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680424",
+            "label": "Battery Morris (historical)",
+            "definition": "Battery Morris (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680825",
+            "label": "Fort Kearny (historical)",
+            "definition": "Fort Kearny (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1680854",
+            "label": "Fort Mahan (historical)",
+            "definition": "Fort Mahan (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1681190",
+            "label": "Maine Avenue Armory (historical)",
+            "definition": "Maine Avenue Armory (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1934375",
+            "label": "Fort Gaines (historical)",
+            "definition": "Fort Gaines (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2013820",
+            "label": "Battery Ricketts (historical)",
+            "definition": "Battery Ricketts (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2458367",
+            "label": "Fort Lincoln (historical)",
+            "definition": "Fort Lincoln (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512033",
+            "label": "Anacostia Annex (historical)",
+            "definition": "Anacostia Annex (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512207",
+            "label": "Fort Lesley J McNair",
+            "definition": "Fort Lesley J McNair is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512274",
+            "label": "Marine Barracks",
+            "definition": "Marine Barracks is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512345",
+            "label": "Naval Research Laboratory",
+            "definition": "Naval Research Laboratory is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512365",
+            "label": "United States Naval Observatory",
+            "definition": "United States Naval Observatory is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512383",
+            "label": "Walter Reed Army Medical Center",
+            "definition": "Walter Reed Army Medical Center is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512386",
+            "label": "Washington Navy Yard",
+            "definition": "Washington Navy Yard is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2512447",
+            "label": "Bolling Air Force Base (historical)",
+            "definition": "Bolling Air Force Base (historical) is a specific Military in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2813927",
+            "label": "Joint Base Anacostia-Bolling",
+            "definition": "Joint Base Anacostia-Bolling is a specific Military in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "51a2f511-5e5f-43c6-8762-274938d43ef4",
+        "label": "Island",
+        "definition": "Island is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528607",
+            "label": "Goose Island",
+            "definition": "Goose Island is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528687",
+            "label": "Three Sisters Islands",
+            "definition": "Three Sisters Islands is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528951",
+            "label": "Little Island",
+            "definition": "Little Island is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529715",
+            "label": "Ripps Island (historical)",
+            "definition": "Ripps Island (historical) is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531058",
+            "label": "Burnham Barrier",
+            "definition": "Burnham Barrier is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531468",
+            "label": "Theodore Roosevelt Island",
+            "definition": "Theodore Roosevelt Island is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531829",
+            "label": "Columbia Island",
+            "definition": "Columbia Island is a specific Island in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2790960",
+            "label": "Heritage Island",
+            "definition": "Heritage Island is a specific Island in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "2215ef02-bf8f-4213-bd22-037bf34fae1d",
+        "label": "Falls",
+        "definition": "Falls is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528636",
+            "label": "Little Falls",
+            "definition": "Little Falls is a specific Falls in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d9ee0c43-1037-4fe5-b5a3-99dbf89f73b9",
+        "label": "Civil",
+        "definition": "Civil is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528718",
+            "label": "Mexico (historical)",
+            "definition": "Mexico (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528916",
+            "label": "Northeast Quadrant",
+            "definition": "Northeast Quadrant is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528917",
+            "label": "Northwest Quadrant",
+            "definition": "Northwest Quadrant is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528918",
+            "label": "Southeast Quadrant",
+            "definition": "Southeast Quadrant is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528921",
+            "label": "Re-Survey on New Seat (historical)",
+            "definition": "Re-Survey on New Seat (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "528922",
+            "label": "Mill Seat (historical)",
+            "definition": "Mill Seat (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529401",
+            "label": "Abby Manor (historical)",
+            "definition": "Abby Manor (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529437",
+            "label": "Bealls Levels (historical)",
+            "definition": "Bealls Levels (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529438",
+            "label": "Port Royal (historical)",
+            "definition": "Port Royal (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529476",
+            "label": "Washington County (historical)",
+            "definition": "Washington County (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530077",
+            "label": "New Troy (historical)",
+            "definition": "New Troy (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530100",
+            "label": "The Houpyard",
+            "definition": "The Houpyard is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530101",
+            "label": "Mill Tract (historical)",
+            "definition": "Mill Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530107",
+            "label": "Plain Dealing (historical)",
+            "definition": "Plain Dealing (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530108",
+            "label": "Turkey Buzzard Plantation (historical)",
+            "definition": "Turkey Buzzard Plantation (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530109",
+            "label": "Burnes Discovery (historical)",
+            "definition": "Burnes Discovery (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530110",
+            "label": "Cerne Abbey Manor (historical)",
+            "definition": "Cerne Abbey Manor (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530111",
+            "label": "Ormes Luck (historical)",
+            "definition": "Ormes Luck (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530112",
+            "label": "Expense (historical)",
+            "definition": "Expense (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530113",
+            "label": "Evans Littleworth (historical)",
+            "definition": "Evans Littleworth (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530114",
+            "label": "Meurs (historical)",
+            "definition": "Meurs (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530115",
+            "label": "Hazard (historical)",
+            "definition": "Hazard (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530116",
+            "label": "Houps Addition (historical)",
+            "definition": "Houps Addition (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530117",
+            "label": "Elinor (historical)",
+            "definition": "Elinor (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530118",
+            "label": "Gordons Meadow (historical)",
+            "definition": "Gordons Meadow (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530119",
+            "label": "Saint Philip and Jacob Tract",
+            "definition": "Saint Philip and Jacob Tract is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530120",
+            "label": "White Haven Tract",
+            "definition": "White Haven Tract is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530180",
+            "label": "Terra Firma Tract (historical)",
+            "definition": "Terra Firma Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530181",
+            "label": "Fletchalls Chance Tract (historical)",
+            "definition": "Fletchalls Chance Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530182",
+            "label": "Friendship Tract (historical)",
+            "definition": "Friendship Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530183",
+            "label": "Gizor Tract (historical)",
+            "definition": "Gizor Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530460",
+            "label": "Gisborough Tract (historical)",
+            "definition": "Gisborough Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530461",
+            "label": "Upper Gisborough Tract (historical)",
+            "definition": "Upper Gisborough Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530462",
+            "label": "Haddocks Hill (historical)",
+            "definition": "Haddocks Hill (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530463",
+            "label": "Lower Gisborough Tract (historical)",
+            "definition": "Lower Gisborough Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530511",
+            "label": "Elderslie Tract (historical)",
+            "definition": "Elderslie Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530515",
+            "label": "Norway Tract (historical)",
+            "definition": "Norway Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530527",
+            "label": "Knaves Disappointment Tract (historical)",
+            "definition": "Knaves Disappointment Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530565",
+            "label": "Mount Pleasant (historical)",
+            "definition": "Mount Pleasant (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530566",
+            "label": "Jamaica (historical)",
+            "definition": "Jamaica (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530608",
+            "label": "The Gift (historical)",
+            "definition": "The Gift (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530704",
+            "label": "The Chance (historical)",
+            "definition": "The Chance (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530705",
+            "label": "Little Prevention (historical)",
+            "definition": "Little Prevention (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530706",
+            "label": "Duddington Manor (historical)",
+            "definition": "Duddington Manor (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530707",
+            "label": "The Neck (historical)",
+            "definition": "The Neck (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530708",
+            "label": "Success (historical)",
+            "definition": "Success (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530714",
+            "label": "The Vineyard (historical)",
+            "definition": "The Vineyard (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530716",
+            "label": "The Inclosure (historical)",
+            "definition": "The Inclosure (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530717",
+            "label": "The Gleaning (historical)",
+            "definition": "The Gleaning (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530718",
+            "label": "Flints Discovery (historical)",
+            "definition": "Flints Discovery (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530719",
+            "label": "The Adventure (historical)",
+            "definition": "The Adventure (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530772",
+            "label": "New Scotland Hundred (historical)",
+            "definition": "New Scotland Hundred (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530775",
+            "label": "Southwest Quadrant",
+            "definition": "Southwest Quadrant is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531080",
+            "label": "Duddington Pasture (historical)",
+            "definition": "Duddington Pasture (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "1702382",
+            "label": "District of Columbia",
+            "definition": "District of Columbia is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2071908",
+            "label": "Rock of Dumbarton Tract (historical)",
+            "definition": "Rock of Dumbarton Tract (historical) is a specific Civil in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2390665",
+            "label": "City of Washington",
+            "definition": "City of Washington is a specific Civil in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "3426cb74-e60b-4f40-847a-554fe0a215bb",
+        "label": "Canal",
+        "definition": "Canal is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528859",
+            "label": "Alexandria Aqueduct",
+            "definition": "Alexandria Aqueduct is a specific Canal in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530214",
+            "label": "Washington Aqueduct",
+            "definition": "Washington Aqueduct is a specific Canal in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530614",
+            "label": "Potomac Aqueduct (historical)",
+            "definition": "Potomac Aqueduct (historical) is a specific Canal in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530689",
+            "label": "Washington City Canal (historical)",
+            "definition": "Washington City Canal (historical) is a specific Canal in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "f394c5b2-bdbe-4bd7-8445-0e65e575bf01",
+        "label": "Reservoir",
+        "definition": "Reservoir is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528942",
+            "label": "Georgetown Reservoir",
+            "definition": "Georgetown Reservoir is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529019",
+            "label": "Reno Reservoir",
+            "definition": "Reno Reservoir is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530034",
+            "label": "High Service Reservoir (historical)",
+            "definition": "High Service Reservoir (historical) is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530408",
+            "label": "Wisconsin Avenue Reservoir (historical)",
+            "definition": "Wisconsin Avenue Reservoir (historical) is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530826",
+            "label": "Reflecting Pool",
+            "definition": "Reflecting Pool is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530999",
+            "label": "Sixteenth Street Reservoir (historical)",
+            "definition": "Sixteenth Street Reservoir (historical) is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531051",
+            "label": "Brightwood Reservoir (historical)",
+            "definition": "Brightwood Reservoir (historical) is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531053",
+            "label": "First High Reservoir (historical)",
+            "definition": "First High Reservoir (historical) is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531060",
+            "label": "Anacostia First High Reservoir",
+            "definition": "Anacostia First High Reservoir is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531460",
+            "label": "McMillan Reservoir",
+            "definition": "McMillan Reservoir is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531843",
+            "label": "Tidal Basin",
+            "definition": "Tidal Basin is a specific Reservoir in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531895",
+            "label": "Capitol Reflecting Pool",
+            "definition": "Capitol Reflecting Pool is a specific Reservoir in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "a4311dbf-a4c4-47cf-ab42-2b302b6003e9",
+        "label": "Lake",
+        "definition": "Lake is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528944",
+            "label": "Kingman Lake",
+            "definition": "Kingman Lake is a specific Lake in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530019",
+            "label": "Babcock Lakes (historical)",
+            "definition": "Babcock Lakes (historical) is a specific Lake in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530978",
+            "label": "Carp Pond (historical)",
+            "definition": "Carp Pond (historical) is a specific Lake in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "fd7f78ea-03fb-435e-9dcc-7125d7f4f759",
+        "label": "Cape",
+        "definition": "Cape is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528947",
+            "label": "Marbury Point",
+            "definition": "Marbury Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529002",
+            "label": "Tete Du Pont",
+            "definition": "Tete Du Pont is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529035",
+            "label": "Poplar Point",
+            "definition": "Poplar Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529040",
+            "label": "Gravel Point",
+            "definition": "Gravel Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529407",
+            "label": "Buzzard Point",
+            "definition": "Buzzard Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529455",
+            "label": "Easby Point",
+            "definition": "Easby Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529578",
+            "label": "The Mole",
+            "definition": "The Mole is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529702",
+            "label": "Peters Point",
+            "definition": "Peters Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530002",
+            "label": "Evans Point",
+            "definition": "Evans Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530732",
+            "label": "Greenleaf Point",
+            "definition": "Greenleaf Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531074",
+            "label": "Giesboro Point",
+            "definition": "Giesboro Point is a specific Cape in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531309",
+            "label": "Hains Point",
+            "definition": "Hains Point is a specific Cape in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "8193c17a-bf49-4c86-9bf7-926f61731fcc",
+        "label": "Crossing",
+        "definition": "Crossing is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "528950",
+            "label": "Milkhouse Ford",
+            "definition": "Milkhouse Ford is a specific Crossing in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529003",
+            "label": "Fox Ferry (historical)",
+            "definition": "Fox Ferry (historical) is a specific Crossing in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529004",
+            "label": "Shepherd Ferry (historical)",
+            "definition": "Shepherd Ferry (historical) is a specific Crossing in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529990",
+            "label": "McGees Ferry (historical)",
+            "definition": "McGees Ferry (historical) is a specific Crossing in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530819",
+            "label": "Masons Ferry (historical)",
+            "definition": "Masons Ferry (historical) is a specific Crossing in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "c8935f4d-04f3-4cd6-bbc3-f845cc1997ad",
+        "label": "Valley",
+        "definition": "Valley is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529008",
+            "label": "Soapstone Valley",
+            "definition": "Soapstone Valley is a specific Valley in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530148",
+            "label": "Klingle Valley",
+            "definition": "Klingle Valley is a specific Valley in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530151",
+            "label": "Piney Branch Valley",
+            "definition": "Piney Branch Valley is a specific Valley in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530178",
+            "label": "The Potomac Gorge",
+            "definition": "The Potomac Gorge is a specific Valley in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531728",
+            "label": "Rock Creek Valley",
+            "definition": "Rock Creek Valley is a specific Valley in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "91c9d22b-6bc9-4895-af0d-d3f78cc6101e",
+        "label": "Bar",
+        "definition": "Bar is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529066",
+            "label": "Licking Banks",
+            "definition": "Licking Banks is a specific Bar in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d938485e-985a-45ec-95fe-37dec1bc9644",
+        "label": "Spring",
+        "definition": "Spring is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529075",
+            "label": "Gibsons Spring (historical)",
+            "definition": "Gibsons Spring (historical) is a specific Spring in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529315",
+            "label": "Jumpin' Jack Spring",
+            "definition": "Jumpin' Jack Spring is a specific Spring in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529673",
+            "label": "Caffreys Spring (historical)",
+            "definition": "Caffreys Spring (historical) is a specific Spring in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529984",
+            "label": "Federal Spring (historical)",
+            "definition": "Federal Spring (historical) is a specific Spring in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "530001",
+            "label": "Franklin Park Springs (historical)",
+            "definition": "Franklin Park Springs (historical) is a specific Spring in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "2229d21e-49b4-4fdd-a20c-b8fed8c8e09a",
+        "label": "Woods",
+        "definition": "Woods is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529113",
+            "label": "Parrotts Woods",
+            "definition": "Parrotts Woods is a specific Woods in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d4497244-a732-420a-a98c-d410dddd73f9",
+        "label": "Bay",
+        "definition": "Bay is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529369",
+            "label": "Oxon Creek",
+            "definition": "Oxon Creek is a specific Bay in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "2085363",
+            "label": "Fletchers Cove",
+            "definition": "Fletchers Cove is a specific Bay in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "759a6a3d-0d08-4ceb-aab1-e5a70a119914",
+        "label": "Beach",
+        "definition": "Beach is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "529894",
+            "label": "Bathing Beach",
+            "definition": "Bathing Beach is a specific Beach in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "529979",
+            "label": "Fishing Shore",
+            "definition": "Fishing Shore is a specific Beach in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d190968a-082d-4311-a9f5-9fd623bf7c20",
+        "label": "Area",
+        "definition": "Area is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "531345",
+            "label": "Newspaper Row (historical)",
+            "definition": "Newspaper Row (historical) is a specific Area in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531712",
+            "label": "Murder Bay (historical)",
+            "definition": "Murder Bay (historical) is a specific Area in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531749",
+            "label": "Rock of Dumbarton",
+            "definition": "Rock of Dumbarton is a specific Area in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531831",
+            "label": "Kidwell Meadows",
+            "definition": "Kidwell Meadows is a specific Area in District of Columbia.",
+            "children": []
+          },
+          {
+            "uuid": "531983",
+            "label": "Anacostia Flats",
+            "definition": "Anacostia Flats is a specific Area in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "9b3565d0-eb0f-461c-bdad-81d2e23ba7c2",
+        "label": "Pillar",
+        "definition": "Pillar is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "531875",
+            "label": "Pulpit Rock",
+            "definition": "Pulpit Rock is a specific Pillar in District of Columbia.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "4f54dea7-1f1d-44b5-a839-e4e589a804ce",
+        "label": "Gut",
+        "definition": "Gut is a type of feature found in District of Columbia.",
+        "children": [
+          {
+            "uuid": "2575396",
+            "label": "Little River",
+            "definition": "Little River is a specific Gut in District of Columbia.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

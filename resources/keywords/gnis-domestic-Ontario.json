@@ -1,0 +1,22 @@
+[
+  {
+    "uuid": "08-Ontario",
+    "label": "Ontario",
+    "definition": "Ontario is a state in the United States.",
+    "children": [
+      {
+        "uuid": "4d479753-6a6c-46d5-9ab1-eed9dfb37ccd",
+        "label": "Basin",
+        "definition": "Basin is a type of feature found in Ontario.",
+        "children": [
+          {
+            "uuid": "1782010",
+            "label": "Manitoulin Basin",
+            "definition": "Manitoulin Basin is a specific Basin in Ontario.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

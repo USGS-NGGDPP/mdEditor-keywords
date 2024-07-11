@@ -1,0 +1,71 @@
+[
+  {
+    "uuid": "01-Alberta",
+    "label": "Alberta",
+    "definition": "Alberta is a state in the United States.",
+    "children": [
+      {
+        "uuid": "aaf9247c-2b0b-4b02-8746-9a1cef3144c9",
+        "label": "Valley",
+        "definition": "Valley is a type of feature found in Alberta.",
+        "children": [
+          {
+            "uuid": "768593",
+            "label": "Bear Gulch",
+            "definition": "Bear Gulch is a specific Valley in Alberta.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "88a177ab-c37c-49f4-9696-904c379d107f",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in Alberta.",
+        "children": [
+          {
+            "uuid": "768689",
+            "label": "Belly River",
+            "definition": "Belly River is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "774784",
+            "label": "North Fork Milk River",
+            "definition": "North Fork Milk River is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "775339",
+            "label": "Police Creek",
+            "definition": "Police Creek is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "776125",
+            "label": "Saint Mary River",
+            "definition": "Saint Mary River is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "778142",
+            "label": "Waterton River",
+            "definition": "Waterton River is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "778545",
+            "label": "Willow Creek",
+            "definition": "Willow Creek is a specific Stream in Alberta.",
+            "children": []
+          },
+          {
+            "uuid": "798995",
+            "label": "Lee Creek",
+            "definition": "Lee Creek is a specific Stream in Alberta.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

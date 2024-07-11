@@ -1,0 +1,5421 @@
+[
+  {
+    "uuid": "60-American Samoa",
+    "label": "American Samoa",
+    "definition": "American Samoa is a state in the United States.",
+    "children": [
+      {
+        "uuid": "c5051094-42bd-441e-931c-a50768ead14a",
+        "label": "Populated Place",
+        "definition": "Populated Place is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388627",
+            "label": "Etena",
+            "definition": "Etena is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388634",
+            "label": "Taulaga",
+            "definition": "Taulaga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388635",
+            "label": "Aasu",
+            "definition": "Aasu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388637",
+            "label": "Afao",
+            "definition": "Afao is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388640",
+            "label": "Āfono",
+            "definition": "Āfono is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388644",
+            "label": "Afulei",
+            "definition": "Afulei is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388650",
+            "label": "Aganoa",
+            "definition": "Aganoa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388658",
+            "label": "Alao",
+            "definition": "Alao is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388660",
+            "label": "Alaufau",
+            "definition": "Alaufau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388662",
+            "label": "Ālega",
+            "definition": "Ālega is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388669",
+            "label": "Alofau",
+            "definition": "Alofau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388673",
+            "label": "Amalau (historical)",
+            "definition": "Amalau (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388674",
+            "label": "Amaluia",
+            "definition": "Amaluia is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388675",
+            "label": "‘Āmanave",
+            "definition": "‘Āmanave is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388679",
+            "label": "Amaua",
+            "definition": "Amaua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388680",
+            "label": "Amouli (historical)",
+            "definition": "Amouli (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388681",
+            "label": "Āmouli",
+            "definition": "Āmouli is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388687",
+            "label": "Anasosopo",
+            "definition": "Anasosopo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388690",
+            "label": "Anua",
+            "definition": "Anua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388691",
+            "label": "ʻAoa",
+            "definition": "ʻAoa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388694",
+            "label": "Aʻoloaufou",
+            "definition": "Aʻoloaufou is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388695",
+            "label": "Aoloautuai (historical)",
+            "definition": "Aoloautuai (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388702",
+            "label": "Asili",
+            "definition": "Asili is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388707",
+            "label": "Atuʻu",
+            "definition": "Atuʻu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388708",
+            "label": "Aūa",
+            "definition": "Aūa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388710",
+            "label": "Auasi",
+            "definition": "Auasi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388715",
+            "label": "Auma",
+            "definition": "Auma is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388716",
+            "label": "Aumi",
+            "definition": "Aumi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388717",
+            "label": "Aunuʻu",
+            "definition": "Aunuʻu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388719",
+            "label": "Autapini",
+            "definition": "Autapini is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388720",
+            "label": "Auto",
+            "definition": "Auto is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388726",
+            "label": "Avaio",
+            "definition": "Avaio is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388732",
+            "label": "Avau",
+            "definition": "Avau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388745",
+            "label": "Faalaaga (historical)",
+            "definition": "Faalaaga (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388747",
+            "label": "Faalefu",
+            "definition": "Faalefu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388760",
+            "label": "Faga",
+            "definition": "Faga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388763",
+            "label": "Fagaʻalu",
+            "definition": "Fagaʻalu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388767",
+            "label": "Fagaʻitua",
+            "definition": "Fagaʻitua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388769",
+            "label": "Fagalea",
+            "definition": "Fagalea is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388773",
+            "label": "Fagaliʻi",
+            "definition": "Fagaliʻi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388776",
+            "label": "Fagamalo",
+            "definition": "Fagamalo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388778",
+            "label": "Fagamutu",
+            "definition": "Fagamutu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388779",
+            "label": "Faganeanea",
+            "definition": "Faganeanea is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388782",
+            "label": "Fagasā",
+            "definition": "Fagasā is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388785",
+            "label": "Fagatele",
+            "definition": "Fagatele is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388792",
+            "label": "Fagatogo",
+            "definition": "Fagatogo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388795",
+            "label": "Faiava",
+            "definition": "Faiava is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388798",
+            "label": "Failolo",
+            "definition": "Failolo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388803",
+            "label": "Faleāsao",
+            "definition": "Faleāsao is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388805",
+            "label": "Faleniu",
+            "definition": "Faleniu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388809",
+            "label": "Falili",
+            "definition": "Falili is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388819",
+            "label": "Fatumafuti",
+            "definition": "Fatumafuti is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388830",
+            "label": "Fitiʻuta",
+            "definition": "Fitiʻuta is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388832",
+            "label": "Fogaau",
+            "definition": "Fogaau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388833",
+            "label": "Fogāgogo",
+            "definition": "Fogāgogo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388840",
+            "label": "Fogausa",
+            "definition": "Fogausa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388845",
+            "label": "Fusi",
+            "definition": "Fusi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388850",
+            "label": "Futiga",
+            "definition": "Futiga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388857",
+            "label": "Iliʻili",
+            "definition": "Iliʻili is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388867",
+            "label": "Lalomoana",
+            "definition": "Lalomoana is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388870",
+            "label": "Lalopua",
+            "definition": "Lalopua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388876",
+            "label": "Lauagae",
+            "definition": "Lauagae is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388879",
+            "label": "Lauliifou",
+            "definition": "Lauliifou is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388880",
+            "label": "Lauliituai",
+            "definition": "Lauliituai is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388917",
+            "label": "Leloaloa",
+            "definition": "Leloaloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388922",
+            "label": "Leone",
+            "definition": "Leone is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388927",
+            "label": "Lepine",
+            "definition": "Lepine is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388928",
+            "label": "Lepisi (historical)",
+            "definition": "Lepisi (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388931",
+            "label": "Lepua (historical)",
+            "definition": "Lepua (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388935",
+            "label": "Lepula (historical)",
+            "definition": "Lepula (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388941",
+            "label": "Letula (historical)",
+            "definition": "Letula (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388943",
+            "label": "Leusoaliʻi",
+            "definition": "Leusoaliʻi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388958",
+            "label": "Luamaa (historical)",
+            "definition": "Luamaa (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388960",
+            "label": "Lumā",
+            "definition": "Lumā is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388967",
+            "label": "Mafafa (historical)",
+            "definition": "Mafafa (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388970",
+            "label": "Maia",
+            "definition": "Maia is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388973",
+            "label": "Malaeloa",
+            "definition": "Malaeloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388977",
+            "label": "Malaloa",
+            "definition": "Malaloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388984",
+            "label": "Maloata",
+            "definition": "Maloata is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388990",
+            "label": "Mapusaga",
+            "definition": "Mapusaga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388991",
+            "label": "Mapusagafou",
+            "definition": "Mapusagafou is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388993",
+            "label": "Masausi",
+            "definition": "Masausi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388994",
+            "label": "Masefau",
+            "definition": "Masefau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389025",
+            "label": "Matuʻu",
+            "definition": "Matuʻu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389036",
+            "label": "Maupua (historical)",
+            "definition": "Maupua (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389038",
+            "label": "Mesepa",
+            "definition": "Mesepa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389067",
+            "label": "Nua",
+            "definition": "Nua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389088",
+            "label": "Nuʻuuli",
+            "definition": "Nuʻuuli is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389089",
+            "label": "Oa (historical)",
+            "definition": "Oa (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389091",
+            "label": "Ofu",
+            "definition": "Ofu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389093",
+            "label": "Oge (historical)",
+            "definition": "Oge (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389094",
+            "label": "Ogefao",
+            "definition": "Ogefao is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389096",
+            "label": "Ogegase (historical)",
+            "definition": "Ogegase (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389103",
+            "label": "Olosega",
+            "definition": "Olosega is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389110",
+            "label": "Onenoa",
+            "definition": "Onenoa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389112",
+            "label": "Oneoneloa",
+            "definition": "Oneoneloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389116",
+            "label": "Pagai",
+            "definition": "Pagai is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389119",
+            "label": "Pago Pago",
+            "definition": "Pago Pago is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389145",
+            "label": "Pavaʻiaʻi",
+            "definition": "Pavaʻiaʻi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389151",
+            "label": "Poloa",
+            "definition": "Poloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389157",
+            "label": "Puapua",
+            "definition": "Puapua is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389172",
+            "label": "Saʻilele",
+            "definition": "Saʻilele is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389177",
+            "label": "Samoi (historical)",
+            "definition": "Samoi (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389178",
+            "label": "Satala",
+            "definition": "Satala is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389179",
+            "label": "Saua (historical)",
+            "definition": "Saua (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389184",
+            "label": "Seʻetaga",
+            "definition": "Seʻetaga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389189",
+            "label": "Sili",
+            "definition": "Sili is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389206",
+            "label": "Siʻufaga",
+            "definition": "Siʻufaga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389215",
+            "label": "Sogi",
+            "definition": "Sogi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389229",
+            "label": "Tafalau (historical)",
+            "definition": "Tafalau (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389230",
+            "label": "Tafananai",
+            "definition": "Tafananai is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389234",
+            "label": "Tafunafou",
+            "definition": "Tafunafou is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389235",
+            "label": "Tagapofu",
+            "definition": "Tagapofu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389248",
+            "label": "Taputimu",
+            "definition": "Taputimu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389249",
+            "label": "Ta‘ū",
+            "definition": "Ta‘ū is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389287",
+            "label": "Tō‘aga (historical)",
+            "definition": "Tō‘aga (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389298",
+            "label": "Tuafanua (historical)",
+            "definition": "Tuafanua (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389300",
+            "label": "Tuaolo",
+            "definition": "Tuaolo is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389309",
+            "label": "Tula",
+            "definition": "Tula is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389326",
+            "label": "Utulei",
+            "definition": "Utulei is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389328",
+            "label": "Utuloa",
+            "definition": "Utuloa is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389332",
+            "label": "Utumea",
+            "definition": "Utumea is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389337",
+            "label": "Utusia",
+            "definition": "Utusia is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389344",
+            "label": "Vaiala",
+            "definition": "Vaiala is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389355",
+            "label": "Vailoatai",
+            "definition": "Vailoatai is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389389",
+            "label": "Vaitogi",
+            "definition": "Vaitogi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389394",
+            "label": "Vasaaiga",
+            "definition": "Vasaaiga is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389395",
+            "label": "Vatia",
+            "definition": "Vatia is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1669450",
+            "label": "Tāfuna",
+            "definition": "Tāfuna is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1669451",
+            "label": "Malaeimi",
+            "definition": "Malaeimi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1669452",
+            "label": "Swains",
+            "definition": "Swains is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1669453",
+            "label": "Agugulu",
+            "definition": "Agugulu is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681804",
+            "label": "Utumea West",
+            "definition": "Utumea West is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681805",
+            "label": "Utumea East",
+            "definition": "Utumea East is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681806",
+            "label": "Malaeloa/Ituau",
+            "definition": "Malaeloa/Ituau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681807",
+            "label": "Malaeloa/Aitulagi",
+            "definition": "Malaeloa/Aitulagi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681808",
+            "label": "Lauliʻi",
+            "definition": "Lauliʻi is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1681809",
+            "label": "Aoloau",
+            "definition": "Aoloau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966507",
+            "label": "Aʻasufou",
+            "definition": "Aʻasufou is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966526",
+            "label": "Fagalele",
+            "definition": "Fagalele is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966527",
+            "label": "Fagamalo (historical)",
+            "definition": "Fagamalo (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966542",
+            "label": "Itūʻau",
+            "definition": "Itūʻau is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966572",
+            "label": "Ottoville",
+            "definition": "Ottoville is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966590",
+            "label": "Tafeta",
+            "definition": "Tafeta is a specific Populated Place in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966598",
+            "label": "Tulauta (historical)",
+            "definition": "Tulauta (historical) is a specific Populated Place in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "26ac4308-6f6f-4443-957a-8a53c2e63ab0",
+        "label": "Cape",
+        "definition": "Cape is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388628",
+            "label": "Fala Ane Point",
+            "definition": "Fala Ane Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388651",
+            "label": "Agaoleatu Point",
+            "definition": "Agaoleatu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388654",
+            "label": "Agasavili Point",
+            "definition": "Agasavili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388670",
+            "label": "Alofisau Point",
+            "definition": "Alofisau Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388685",
+            "label": "Anapeapea Point",
+            "definition": "Anapeapea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388688",
+            "label": "Anasosopo Point",
+            "definition": "Anasosopo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388697",
+            "label": "Apolima Point",
+            "definition": "Apolima Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388700",
+            "label": "Asagatai Point",
+            "definition": "Asagatai Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388701",
+            "label": "Asasama Point",
+            "definition": "Asasama Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388703",
+            "label": "Asili Point",
+            "definition": "Asili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388709",
+            "label": "Aualili Point",
+            "definition": "Aualili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388724",
+            "label": "Aua Point",
+            "definition": "Aua Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388727",
+            "label": "Avaloa Point",
+            "definition": "Avaloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388731",
+            "label": "Avatele Point",
+            "definition": "Avatele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388734",
+            "label": "Breakers Point",
+            "definition": "Breakers Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388735",
+            "label": "Cape Fogausa",
+            "definition": "Cape Fogausa is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388736",
+            "label": "Cape Larsen",
+            "definition": "Cape Larsen is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388737",
+            "label": "Matātula",
+            "definition": "Matātula is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388738",
+            "label": "Cape Papatele",
+            "definition": "Cape Papatele is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388739",
+            "label": "Cape Taputapu",
+            "definition": "Cape Taputapu is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388740",
+            "label": "Cockscomb Point",
+            "definition": "Cockscomb Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388741",
+            "label": "Coconut Point",
+            "definition": "Coconut Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388742",
+            "label": "Craggy Point",
+            "definition": "Craggy Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388746",
+            "label": "Faalagiumu Point",
+            "definition": "Faalagiumu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388750",
+            "label": "Faalogologotala Rock",
+            "definition": "Faalogologotala Rock is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388752",
+            "label": "Faasouga Point",
+            "definition": "Faasouga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388755",
+            "label": "Faataaga Point",
+            "definition": "Faataaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388759",
+            "label": "Fafaga Point",
+            "definition": "Fafaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388762",
+            "label": "Faga Point",
+            "definition": "Faga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388766",
+            "label": "Fagailiili Point",
+            "definition": "Fagailiili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388770",
+            "label": "Fagalea Point",
+            "definition": "Fagalea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388772",
+            "label": "Fagaleoo Point",
+            "definition": "Fagaleoo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388780",
+            "label": "Fagaone Point",
+            "definition": "Fagaone Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388781",
+            "label": "Fagaoo Point",
+            "definition": "Fagaoo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388784",
+            "label": "Fagasa Point",
+            "definition": "Fagasa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388789",
+            "label": "Fagatele Point",
+            "definition": "Fagatele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388791",
+            "label": "Fagatiale Point",
+            "definition": "Fagatiale Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388794",
+            "label": "Faiaiulu Point",
+            "definition": "Faiaiulu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388801",
+            "label": "Falaseeitoafa Point",
+            "definition": "Falaseeitoafa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388802",
+            "label": "Faleapoi Point",
+            "definition": "Faleapoi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388806",
+            "label": "Faleoteine Point",
+            "definition": "Faleoteine Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388810",
+            "label": "Fatatele Point",
+            "definition": "Fatatele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388813",
+            "label": "Fatuaga Point",
+            "definition": "Fatuaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388814",
+            "label": "Fatuana Point",
+            "definition": "Fatuana Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388815",
+            "label": "Fatuapule Point",
+            "definition": "Fatuapule Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388816",
+            "label": "Fatuasina Point",
+            "definition": "Fatuasina Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388817",
+            "label": "Fatuelo Point",
+            "definition": "Fatuelo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388825",
+            "label": "Feia Point",
+            "definition": "Feia Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388831",
+            "label": "Fitiʻuta Point",
+            "definition": "Fitiʻuta Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388834",
+            "label": "Fogaletau Point",
+            "definition": "Fogaletau Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388838",
+            "label": "Fogamutia Point",
+            "definition": "Fogamutia Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388841",
+            "label": "Folau Point",
+            "definition": "Folau Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388853",
+            "label": "Gatia Point",
+            "definition": "Gatia Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388854",
+            "label": "Goat Island Point",
+            "definition": "Goat Island Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388855",
+            "label": "Greyhound Point",
+            "definition": "Greyhound Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388858",
+            "label": "Imoa Point",
+            "definition": "Imoa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388860",
+            "label": "Lafiga Point",
+            "definition": "Lafiga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388861",
+            "label": "Lafogaufi Point",
+            "definition": "Lafogaufi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388864",
+            "label": "Lalofutu Point",
+            "definition": "Lalofutu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388881",
+            "label": "Laumeimamalie Point",
+            "definition": "Laumeimamalie Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388890",
+            "label": "Leala Point",
+            "definition": "Leala Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388893",
+            "label": "Leanamanu Point",
+            "definition": "Leanamanu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388894",
+            "label": "Leanaopou Point",
+            "definition": "Leanaopou Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388895",
+            "label": "Leanaosaualii Point",
+            "definition": "Leanaosaualii Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388897",
+            "label": "Leasi Point",
+            "definition": "Leasi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388899",
+            "label": "Leatutoga Point",
+            "definition": "Leatutoga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388903",
+            "label": "Faumasili Point",
+            "definition": "Faumasili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388910",
+            "label": "Leelee Point",
+            "definition": "Leelee Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388914",
+            "label": "Legaotaema Point",
+            "definition": "Legaotaema Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388925",
+            "label": "Leopard Point",
+            "definition": "Leopard Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388930",
+            "label": "Lepisi Point",
+            "definition": "Lepisi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388932",
+            "label": "Lepua Point",
+            "definition": "Lepua Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388940",
+            "label": "Leti Point",
+            "definition": "Leti Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388944",
+            "label": "Leutu Point",
+            "definition": "Leutu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388945",
+            "label": "Leva Point",
+            "definition": "Leva Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388947",
+            "label": "Lifalifa Point",
+            "definition": "Lifalifa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388951",
+            "label": "Logologo Point",
+            "definition": "Logologo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388952",
+            "label": "Logome Point",
+            "definition": "Logome Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388955",
+            "label": "Loto Point",
+            "definition": "Loto Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388956",
+            "label": "Lotoaise Point",
+            "definition": "Lotoaise Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388964",
+            "label": "Maatulaumea Point",
+            "definition": "Maatulaumea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388968",
+            "label": "Lemaga Point",
+            "definition": "Lemaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388979",
+            "label": "Malama Point",
+            "definition": "Malama Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388982",
+            "label": "Maliuga Point",
+            "definition": "Maliuga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388983",
+            "label": "Malo Point",
+            "definition": "Malo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388998",
+            "label": "Mataae Point",
+            "definition": "Mataae Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389002",
+            "label": "Mataavaloa Point",
+            "definition": "Mataavaloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389009",
+            "label": "Matalesolo Point",
+            "definition": "Matalesolo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389013",
+            "label": "Matautu Point",
+            "definition": "Matautu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389015",
+            "label": "Matautuele Point",
+            "definition": "Matautuele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389016",
+            "label": "Matautuloa Point",
+            "definition": "Matautuloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389019",
+            "label": "Matautuotafuna Point",
+            "definition": "Matautuotafuna Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389020",
+            "label": "Mataututele Point",
+            "definition": "Mataututele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389021",
+            "label": "Matavai Point",
+            "definition": "Matavai Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389024",
+            "label": "Matuli Point",
+            "definition": "Matuli Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389031",
+            "label": "Maugaopea Point",
+            "definition": "Maugaopea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389034",
+            "label": "Maugatele Rock",
+            "definition": "Maugatele Rock is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389045",
+            "label": "Moso Point",
+            "definition": "Moso Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389046",
+            "label": "Motusaga Point",
+            "definition": "Motusaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389048",
+            "label": "Mu Point",
+            "definition": "Mu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389050",
+            "label": "Mulinuu Point",
+            "definition": "Mulinuu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389052",
+            "label": "Mulisinalua Point",
+            "definition": "Mulisinalua Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389053",
+            "label": "Muliulu Point",
+            "definition": "Muliulu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389055",
+            "label": "Mulivaisigano Point",
+            "definition": "Mulivaisigano Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389058",
+            "label": "Namumeaavaga Point",
+            "definition": "Namumeaavaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389063",
+            "label": "Niuloa Point",
+            "definition": "Niuloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389065",
+            "label": "Niutulua Point",
+            "definition": "Niutulua Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389072",
+            "label": "Nuuoleniu Cove",
+            "definition": "Nuuoleniu Cove is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389084",
+            "label": "Nuutoga Point",
+            "definition": "Nuutoga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389086",
+            "label": "Nuututai Point",
+            "definition": "Nuututai Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389095",
+            "label": "Ogegasa Point",
+            "definition": "Ogegasa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389108",
+            "label": "Olotina Point",
+            "definition": "Olotina Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389111",
+            "label": "Oneonelilii Point",
+            "definition": "Oneonelilii Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389113",
+            "label": "Oti Point",
+            "definition": "Oti Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389117",
+            "label": "Pagaitua Point",
+            "definition": "Pagaitua Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389130",
+            "label": "Palau Point",
+            "definition": "Palau Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389134",
+            "label": "Papaloa Point",
+            "definition": "Papaloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389135",
+            "label": "Papaloaloa Point",
+            "definition": "Papaloaloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389136",
+            "label": "Papaloloa Point",
+            "definition": "Papaloloa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389137",
+            "label": "Papaotoma Point",
+            "definition": "Papaotoma Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389138",
+            "label": "Papasao Point",
+            "definition": "Papasao Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389142",
+            "label": "Papatuloto Point",
+            "definition": "Papatuloto Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389146",
+            "label": "Pisiula Point",
+            "definition": "Pisiula Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389153",
+            "label": "Pouofe Point",
+            "definition": "Pouofe Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389154",
+            "label": "Pouono Point",
+            "definition": "Pouono Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389155",
+            "label": "Puafusi Point",
+            "definition": "Puafusi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389156",
+            "label": "Puaneva Point",
+            "definition": "Puaneva Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389158",
+            "label": "Puatauapa Point",
+            "definition": "Puatauapa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389166",
+            "label": "Pupualoa Point",
+            "definition": "Pupualoa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389167",
+            "label": "Puputagi Point",
+            "definition": "Puputagi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389169",
+            "label": "Saafelo Point",
+            "definition": "Saafelo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389171",
+            "label": "Sail Rock Point",
+            "definition": "Sail Rock Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389175",
+            "label": "Salevatia Point",
+            "definition": "Salevatia Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389176",
+            "label": "Samituutuu Point",
+            "definition": "Samituutuu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389190",
+            "label": "Siliaga Point",
+            "definition": "Siliaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389191",
+            "label": "Siliataligalu Point",
+            "definition": "Siliataligalu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389195",
+            "label": "Sinamanoo Point",
+            "definition": "Sinamanoo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389197",
+            "label": "Sinapoto Point",
+            "definition": "Sinapoto Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389199",
+            "label": "Sinatau Point",
+            "definition": "Sinatau Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389203",
+            "label": "Siʻu Point",
+            "definition": "Siʻu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389204",
+            "label": "Siuai Point",
+            "definition": "Siuai Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389205",
+            "label": "Siʻufaʻalele",
+            "definition": "Siʻufaʻalele is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389209",
+            "label": "Siufaga Point",
+            "definition": "Siufaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389211",
+            "label": "Siufagatele Point",
+            "definition": "Siufagatele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389212",
+            "label": "Siʻulagi",
+            "definition": "Siʻulagi is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389216",
+            "label": "Solo Point",
+            "definition": "Solo Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389220",
+            "label": "Square Head",
+            "definition": "Square Head is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389221",
+            "label": "Steps Point",
+            "definition": "Steps Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389224",
+            "label": "Suesave Point",
+            "definition": "Suesave Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389228",
+            "label": "Tafagamanu Point",
+            "definition": "Tafagamanu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389238",
+            "label": "Tainamu Point",
+            "definition": "Tainamu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389243",
+            "label": "Tamatupu Point",
+            "definition": "Tamatupu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389245",
+            "label": "Tapisi Point",
+            "definition": "Tapisi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389257",
+            "label": "Taugā Point",
+            "definition": "Taugā Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389260",
+            "label": "Taugamalama Point",
+            "definition": "Taugamalama Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389271",
+            "label": "Tiafou Point",
+            "definition": "Tiafou Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389277",
+            "label": "Tiapea Point",
+            "definition": "Tiapea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389282",
+            "label": "Tifa Point",
+            "definition": "Tifa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389285",
+            "label": "Toa Point",
+            "definition": "Toa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389294",
+            "label": "Tolisi Point",
+            "definition": "Tolisi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389295",
+            "label": "Tolotolooleoti Point",
+            "definition": "Tolotolooleoti Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389297",
+            "label": "Trading Point",
+            "definition": "Trading Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389299",
+            "label": "Tualiliu Point",
+            "definition": "Tualiliu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389305",
+            "label": "Tufu Point",
+            "definition": "Tufu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389311",
+            "label": "Tulutulu Point",
+            "definition": "Tulutulu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389312",
+            "label": "Tumatolu Point",
+            "definition": "Tumatolu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389317",
+            "label": "Tuumuai Point",
+            "definition": "Tuumuai Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389318",
+            "label": "Uea Point",
+            "definition": "Uea Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389320",
+            "label": "Ulufala Point",
+            "definition": "Ulufala Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389321",
+            "label": "Usi Point",
+            "definition": "Usi Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389324",
+            "label": "Utulaina Point",
+            "definition": "Utulaina Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389330",
+            "label": "Utumanuʻa Point",
+            "definition": "Utumanuʻa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389335",
+            "label": "Utunonu Point",
+            "definition": "Utunonu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389339",
+            "label": "Ututafa Point",
+            "definition": "Ututafa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389363",
+            "label": "Vainuu Point",
+            "definition": "Vainuu Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389365",
+            "label": "Vaiola Point",
+            "definition": "Vaiola Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389372",
+            "label": "Vaisa Point",
+            "definition": "Vaisa Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389378",
+            "label": "Vaisaili Point",
+            "definition": "Vaisaili Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389379",
+            "label": "Vaisigano Point",
+            "definition": "Vaisigano Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389381",
+            "label": "Vaita Point",
+            "definition": "Vaita Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389384",
+            "label": "Vaitele Point",
+            "definition": "Vaitele Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389391",
+            "label": "Vaoaga Point",
+            "definition": "Vaoaga Point is a specific Cape in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389399",
+            "label": "Visa Point",
+            "definition": "Visa Point is a specific Cape in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "fbcc8c03-80d3-4031-b141-94a1ce7bb12f",
+        "label": "Island",
+        "definition": "Island is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388629",
+            "label": "Rose Island",
+            "definition": "Rose Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388631",
+            "label": "Sand Island",
+            "definition": "Sand Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388633",
+            "label": "Swains Island",
+            "definition": "Swains Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388649",
+            "label": "Agalua Rock",
+            "definition": "Agalua Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388656",
+            "label": "Agatoavalu Rock",
+            "definition": "Agatoavalu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388718",
+            "label": "Aunuu Island",
+            "definition": "Aunuu Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388725",
+            "label": "Avagatatau Rock",
+            "definition": "Avagatatau Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388748",
+            "label": "Faalefu Rock",
+            "definition": "Faalefu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388756",
+            "label": "Faatafa Rocks",
+            "definition": "Faatafa Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388800",
+            "label": "Faiumuolegau Rocks",
+            "definition": "Faiumuolegau Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388812",
+            "label": "Fatu Rock",
+            "definition": "Fatu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388818",
+            "label": "Fatugau Rock",
+            "definition": "Fatugau Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388820",
+            "label": "Fatumaga Rocks",
+            "definition": "Fatumaga Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388823",
+            "label": "Fatutoaga Rock",
+            "definition": "Fatutoaga Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388824",
+            "label": "Fatuuli Rock",
+            "definition": "Fatuuli Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388849",
+            "label": "Futi Rock",
+            "definition": "Futi Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388949",
+            "label": "Liuvaatoga Rock",
+            "definition": "Liuvaatoga Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388959",
+            "label": "Luania Rocks",
+            "definition": "Luania Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388961",
+            "label": "Maafee Island",
+            "definition": "Maafee Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388962",
+            "label": "Maalatetele Rocks",
+            "definition": "Maalatetele Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388988",
+            "label": "Manuelo Rock",
+            "definition": "Manuelo Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389008",
+            "label": "Mataitutua Rock",
+            "definition": "Mataitutua Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389010",
+            "label": "Matalia Point",
+            "definition": "Matalia Point is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389043",
+            "label": "Manofā",
+            "definition": "Manofā is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389062",
+            "label": "Niuaveve Rock",
+            "definition": "Niuaveve Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389064",
+            "label": "Niuolepava Rock",
+            "definition": "Niuolepava Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389070",
+            "label": "Nuuiti Rock",
+            "definition": "Nuuiti Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389073",
+            "label": "Nuuomanu Rock",
+            "definition": "Nuuomanu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389076",
+            "label": "Nuuosina Rock",
+            "definition": "Nuuosina Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389077",
+            "label": "Nuupule Rock",
+            "definition": "Nuupule Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389078",
+            "label": "Nuusetoga Island",
+            "definition": "Nuusetoga Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389079",
+            "label": "Nuusilaelae Island",
+            "definition": "Nuusilaelae Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389080",
+            "label": "Nuutai Rock",
+            "definition": "Nuutai Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389081",
+            "label": "Nuutavana Rock",
+            "definition": "Nuutavana Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389082",
+            "label": "Nuʻutele Island",
+            "definition": "Nuʻutele Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389083",
+            "label": "Nuutele Rocks",
+            "definition": "Nuutele Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389087",
+            "label": "Nuututai Rock",
+            "definition": "Nuututai Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389092",
+            "label": "Ofu Island",
+            "definition": "Ofu Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389104",
+            "label": "Olosega Island",
+            "definition": "Olosega Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389139",
+            "label": "Papaseugogo Rock",
+            "definition": "Papaseugogo Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389149",
+            "label": "Pola Island",
+            "definition": "Pola Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389168",
+            "label": "Rocky Point",
+            "definition": "Rocky Point is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389233",
+            "label": "Tafola Rocks",
+            "definition": "Tafola Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389247",
+            "label": "Taputapu Island",
+            "definition": "Taputapu Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389250",
+            "label": "Taʻū Island",
+            "definition": "Taʻū Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389259",
+            "label": "Tauga Rock",
+            "definition": "Tauga Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389262",
+            "label": "Taulaotoga Rock",
+            "definition": "Taulaotoga Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389276",
+            "label": "Tiaoalii Rock",
+            "definition": "Tiaoalii Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389288",
+            "label": "Toasa Rock",
+            "definition": "Toasa Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389289",
+            "label": "Toatai Rock",
+            "definition": "Toatai Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389290",
+            "label": "Toauta Rock",
+            "definition": "Toauta Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389310",
+            "label": "Tulagamatuu Rock",
+            "definition": "Tulagamatuu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389316",
+            "label": "Tutuila Island",
+            "definition": "Tutuila Island is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389323",
+            "label": "Utufotu Rocks",
+            "definition": "Utufotu Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389331",
+            "label": "Utumatuu Rock",
+            "definition": "Utumatuu Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389338",
+            "label": "Utusiva Rock",
+            "definition": "Utusiva Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389392",
+            "label": "Vaotamu Rocks",
+            "definition": "Vaotamu Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389401",
+            "label": "Whale Rock",
+            "definition": "Whale Rock is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1940820",
+            "label": "Samoa Islands",
+            "definition": "Samoa Islands is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966536",
+            "label": "Flowerpot Rocks",
+            "definition": "Flowerpot Rocks is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966556",
+            "label": "Manuʻa Islands",
+            "definition": "Manuʻa Islands is a specific Island in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2575225",
+            "label": "Rose Atoll",
+            "definition": "Rose Atoll is a specific Island in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "bc41b491-35e5-431f-8306-bb05c2c75848",
+        "label": "Sea",
+        "definition": "Sea is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388632",
+            "label": "South Pacific Ocean",
+            "definition": "South Pacific Ocean is a specific Sea in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "887c49c5-12b2-4f48-a626-9260d35d733c",
+        "label": "Stream",
+        "definition": "Stream is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388636",
+            "label": "Aasu Stream",
+            "definition": "Aasu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388639",
+            "label": "Afimuao Stream",
+            "definition": "Afimuao Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388642",
+            "label": "Afu Stream",
+            "definition": "Afu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388643",
+            "label": "Afuelo Stream",
+            "definition": "Afuelo Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388645",
+            "label": "Afulei Stream",
+            "definition": "Afulei Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388647",
+            "label": "Afutele Stream",
+            "definition": "Afutele Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388648",
+            "label": "Aga Stream",
+            "definition": "Aga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388653",
+            "label": "Agaputuputu Stream",
+            "definition": "Agaputuputu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388655",
+            "label": "Agasii Stream",
+            "definition": "Agasii Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388663",
+            "label": "Alega Stream",
+            "definition": "Alega Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388665",
+            "label": "Alei Stream",
+            "definition": "Alei Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388672",
+            "label": "Amaile Stream",
+            "definition": "Amaile Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388677",
+            "label": "Amano Stream",
+            "definition": "Amano Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388678",
+            "label": "Amate Stream",
+            "definition": "Amate Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388682",
+            "label": "Amouli Stream",
+            "definition": "Amouli Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388689",
+            "label": "Anasosopo Stream",
+            "definition": "Anasosopo Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388696",
+            "label": "Aonoi Stream",
+            "definition": "Aonoi Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388704",
+            "label": "Asili Stream",
+            "definition": "Asili Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388706",
+            "label": "Atauloma Stream",
+            "definition": "Atauloma Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388712",
+            "label": "Audii Stream",
+            "definition": "Audii Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388721",
+            "label": "Auvai Stream",
+            "definition": "Auvai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388722",
+            "label": "Auvaiola Stream",
+            "definition": "Auvaiola Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388723",
+            "label": "Auvaipe Stream",
+            "definition": "Auvaipe Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388733",
+            "label": "Avau Stream",
+            "definition": "Avau Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388744",
+            "label": "Etemuli Stream",
+            "definition": "Etemuli Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388749",
+            "label": "Faalogo Stream",
+            "definition": "Faalogo Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388758",
+            "label": "Faatafe Stream",
+            "definition": "Faatafe Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388764",
+            "label": "Fagaalu Stream",
+            "definition": "Fagaalu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388797",
+            "label": "Faigatoa Stream",
+            "definition": "Faigatoa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388804",
+            "label": "Faleiulu Stream",
+            "definition": "Faleiulu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388829",
+            "label": "Filivili Stream",
+            "definition": "Filivili Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388835",
+            "label": "Fogalilimu Stream",
+            "definition": "Fogalilimu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388843",
+            "label": "Fuafua Stream",
+            "definition": "Fuafua Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388848",
+            "label": "Fusiloa Stream",
+            "definition": "Fusiloa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388851",
+            "label": "Gagamoe Stream",
+            "definition": "Gagamoe Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388852",
+            "label": "Gaoa Stream",
+            "definition": "Gaoa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388863",
+            "label": "Laloafu Stream",
+            "definition": "Laloafu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388865",
+            "label": "Laloi Stream",
+            "definition": "Laloi Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388866",
+            "label": "Lalolamauta Stream",
+            "definition": "Lalolamauta Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388872",
+            "label": "Laolao Stream",
+            "definition": "Laolao Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388873",
+            "label": "Laoulu Stream",
+            "definition": "Laoulu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388878",
+            "label": "Laufuti Stream",
+            "definition": "Laufuti Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388882",
+            "label": "Lausaa Stream",
+            "definition": "Lausaa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388885",
+            "label": "Leafu Stream",
+            "definition": "Leafu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388898",
+            "label": "Leasi Stream",
+            "definition": "Leasi Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388900",
+            "label": "Leau Stream",
+            "definition": "Leau Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388904",
+            "label": "Leaute Stream",
+            "definition": "Leaute Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388905",
+            "label": "Leaveave Stream",
+            "definition": "Leaveave Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388908",
+            "label": "Leele Stream",
+            "definition": "Leele Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388926",
+            "label": "Lepa Stream",
+            "definition": "Lepa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388936",
+            "label": "Lesea Stream",
+            "definition": "Lesea Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388937",
+            "label": "Lesina Stream",
+            "definition": "Lesina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388942",
+            "label": "Leua Stream",
+            "definition": "Leua Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388969",
+            "label": "Maga Stream",
+            "definition": "Maga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388974",
+            "label": "Malaetia Stream",
+            "definition": "Malaetia Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388975",
+            "label": "Malagateine Stream",
+            "definition": "Malagateine Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388986",
+            "label": "Maloata Stream",
+            "definition": "Maloata Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388992",
+            "label": "Mapusagatuai Stream",
+            "definition": "Mapusagatuai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389001",
+            "label": "Mataalii Stream",
+            "definition": "Mataalii Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389006",
+            "label": "Matagimalie Stream",
+            "definition": "Matagimalie Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389012",
+            "label": "Matasina Stream",
+            "definition": "Matasina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389022",
+            "label": "Matavai Stream",
+            "definition": "Matavai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389035",
+            "label": "Maululu Stream",
+            "definition": "Maululu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389037",
+            "label": "Maupua Stream",
+            "definition": "Maupua Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389041",
+            "label": "Misa Stream",
+            "definition": "Misa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389051",
+            "label": "Muliolevai Stream",
+            "definition": "Muliolevai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389054",
+            "label": "Mulivai Stream",
+            "definition": "Mulivai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389056",
+            "label": "Mulivaitele Stream",
+            "definition": "Mulivaitele Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389069",
+            "label": "Nuu Stream",
+            "definition": "Nuu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389085",
+            "label": "Nuutoga Stream",
+            "definition": "Nuutoga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389121",
+            "label": "Pago Stream",
+            "definition": "Pago Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389131",
+            "label": "Panota Stream",
+            "definition": "Panota Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389132",
+            "label": "Papa Stream",
+            "definition": "Papa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389143",
+            "label": "Papausi Stream",
+            "definition": "Papausi Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389160",
+            "label": "Puna Stream",
+            "definition": "Puna Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389165",
+            "label": "Punaomanuia Stream",
+            "definition": "Punaomanuia Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389170",
+            "label": "Sagamea Stream",
+            "definition": "Sagamea Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389180",
+            "label": "Sauaimoe Stream",
+            "definition": "Sauaimoe Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389181",
+            "label": "Sauino Stream",
+            "definition": "Sauino Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389183",
+            "label": "Saumolia Stream",
+            "definition": "Saumolia Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389187",
+            "label": "Siapapa Stream",
+            "definition": "Siapapa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389188",
+            "label": "Sigaloa Stream",
+            "definition": "Sigaloa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389194",
+            "label": "Sina Stream",
+            "definition": "Sina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389198",
+            "label": "Sinapoto Stream",
+            "definition": "Sinapoto Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389200",
+            "label": "Sinavevela Stream",
+            "definition": "Sinavevela Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389210",
+            "label": "Siufaga Stream",
+            "definition": "Siufaga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389217",
+            "label": "Soonapule Stream",
+            "definition": "Soonapule Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389218",
+            "label": "Souga Stream",
+            "definition": "Souga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389223",
+            "label": "Suaia Stream",
+            "definition": "Suaia Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389231",
+            "label": "Tafe Stream",
+            "definition": "Tafe Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389237",
+            "label": "Tagau Stream",
+            "definition": "Tagau Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389239",
+            "label": "Talaisina Stream",
+            "definition": "Talaisina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389240",
+            "label": "Talaloa Stream",
+            "definition": "Talaloa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389246",
+            "label": "Tapua Stream",
+            "definition": "Tapua Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389253",
+            "label": "Tauese Stream",
+            "definition": "Tauese Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389264",
+            "label": "Taumata Stream",
+            "definition": "Taumata Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389265",
+            "label": "Taumulimalo Stream",
+            "definition": "Taumulimalo Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389267",
+            "label": "Televai Stream",
+            "definition": "Televai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389275",
+            "label": "Tialu Stream",
+            "definition": "Tialu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389291",
+            "label": "Tofu Stream",
+            "definition": "Tofu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389296",
+            "label": "Topea Stream",
+            "definition": "Topea Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389304",
+            "label": "Tuavaa Stream",
+            "definition": "Tuavaa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389307",
+            "label": "Tufu Stream",
+            "definition": "Tufu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389319",
+            "label": "Ulafala Stream",
+            "definition": "Ulafala Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389322",
+            "label": "Utanuatele Stream",
+            "definition": "Utanuatele Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389325",
+            "label": "Utulaina Stream",
+            "definition": "Utulaina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389334",
+            "label": "Utumoa Stream",
+            "definition": "Utumoa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389341",
+            "label": "Vaaui Stream",
+            "definition": "Vaaui Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389346",
+            "label": "Vaialae Stream",
+            "definition": "Vaialae Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389347",
+            "label": "Vaialili Stream",
+            "definition": "Vaialili Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389348",
+            "label": "Vaialufai Stream",
+            "definition": "Vaialufai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389351",
+            "label": "Vaifusi Stream",
+            "definition": "Vaifusi Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389353",
+            "label": "Vailoa Stream",
+            "definition": "Vailoa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389357",
+            "label": "Vailolo Stream",
+            "definition": "Vailolo Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389360",
+            "label": "Vaima Stream",
+            "definition": "Vaima Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389361",
+            "label": "Vaimumu Stream",
+            "definition": "Vaimumu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389364",
+            "label": "Vainuulua Stream",
+            "definition": "Vainuulua Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389366",
+            "label": "Vaiola Stream",
+            "definition": "Vaiola Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389367",
+            "label": "Vaiolefuga Stream",
+            "definition": "Vaiolefuga Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389368",
+            "label": "Vaipito Stream",
+            "definition": "Vaipito Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389371",
+            "label": "Vaipuna Stream",
+            "definition": "Vaipuna Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389373",
+            "label": "Vaisa Stream",
+            "definition": "Vaisa Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389380",
+            "label": "Vaisina Stream",
+            "definition": "Vaisina Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389382",
+            "label": "Vaitai Stream",
+            "definition": "Vaitai Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389386",
+            "label": "Vaitele Stream",
+            "definition": "Vaitele Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389390",
+            "label": "Vaitolu Stream",
+            "definition": "Vaitolu Stream is a specific Stream in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389400",
+            "label": "Visa Stream",
+            "definition": "Visa Stream is a specific Stream in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5e80fe87-672c-4b39-954d-bcd69d8e636f",
+        "label": "Ridge",
+        "definition": "Ridge is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388638",
+            "label": "Afimuao Ridge",
+            "definition": "Afimuao Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388657",
+            "label": "Alaeli Ridge",
+            "definition": "Alaeli Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388664",
+            "label": "Alei Ridge",
+            "definition": "Alei Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388667",
+            "label": "Alili Ridge",
+            "definition": "Alili Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388671",
+            "label": "Amaile Ridge",
+            "definition": "Amaile Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388728",
+            "label": "Avapui Ridge",
+            "definition": "Avapui Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388796",
+            "label": "Faiga Ridge",
+            "definition": "Faiga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388807",
+            "label": "Faleselau Ridge",
+            "definition": "Faleselau Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388821",
+            "label": "Fatutea Ridge",
+            "definition": "Fatutea Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388828",
+            "label": "Filimaoi Ridge",
+            "definition": "Filimaoi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388842",
+            "label": "Fuaau Ridge",
+            "definition": "Fuaau Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388844",
+            "label": "Fugalei Ridge",
+            "definition": "Fugalei Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388847",
+            "label": "Fusi Ridge",
+            "definition": "Fusi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388871",
+            "label": "Laloulu Ridge",
+            "definition": "Laloulu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388877",
+            "label": "Lauagae Ridge",
+            "definition": "Lauagae Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388901",
+            "label": "Leauga Ridge",
+            "definition": "Leauga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388911",
+            "label": "Leemo Ridge",
+            "definition": "Leemo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388912",
+            "label": "Lefao Ridge",
+            "definition": "Lefao Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388913",
+            "label": "Lefutu Ridge",
+            "definition": "Lefutu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388918",
+            "label": "Lemafa Ridge",
+            "definition": "Lemafa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388920",
+            "label": "Leʻolo Ridge",
+            "definition": "Leʻolo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388921",
+            "label": "Leolo Ridge",
+            "definition": "Leolo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388924",
+            "label": "Leoo Ridge",
+            "definition": "Leoo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388938",
+            "label": "Lesolo Ridge",
+            "definition": "Lesolo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388939",
+            "label": "Lesui Ridge",
+            "definition": "Lesui Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388946",
+            "label": "Levaga Ridge",
+            "definition": "Levaga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388965",
+            "label": "Maatulua Ridge",
+            "definition": "Maatulua Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388971",
+            "label": "Mako Ridge",
+            "definition": "Mako Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388976",
+            "label": "Malagatiga Ridge",
+            "definition": "Malagatiga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388978",
+            "label": "Malaloto Ridge",
+            "definition": "Malaloto Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388981",
+            "label": "Maliefetaliai Ridge",
+            "definition": "Maliefetaliai Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388989",
+            "label": "Manunu Ridge",
+            "definition": "Manunu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388996",
+            "label": "Masinaoleafiafi Ridge",
+            "definition": "Masinaoleafiafi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388999",
+            "label": "Mataalā Ridge",
+            "definition": "Mataalā Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389000",
+            "label": "Mataālaosagamai Ridge",
+            "definition": "Mataālaosagamai Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389014",
+            "label": "Matautu Ridge",
+            "definition": "Matautu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389018",
+            "label": "Matautuloa Ridge",
+            "definition": "Matautuloa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389023",
+            "label": "Matavalu Ridge",
+            "definition": "Matavalu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389026",
+            "label": "Maugaele Ridge",
+            "definition": "Maugaele Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389027",
+            "label": "Maugaleoo Ridge",
+            "definition": "Maugaleoo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389029",
+            "label": "Maugaloa Ridge",
+            "definition": "Maugaloa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389030",
+            "label": "Maugaoalii Ridge",
+            "definition": "Maugaoalii Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389033",
+            "label": "Maugasaa Ridge",
+            "definition": "Maugasaa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389047",
+            "label": "Motusaga Ridge",
+            "definition": "Motusaga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389049",
+            "label": "Mulimauga Ridge",
+            "definition": "Mulimauga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389060",
+            "label": "Niualuau Ridge",
+            "definition": "Niualuau Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389061",
+            "label": "Niuasele Ridge",
+            "definition": "Niuasele Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389097",
+            "label": "Ogetu Ridge",
+            "definition": "Ogetu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389098",
+            "label": "Olo Ridge",
+            "definition": "Olo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389105",
+            "label": "Olotafatafa Ridge",
+            "definition": "Olotafatafa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389118",
+            "label": "Pagatatua Ridge",
+            "definition": "Pagatatua Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389127",
+            "label": "Palapala Ridge",
+            "definition": "Palapala Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389141",
+            "label": "Papatele Ridge",
+            "definition": "Papatele Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389144",
+            "label": "Patupatu Ridge",
+            "definition": "Patupatu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389150",
+            "label": "Polauta Ridge",
+            "definition": "Polauta Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389173",
+            "label": "Saililagi Ridge",
+            "definition": "Saililagi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389182",
+            "label": "Sauma Ridge",
+            "definition": "Sauma Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389185",
+            "label": "Sepu Ridge",
+            "definition": "Sepu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389186",
+            "label": "Seumalo Ridge",
+            "definition": "Seumalo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389193",
+            "label": "Sina Ridge",
+            "definition": "Sina Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389213",
+            "label": "Siulepa Ridge",
+            "definition": "Siulepa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389214",
+            "label": "Siuono Ridge",
+            "definition": "Siuono Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389222",
+            "label": "Suaavamuli Ridge",
+            "definition": "Suaavamuli Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389244",
+            "label": "Tapepe Ridge",
+            "definition": "Tapepe Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389252",
+            "label": "Tauese Ridge",
+            "definition": "Tauese Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389254",
+            "label": "Taufanua Ridge",
+            "definition": "Taufanua Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389258",
+            "label": "Tauga Ridge",
+            "definition": "Tauga Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389261",
+            "label": "Taugasega Ridge",
+            "definition": "Taugasega Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389266",
+            "label": "Tavalagi Ridge",
+            "definition": "Tavalagi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389269",
+            "label": "Tia Ridge",
+            "definition": "Tia Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389273",
+            "label": "Tialeogaumu Ridge",
+            "definition": "Tialeogaumu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389274",
+            "label": "Tialiufau Ridge",
+            "definition": "Tialiufau Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389278",
+            "label": "Tiaseu Ridge",
+            "definition": "Tiaseu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389279",
+            "label": "Tiatauala Ridge",
+            "definition": "Tiatauala Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389280",
+            "label": "Tiatele Ridge",
+            "definition": "Tiatele Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389283",
+            "label": "Timolea Ridge",
+            "definition": "Timolea Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389286",
+            "label": "Toa Ridge",
+            "definition": "Toa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389292",
+            "label": "Togotogo Ridge",
+            "definition": "Togotogo Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389293",
+            "label": "Toiloto Ridge",
+            "definition": "Toiloto Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389301",
+            "label": "Tuasina Ridge",
+            "definition": "Tuasina Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389302",
+            "label": "Tuasivitasi Ridge",
+            "definition": "Tuasivitasi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389303",
+            "label": "Tuatafa Ridge",
+            "definition": "Tuatafa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389308",
+            "label": "Tuigaava Ridge",
+            "definition": "Tuigaava Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389314",
+            "label": "Tunoa Ridge",
+            "definition": "Tunoa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389315",
+            "label": "Tutu Ridge",
+            "definition": "Tutu Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389327",
+            "label": "Utulelei Ridge",
+            "definition": "Utulelei Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389329",
+            "label": "Utuloa Ridge",
+            "definition": "Utuloa Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389345",
+            "label": "Vaiala Ridge",
+            "definition": "Vaiala Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389398",
+            "label": "Vesitau Ridge",
+            "definition": "Vesitau Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966603",
+            "label": "Usi Ridge",
+            "definition": "Usi Ridge is a specific Ridge in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "20073056-a58f-4e19-a15c-fbe82facd395",
+        "label": "Bay",
+        "definition": "Bay is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388641",
+            "label": "Āfono Bay",
+            "definition": "Āfono Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388646",
+            "label": "Afuli Cove",
+            "definition": "Afuli Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388652",
+            "label": "Agapie Cove",
+            "definition": "Agapie Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388659",
+            "label": "Alatele Cove",
+            "definition": "Alatele Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388676",
+            "label": "Amanave Bay",
+            "definition": "Amanave Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388684",
+            "label": "Anapeapea Cove",
+            "definition": "Anapeapea Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388692",
+            "label": "Aoa Bay",
+            "definition": "Aoa Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388693",
+            "label": "Aoloau Bay",
+            "definition": "Aoloau Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388711",
+            "label": "Auauli Cove",
+            "definition": "Auauli Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388713",
+            "label": "Aufotu Cove",
+            "definition": "Aufotu Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388714",
+            "label": "Augaloloa Cove",
+            "definition": "Augaloloa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388729",
+            "label": "Avatele Cove",
+            "definition": "Avatele Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388751",
+            "label": "Faasamene Cove",
+            "definition": "Faasamene Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388761",
+            "label": "Faga Cove",
+            "definition": "Faga Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388765",
+            "label": "Fagafue Bay",
+            "definition": "Fagafue Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388768",
+            "label": "Fagaʻitua",
+            "definition": "Fagaʻitua is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388774",
+            "label": "Fagalua Cove",
+            "definition": "Fagalua Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388777",
+            "label": "Fagamalo Cove",
+            "definition": "Fagamalo Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388783",
+            "label": "Fagasā",
+            "definition": "Fagasā is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388786",
+            "label": "Fagatele Bay",
+            "definition": "Fagatele Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388787",
+            "label": "Fagatele Cove",
+            "definition": "Fagatele Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388793",
+            "label": "Fagatuitui Cove",
+            "definition": "Fagatuitui Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388836",
+            "label": "Fogamaa Cove",
+            "definition": "Fogamaa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388868",
+            "label": "Laloniu Cove",
+            "definition": "Laloniu Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388874",
+            "label": "Larsen Bay",
+            "definition": "Larsen Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388883",
+            "label": "Lavania Cove",
+            "definition": "Lavania Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388923",
+            "label": "Leone Bay",
+            "definition": "Leone Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388929",
+            "label": "Lepisi Cove",
+            "definition": "Lepisi Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388950",
+            "label": "Loa Cove",
+            "definition": "Loa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388963",
+            "label": "Maamaa Cove",
+            "definition": "Maamaa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388966",
+            "label": "Maefu Cove",
+            "definition": "Maefu Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388985",
+            "label": "Māloatā Bay",
+            "definition": "Māloatā Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388995",
+            "label": "Masefau Bay",
+            "definition": "Masefau Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388997",
+            "label": "Massacre Bay",
+            "definition": "Massacre Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389044",
+            "label": "Mooliuvaa Cove",
+            "definition": "Mooliuvaa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389068",
+            "label": "Nua-Seetaga Bay",
+            "definition": "Nua-Seetaga Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389071",
+            "label": "Nuuolemaa Cove",
+            "definition": "Nuuolemaa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389074",
+            "label": "Nuuoosegi Cove",
+            "definition": "Nuuoosegi Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389075",
+            "label": "Nuuooti Cove",
+            "definition": "Nuuooti Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389090",
+            "label": "Oalii Cove",
+            "definition": "Oalii Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389114",
+            "label": "Pa Cove",
+            "definition": "Pa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389115",
+            "label": "Paapala Cove",
+            "definition": "Paapala Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389120",
+            "label": "Pago Pago Harbor",
+            "definition": "Pago Pago Harbor is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389133",
+            "label": "Papafaasee Cove",
+            "definition": "Papafaasee Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389152",
+            "label": "Poloa Bay",
+            "definition": "Poloa Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389202",
+            "label": "Sita Bay",
+            "definition": "Sita Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389227",
+            "label": "Tafaga Cove",
+            "definition": "Tafaga Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389232",
+            "label": "Tāfeu Cove",
+            "definition": "Tāfeu Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389241",
+            "label": "Taligai Cove",
+            "definition": "Taligai Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389284",
+            "label": "Toa Cove",
+            "definition": "Toa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389336",
+            "label": "Utusegisegi Cove",
+            "definition": "Utusegisegi Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389340",
+            "label": "Vaaogeoge Cove",
+            "definition": "Vaaogeoge Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389343",
+            "label": "Vai Cove",
+            "definition": "Vai Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389350",
+            "label": "Vaifoa Cove",
+            "definition": "Vaifoa Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389358",
+            "label": "Vailoloaitiiti Cove",
+            "definition": "Vailoloaitiiti Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389359",
+            "label": "Vailoloatele Cove",
+            "definition": "Vailoloatele Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389396",
+            "label": "Vatia Bay",
+            "definition": "Vatia Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389397",
+            "label": "Vava Cove",
+            "definition": "Vava Cove is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966523",
+            "label": "Fagaʻalu Bay",
+            "definition": "Fagaʻalu Bay is a specific Bay in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966532",
+            "label": "Faleasao Harbor",
+            "definition": "Faleasao Harbor is a specific Bay in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "725547b2-e930-4321-8a68-21c43d4023cb",
+        "label": "Summit",
+        "definition": "Summit is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388661",
+            "label": "Alava Mountain",
+            "definition": "Alava Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388743",
+            "label": "Etemuli Mountain",
+            "definition": "Etemuli Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388811",
+            "label": "Fatifati Mountain",
+            "definition": "Fatifati Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388826",
+            "label": "Fafiqa Peak",
+            "definition": "Fafiqa Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388827",
+            "label": "Filiae Mountain",
+            "definition": "Filiae Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388839",
+            "label": "Fogatia Hill",
+            "definition": "Fogatia Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388875",
+            "label": "Lata Mountain",
+            "definition": "Lata Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388884",
+            "label": "Leaeno Mountain",
+            "definition": "Leaeno Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388891",
+            "label": "Lealaeli Hill",
+            "definition": "Lealaeli Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388892",
+            "label": "Lealafaalava Mountain",
+            "definition": "Lealafaalava Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388896",
+            "label": "Leaoao Peak",
+            "definition": "Leaoao Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388907",
+            "label": "Leele Mountain",
+            "definition": "Leele Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388915",
+            "label": "Leila Mountain",
+            "definition": "Leila Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388916",
+            "label": "Leileia Mountain",
+            "definition": "Leileia Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388953",
+            "label": "Logotala Hill",
+            "definition": "Logotala Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388987",
+            "label": "Maluatia Hill",
+            "definition": "Maluatia Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389004",
+            "label": "Matafao Peak",
+            "definition": "Matafao Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389005",
+            "label": "Matafaofafine Peak",
+            "definition": "Matafaofafine Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389007",
+            "label": "Matai Mountain",
+            "definition": "Matai Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389011",
+            "label": "Matape Hill",
+            "definition": "Matape Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389032",
+            "label": "Maugaotula Peak",
+            "definition": "Maugaotula Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389040",
+            "label": "Milomilo Mountain",
+            "definition": "Milomilo Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389066",
+            "label": "North Pioa Mountain",
+            "definition": "North Pioa Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389102",
+            "label": "Olomoana Mountain",
+            "definition": "Olomoana Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389107",
+            "label": "Olotele Mountain",
+            "definition": "Olotele Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389126",
+            "label": "Palapala Mountain",
+            "definition": "Palapala Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389129",
+            "label": "Palapalaloa Mountain",
+            "definition": "Palapalaloa Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389147",
+            "label": "Piumafua Mountain",
+            "definition": "Piumafua Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389148",
+            "label": "Pofala Hill",
+            "definition": "Pofala Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389196",
+            "label": "Sinapioa Mountain",
+            "definition": "Sinapioa Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389201",
+            "label": "Siona Mountain",
+            "definition": "Siona Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389219",
+            "label": "South Pioa Mountain",
+            "definition": "South Pioa Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389225",
+            "label": "Sunuʻitao Peak",
+            "definition": "Sunuʻitao Peak is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389236",
+            "label": "Tagau Mountain",
+            "definition": "Tagau Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389251",
+            "label": "Tau Mountain",
+            "definition": "Tau Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389263",
+            "label": "Taumata Mountain",
+            "definition": "Taumata Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389268",
+            "label": "Tepatasi Mountain",
+            "definition": "Tepatasi Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389313",
+            "label": "Tumutumu Mountain",
+            "definition": "Tumutumu Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389342",
+            "label": "Vaea Hill",
+            "definition": "Vaea Hill is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389362",
+            "label": "Vainuu Mountain",
+            "definition": "Vainuu Mountain is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966563",
+            "label": "Mauga o Aliʻi",
+            "definition": "Mauga o Aliʻi is a specific Summit in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966586",
+            "label": "Solo Hill",
+            "definition": "Solo Hill is a specific Summit in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "fbdf1c0d-0f97-4289-ace6-882f7e268cc0",
+        "label": "Spring",
+        "definition": "Spring is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388668",
+            "label": "Alili Spring",
+            "definition": "Alili Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388822",
+            "label": "Fatutea Spring",
+            "definition": "Fatutea Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388862",
+            "label": "Lago Spring",
+            "definition": "Lago Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388980",
+            "label": "Malama Spring",
+            "definition": "Malama Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389159",
+            "label": "Puna Spring",
+            "definition": "Puna Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389163",
+            "label": "Punaloa Spring",
+            "definition": "Punaloa Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389242",
+            "label": "Talitoelau Spring",
+            "definition": "Talitoelau Spring is a specific Spring in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389352",
+            "label": "Vailega Spring",
+            "definition": "Vailega Spring is a specific Spring in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "652c8983-448a-4440-a6ef-3ac5bcbc300e",
+        "label": "Bar",
+        "definition": "Bar is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388683",
+            "label": "Amuula Rock",
+            "definition": "Amuula Rock is a specific Bar in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389057",
+            "label": "Nāfanua Bank",
+            "definition": "Nāfanua Bank is a specific Bar in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389226",
+            "label": "Tāemā Bank",
+            "definition": "Tāemā Bank is a specific Bar in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "3a785e03-bf12-47eb-a520-3a20f1fbc145",
+        "label": "Channel",
+        "definition": "Channel is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388698",
+            "label": "Asaga Strait",
+            "definition": "Asaga Strait is a specific Channel in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388699",
+            "label": "Āsaga Strait",
+            "definition": "Āsaga Strait is a specific Channel in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388730",
+            "label": "Avatele Passage",
+            "definition": "Avatele Passage is a specific Channel in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389059",
+            "label": "Narragansett Passage",
+            "definition": "Narragansett Passage is a specific Channel in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389349",
+            "label": "Vaiava Strait",
+            "definition": "Vaiava Strait is a specific Channel in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "18a65415-85b3-46f6-9566-806a21c06503",
+        "label": "Crater",
+        "definition": "Crater is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388788",
+            "label": "Fagatele Crater",
+            "definition": "Fagatele Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388837",
+            "label": "Fogamaa Crater",
+            "definition": "Fogamaa Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388859",
+            "label": "Judds Crater",
+            "definition": "Judds Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388934",
+            "label": "Lepue Crater",
+            "definition": "Lepue Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389099",
+            "label": "Oloava Crater",
+            "definition": "Oloava Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389100",
+            "label": "Olomanu Crater",
+            "definition": "Olomanu Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389101",
+            "label": "Olomatimu Crater",
+            "definition": "Olomatimu Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389106",
+            "label": "Olotania Crater",
+            "definition": "Olotania Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389109",
+            "label": "Olovalu Crater",
+            "definition": "Olovalu Crater is a specific Crater in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389356",
+            "label": "Vailoatai Crater",
+            "definition": "Vailoatai Crater is a specific Crater in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "72004fa0-0362-43d8-a1ff-dbf7f33d5e90",
+        "label": "Swamp",
+        "definition": "Swamp is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388799",
+            "label": "Faimulivai Marsh",
+            "definition": "Faimulivai Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388869",
+            "label": "Lalopapa Marsh",
+            "definition": "Lalopapa Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389128",
+            "label": "Palapalaloa Marsh",
+            "definition": "Palapalaloa Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389255",
+            "label": "Taufusi Marsh",
+            "definition": "Taufusi Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389256",
+            "label": "Taufusitele Marsh",
+            "definition": "Taufusitele Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389393",
+            "label": "Va‘oto",
+            "definition": "Va‘oto is a specific Swamp in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966596",
+            "label": "Ta‘ū Marsh",
+            "definition": "Ta‘ū Marsh is a specific Swamp in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d4a7e2c2-9a91-4f35-a56a-04d1a315650f",
+        "label": "Valley",
+        "definition": "Valley is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388856",
+            "label": "Happy Valley",
+            "definition": "Happy Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1388972",
+            "label": "Malaeimi Valley",
+            "definition": "Malaeimi Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389164",
+            "label": "Punaoa Valley",
+            "definition": "Punaoa Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389370",
+            "label": "Vaipito Valley",
+            "definition": "Vaipito Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966511",
+            "label": "Alegā Valley",
+            "definition": "Alegā Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966513",
+            "label": "Amalau Valley",
+            "definition": "Amalau Valley is a specific Valley in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966516",
+            "label": "ʻAoa Valley",
+            "definition": "ʻAoa Valley is a specific Valley in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "94f01749-5ab0-4fa4-bc8d-e0aecff82686",
+        "label": "Gap",
+        "definition": "Gap is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388919",
+            "label": "Lemafa Saddle",
+            "definition": "Lemafa Saddle is a specific Gap in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966528",
+            "label": "Fagasā Pass",
+            "definition": "Fagasā Pass is a specific Gap in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966580",
+            "label": "Rainmaker Pass",
+            "definition": "Rainmaker Pass is a specific Gap in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2562823",
+            "label": "Āfono Pass",
+            "definition": "Āfono Pass is a specific Gap in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "65d856ea-ba8a-4ec6-9e78-038186a29e24",
+        "label": "Bench",
+        "definition": "Bench is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388948",
+            "label": "Liu Bench",
+            "definition": "Liu Bench is a specific Bench in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "eb5991da-242b-4031-b1c6-f2f902fa5111",
+        "label": "Falls",
+        "definition": "Falls is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388954",
+            "label": "Logoua Falls",
+            "definition": "Logoua Falls is a specific Falls in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389192",
+            "label": "Sina Fall",
+            "definition": "Sina Fall is a specific Falls in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389272",
+            "label": "Tiaiu Falls",
+            "definition": "Tiaiu Falls is a specific Falls in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966549",
+            "label": "Leone Falls",
+            "definition": "Leone Falls is a specific Falls in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966606",
+            "label": "Virgin Falls",
+            "definition": "Virgin Falls is a specific Falls in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5d07ccbd-16c6-4f44-ae85-4d0e94d03fb5",
+        "label": "Pillar",
+        "definition": "Pillar is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1388957",
+            "label": "Lotofaaee Rock",
+            "definition": "Lotofaaee Rock is a specific Pillar in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "f11d884f-6338-4cf9-b4da-7fa69d3050d7",
+        "label": "Area",
+        "definition": "Area is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1389042",
+            "label": "Moega-a-uila",
+            "definition": "Moega-a-uila is a specific Area in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966578",
+            "label": "Pisaga",
+            "definition": "Pisaga is a specific Area in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "3f0b2133-3ca9-4404-a365-f2f6160c1789",
+        "label": "Lake",
+        "definition": "Lake is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1389123",
+            "label": "Pala Lagoon",
+            "definition": "Pala Lagoon is a specific Lake in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389125",
+            "label": "Pala Lake",
+            "definition": "Pala Lake is a specific Lake in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1389383",
+            "label": "Vaitanoa Pool",
+            "definition": "Vaitanoa Pool is a specific Lake in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966581",
+            "label": "Red Lake",
+            "definition": "Red Lake is a specific Lake in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "ff2b6bb5-e53d-43ea-8470-ba78a23e1eff",
+        "label": "Civil",
+        "definition": "Civil is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1802701",
+            "label": "Territory of American Samoa",
+            "definition": "Territory of American Samoa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1805240",
+            "label": "Eastern District",
+            "definition": "Eastern District is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1805241",
+            "label": "Western District",
+            "definition": "Western District is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1805242",
+            "label": "Manuʻa District",
+            "definition": "Manuʻa District is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1805243",
+            "label": "Rose Island",
+            "definition": "Rose Island is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1805244",
+            "label": "Swains Island",
+            "definition": "Swains Island is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966522",
+            "label": "East Vaifanua County (historical)",
+            "definition": "East Vaifanua County (historical) is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966543",
+            "label": "Ituʻaū County",
+            "definition": "Ituʻaū County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966546",
+            "label": "Leālātaua County",
+            "definition": "Leālātaua County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966547",
+            "label": "Leāsina County",
+            "definition": "Leāsina County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966565",
+            "label": "Mauputasi County",
+            "definition": "Mauputasi County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966585",
+            "label": "Sā‘ole County",
+            "definition": "Sā‘ole County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966589",
+            "label": "Sua County",
+            "definition": "Sua County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966599",
+            "label": "Tūalātai County",
+            "definition": "Tūalātai County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966600",
+            "label": "Tuālāuta County",
+            "definition": "Tuālāuta County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966607",
+            "label": "West Vaifanua County (historical)",
+            "definition": "West Vaifanua County (historical) is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414174",
+            "label": "Faleasao County",
+            "definition": "Faleasao County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414175",
+            "label": "Fitiuta County",
+            "definition": "Fitiuta County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414180",
+            "label": "Ofu County",
+            "definition": "Ofu County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414181",
+            "label": "Olosega County",
+            "definition": "Olosega County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414183",
+            "label": "Ta‘u County",
+            "definition": "Ta‘u County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414187",
+            "label": "Vaifanua County",
+            "definition": "Vaifanua County is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414188",
+            "label": "Village of Aasu",
+            "definition": "Village of Aasu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414189",
+            "label": "Village of Afao",
+            "definition": "Village of Afao is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414190",
+            "label": "Village of Afono",
+            "definition": "Village of Afono is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414191",
+            "label": "Village of Agugulu",
+            "definition": "Village of Agugulu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414192",
+            "label": "Village of Alao",
+            "definition": "Village of Alao is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414193",
+            "label": "Village of Alega",
+            "definition": "Village of Alega is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414194",
+            "label": "Village of Alofau",
+            "definition": "Village of Alofau is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414195",
+            "label": "Village of Amaluia",
+            "definition": "Village of Amaluia is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414196",
+            "label": "Village of Amanave",
+            "definition": "Village of Amanave is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414197",
+            "label": "Village of Amaua",
+            "definition": "Village of Amaua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414198",
+            "label": "Village of Amouli",
+            "definition": "Village of Amouli is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414199",
+            "label": "Village of Anua",
+            "definition": "Village of Anua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414200",
+            "label": "Village of Aoa",
+            "definition": "Village of Aoa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414201",
+            "label": "Village of Aoloau",
+            "definition": "Village of Aoloau is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414202",
+            "label": "Village of Asili",
+            "definition": "Village of Asili is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414203",
+            "label": "Village of Atu‘u",
+            "definition": "Village of Atu‘u is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414204",
+            "label": "Village of Aua",
+            "definition": "Village of Aua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414205",
+            "label": "Village of Auasi",
+            "definition": "Village of Auasi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414206",
+            "label": "Village of Aumi",
+            "definition": "Village of Aumi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414207",
+            "label": "Village of Aunu‘u",
+            "definition": "Village of Aunu‘u is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414208",
+            "label": "Village of Auto",
+            "definition": "Village of Auto is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414209",
+            "label": "Village of Avaio",
+            "definition": "Village of Avaio is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414210",
+            "label": "Village of Faga‘alu",
+            "definition": "Village of Faga‘alu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414211",
+            "label": "Village of Faga‘itua",
+            "definition": "Village of Faga‘itua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414212",
+            "label": "Village of Fagali‘i",
+            "definition": "Village of Fagali‘i is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414213",
+            "label": "Village of Fagamalo",
+            "definition": "Village of Fagamalo is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414214",
+            "label": "Village of Faganeanea",
+            "definition": "Village of Faganeanea is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414215",
+            "label": "Village of Fagasa",
+            "definition": "Village of Fagasa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414216",
+            "label": "Village of Fagatogo",
+            "definition": "Village of Fagatogo is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414217",
+            "label": "Village of Failolo",
+            "definition": "Village of Failolo is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414218",
+            "label": "Village of Faleasao",
+            "definition": "Village of Faleasao is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414219",
+            "label": "Village of Faleniu",
+            "definition": "Village of Faleniu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414220",
+            "label": "Village of Fatumafuti",
+            "definition": "Village of Fatumafuti is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414221",
+            "label": "Village of Futiga",
+            "definition": "Village of Futiga is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414222",
+            "label": "Village of Ili‘ili",
+            "definition": "Village of Ili‘ili is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414223",
+            "label": "Village of Lauliʻi",
+            "definition": "Village of Lauliʻi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414224",
+            "label": "Village of Leloaloa",
+            "definition": "Village of Leloaloa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414225",
+            "label": "Village of Leone",
+            "definition": "Village of Leone is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414226",
+            "label": "Village of Leusoali‘i",
+            "definition": "Village of Leusoali‘i is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414227",
+            "label": "Village of Luma",
+            "definition": "Village of Luma is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414228",
+            "label": "Village of Maia",
+            "definition": "Village of Maia is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414229",
+            "label": "Village of Malaeimi",
+            "definition": "Village of Malaeimi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414230",
+            "label": "Village of Malaeloa/Aitulagi",
+            "definition": "Village of Malaeloa/Aitulagi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414231",
+            "label": "Village of Malaeloa/Ituau",
+            "definition": "Village of Malaeloa/Ituau is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414232",
+            "label": "Village of Maloata",
+            "definition": "Village of Maloata is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414233",
+            "label": "Village of Mapusagafou",
+            "definition": "Village of Mapusagafou is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414234",
+            "label": "Village of Masausi",
+            "definition": "Village of Masausi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414235",
+            "label": "Village of Masefau",
+            "definition": "Village of Masefau is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414236",
+            "label": "Village of Matu‘u",
+            "definition": "Village of Matu‘u is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414237",
+            "label": "Village of Mesepa",
+            "definition": "Village of Mesepa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414238",
+            "label": "Village of Nua",
+            "definition": "Village of Nua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414240",
+            "label": "Village of Nu‘uuli",
+            "definition": "Village of Nu‘uuli is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414241",
+            "label": "Village of Ofu",
+            "definition": "Village of Ofu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414242",
+            "label": "Village of Olosega",
+            "definition": "Village of Olosega is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414243",
+            "label": "Village of Onenoa",
+            "definition": "Village of Onenoa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414244",
+            "label": "Village of Pagai",
+            "definition": "Village of Pagai is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414245",
+            "label": "Village of Pago Pago",
+            "definition": "Village of Pago Pago is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414246",
+            "label": "Village of Pava‘ia‘i",
+            "definition": "Village of Pava‘ia‘i is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414247",
+            "label": "Village of Poloa",
+            "definition": "Village of Poloa is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414248",
+            "label": "Village of Sa‘ilele",
+            "definition": "Village of Sa‘ilele is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414249",
+            "label": "Village of Se‘etaga",
+            "definition": "Village of Se‘etaga is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414250",
+            "label": "Village of Sili",
+            "definition": "Village of Sili is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414251",
+            "label": "Village of Si‘ufaga",
+            "definition": "Village of Si‘ufaga is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414252",
+            "label": "Village of Swains",
+            "definition": "Village of Swains is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414253",
+            "label": "Village of Tafuna",
+            "definition": "Village of Tafuna is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414254",
+            "label": "Village of Taputimu",
+            "definition": "Village of Taputimu is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414255",
+            "label": "Village of Tula",
+            "definition": "Village of Tula is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414256",
+            "label": "Village of Utulei",
+            "definition": "Village of Utulei is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414257",
+            "label": "Village of Utumea East",
+            "definition": "Village of Utumea East is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414258",
+            "label": "Village of Utumea West",
+            "definition": "Village of Utumea West is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414259",
+            "label": "Village of Vailoatai",
+            "definition": "Village of Vailoatai is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414260",
+            "label": "Village of Vaitogi",
+            "definition": "Village of Vaitogi is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2414261",
+            "label": "Village of Vatia",
+            "definition": "Village of Vatia is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2507987",
+            "label": "Village of Auma",
+            "definition": "Village of Auma is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2507988",
+            "label": "Village of Puapua",
+            "definition": "Village of Puapua is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2507989",
+            "label": "Village of Satala",
+            "definition": "Village of Satala is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2507990",
+            "label": "Village of Utusia",
+            "definition": "Village of Utusia is a specific Civil in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "2764881",
+            "label": "Ma'oputasi County",
+            "definition": "Ma'oputasi County is a specific Civil in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "d7cfd4b6-677e-4198-886c-7fa7d241b814",
+        "label": "Beach",
+        "definition": "Beach is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1966510",
+            "label": "Alega Beach",
+            "definition": "Alega Beach is a specific Beach in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966538",
+            "label": "Freddies Beach",
+            "definition": "Freddies Beach is a specific Beach in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966568",
+            "label": "Palagi Beach",
+            "definition": "Palagi Beach is a specific Beach in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966587",
+            "label": "South Ofu Beach",
+            "definition": "South Ofu Beach is a specific Beach in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "c3c70acb-32f7-49aa-b5cb-75aa6f47c000",
+        "label": "Plain",
+        "definition": "Plain is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1966594",
+            "label": "Tāfuna Plain",
+            "definition": "Tāfuna Plain is a specific Plain in American Samoa.",
+            "children": []
+          },
+          {
+            "uuid": "1966597",
+            "label": "Tualatai Plain",
+            "definition": "Tualatai Plain is a specific Plain in American Samoa.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "4a102500-2545-422a-909d-7716457e1329",
+        "label": "Military",
+        "definition": "Military is a type of feature found in American Samoa.",
+        "children": [
+          {
+            "uuid": "1966601",
+            "label": "United States Naval Station Tutuila (historical)",
+            "definition": "United States Naval Station Tutuila (historical) is a specific Military in American Samoa.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
