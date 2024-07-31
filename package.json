@@ -19,6 +19,7 @@
     "gnis": "yarn build && node dist/harvesters/index.js gnis && yarn build:manifest",
     "lint": "prettier --check . && eslint .",
     "format": "prettier --write .",
+    "nalt": "yarn build && node dist/harvesters/index.js nalt && yarn build:manifest",
     "sb": "yarn sciencebase",
     "sciencebase": "yarn build && node dist/harvesters/index.js sciencebase && yarn build:manifest",
     "usgs": "yarn build && node dist/harvesters/index.js usgs && yarn build:manifest"
