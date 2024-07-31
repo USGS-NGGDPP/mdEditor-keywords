@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2023-12-11T00:00:00-07:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "The Geographic Names Information System (GNIS) is the Federal standard for geographic nomenclature. The U.S. \r\nGeological Survey developed the GNIS for the U.S. Board on Geographic Names, a Federal inter-agency body chartered by public law to maintain uniform feature \r\nname usage throughout the Government and to promulgate standard names to the public. The GNIS is the official repository of domestic geographic names data; the \r\nofficial vehicle for geographic names use by all departments of the Federal Government; and the source for applying geographic names to Federal electronic and \r\nprinted products of all types.",
+    "title": "Geographic Names Information System (GNIS) Full Model Antarctica (published 20231211) pipes",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://prd-tnm.s3.amazonaws.com/StagedProducts/GeographicNames/Antarctica/Gazetteer_Antarctica_Text.jpg"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "gnis-antarctic-thesaurus"
+      }
+    ]
+  },
+  "label": "GNIS Antarctica Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/keywords/gnis-antarctica.json"
+}

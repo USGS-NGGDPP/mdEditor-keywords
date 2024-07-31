@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Private",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-0901b01e-447a-45b5-a716-33ac9b8bc27a.json"
+  },
+  {
+    "name": "Platform Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-0cde2885-d08e-4539-9055-99d9a4754df0.json"
+  },
+  {
+    "name": "Projection Authority",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-0cffc8cf-f913-43c8-9c7b-179eb6749c4f.json"
+  },
+  {
+    "name": "IDN Nodes",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-118d366b-c4c7-432c-bd96-4cee2263a541.json"
+  },
+  {
+    "name": "Horizontal Resolution Ranges",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-1499785c-8b74-45f4-bbf7-19d2d4e43b2f.json"
+  },
+  {
+    "name": "Dataset Progress",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-1638caf0-d46c-4858-8916-ec14d82cb44c.json"
+  },
+  {
+    "name": "Coordinate System",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-1984b2b1-e3b1-4b66-8e6a-f5994d8d0cfd.json"
+  },
+  {
+    "name": "Science Keywords",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-1eb0ea0a-312c-4d74-8d42-6f1ad758f999.json"
+  },
+  {
+    "name": "Spatial Coverage Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-26a99b0d-1f56-4969-844e-4b213a036873.json"
+  },
+  {
+    "name": "ISO Topic Categories",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-27fa831b-f131-4f6d-8020-cc4ab0896249.json"
+  },
+  {
+    "name": "Measurement Name",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-2bc6e372-93d8-4672-96b1-ec159aff2e19.json"
+  },
+  {
+    "name": "Metadata Language",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-475934c7-e05f-4547-aaa3-b0cf01afff06.json"
+  },
+  {
+    "name": "Temporal Resolution Ranges",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-502ad03c-dba8-4b32-8af5-13fa947c3988.json"
+  },
+  {
+    "name": "Product Flag",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-54cfb555-6e95-4e89-96b9-57863cbf732f.json"
+  },
+  {
+    "name": "Disciplines",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-5b98265f-7cd1-4976-bc78-1ac1e6b9b90f.json"
+  },
+  {
+    "name": "Personnel Role",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-5c07062e-1ad1-4721-bc0f-f2d51352c2c1.json"
+  },
+  {
+    "name": "Collection Data Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-62a5777d-3582-498a-b900-54110baf8eb4.json"
+  },
+  {
+    "name": "Product Level Id",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-6eb7a3bb-2330-4086-9a77-79e46470f1e6.json"
+  },
+  {
+    "name": "Dataset Language",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-79ec7ee3-0013-4ef7-a439-bbfcce88fb38.json"
+  },
+  {
+    "name": "Trash Can",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-7e70bdb4-dbd0-4e35-b715-3a8e843a7805.json"
+  },
+  {
+    "name": "Projection Datum Names",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-7e8086f8-a35a-433d-ba29-9bc948511cd1.json"
+  },
+  {
+    "name": "Related URL Content Types",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-8759ab63-ac04-4136-bc25-0c00eece1096.json"
+  },
+  {
+    "name": "Phone Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-8b0d5cf7-f3b0-4c08-8a31-3727bc4377b9.json"
+  },
+  {
+    "name": "Contact Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-8c84f591-ec2b-4dc4-8002-7fc9586ffcca.json"
+  },
+  {
+    "name": "Data Format",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-8e770fe1-6e82-43aa-9f8a-75d217d7e6cb.json"
+  },
+  {
+    "name": "Vertical Resolution Ranges",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-9728ca44-7bb3-40a4-9dd2-49470ad47fa5.json"
+  },
+  {
+    "name": "Metadata Association Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-9d03a2d8-132d-49ea-95d5-6dea6d769053.json"
+  },
+  {
+    "name": "Projection Name",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-9d37b0bc-31fa-4b2e-b39d-1e19ceefa103.json"
+  },
+  {
+    "name": "Persistent Identifier",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-a4632db2-ea6b-45b3-9a3c-17032b07af67.json"
+  },
+  {
+    "name": "Chronostratigraphic Units",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190.json"
+  },
+  {
+    "name": "Instruments",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-b2140059-b3ca-415c-b0a7-3e142783ffe8.json"
+  },
+  {
+    "name": "Granule Spatial Representation",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-d48348ea-bf06-4f04-91bd-647f3839aefd.json"
+  },
+  {
+    "name": "Organization Personnel Role",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-d6cd58e1-e83e-4718-b48d-08de1aba2f40.json"
+  },
+  {
+    "name": "Distribution Size Unit",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-e0e6f883-9dee-4908-bb76-20adae968df1.json"
+  },
+  {
+    "name": "Multimedia Format",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-e2ad33dc-e1e4-45e3-be83-2efca11e451b.json"
+  },
+  {
+    "name": "Duration Unit",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-e496c2bf-7f1c-461b-93b1-0248e4a5e932.json"
+  },
+  {
+    "name": "Organization Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-e8a3cc69-e3be-4d7e-8b44-6fa5fbbe9a18.json"
+  },
+  {
+    "name": "Operations",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-e97d2b88-a545-4882-801b-40964a2bc723.json"
+  },
+  {
+    "name": "Mime Type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-ec1a1350-be24-42e6-a5cc-ccb806793def.json"
+  },
+  {
+    "name": "Chained Operations",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-ee18f758-071a-4ac8-8cd6-b217270243ea.json"
+  },
+  {
+    "name": "Platforms",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-f3261de5-34c1-4980-af22-f9d7e7206d12.json"
+  },
+  {
+    "name": "Projects",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gcmd-fb0b9fcd-5c96-4989-8c64-a479bbed83ab.json"
+  },
+  {
+    "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-antarctica.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alabama - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-alabama.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alaska - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-alaska.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alberta - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-alberta.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - American Samoa - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-american-samoa.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Arizona - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-arizona.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Arkansas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-arkansas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Baja California Norte - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-baja-california-norte.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - British Columbia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-british-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - California - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-california.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Colorado - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-colorado.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Commonwealth of the Northern Mariana Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-commonwealth-of-the-northern-mariana-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Connecticut - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-connecticut.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Delaware - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-delaware.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - District of Columbia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-district-of-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Florida - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-florida.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Georgia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-georgia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Guam - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-guam.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Hawaii - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-hawaii.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Idaho - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-idaho.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Illinois - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-illinois.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Indiana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-indiana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Iowa - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-iowa.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Kansas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-kansas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Kentucky - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-kentucky.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Louisiana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-louisiana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Maine - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-maine.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Manitoba - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-manitoba.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Maryland - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-maryland.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Massachusetts - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-massachusetts.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Michigan - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-michigan.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Minnesota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-minnesota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Mississippi - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-mississippi.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Missouri - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-missouri.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Montana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-montana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nebraska - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-nebraska.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nevada - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-nevada.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Brunswick - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-new-brunswick.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Hampshire - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-new-hampshire.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Jersey - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-new-jersey.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Mexico - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-new-mexico.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New York - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-new-york.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - North Carolina - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-north-carolina.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - North Dakota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-north-dakota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nunavut - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-nunavut.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Ohio - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-ohio.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Oklahoma - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-oklahoma.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Ontario - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-ontario.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Oregon - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-oregon.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Pennsylvania - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-pennsylvania.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Puerto Rico - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-puerto-rico.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Quebec - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-quebec.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Rhode Island - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-rhode-island.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Saskatchewan - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-saskatchewan.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Sonora - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-sonora.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - South Carolina - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-south-carolina.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - South Dakota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-south-dakota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Tennessee - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-tennessee.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Texas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-texas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - U.S. Minor Outlying Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-u-s--minor-outlying-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - United States Virgin Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-united-states-virgin-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names -  - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-unknown.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Utah - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-utah.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Vermont - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-vermont.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Virginia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-virginia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Washington - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-washington.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - West Virginia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-west-virginia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Wisconsin - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-wisconsin.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Wyoming - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-wyoming.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Yukon - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-yukon.json"
+  },
+  {
+    "name": "userGroup",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-4f4e475ee4b07f02db47df0b.json"
+  },
+  {
+    "name": "primaryPurpose",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-4f4e475ee4b07f02db47df14.json"
+  },
+  {
+    "name": "type",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-4f4e475ee4b07f02db47df1d.json"
+  },
+  {
+    "name": "category",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-4f4e475ee4b07f02db47df22.json"
+  },
+  {
+    "name": "unit",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-4f4e475fe4b07f02db47df7b.json"
+  },
+  {
+    "name": "Collection Theme",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-58b45852e4b0f974afcf03b4.json"
+  },
+  {
+    "name": "NGGDPP ReSciColl ScienceBase Type Tags",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-5bf3f7bce4b00ce5fb627d57.json"
+  },
+  {
+    "name": "Favret Conservation Status (dry)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869cf0d1326bc2b4bed8.json"
+  },
+  {
+    "name": "Favret Conservation Status (fluid)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869df0d1326bc2b4bedc.json"
+  },
+  {
+    "name": "Favret Conservation Status (slide)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869df0d1326bc2b4bee0.json"
+  },
+  {
+    "name": "Favret Container Condition (dry)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869df0d1326bc2b4bee4.json"
+  },
+  {
+    "name": "Favret Container Condition (fluid)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869ef0d1326bc2b4bee9.json"
+  },
+  {
+    "name": "Favret Container Condition (slide)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-6112869ef0d1326bc2b4beed.json"
+  },
+  {
+    "name": "Favret Processing State (dry)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611286a0f0d1326bc2b4befc.json"
+  },
+  {
+    "name": "Favret Processing State (fluid)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611286a0f0d1326bc2b4bf00.json"
+  },
+  {
+    "name": "Favret Processing State (slide)",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611286a1f0d1326bc2b4bf04.json"
+  },
+  {
+    "name": "Hazardous Materials",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611d213fbfff3461918aba48.json"
+  },
+  {
+    "name": "Known To Contain Types",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611d3f2dbfff3461918aba4d.json"
+  },
+  {
+    "name": "Lithography",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/usgs-4-lithclass.json"
+  },
+  {
+    "name": "USGS Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/usgs-thesaurus.json"
+  }
+]
