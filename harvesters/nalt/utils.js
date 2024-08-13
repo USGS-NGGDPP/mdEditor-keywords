@@ -1,3 +1,4 @@
+import dayjs from 'dayjs';
 import fs from 'fs/promises';
 import { Parser, processors } from 'xml2js';
 
@@ -52,7 +53,7 @@ const processEntries = parsedData => {
   return { primaryEntries, defEntries, rootNodes };
 };
 
-const buildJsonStructure = ({ primaryEntries, defEntries, rootNodes }) =>
+const buildHierarchies = ({ primaryEntries, defEntries, rootNodes }) =>
   rootNodes.map(root => createNode(root, primaryEntries, defEntries));
 
 const extractId = entry => entry['rdf:about'].split('/').pop();
@@ -93,7 +94,7 @@ const getDefinition = (entry, defEntries) => {
       return extractEnglishValue(defEntry.value);
     }
   }
-  return null;
+  return '';
 };
 
 const getChildren = (entry, entryMap, defEntries) => {
@@ -111,6 +112,52 @@ const getChildren = (entry, entryMap, defEntries) => {
   return children;
 };
 
+const generateThesaurusConfig = (uuid, label, node, keywordsUrl) => {
+  const thesaurusConfig = {
+    citation: {
+      date: [
+        {
+          date: dayjs(node.modified._).format('YYYY-MM-DDTHH:mm:ssZ'),
+          dateType: 'revision'
+        }
+      ],
+      description: label,
+      title: label,
+      edition: '',
+      onlineResource: [{ uri: node['rdf:about'] }],
+      identifier: [
+        {
+          identifier: uuid
+        }
+      ]
+    },
+    label,
+    keywordsUrl
+  };
+  return thesaurusConfig;
+};
+
+const saveHierarchies = async (
+  hierarchies,
+  outputFilePath,
+  { primaryEntries }
+) => {
+  for (const tree of hierarchies) {
+    const { uuid, label } = tree;
+    const node = primaryEntries.get(uuid);
+    console.log(`Saving tree ${uuid} ${label}`);
+    const filename = `nalt-${uuid}.json`;
+    const treeFilePath = `${outputFilePath}/keywords/${filename}`;
+    const configFile = `${outputFilePath}/thesaurus/${filename}`;
+    const keywordsUrl = `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/${filename}`;
+    const treeConfig = generateThesaurusConfig(uuid, label, node, keywordsUrl);
+    await saveJsonFile(treeFilePath, [tree]);
+    console.log('Keywords saved, saving thesaurus config...');
+    await saveJsonFile(configFile, treeConfig);
+    console.log('Thesaurus config saved');
+  }
+};
+
 const saveJsonFile = async (filePath, data) => {
   console.log(`Saving JSON file to ${filePath}`);
   try {
@@ -124,9 +171,10 @@ const saveJsonFile = async (filePath, data) => {
 };
 
 export {
-  buildJsonStructure,
+  buildHierarchies,
+  generateThesaurusConfig,
   parseXmlData,
   processEntries,
   readXmlFile,
-  saveJsonFile
+  saveHierarchies
 };
