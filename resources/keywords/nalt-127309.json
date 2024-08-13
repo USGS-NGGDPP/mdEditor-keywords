@@ -1,0 +1,2510 @@
+[
+  {
+    "uuid": "127309",
+    "label": "Rural Development, Communities, Education, Extension",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "200353",
+        "label": "economic sustainability",
+        "definition": "The application of economic concepts, models, and tools to the sustainable development of resources, businesses and communities.",
+        "children": [
+          {
+            "uuid": "199652",
+            "label": "life cycle costing",
+            "definition": "The life cycle cost of a product or project includes discounted costs of operation, maintenance, contracting, and disposal/decommissioning in addition to initial acquisition cost.",
+            "children": []
+          },
+          {
+            "uuid": "137795",
+            "label": "environmentally preferable purchasing",
+            "definition": "Buying of renewable, environmentally-friendly or biobased products to provide benefits including climate change impact reduction, energy security and sustainable economic development.",
+            "children": []
+          },
+          {
+            "uuid": "137153",
+            "label": "ecolabeling",
+            "definition": "A symbol, graphic or statement that appears on products or their packaging in order to convey an environmental aspect of that product to the consumer.",
+            "children": []
+          },
+          {
+            "uuid": "198297",
+            "label": "environmental product declaration",
+            "definition": "A standardized (ISO 14025/TR) life-cycle assessment-based mechanism to communicate quantified life-cycle environmental information for a product.",
+            "children": [
+              {
+                "uuid": "315350",
+                "label": "environmental building declaration",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "198301",
+                "label": "product category rule",
+                "definition": "A product category rule is a set of detailed rules, requirements, and guidelines for developing environmental declarations for a class of products. PCRs set the methods and life-cycle assessment boundary conditions that underpin an environmental product declaration.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "137727",
+            "label": "ecological economics",
+            "definition": "A transdisciplinary field of study that integrates environmental, social and economic systems that examines the economic values of non-market products and services where the economy is connected to, and sustained by, a flow of energy and materials in the natural environment.",
+            "children": [
+              {
+                "uuid": "137730",
+                "label": "eco-efficiency",
+                "definition": "The relationship between economic outputs of products, processes and services and their environmental impact, with the goal being efficient use of materials and energy throughout the life cycle in order to reduce economic and ecological costs.",
+                "children": []
+              },
+              {
+                "uuid": "104863",
+                "label": "ecosystem services",
+                "definition": "Benefits people and other organisms obtain from ecosystems; examples include: pure water and clean air, scenic landscapes, wildlife habitat and biodiversity.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "13189",
+        "label": "organizations",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "332000",
+            "label": "National Center for the Replacement, Refinement and Reduction of Animals in Research",
+            "definition": "The NC3Rs is a UK-based scientific organisation dedicated to replacing, refining and reducing the use of animals in research and testing (the 3Rs).",
+            "children": []
+          },
+          {
+            "uuid": "31106303",
+            "label": "Institute for Laboratory Animal Research",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31625",
+            "label": "Dairy Herd Improvement Associations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "48667",
+            "label": "labor unions",
+            "definition": "Association of workers formed for the purpose of collective bargaining with employers for the benefit of the workers, such as wages, working conditions, etc.",
+            "children": []
+          },
+          {
+            "uuid": "54798",
+            "label": "nongovernmental organizations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "14025319",
+            "label": "Universities Federation for Animal Welfare",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47452",
+            "label": "research institutions",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "332042",
+                "label": "Center for Alternatives to Animal Testing",
+                "definition": "CAAT promote humane science by supporting the creation, development, validation, and use of alternatives to animals in research, product safety testing, and education.",
+                "children": []
+              },
+              {
+                "uuid": "9060",
+                "label": "Institutional Animal Care and Use Committee",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "143000",
+                "label": "agricultural experiment stations",
+                "definition": "Centers where scientific research is conducted in order to improve food and agricultural production. Experiment station scientists and staff work with farmers and other members of the agriculture and food industry.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "189406",
+            "label": "water users associations",
+            "definition": "An organization whose members pool resources in a cooperative effort to manage, operate, monitor and maintain a water source or irrigation system.",
+            "children": []
+          },
+          {
+            "uuid": "24807",
+            "label": "Chicago Board of Trade",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30288201",
+            "label": "National Center for the Replacement Refinement and Reduction of Animals in Research",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11787333",
+            "label": "Fund for the Replacement of Animals in Medical Experiments",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "29933196",
+            "label": "Norecopa",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "1489",
+            "label": "youth organizations",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "1464",
+                "label": "4-H clubs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "42085",
+                "label": "Future Farmers of America",
+                "definition": "An organization for high school students studying vocational agriculture.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "125092",
+            "label": "Research and Education Center for Tropical Agriculture",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "304899",
+            "label": "private organizations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68524",
+            "label": "committees",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "9060",
+                "label": "Institutional Animal Care and Use Committee",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "299427",
+                "label": "advisory committees",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "47532",
+            "label": "multinational corporations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "92861",
+            "label": "special interest groups",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "26083665",
+            "label": "North American 3Rs Collaborative",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47536",
+            "label": "international organizations",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "125089",
+                "label": "Inter-American Institute for Cooperation on Agriculture",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "316012",
+                "label": "International Organization for Standardization",
+                "definition": "Worldwide organization consisting of a network of the national standards institutes of countries formed to promote development of standards to facilitate the international carriage and exchange of goods and service and to develop mutual cooperation in the spheres of intellectual, scientific, technological, and economic activities.",
+                "children": []
+              },
+              {
+                "uuid": "302971",
+                "label": "Organization for Economic Cooperation and Development",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28626",
+                "label": "The Nature Conservancy",
+                "definition": "An international conservation organization that purchases lands in order to preserve plants, animals and natural communities.",
+                "children": []
+              },
+              {
+                "uuid": "67718",
+                "label": "World Trade Organization",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40841",
+                "label": "United Nations",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "222360",
+                    "label": "United Nations Educational, Scientific and Cultural Organization",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37459",
+                    "label": "United Nations Environment Programme",
+                    "definition": "International environmental program administered by the United Nations whose mission is to lead countries in efforts to care for the environment.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "66728",
+                    "label": "World Health Organization",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "39464",
+                    "label": "Food and Agriculture Organization",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "329669",
+                "label": "World Organization for Animal Health",
+                "definition": "The World Organisation for Animal Health (OIE) is the intergovernmental organisation responsible for improving animal health worldwide and fighting animal diseases at a global level.",
+                "children": []
+              },
+              {
+                "uuid": "305718",
+                "label": "World Bank",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302549",
+                "label": "Inter-American Development Bank",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "329563",
+                "label": "Association for Assessment and Accreditation of Laboratory Animal Care International",
+                "definition": "AAALAC International is a private, nonprofit organization that promotes the humane treatment of animals in science through voluntary accreditation and assessment programs.",
+                "children": []
+              },
+              {
+                "uuid": "302557",
+                "label": "International Union of Forest Research Organization",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "329840",
+            "label": "Animal Welfare Institute",
+            "definition": "The Animal Welfare Institute is an American, non-profit, charitable organization founded in 1951 with the goal of reducing pain and fear inflicted on animals by humans. Its legislative division, the Society for Animal Protective Legislation, pushes for the passage of laws that reflect this purpose.",
+            "children": []
+          },
+          {
+            "uuid": "89601",
+            "label": "professional societies",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "329686",
+                "label": "American Society for Cellular and Computational Toxicology",
+                "definition": "The American Society for Cellular and Computational Toxicology (ASCCT) is a scientific society dedicated to the promotion of toxicology testing and research that reduces and replaces the use of animals.",
+                "children": []
+              },
+              {
+                "uuid": "329142",
+                "label": "American Association for Laboratory Animal Science",
+                "definition": "American Association for Laboratory Animal Science (AALAS) is an association of professionals that advances responsible laboratory animal care and use to benefit people and animals.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "311683",
+            "label": "Interagency Coordinating Committee on the Validation of Alternative Methods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "56110",
+            "label": "trade associations",
+            "definition": "An organization comprised of businesses, manufacturers and individuals who are in the same trade or industry and have organized in order to promote common interests, such as promotion of an industry or adoption of standards within an industry.",
+            "children": []
+          },
+          {
+            "uuid": "304914",
+            "label": "producer groups",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "9092",
+        "label": "communication (human)",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "28254",
+            "label": "communication skills",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "28261",
+                "label": "public speaking",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28262",
+                "label": "writing skills",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "137691",
+            "label": "persuasion",
+            "definition": "A mode of communication concerned with inducing or urging the adoption of certain beliefs, theories, or lines of action by others.",
+            "children": [
+              {
+                "uuid": "137707",
+                "label": "statistical appeal",
+                "definition": "Persuasive tactic which uses statistical evidence to communicate a message, usually evoking a cognitive response.",
+                "children": []
+              },
+              {
+                "uuid": "137706",
+                "label": "narrative appeal",
+                "definition": "Persuasive tactic which uses descriptive evidence in the form of stories to communicate a message, usually evoking an emotional response.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "18349",
+            "label": "nonverbal communication",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28256",
+            "label": "oral communication",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28257",
+            "label": "terminology",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "137698",
+            "label": "message mapping",
+            "definition": "A model that hierarchically organizes an organization's messages regarding controversial issues.",
+            "children": []
+          },
+          {
+            "uuid": "28255",
+            "label": "languages",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "96815",
+            "label": "agricultural communications",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "32264",
+        "label": "demography",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "35753",
+            "label": "socioeconomic status",
+            "definition": "A stratum of people with similar position and prestige; includes social stratification. Social class is measured by criteria such as education, occupation, and income.",
+            "children": [
+              {
+                "uuid": "225104",
+                "label": "social mobility",
+                "definition": "The upward or downward movement of individuals or groups into different positions in a social hierarchy based on wealth, income, occupation, education, social power, or any other scarce social resources. A society with a high rate of social mobility and good opportunities for upward social mobility is not egalitarian but does maximize opportunities for one individual or group to get more of the society's scarce resources than other individuals or groups can get.",
+                "children": []
+              },
+              {
+                "uuid": "225101",
+                "label": "social inequality",
+                "definition": "A condition in which various members of a society have unequal amounts of income, prestige, and social power.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "30853",
+            "label": "demographic statistics",
+            "definition": "Concept limited to the population statistics of any population.",
+            "children": []
+          },
+          {
+            "uuid": "32262",
+            "label": "sociodemographic characteristics",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "200354",
+        "label": "social sustainability",
+        "definition": "The component of sustainability that includes human rights, labor rights, and national, international and corporate governance.",
+        "children": []
+      },
+      {
+        "uuid": "4388",
+        "label": "education",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "28870",
+            "label": "cooking instruction",
+            "definition": "An educational method utilized to demonstrate food preparation techniques.",
+            "children": []
+          },
+          {
+            "uuid": "35875",
+            "label": "medical education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "302162",
+            "label": "educational planning",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "5330",
+            "label": "extension education",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "1492",
+                "label": "extension programs",
+                "definition": "Structured programs (such as the Master Gardener Program, Pesticide Certification Program, etc.) with a target audience and defined curricula which is conducted within a specific period of time.",
+                "children": []
+              },
+              {
+                "uuid": "71010",
+                "label": "agricultural extension",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35873",
+            "label": "educational resources",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "4385",
+            "label": "adult education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30857",
+            "label": "curriculum",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28667",
+            "label": "nutrition education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35880",
+            "label": "science education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35871",
+            "label": "educational methods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "88104",
+            "label": "parenthood education",
+            "definition": "An organized program that teaches children or teenagers about child care and development, and the role of parents. It provides information, knowledge, awareness and skills for effective parenthood.",
+            "children": []
+          },
+          {
+            "uuid": "27918",
+            "label": "higher education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "33462",
+            "label": "health education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "305846",
+            "label": "technical training",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "76665",
+            "label": "continuing education",
+            "definition": "Educational programs designed to inform individuals of recent advances in their particular field of interest. They do not lead to any formal advanced standing.",
+            "children": []
+          },
+          {
+            "uuid": "35095",
+            "label": "early childhood education",
+            "definition": "Education of students from preschool through grade 3.",
+            "children": [
+              {
+                "uuid": "146677",
+                "label": "kindergarten",
+                "definition": "The first year of formal education for children usually between 4 and 6 years of age, preparing them for first grade in elementary school.",
+                "children": []
+              },
+              {
+                "uuid": "205179",
+                "label": "Head Start",
+                "definition": "A federal program that promotes the school readiness of children ages birth to 5 from low-income families by enhancing their cognitive, social and emotional development.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35878",
+            "label": "professional education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24925",
+            "label": "special education",
+            "definition": "Education programs for students who need specialized teaching methods or materials because they have different intellectual, physical, emotional or social characteristics than the normal student.",
+            "children": []
+          },
+          {
+            "uuid": "35872",
+            "label": "educational policy",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "22453",
+            "label": "career education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "1490",
+            "label": "education programs",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35884",
+            "label": "veterinary education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "301805",
+            "label": "community education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35882",
+            "label": "teacher education",
+            "definition": "Education or training of teachers.",
+            "children": []
+          },
+          {
+            "uuid": "28274",
+            "label": "educational institutions",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "302034",
+                "label": "child development centers",
+                "definition": "Educational facilities for preschool children, which also provide health and family services- originally used in connection with Project Head Start for centers in which cooperation of family, community, and professional staff contribute to the total development of the child.",
+                "children": []
+              },
+              {
+                "uuid": "27924",
+                "label": "universities",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "35899",
+                "label": "schools",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "36244",
+                    "label": "elementary schools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "45542",
+                    "label": "high schools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "282962",
+                    "label": "veterinary schools",
+                    "definition": "Educational institutions for individuals specializing in the field of veterinary medicine.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "60477",
+                    "label": "public schools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "59657",
+                    "label": "private schools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "59576",
+                    "label": "preschools",
+                    "definition": "Schools for preschool children, usually 2 1/2 to 5 1/2 years of age-- nursery school programs are either part-day or part-week and may be operated as a service by public schools, or for profit by other agencies or individuals.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "48181",
+                    "label": "middle schools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68291",
+                    "label": "small schools",
+                    "definition": "Although the designation of \"small\" is relative to locale, small schools of grades K-12 usually do not exceed 750 students.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "135291",
+                "label": "agricultural colleges",
+                "definition": "Educational institutions offering a curriculum in agricultural sciences.",
+                "children": []
+              },
+              {
+                "uuid": "135887",
+                "label": "tribal colleges",
+                "definition": "Post-secondary educational institutions on tribal lands in the United States; Native American colleges given land grant status by an Act of Congress in 1994 are known as the 1994 Institutions.",
+                "children": []
+              },
+              {
+                "uuid": "28273",
+                "label": "community colleges",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35874",
+            "label": "elementary education",
+            "definition": "Education of students from kindergarten through grades 6, 7, or 8 (which is dependent on the school system).",
+            "children": []
+          },
+          {
+            "uuid": "34083",
+            "label": "distance education",
+            "definition": "Education delivery via one or more communications media (e.g., correspondence, radio, television, video, computer) with little or no classroom or other face-to-face contact between teachers and students.",
+            "children": [
+              {
+                "uuid": "106064",
+                "label": "online courses",
+                "definition": "Educational lessons delivered via the Internet to students. Students and instructor may not meet face to face but interact through web-based software and email.",
+                "children": []
+              },
+              {
+                "uuid": "106065",
+                "label": "online degrees",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35879",
+            "label": "rural education and training",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35876",
+            "label": "mentoring",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "142446",
+            "label": "vocational education",
+            "definition": "Education for specific trades or occupations.",
+            "children": []
+          },
+          {
+            "uuid": "35877",
+            "label": "patient education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "26408",
+            "label": "civic education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35883",
+            "label": "training (people)",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "11366",
+                "label": "job training",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302547",
+                "label": "inservice training",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41037",
+                "label": "food service training",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302804",
+                "label": "supervisory training",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5311",
+            "label": "agricultural education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24090",
+            "label": "educational status",
+            "definition": "Educational attainment or level of education of individuals.",
+            "children": [
+              {
+                "uuid": "106067",
+                "label": "academic degrees",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "1942",
+                "label": "academic achievement",
+                "definition": "Accomplishments relating to education, learning and study, especially in schools and higher educational institutions.",
+                "children": []
+              },
+              {
+                "uuid": "24087",
+                "label": "certification (education)",
+                "definition": "Receipt of documentation of the completion of a course of study which does not lead to a diploma.",
+                "children": []
+              },
+              {
+                "uuid": "4398",
+                "label": "literacy",
+                "definition": "Ability to read and write.",
+                "children": [
+                  {
+                    "uuid": "50371",
+                    "label": "reading",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4393",
+                    "label": "adult literacy",
+                    "definition": "The ability of adults (ages 18 and older) to read and write.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "205657",
+                "label": "low educational status",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28428",
+                "label": "computer literacy",
+                "definition": "Having the basic skills in the use of computers.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35881",
+            "label": "secondary education",
+            "definition": "Education of students from grade 7, 8, or 9 through grade 12 (which is dependent on the school system).",
+            "children": []
+          },
+          {
+            "uuid": "33481",
+            "label": "dietetic education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35789",
+            "label": "environmental education",
+            "definition": "Educational programs and training about environmental issues, environmental protection and environmental management.",
+            "children": []
+          },
+          {
+            "uuid": "28666",
+            "label": "consumer education",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "2172",
+        "label": "culture and humanities",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "30671",
+            "label": "cultural differences",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30675",
+            "label": "cultural environment",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23336",
+            "label": "traditions",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "14252",
+            "label": "honors and awards",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "14249",
+                "label": "awards",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "270748",
+                "label": "Nobel Prize",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "30698",
+            "label": "religion",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "91722",
+                "label": "scientology",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "212270",
+                "label": "Christianity",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "68617",
+                "label": "Muslims",
+                "definition": "People who practice the religion of Islam.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "23332",
+            "label": "celebrations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68507",
+            "label": "ethnic differences",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11891",
+            "label": "arts",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "11890",
+                "label": "architecture",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12659",
+                "label": "design",
+                "definition": "The component of the planning process which controls the actual physical changes that will occur in time and space. At higher levels of planning, the design component sets the general guidelines for the spatial pattern and physical character of development. At the individual project level design is the activity which sets the precise character, pattern and form of the project environment.",
+                "children": [
+                  {
+                    "uuid": "4408",
+                    "label": "tamper-resistant design",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4407",
+                    "label": "tamper-evident design",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21008",
+                    "label": "equipment design",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "12662",
+                "label": "performing arts",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302315",
+                "label": "graphic arts",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12663",
+                "label": "visual arts",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12661",
+                "label": "literature",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12660",
+                "label": "handicrafts",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "23334",
+            "label": "national holidays",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23335",
+            "label": "religious holidays",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "2173",
+            "label": "cultural behavior",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30699",
+            "label": "vacations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "2174",
+            "label": "cultural heritage",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "68304",
+                "label": "historic preservation",
+                "definition": "The identification, rehabilitation, maintenance and protection of historically important architecture, buildings, sites, landmarks, landscapes or other cultural objects.",
+                "children": []
+              },
+              {
+                "uuid": "68300",
+                "label": "historic sites",
+                "definition": "Any area, site, structure or landmark that has special significance to the history, pre-history, architecture or culture of a region, locality, community or nation.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4758",
+            "label": "aesthetics",
+            "definition": "Pertaining to the quality of human perceptual experience (including sight, sound, smell, touch, taste, and movement) evoked by phenomena or elements or configurations of elements in the environment.",
+            "children": []
+          },
+          {
+            "uuid": "68550",
+            "label": "philosophy",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "298979",
+                "label": "metaphysics",
+                "definition": "The branch of philosophy that treats of first principles, including ontology (the nature of existence or being) and cosmology (the origin and structure of the universe).",
+                "children": []
+              },
+              {
+                "uuid": "17341",
+                "label": "ethics",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "250021",
+                    "label": "social justice",
+                    "definition": "An interactive process whereby members of a community are concerned for the equality and rights of all.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "9553",
+                    "label": "bioethics",
+                    "definition": "A branch of applied ethics that studies the value implications of practices and developments in life sciences, medicine, and health care.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68554",
+                    "label": "whistleblowing",
+                    "definition": "The reporting of observed or suspected professional misconduct or incompetence to appropriate authorities or to the public.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305114",
+                    "label": "professional ethics",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "2169",
+            "label": "acculturation",
+            "definition": "The processes and results of contact between two or more different cultures. Generally, acculturation brings about considerable diffusion of cultural traits in one or more directions. However, other change-processes also occur, such as development of new intercultural roles, the growth of new customs not found in either culture and the disintegration of older cultural forms.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "774",
+        "label": "people",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "780",
+            "label": "nomadic people",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "785",
+            "label": "teams",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24716",
+            "label": "chemists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11036",
+            "label": "beekeepers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68609",
+            "label": "agronomists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "18789",
+            "label": "botanists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "783",
+            "label": "recreation users",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9520",
+            "label": "technicians",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "2138",
+            "label": "people with disabilities",
+            "definition": "People who have a disability or impairment of any type that interferes with their daily usual activities and are unable to perform certain functions as most others. They may need some special accomodations.",
+            "children": []
+          },
+          {
+            "uuid": "775",
+            "label": "consumers (people)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "6592",
+            "label": "health care workers",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "6594",
+                "label": "midwives",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34271",
+                "label": "physicians",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "58065",
+                    "label": "surgeons",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "57161",
+                    "label": "pediatricians",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "42590",
+                    "label": "general practitioners",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "6596",
+                "label": "nutritionists",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "6595",
+                "label": "nurses",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "6591",
+                "label": "allied health professionals",
+                "definition": "Health care workers specially trained and licensed to assist and support the work of health professionals. Often used synonymously with paramedical personnel, the term generally refers to all health care workers who perform tasks which must otherwise be performed by a physician or other health professional.",
+                "children": []
+              },
+              {
+                "uuid": "44744",
+                "label": "veterinarians",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "333157",
+                "label": "diabetes educators",
+                "definition": "A health care professional who teaches people who have diabetes how to manage their diabetes.",
+                "children": []
+              },
+              {
+                "uuid": "6593",
+                "label": "dietitians",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "68433",
+            "label": "acarologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "511",
+            "label": "homemakers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "52937",
+            "label": "military personnel",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35885",
+            "label": "teachers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41224",
+            "label": "foresters",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "776",
+            "label": "dropouts",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "298701",
+            "label": "blood donors",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "45747",
+            "label": "homeless people",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "777",
+            "label": "gangs (people)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "302953",
+            "label": "park rangers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "137683",
+            "label": "risk communicators",
+            "definition": "Persons who perform risk communication.",
+            "children": []
+          },
+          {
+            "uuid": "787",
+            "label": "tourists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9521",
+            "label": "caregivers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "48144",
+            "label": "journalists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28649",
+            "label": "consultants",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11819",
+            "label": "arborists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "53090",
+            "label": "miners (people)",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "302310",
+                "label": "gold miners",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302311",
+                "label": "coal miners",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "49371",
+            "label": "police",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "32380",
+            "label": "dentists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "17471",
+            "label": "scientists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13597",
+            "label": "athletes",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "809",
+            "label": "men",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "335071",
+            "label": "librarians",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "37144",
+            "label": "engineers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68611",
+            "label": "plant breeders",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "4284",
+            "label": "supervisors",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "779",
+            "label": "landowners",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7596",
+            "label": "nationalities and ethnic groups",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "30481",
+                "label": "Hispanics",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12957",
+                "label": "Pacific Islanders",
+                "definition": "People who identify themselves as having origins in any of the original peoples of Hawaii, Guam, Samoa, or other Pacific Islands.",
+                "children": []
+              },
+              {
+                "uuid": "1773",
+                "label": "indigenous peoples",
+                "definition": "People native to a particular area.",
+                "children": [
+                  {
+                    "uuid": "7597",
+                    "label": "First Nations",
+                    "definition": "The aboriginal groups formally recognized by the Canadian government under the federal Indian Act of 1876.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "5979",
+                    "label": "American Indians",
+                    "definition": "Peoples indigenous to North, Central and South Americas, except Alaska.",
+                    "children": [
+                      {
+                        "uuid": "300740",
+                        "label": "Apache Indians",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "301569",
+                        "label": "Navajo Indians",
+                        "definition": "Peoples indigenous to Southwestern United States. It is the largest tribe of all Native American Indians.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "5971",
+                    "label": "Alaska Natives",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "5972",
+                    "label": "Eskimos",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "68643",
+                "label": "Blacks",
+                "definition": "People who identify themselves as having origins in any of the black racial groups of Africa.",
+                "children": []
+              },
+              {
+                "uuid": "12931",
+                "label": "Asians",
+                "definition": "People identify themselves as having origins in any of the original peoples of the Far East, Southeast Asia, or the India subcontinent.",
+                "children": [
+                  {
+                    "uuid": "68637",
+                    "label": "Asian Indians",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68632",
+                    "label": "Southeast Asians",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "68630",
+                        "label": "Vietnamese people",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68635",
+                        "label": "Filipinos",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68634",
+                        "label": "Thai people",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "68627",
+                    "label": "Japanese people",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68629",
+                    "label": "Koreans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68628",
+                    "label": "Chinese people",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "30673",
+                "label": "multicultural diversity",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "68618",
+                "label": "Arabs",
+                "definition": "People who identify their nationality, ethnic identity, ancestry or first language as Arabic.",
+                "children": []
+              },
+              {
+                "uuid": "68623",
+                "label": "Australians",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "84400",
+                "label": "Latinos",
+                "definition": "People who identify their nationality, ethnic identity, or ancestry as Latin American",
+                "children": []
+              },
+              {
+                "uuid": "68621",
+                "label": "Europeans",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4840",
+                "label": "Americans",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "70924",
+                    "label": "African Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "68645",
+                    "label": "Asian Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "7651",
+                    "label": "Cuban Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "314848",
+                    "label": "North Americans",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "68620",
+                        "label": "Canadians",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "314854",
+                        "label": "Americans (United States)",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68626",
+                        "label": "Mexicans",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "82690",
+                    "label": "Hispanic Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "7652",
+                    "label": "Mexican Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "314847",
+                    "label": "South Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "222522",
+                    "label": "European Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "315335",
+                    "label": "Central Americans",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "68622",
+                "label": "Africans",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "23124",
+                "label": "Whites",
+                "definition": "People who identify themselves as having origins in any of the original peoples of Europe, North Africa, or the Middle East.",
+                "children": [
+                  {
+                    "uuid": "75260",
+                    "label": "Caucasian Americans",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "96266",
+                    "label": "White Americans",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "68638",
+                "label": "Cubans",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "45626",
+                "label": "Puerto Ricans",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "48105",
+                "label": "Jews",
+                "definition": "People who practice Judaism and/or identify their ethnic identity or ancestry as Jewish.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "55545",
+            "label": "textile workers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "55544",
+            "label": "sociologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "302194",
+            "label": "electricians",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68610",
+            "label": "animal breeders",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "231474",
+            "label": "refugees",
+            "definition": "Persons fleeing to a place of safety, especially those who flee to a foreign country or power to escape danger or persecution in their own country or habitual residence because of race, religion, or political belief.",
+            "children": []
+          },
+          {
+            "uuid": "810",
+            "label": "women",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "48737",
+                "label": "lactating women",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "36906",
+                "label": "employed women",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51652",
+                "label": "pregnant women",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "67389",
+                "label": "women in agriculture",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "61835",
+                "label": "rural women",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "1849",
+                "label": "abused women",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "28775",
+            "label": "contractors",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "807",
+            "label": "boys",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "53110",
+            "label": "minorities (people)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "39491",
+            "label": "farmers",
+            "definition": "A person who is engaged in the raising of crops, poultry or livestock.",
+            "children": [
+              {
+                "uuid": "39534",
+                "label": "growers",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "68605",
+                "label": "ranchers",
+                "definition": "People who raise livestock on rangeland.",
+                "children": []
+              },
+              {
+                "uuid": "39536",
+                "label": "socially disadvantaged farmers",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "334589",
+                "label": "small-scale farmers",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39535",
+                "label": "limited resource farmers",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "302296",
+            "label": "geologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68191",
+            "label": "homeowners",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "137842",
+            "label": "stakeholders",
+            "definition": "Individuals, groups or organizations that have an interest in or are affected by the activities of government, business or other organization.",
+            "children": []
+          },
+          {
+            "uuid": "802",
+            "label": "peers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "39511",
+            "label": "equipment operators",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "69331",
+            "label": "activists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "55540",
+            "label": "pest control operators",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68480",
+            "label": "horticulturists",
+            "definition": "Persons educated in the science and art of cultivating fruits, vegetables and ornamental plants.",
+            "children": []
+          },
+          {
+            "uuid": "784",
+            "label": "students",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "4311",
+                "label": "college students",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "36245",
+                "label": "elementary students",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4314",
+                "label": "middle school students",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "310506",
+                "label": "graduate students",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "334478",
+                "label": "minority students",
+                "definition": "Students who are members of minority groups.",
+                "children": []
+              },
+              {
+                "uuid": "339203",
+                "label": "students with disabilities",
+                "definition": "Students who have a disability or impairment of any type that interferes with their daily usual activities and are unable to perform certain functions as most others. They may need some special accomodations.",
+                "children": []
+              },
+              {
+                "uuid": "4312",
+                "label": "high school students",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "55542",
+            "label": "professionals",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "39508",
+            "label": "farm operators",
+            "definition": "An individual or group that controls the day-to-day management and decision-making of a farming operation.",
+            "children": []
+          },
+          {
+            "uuid": "262563",
+            "label": "hunters",
+            "definition": "A person who hunts wild animals for food or their parts (skin, hairs, feathers, bones etc.) or in sport.",
+            "children": []
+          },
+          {
+            "uuid": "788",
+            "label": "volunteers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "805",
+            "label": "spouses",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "137029",
+            "label": "risk assessors",
+            "definition": "Persons who perform risk assessment.",
+            "children": []
+          },
+          {
+            "uuid": "42948",
+            "label": "people with special needs",
+            "definition": "People who are identified as needing special assistance, special physical environment, special training, special technology, or etc. which is beyond what is typically required by most of the population. People with special needs may include the disabled, financially disadvantaged, limited English-speakers, people with emotional problems, or homeless people.",
+            "children": []
+          },
+          {
+            "uuid": "41038",
+            "label": "food service workers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40253",
+            "label": "fire fighters",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35717",
+            "label": "ecologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "5308",
+            "label": "economists",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "35782",
+                "label": "home economists",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "5305",
+                "label": "agricultural economists",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "55541",
+            "label": "physiologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "792",
+            "label": "toddlers",
+            "definition": "Young children who are just learning to walk.",
+            "children": []
+          },
+          {
+            "uuid": "304988",
+            "label": "office workers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "786",
+            "label": "veterans",
+            "definition": "Any person with extended experience in a particular occupation or activity.",
+            "children": []
+          },
+          {
+            "uuid": "4283",
+            "label": "managers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "37355",
+            "label": "entomologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "55543",
+            "label": "researchers",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "808",
+            "label": "girls",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68607",
+            "label": "geneticists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47148",
+            "label": "tribal peoples",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28650",
+            "label": "experts",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "55546",
+            "label": "zoologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "57126",
+            "label": "peasantry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "793",
+            "label": "youth",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "61838",
+                "label": "rural youth",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302096",
+                "label": "disadvantaged youth",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "17470",
+            "label": "biologists",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "191781",
+            "label": "fishermen",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "782",
+            "label": "prison inmates",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "68479",
+            "label": "gardeners",
+            "definition": "Persons who tend a garden.",
+            "children": []
+          },
+          {
+            "uuid": "38958",
+            "label": "extension agents",
+            "definition": "An educator employed by a county and/or a State cooperative extension service to bring research-based agriculture and quality of life education to local people to help them address farm, home, and community problems at the local level.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "17476",
+        "label": "life history",
+        "definition": "A continuous, descriptive account of the life cycle of an organism.",
+        "children": [
+          {
+            "uuid": "17707",
+            "label": "bivoltine habit",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "50010",
+            "label": "life cycle (organisms)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "50015",
+            "label": "multivoltine habit",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "50016",
+            "label": "univoltine habit",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "739",
+            "label": "death",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5329",
+        "label": "leisure, recreation and tourism",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "13598",
+            "label": "sports",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "300753",
+                "label": "archery",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302856",
+                "label": "winter sports",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "17012",
+            "label": "recreation",
+            "definition": "Leisure time activity such as swimming, picnicking, boating, hunting and fishing.",
+            "children": [
+              {
+                "uuid": "21596",
+                "label": "recreation areas",
+                "definition": "A relatively small, distinctly defined area where concentrated public use for the more traditional recreation purposes predominates - e.g., campgrounds, picnic areas, swimming areas.",
+                "children": [
+                  {
+                    "uuid": "304846",
+                    "label": "playgrounds",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "266232",
+                    "label": "swimming pools",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21550",
+                    "label": "campgrounds",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "300548",
+                    "label": "amenity forests",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "297770",
+                "label": "active recreation",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "69043",
+                "label": "motorized recreation",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "305443",
+                "label": "water recreation",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "305445",
+                    "label": "water rafting",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18301",
+                    "label": "boating",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "18303",
+                        "label": "kayaking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "18302",
+                        "label": "canoeing",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "41188",
+                "label": "forest recreation",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41189",
+                "label": "outdoor recreation",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "8891",
+                    "label": "sport fishing",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18301",
+                    "label": "boating",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "18303",
+                        "label": "kayaking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "18302",
+                        "label": "canoeing",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "61002",
+                    "label": "skiing",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21597",
+                    "label": "camping",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "69041",
+                    "label": "snowmobiling",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "45555",
+                    "label": "hiking",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40332",
+                    "label": "sport hunting",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "300773",
+                    "label": "backpacking",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "45965",
+                    "label": "horse riding",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "306724",
+                "label": "rural recreation",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "306206",
+                "label": "urban recreation",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "300830",
+                "label": "birdwatching",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "18299",
+                "label": "games",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5258",
+            "label": "tourism",
+            "definition": "The industry that provides local entertainment, accommodation, transportation, catering and other services to visitors and travelers.",
+            "children": [
+              {
+                "uuid": "302455",
+                "label": "heritage tourism",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302412",
+                "label": "health tourism",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302554",
+                "label": "international tourism",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "306728",
+                "label": "rural tourism",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "301118",
+                "label": "agritourism",
+                "definition": "A form of commercial enterprise that links agricultural production and/or processing with tourism in order to attract visitors onto a farm, ranch, or other agricultural business for the purposes of entertaining and/or educating the visitors and generating income for the farm, ranch, or business owner.",
+                "children": []
+              },
+              {
+                "uuid": "35786",
+                "label": "ecotourism",
+                "definition": "Travel to natural settings with focus on the appreciation, conservation, preservation and sustainability of the area's natural resources and its surrounding community.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

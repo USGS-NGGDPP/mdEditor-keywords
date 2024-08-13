@@ -169,6 +169,10 @@
   },
   {
     "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-antarctica-dev.json"
+  },
+  {
+    "name": "GNIS Antarctica Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-antarctica.json"
   },
   {
@@ -202,6 +206,10 @@
   {
     "name": "GNIS - Domestic Names - British Columbia - Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-british-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - California - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-california-dev.json"
   },
   {
     "name": "GNIS - Domestic Names - California - Thesaurus",
@@ -446,6 +454,54 @@
   {
     "name": "GNIS - Domestic Names - Yukon - Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-yukon.json"
+  },
+  {
+    "name": "Taxonomic Hierarchy",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127293.json"
+  },
+  {
+    "name": "Fields of Study",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127294.json"
+  },
+  {
+    "name": "Animals, Livestock, One Health",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127295.json"
+  },
+  {
+    "name": "Economics, Trade, Law, Business, Industry",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127297.json"
+  },
+  {
+    "name": "Farms, Agricultural Production Systems",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127298.json"
+  },
+  {
+    "name": "Human Nutrition, Food Safety and Quality",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127299.json"
+  },
+  {
+    "name": "Forestry, Wildland Management",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127300.json"
+  },
+  {
+    "name": "Geographical Locations",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127301.json"
+  },
+  {
+    "name": "Natural Resources, Conservation, Environment",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127305.json"
+  },
+  {
+    "name": "Plant Production, Gardening",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127307.json"
+  },
+  {
+    "name": "Research, Technology, Methods",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127308.json"
+  },
+  {
+    "name": "Rural Development, Communities, Education, Extension",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/nalt-127309.json"
   },
   {
     "name": "userGroup",

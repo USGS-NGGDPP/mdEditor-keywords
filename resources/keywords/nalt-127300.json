@@ -1,0 +1,1750 @@
+[
+  {
+    "uuid": "127300",
+    "label": "Forestry, Wildland Management",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "41131",
+        "label": "forest trees",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "41177",
+        "label": "forest resources",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "138413",
+            "label": "experimental forests",
+            "definition": "Timbered lands dedicated to research on forestry and forest management, silvicultural practices, forest ecosystems, wildlife habitats, and forest growth and development.",
+            "children": []
+          },
+          {
+            "uuid": "12610",
+            "label": "forest plantations",
+            "definition": "Forest stand regenerated artificially either by sowing or planting.",
+            "children": []
+          },
+          {
+            "uuid": "32268",
+            "label": "demonstration forests",
+            "definition": "Forests which provide models of forest ecology and exhibitions of various forest management techniques and silvicultural practices.",
+            "children": []
+          },
+          {
+            "uuid": "41193",
+            "label": "forest reserves",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "41195",
+                "label": "state forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41194",
+                "label": "national forests",
+                "definition": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "41144",
+        "label": "forest genetics",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "5584",
+        "label": "forestry",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "302506",
+            "label": "industrial forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "132682",
+            "label": "farm forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35738",
+            "label": "forestry development",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "132668",
+                "label": "forest certification",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "132667",
+                "label": "forestry incentives",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "5256",
+            "label": "agroforestry",
+            "definition": "An agroforestry system is a form of multiple land use where woody perennials (trees, shrubs, bamboos, palm trees, woody lianas) are grown on the same land management unit with crops and/or animals.",
+            "children": [
+              {
+                "uuid": "131643",
+                "label": "shade agroforestry systems",
+                "definition": "An agroforestry system where the trees in the overstory provide shade to shade-loving crops growing in a lower strata, such as Vanilla growing on native timber species.",
+                "children": []
+              },
+              {
+                "uuid": "131739",
+                "label": "box planting",
+                "definition": "A linear planting arrangement where the shape of the cultivated area is lined with woody perennials on the borders and crops.",
+                "children": []
+              },
+              {
+                "uuid": "327159",
+                "label": "forest farming",
+                "definition": "Forest farming is the cultivation of high-value specialty crops under the protection of a forest canopy that has been modified to provide the correct shade level.",
+                "children": []
+              },
+              {
+                "uuid": "131733",
+                "label": "line planting (agroforestry)",
+                "definition": "Woody perennials in a linear arrangement adjacent to cropland or grassland.",
+                "children": []
+              },
+              {
+                "uuid": "5585",
+                "label": "alley cropping",
+                "definition": "A cropping system that involves growing crops in a wide strip, typically 6 meters in width, between lines of closely planted, fast-growing trees or shrubs. These woody species are usually leguminous and are pruned frequently to provide a mulching material and nutrients to the crop in the alley.",
+                "children": []
+              },
+              {
+                "uuid": "131728",
+                "label": "parkland agroforestry systems",
+                "definition": "A type of agroforestry system in which large canopy trees are widely spaced in croplands or grasslands. The trees may be either planted or from natural regeneration.",
+                "children": []
+              },
+              {
+                "uuid": "127350",
+                "label": "multistrata agroforestry systems",
+                "definition": "An agroforestry system whose components (crops, trees, shrubs, livestock, wildlife, etc.) occupy distinct layers of the vertical structure of the community. An example is the production of coffee intercropped with bananas occupying the lowest strata, shaded by medium-sized fruit trees in the middle vertical strata, with an overstory of tall timber trees in the upper canopy strata.",
+                "children": []
+              },
+              {
+                "uuid": "131734",
+                "label": "live fences",
+                "definition": "A form of line planting meant for the demarcation and enclosure of a piece of cropland or pasture land.",
+                "children": []
+              },
+              {
+                "uuid": "130727",
+                "label": "taungya system",
+                "definition": "A form of agroforestry system in which short term crops are grown in the early years of the plantation of a woody perennials species in order to utilize the land, control weeds, reduce establishment costs, generate early income and stimulate the development of the woody perennials species.",
+                "children": []
+              },
+              {
+                "uuid": "5586",
+                "label": "silvopastoral systems",
+                "definition": "The combined use of forestland or woodland for both wood production and animal production by grazing of the coexisting indigenous forage, or vegetation that is managed like indigenous forage.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "334158",
+            "label": "woody biomass",
+            "definition": "The trees and woody plants, including limbs, tops, needles, leaves, and other woody parts, grown in a forest, woodland, or rangeland environment, that are the by-products of forest management.",
+            "children": []
+          },
+          {
+            "uuid": "41156",
+            "label": "forest surveys",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "302042",
+            "label": "dendrology",
+            "definition": "The identification, systematic classification, and study of habits and distribution of forest trees and other woody plants.",
+            "children": []
+          },
+          {
+            "uuid": "28291",
+            "label": "community forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41232",
+            "label": "private forestry",
+            "definition": "Forest operations on land owned by a private individual, group, or corporation and is not owned by a body of government.",
+            "children": [
+              {
+                "uuid": "39552",
+                "label": "tree farms",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "123188",
+                "label": "nonindustrial private forests",
+                "definition": "Forest land owned by a private individual, group or corporation not part of the timber industry.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "301359",
+            "label": "forest maps",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "4789",
+            "label": "forest management",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "41166",
+                "label": "timber management",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "302264",
+                "label": "forest clearing",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4788",
+                "label": "afforestation",
+                "definition": "The establishment of a tree crop on an area from which it has always or very long been absent.",
+                "children": []
+              },
+              {
+                "uuid": "38821",
+                "label": "even-aged management",
+                "definition": "The application of a combination of actions that results in the creation of stands in which trees of essentially the same age grow together. The difference in age between trees forming the main canopy level of a stand usually does not exceed 20 percent of the age of the level of a stand at maturity. Regeneration in a particular stand is obtained during a short period at or near the time that a stand has reached the desired age or size for regeneration, and is harvested. Cutting methods producing even-aged stands are clearcut, shelterwood, or seed tree.",
+                "children": []
+              },
+              {
+                "uuid": "225026",
+                "label": "allowable cut",
+                "definition": "The volume of timber which can be cut, under specified management plans during a given period.",
+                "children": []
+              },
+              {
+                "uuid": "41122",
+                "label": "forest appraisal",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41167",
+                "label": "uneven-aged management",
+                "definition": "The course of actions involved in maintaining a forest or stand, composed of intermingling trees that differ markedly in age.",
+                "children": []
+              },
+              {
+                "uuid": "41165",
+                "label": "stand management",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "305024",
+                    "label": "stand improvement",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305093",
+                    "label": "stand development",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "41164",
+                "label": "multiple use forestry",
+                "definition": "any practice of forestry fulfilling two or more management objectives, such as production of timber and forest recreation.",
+                "children": []
+              },
+              {
+                "uuid": "282470",
+                "label": "sort yards",
+                "definition": "A temporary location where logs from the forests or timber cutting sites are received and sorted on the basis of tree species, wood grades, wood types, size of logs etc., before being delivered to specialized manufacturing facilities.",
+                "children": []
+              },
+              {
+                "uuid": "301340",
+                "label": "forest conservation",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "339489",
+            "label": "forest sociology",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41233",
+            "label": "social forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41174",
+            "label": "silviculture",
+            "definition": "The science, art, and practice of establishing and tending forest stands to produce forest stands with the desired composition, constitution and growth rate.",
+            "children": [
+              {
+                "uuid": "63111",
+                "label": "silvicultural systems",
+                "definition": "Long-range harvest and management schemes designed to optimize the growth, regeneration, and administration of particular forest types.",
+                "children": [
+                  {
+                    "uuid": "306579",
+                    "label": "short rotation forestry",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "270441",
+                    "label": "low forest systems",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "138400",
+                    "label": "intensive forestry",
+                    "definition": "Utilization of a wide variety of forest management and silvicultural techniques in order to maximize the productivity of a unit of forest area.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "270440",
+                    "label": "high forest systems",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "270442",
+                        "label": "seed tree systems",
+                        "definition": "Silvicultural system in which the stand is removed in one cutting, with the exception of a small number of seed trees which are retained to produce adequate seed for natural regeneration.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "26783",
+                        "label": "clearcutting",
+                        "definition": "The cutting method that describes the silvicultural system in which the old crop is cleared over a considerable area at one time. Regeneration then occurs from (a) natural seeding from adjacent stands, (b) seed contained in the slash or logging debris, (c) advance growth, or (d) planting or direct seeding. An even-aged forest usually results.",
+                        "children": [
+                          {
+                            "uuid": "305817",
+                            "label": "strip cutting",
+                            "definition": "A clearcutting system variation in which the logging operation removes all merchantable timber from areas that run through a stand and are usually of a width equal to one or two times the general stand height.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "306997",
+                            "label": "patch cutting",
+                            "definition": "A clearcutting system variation in which the logging operation removes all merchantable timber in patches of about 40 to 200 acres, separated for as long as practicable (preferably until the regeneration is adequately shading the forest floor) by living forest, so as to both secure the optimum dispersal of seed and to avoid the high hazard of large continuous areas of logging debris.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "69313",
+                        "label": "shelterwood systems",
+                        "definition": "Even-aged silvicultural system in which a new stand is established under the protection of a partial canopy of trees.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "306570",
+                    "label": "silvicultural conversion",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "26785",
+                "label": "silvicultural practices",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "41208",
+                    "label": "forest thinning",
+                    "definition": "The silvicultural practice of removing excess, diseased or poor quality trees and underbrush to improve the growth, health and value of the standing timber crop.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "12609",
+                    "label": "forest regeneration",
+                    "definition": "The renewal of a tree crop, whether by natural or artificial means.",
+                    "children": [
+                      {
+                        "uuid": "41191",
+                        "label": "natural regeneration",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "225098",
+                            "label": "second growth",
+                            "definition": "Forest growth that has come up naturally after some drastic interference (e.g., wholesale cutting, serious fire, or insect attack) with the previous forest crop.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "299410",
+                            "label": "advanced regeneration",
+                            "definition": "Seedlings or saplings that develop naturally under a forest canopy and can become the next forest canopy after the mature canopy is harvested.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "12607",
+                        "label": "artificial regeneration",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "137332",
+                    "label": "tree release",
+                    "definition": "A silvicultural treatment designed to free young trees from undesirable, usually overtopping, competing vegetation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41199",
+                    "label": "forest stand establishment",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "41234",
+            "label": "tropical and subtropical forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41168",
+            "label": "forest mensuration",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "41169",
+                "label": "stand tables",
+                "definition": "A table showing the number of trees by species and diameter classes per unit area of a stand.",
+                "children": []
+              },
+              {
+                "uuid": "210118",
+                "label": "site index",
+                "definition": "A measure of site class based upon the height of the dominant trees in a stand at an arbitrarily chosen age, most commonly at 50 years in the East and 100 years in the West.",
+                "children": []
+              },
+              {
+                "uuid": "333401",
+                "label": "mean annual increment",
+                "definition": "The total increment of trees in a stand up to a given age, divided by that age, usually expressed in annual cubic meters of growth per hectare (cubic feet of growth per acre).",
+                "children": []
+              },
+              {
+                "uuid": "15956",
+                "label": "tree and stand measurements",
+                "definition": "Any of the various measurements used in the forest industry, such as diameter at breast height used to describe and compare tree stands.",
+                "children": []
+              },
+              {
+                "uuid": "305722",
+                "label": "yield tables",
+                "definition": "A table showing, for one or more species in a fully stocked stand, the growth pattern of a managed even-aged stand derived from measurements at regular intervals covering its useful life. It includes mean d.b.h. and height, number of stems, and standing volume per unit area. The table may also contain a variety of other useful data.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "12611",
+            "label": "plantation forestry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41235",
+            "label": "urban forestry",
+            "definition": "The practice of forestry in an urbanized environment.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "35719",
+        "label": "forest ecology",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "41133",
+            "label": "forest growth",
+            "definition": "change in timber volume that occurs over an interval of time.",
+            "children": []
+          },
+          {
+            "uuid": "41135",
+            "label": "forest litter",
+            "definition": "The uppermost layer of organic debris on the ground under a vegetation cover-i.e., essentially the freshly fallen or only slightly decomposed vegetable material, mainly from foliage but also bark fragments, twigs, flowers, fruits, etc.",
+            "children": []
+          },
+          {
+            "uuid": "41136",
+            "label": "forest-wildlife relations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35784",
+            "label": "forest ecosystems",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41124",
+            "label": "forest communities",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31857",
+            "label": "dead wood",
+            "definition": "Dead branches or completely dead standing trees resulting from natural processes or anthropogenic activity such as logging.",
+            "children": [
+              {
+                "uuid": "70084",
+                "label": "slash",
+                "definition": "Debris left over after logging, pruning, thinning or brush cutting; includes logs, chips, bark, branches, stumps and broken understory trees or brush.",
+                "children": []
+              },
+              {
+                "uuid": "105101",
+                "label": "snags",
+                "definition": "Standing dead trees from which the leaves and most of the branches have fallen.",
+                "children": []
+              },
+              {
+                "uuid": "104904",
+                "label": "coarse woody debris",
+                "definition": "Large dead woody material such as fallen trees and branches in various stages of decomposition that provides nutrient capital to forest resources and serves as habitat in forest and riparian ecosystems. May serve a geomorphic function in stream channels.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "35711",
+            "label": "forest succession",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41134",
+            "label": "forest habitats",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "311334",
+            "label": "forest dynamics",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40278",
+            "label": "forest fires",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "20524",
+        "label": "fire science and management",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "40261",
+            "label": "wildland fire management",
+            "definition": "Measures for the prevention, detection, and control of fires which are unplanned and unwanted and are formed by natural or man-made causes.",
+            "children": []
+          },
+          {
+            "uuid": "70072",
+            "label": "smoke management",
+            "definition": "Application of fire intensities and meteorological processes to minimize degradation of air quality during prescribed fires.",
+            "children": []
+          },
+          {
+            "uuid": "35718",
+            "label": "fire ecology",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "123239",
+                "label": "fire regime",
+                "definition": "The history and pattern of fire frequency, intensity, severity, seasonality and size in a particular ecosystem.",
+                "children": []
+              },
+              {
+                "uuid": "124424",
+                "label": "fire severity",
+                "definition": "The degree to which an ecosystem is altered or disrupted by fires. Fire severity is dependent upon the product of fire intensity and duration, and incorporates both active fire behavior and immediate post-fire effects on the environment.",
+                "children": []
+              },
+              {
+                "uuid": "307181",
+                "label": "fire history",
+                "definition": "The history of fire frequency in a geographical area.",
+                "children": []
+              },
+              {
+                "uuid": "331873",
+                "label": "burn severity",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "123237",
+                "label": "fuel loading",
+                "definition": "The quantity of living or dead vegetation that is easily ignited in a given area. Loading is usually expressed in tons per acre.",
+                "children": []
+              },
+              {
+                "uuid": "123238",
+                "label": "fuels (fire ecology)",
+                "definition": "Living or dead vegetation that can be ignited.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "70073",
+            "label": "fire incident communications",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "301131",
+            "label": "fire prevention",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "70081",
+            "label": "fire break",
+            "definition": "A natural or constructed barrier used to stop or check fires that may occur, or to provide a control line from which to work.",
+            "children": []
+          },
+          {
+            "uuid": "40267",
+            "label": "fire weather",
+            "definition": "Weather parameters (e.g., precipitation, relative humidity, windspeed and direction, etc.) that influence fire occurrence and subsequent fire behavior.",
+            "children": []
+          },
+          {
+            "uuid": "40251",
+            "label": "fire fighting",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "70085",
+            "label": "fire suppression",
+            "definition": "The overall process of detecting, locating, containing and extinguishing a fire.",
+            "children": []
+          },
+          {
+            "uuid": "33991",
+            "label": "fires",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "70077",
+                "label": "structure fires",
+                "definition": "Fires originating in and burning any part or all of any building, shelter or other structure.",
+                "children": []
+              },
+              {
+                "uuid": "302248",
+                "label": "fire damage",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "304799",
+                "label": "mine fires",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40279",
+                "label": "wildfires",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "40278",
+                    "label": "forest fires",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "70078",
+                    "label": "grassland fires",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "70071",
+            "label": "fire aviation",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "70082",
+            "label": "fire season",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "70074",
+            "label": "fire safety",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40260",
+            "label": "forest fire management",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "20523",
+            "label": "burning",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "327980",
+                "label": "biomass burning",
+                "definition": "Burning of living and or dead vegetation or organic matter.",
+                "children": []
+              },
+              {
+                "uuid": "20525",
+                "label": "prescribed burning",
+                "definition": "Planned use of carefully controlled fire to achieve predetermined management goals, such as wildlife management, fire hazard reduction, etc.",
+                "children": []
+              },
+              {
+                "uuid": "301202",
+                "label": "ashing",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "40248",
+            "label": "fire behavior",
+            "definition": "The manner in which a fire reacts to the influences of fuel, weather and topography.",
+            "children": [
+              {
+                "uuid": "302251",
+                "label": "fire frequency",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "70080",
+                "label": "fire spread",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "124425",
+                "label": "fire intensity",
+                "definition": "The rate of heat energy released by a fire.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "40252",
+            "label": "fire detection",
+            "definition": "The act of discovering, locating and reporting wildfires.",
+            "children": []
+          },
+          {
+            "uuid": "70075",
+            "label": "fire situation analysis",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "70083",
+            "label": "burning season",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40258",
+            "label": "fire hazard",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "41161",
+        "label": "forestry law",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "37141",
+        "label": "forest engineering",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "305703",
+            "label": "log yarding",
+            "definition": "The operation of hauling timber from the stump to a collecting point.",
+            "children": []
+          },
+          {
+            "uuid": "41126",
+            "label": "forest cutting systems",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41142",
+            "label": "forest roads",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "39773",
+            "label": "logging",
+            "definition": "The cutting and extraction of timber, particularly logs.",
+            "children": [
+              {
+                "uuid": "306577",
+                "label": "shortwood logging",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "50518",
+                "label": "whole tree harvesting",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39772",
+                "label": "felling",
+                "definition": "The cutting down of standing trees. \"Felling\" is not a synonym for logging nor harvesting. These latter terms also include removal of felled trees and some initial processing of the timber prior to removal.",
+                "children": [
+                  {
+                    "uuid": "302487",
+                    "label": "illicit felling",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "306615",
+                    "label": "sanitation felling",
+                    "definition": "Removal and destruction of infected or diseased trees for the purpose of controlling the spread of the disease.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "306502",
+                    "label": "sour felling",
+                    "definition": "A felling method where delimbing is delayed to reduce the moisture content.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "302497",
+                    "label": "improvement felling",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "306697",
+                    "label": "selective felling",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "305917",
+                "label": "tree length logging",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "199370",
+                "label": "salvage logging",
+                "definition": "Cutting primarily to utilize dead and downed material and scattered poor-risk trees that will not be merchantable if left in the stand until the next scheduled cut.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "41188",
+        "label": "forest recreation",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "41128",
+        "label": "forest health",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "41127",
+            "label": "forest damage",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "80851",
+            "label": "forest diseases",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "41179",
+        "label": "forest policy",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "25726",
+        "label": "forest products",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "24467",
+            "label": "wood products",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "302495",
+                "label": "improved wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "49079",
+                "label": "wood veneer",
+                "definition": "A thin layer or sheet of wood.",
+                "children": []
+              },
+              {
+                "uuid": "67401",
+                "label": "wood flour",
+                "definition": "Wood reduced to finely divided particles, approximately the same as those of cereal flours in size, appearance, and texture, and passing a 40 to 100 mesh screen.",
+                "children": []
+              },
+              {
+                "uuid": "305711",
+                "label": "wood gas",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28370",
+                "label": "composite wood products",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "23568",
+                    "label": "wood cement composites",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28375",
+                    "label": "wood plastic composites",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28374",
+                    "label": "laminated wood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28376",
+                    "label": "wood-based panels",
+                    "definition": "A generic term for a material manufactured from wood veneer, strands, flakes, particles, or fibers or other lignocellulosic material and a synthetic resin or other binder.",
+                    "children": [
+                      {
+                        "uuid": "40408",
+                        "label": "particleboards",
+                        "definition": "Structural panel products made of wood fragments, such as chips or shavings, that are mechanically pressed into sheet form and bonded together with resin under heat and pressure.",
+                        "children": [
+                          {
+                            "uuid": "56930",
+                            "label": "waferboards",
+                            "definition": "A particle panel product made of wafer-type flakes. Usually manufactured to posses equal properties in all directions parallel to the plane of the panel.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "40407",
+                            "label": "flakeboards",
+                            "definition": "A generic term indicating a manufactured panel product composed of flakes bonded with a synthetic resin.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "56165",
+                        "label": "oriented strandboards",
+                        "definition": "An engineered structural wood-based panel composed of wood strands, flakes or wafers bonded under heat and pressure with a waterproof resin. The external layers are aligned in the panel direction and the inner layers are either cross-aligned or randomly-oriented. Common uses are sheathing in walls, floors, and roofs.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "44632",
+                        "label": "plywood",
+                        "definition": "A glued wood panel made up of relatively thin layers of veneer with the grain of adjacent layers at right angles or of veneer in combination with a core of lumber or of reconstituted wood. The usual constructions have an odd number of layers.",
+                        "children": [
+                          {
+                            "uuid": "58861",
+                            "label": "softwood plywood",
+                            "definition": "Structural material made of layers of softwood veneer glued together, under heat and pressure, with the grains of adjoining layers at right angles to each other.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "44630",
+                            "label": "hardwood plywood",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "40042",
+                        "label": "fiberboards",
+                        "definition": "A generic term inclusive of panel products of various densities manufactured of refined or partially refined wood (or other lignocellulosic) fibers. Bonding agents may be added.",
+                        "children": [
+                          {
+                            "uuid": "40043",
+                            "label": "hardboard",
+                            "definition": "A generic term for a panel manufactured primarily from interfelted lignocellulosic fibers (usually wood), consolidated under heat and pressure in a hot press to a density of 496 kg m-3 (31 lb ft-3) or greater. May be manufactured using either a dry-process or wet-process.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "40044",
+                            "label": "medium density fiberboards",
+                            "definition": "An engineered wood product formed by breaking down softwood into wood fibres, compressing it with a binding material, such as glue, wax and resin, and forming panels by applying high temperature and pressure. These panels have a density of around 800 kg/m3.",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "64235",
+                "label": "stored wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28400",
+                "label": "compressed wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "16147",
+                "label": "wood beams",
+                "definition": "A structural timber (i.e., wood which is relatively large in size, strength and stiffness) supporting a load applied transversely to it.",
+                "children": []
+              },
+              {
+                "uuid": "19272",
+                "label": "wood",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "44627",
+                    "label": "hardwood",
+                    "definition": "Generally one of the botanical groups of trees that have vessels or pores and broad leaves, in contrast to the conifers or softwoods. The term has no reference to the actual hardness of the wood.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "60548",
+                    "label": "pulpwood",
+                    "definition": "wood destined or suited for pulp manufacture, including standing or felled trees, logging residues, sawmill wastes, etc.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305569",
+                    "label": "resinous wood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15212",
+                    "label": "wetwood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "65130",
+                    "label": "tropical wood",
+                    "definition": "Wood from a tropical or subtropical tree species.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305493",
+                    "label": "refractory wood",
+                    "definition": "Wood that is difficult to dry, treat with preservatives or process using conventional methods.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "17336",
+                    "label": "fuelwood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "301433",
+                    "label": "frozen wood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "50522",
+                    "label": "roundwood",
+                    "definition": "solid wood that is in the round state. This term is also used for the volume of logs required to produce a given quantity of lumber, panels, pulp, paper or other wood products.",
+                    "children": [
+                      {
+                        "uuid": "50512",
+                        "label": "wood logs",
+                        "definition": "individual pieces of roundwood.",
+                        "children": [
+                          {
+                            "uuid": "50523",
+                            "label": "sawlogs",
+                            "definition": "A log large enough to be sawed economically into boards on a sawmill. Sawlogs are usually at least 8 inches in diameter at the small end.",
+                            "children": []
+                          },
+                          {
+                            "uuid": "50524",
+                            "label": "veneer logs",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "301839",
+                        "label": "cordwood",
+                        "definition": "Wood that is cut in short lengths, usually measured in cords and commonly used as fuel. Applies also to other products measured in cords.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "64139",
+                    "label": "stemwood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "19250",
+                    "label": "branchwood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305489",
+                    "label": "recycled wood",
+                    "definition": "Any wood or wood fuel which is derived from such products or processes as pallets, skids, spools, packaging materials, bulky wood waste or scraps from newly built wood products, provided such wood is not treated wood.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "300806",
+                    "label": "bentwood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41305",
+                    "label": "old and fossil wood",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "189519",
+                    "label": "wood degradation",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63327",
+                    "label": "softwood",
+                    "definition": "Generally, one of the botanical groups of trees that have no vessels and in most cases have needlelike or scalelike leaves, the conifers, also the wood produced by such trees. The term has no reference to the actual hardness of the wood.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "59579",
+                "label": "preservative treated wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "61061",
+                "label": "reinforced wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "33645",
+                "label": "lumber",
+                "definition": "The product of the saw and planing mill for which manufacturing is limited to sawing, resawing, passing lengthwise through a standard planing machine, crosscutting to length, and matching. Lumber may be made from either softwood or hardwood",
+                "children": [
+                  {
+                    "uuid": "50723",
+                    "label": "machine stress-rated lumber",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37137",
+                    "label": "finger-jointed lumber",
+                    "definition": "An end joint made up of several meshing wedges or fingers of wood bonded together with an adhesive. Fingers are sloped and may be cut parallel to either the wide or narrow face of the piece.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "35835",
+                "label": "engineered wood products",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "37137",
+                    "label": "finger-jointed lumber",
+                    "definition": "An end joint made up of several meshing wedges or fingers of wood bonded together with an adhesive. Fingers are sloped and may be cut parallel to either the wide or narrow face of the piece.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "259843",
+                    "label": "mass timber",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "259851",
+                        "label": "laminated strand lumber",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "259847",
+                        "label": "cross laminated timber",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "49078",
+                        "label": "laminated veneer lumber",
+                        "definition": "An engineered wood product created by parallel lamination of veneers glued under heat and pressure with the grain of each veneer running parallel to the longitudinal axis of the billet.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "37139",
+                    "label": "wood I-beams",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37140",
+                    "label": "wood trusses",
+                    "definition": "An assembly of members, such as beams, bars, rods, and the like, so combined as to form a rigid framework. All members are interconnected to form triangles.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37138",
+                    "label": "glulam",
+                    "definition": "A manufactured structural timber product composed of layers of dimensional lumber glued together.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35834",
+                    "label": "edge-glued panels",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "12904",
+                "label": "wood ash",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "59037",
+                "label": "wood poles",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "304838",
+                "label": "plasticized wood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "301089",
+                "label": "carved wood",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "25725",
+            "label": "Christmas trees",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7415",
+            "label": "nontimber forest products",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "29111",
+                "label": "cork",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "55211",
+                "label": "rosin",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "7414",
+                "label": "amber",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "55212",
+                "label": "tall oil",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "55161",
+                "label": "turpentine",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "55160",
+                "label": "rubber",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "23279",
+                "label": "wood oils",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "854",
+                "label": "latex",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "2267",
+                "label": "maple syrup",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34738",
+                "label": "tung oil",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "22383",
+            "label": "pulp and paper products",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "23540",
+                "label": "paper",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "296947",
+                    "label": "graph paper",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "332367",
+                    "label": "tissue paper",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54790",
+                    "label": "newsprint",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "48575",
+                    "label": "kraft paper",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "22382",
+                "label": "cardboard",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "22384",
+                    "label": "paperboard",
+                    "definition": "The distinction between paper and paperboard is not sharp, but broadly speaking, the thicker (greater than 0.3 mm (0.012 in.), heavier, and more rigid grades of paper are called paperboard.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "305810",
+                    "label": "strawboard",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "124426",
+            "label": "wood extractives",
+            "definition": "Substances in wood, not an integral part of the cellular structure, that can be removed by solution in hot or cold water, ether, benzene, or other solvents that do not react chemically with wood components.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "18644",
+        "label": "forests",
+        "definition": "Generally, an ecosystem characterized by a more or less dense and extensive tree cover. More particularly, a plant community predominantly of trees and other woody vegetation, growing more or less closely together.",
+        "children": [
+          {
+            "uuid": "305123",
+            "label": "protection forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "95538",
+            "label": "upland forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "305156",
+            "label": "pygmy forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "18642",
+            "label": "boreal forests",
+            "definition": "General term for northern coniferous forests.",
+            "children": []
+          },
+          {
+            "uuid": "276115",
+            "label": "virgin forests",
+            "definition": "Natural forest virtually uninfluenced by human activity.",
+            "children": []
+          },
+          {
+            "uuid": "41239",
+            "label": "mixed forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "306712",
+            "label": "selection forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41245",
+            "label": "temperate forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "294926",
+            "label": "urban forests",
+            "definition": "Urban forests include the trees in our yards, parks, public spaces, and along our streets. Though we don’t often think of them as forests, they provide many forest benefits, such as cleaner air and water. In addition to environmental benefits, urban forests increase property values, reduce home energy costs, block UV radiation, buffer wind and noise, provide shade and beautify our neighborhoods.",
+            "children": []
+          },
+          {
+            "uuid": "137339",
+            "label": "subalpine forests",
+            "definition": "A transition zone from dense forest below treeline to alpine tundra above treeline.",
+            "children": []
+          },
+          {
+            "uuid": "32268",
+            "label": "demonstration forests",
+            "definition": "Forests which provide models of forest ecology and exhibitions of various forest management techniques and silvicultural practices.",
+            "children": []
+          },
+          {
+            "uuid": "41243",
+            "label": "riparian forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "305566",
+            "label": "residual forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "306933",
+            "label": "evergreen forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41242",
+            "label": "rain forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "138413",
+            "label": "experimental forests",
+            "definition": "Timbered lands dedicated to research on forestry and forest management, silvicultural practices, forest ecosystems, wildlife habitats, and forest growth and development.",
+            "children": []
+          },
+          {
+            "uuid": "41244",
+            "label": "secondary forests",
+            "definition": "The first forest regenerated on land that was originally covered by primary forest which was drastically altered in structure by selective cutting or clearcutting for agricultural use.",
+            "children": []
+          },
+          {
+            "uuid": "300548",
+            "label": "amenity forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41240",
+            "label": "old-growth forests",
+            "definition": "Stands of forest trees of either seral or climax species growing singly or in association with other tree species. The stands are usually well past the age of maturity as defined by the culmination of mean annual increment and often exhibit characteristics of decadence. These characteristics may include, but are not limited to: low growth rates, dead and dying trees, snags, and down woody material. The stands are usually characterized by large diameter trees relative to species and site potential, multi-layered canopies, a range in tree diameter sizes, and the presence of understory vegetation. The specific attributes of an old-growth stand are primarily dependent on plant associations and forest cover type.",
+            "children": []
+          },
+          {
+            "uuid": "41246",
+            "label": "tropical forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "317935",
+                "label": "tropical evergreen forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "60861",
+                "label": "tropical rain forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "53423",
+                "label": "tropical montane cloud forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "317928",
+                "label": "tropical dry forests",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "41241",
+            "label": "primary forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "27367",
+            "label": "coastal forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19905",
+            "label": "forest types",
+            "definition": "Natural forests which are characterized by their dominant tree species.",
+            "children": [
+              {
+                "uuid": "31910",
+                "label": "deciduous forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28534",
+                "label": "coniferous forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19888",
+                "label": "broadleaved evergreen forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "137319",
+                "label": "sclerophyll forests",
+                "definition": "Temperate forests composed predominantly of broad-leaved evergreen trees and shrubs in regions with warm rainy winters and dry hot summers.",
+                "children": []
+              },
+              {
+                "uuid": "41213",
+                "label": "hardwood forests",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41214",
+                "label": "mangrove forests",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "7014",
+            "label": "montane forests",
+            "definition": "The biogeographic zone made up of relatively moist cool upland slopes below timberline that is characterized by large evergreen trees as a dominant life form.",
+            "children": []
+          },
+          {
+            "uuid": "18872",
+            "label": "lowland forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "130681",
+            "label": "climax forests",
+            "definition": "A plant community that represents for its locality and its environment the culminating stage of a natural succession.",
+            "children": []
+          },
+          {
+            "uuid": "34700",
+            "label": "dry forests",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "301339",
+            "label": "forest borders",
+            "definition": "A clear borderline between closed forest and nonforest area.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5267",
+        "label": "forest economics",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "41139",
+            "label": "forest ownership",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41140",
+            "label": "stumpage",
+            "definition": "Value of timber as it stands uncut, that is, uncut marketable timber.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
