@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Economics, Trade, Law, Business, Industry",
+    "title": "Economics, Trade, Law, Business, Industry",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127297"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127297"
+      }
+    ]
+  },
+  "label": "Economics, Trade, Law, Business, Industry",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127297.json"
+}

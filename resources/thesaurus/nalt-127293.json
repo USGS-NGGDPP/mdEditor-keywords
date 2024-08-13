@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Taxonomic Hierarchy",
+    "title": "Taxonomic Hierarchy",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127293"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127293"
+      }
+    ]
+  },
+  "label": "Taxonomic Hierarchy",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127293.json"
+}

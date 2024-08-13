@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Farms, Agricultural Production Systems",
+    "title": "Farms, Agricultural Production Systems",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127298"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127298"
+      }
+    ]
+  },
+  "label": "Farms, Agricultural Production Systems",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127298.json"
+}

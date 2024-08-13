@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Natural Resources, Conservation, Environment",
+    "title": "Natural Resources, Conservation, Environment",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127305"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127305"
+      }
+    ]
+  },
+  "label": "Natural Resources, Conservation, Environment",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127305.json"
+}

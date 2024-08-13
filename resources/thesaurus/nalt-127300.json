@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Forestry, Wildland Management",
+    "title": "Forestry, Wildland Management",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127300"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127300"
+      }
+    ]
+  },
+  "label": "Forestry, Wildland Management",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127300.json"
+}

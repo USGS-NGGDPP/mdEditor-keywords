@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Plant Production, Gardening",
+    "title": "Plant Production, Gardening",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127307"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127307"
+      }
+    ]
+  },
+  "label": "Plant Production, Gardening",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127307.json"
+}
