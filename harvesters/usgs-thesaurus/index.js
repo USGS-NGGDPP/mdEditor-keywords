@@ -1,4 +1,4 @@
-import main from './lithography';
+import main from './usgs';
 
 async function run() {
   await main();
