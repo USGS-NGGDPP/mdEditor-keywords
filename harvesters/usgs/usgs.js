@@ -1,93 +1,174 @@
 import axios from 'axios';
-import { writeToLocalFile } from '../utils';
-import dayjs from 'dayjs';
 
-import thesaurusConfigTemplate from './thesaurusConfig.json';
-const thesaurusDir = 'resources/thesaurus/';
-const keywordsDir = 'resources/keywords/';
+import { sleep, writeToLocalFile } from '../utils';
+import config from './config.json';
 
-const sourceUrl =
-  'https://apps.usgs.gov/thesaurus/download/update-usgs-thesaurus.sql';
+const {
+  BASE_REPO_URL,
+  BASE_URL,
+  KEYWORDS_DIR,
+  TERM,
+  THESAURUS,
+  THESAURUS_DIR
+} = config;
 
-const regex = /insert into term \(code,name,parent,scope\) values \((.*)\);$/gm;
+const TIME_DELAY = 2000;
 
-const COLUMN = Object.freeze({
-  CODE: 0,
-  NAME: 1,
-  PARENT: 2,
-  SCOPE: 3
-});
-
-const parseSql = sqlData => {
-  let m;
-  let results = [];
-  while ((m = regex.exec(sqlData)) !== null) {
-    // This is necessary to avoid infinite loops with zero-width matches
-    if (m.index === regex.lastIndex) {
-      regex.lastIndex++;
-    }
-    results.push(
-      // eslint-disable-next-line quotes
-      eval(`[${m[1].replace(/NULL/g, '""').replace(/''/g, "\\'")}]`)
+async function getThesaurus(thcode) {
+  const thesaurusUrl = `${BASE_URL}${THESAURUS}?thcode=${thcode}`;
+  const getThesaurusResponse = await axios.get(thesaurusUrl);
+  if (getThesaurusResponse.status !== 200) {
+    throw new Error(
+      `Failed to fetch thesaurus: ${getThesaurusResponse.status}: ${getThesaurusResponse.statusText}`
     );
   }
-  return results;
-};
-
-const getRootNode = parsedData => {
-  const rootIndex = parsedData.findIndex(node => {
-    return node[COLUMN.PARENT] === '';
-  });
-  return parsedData[rootIndex];
-};
-
-const findChildren = (data, parent) => {
-  const results = [];
-  data.forEach(node => {
-    if (node[COLUMN.PARENT] === parent) {
-      results.push({
-        uuid: node[COLUMN.CODE],
-        label: node[COLUMN.NAME],
-        definition: node[COLUMN.SCOPE],
-        children: findChildren(data, node[COLUMN.CODE])
-      });
-    }
-  });
-  return results;
-};
-
-const buildTree = sqlData => {
-  const parsedData = parseSql(sqlData);
-  const rootNode = getRootNode(parsedData);
-  return findChildren(parsedData, rootNode[COLUMN.CODE]);
-};
-
-const loadSql = async () => {
-  const response = await axios.get(sourceUrl);
-  return response.data;
-};
-
-async function generateKeywords() {
-  const sqlData = await loadSql();
-  const tree = buildTree(sqlData);
-  return tree;
+  if (!getThesaurusResponse.data || !getThesaurusResponse.data.vocabulary) {
+    throw new Error('No vocabulary found');
+  }
+  return getThesaurusResponse.data.vocabulary;
 }
 
-function generateThesaurusConfig(keywordsPath) {
-  const thesaurusConfig = thesaurusConfigTemplate;
-  thesaurusConfig.keywordsUrl = `https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/${keywordsPath}`;
-  const updateDate = {
-    date: dayjs().format('YYYY-MM-DDTHH:mm:ssZ'),
-    dateType: 'lastUpdate'
+async function getTerm(thcode, code) {
+  const TERM_DELAY = 50;
+  const termUrl = `${BASE_URL}${TERM}?thcode=${thcode}&code=${code}`;
+  let term;
+  sleep(TERM_DELAY);
+  try {
+    term = await axios.get(termUrl);
+    if (term.status !== 200) {
+      sleep(TIME_DELAY);
+      term = await axios.get(termUrl);
+      if (term.status !== 200) {
+        throw new Error(
+          `Failed to fetch term ${code}: ${term.status}: ${term.statusText}`
+        );
+      }
+    }
+    if (!term.data) {
+      throw new Error(`No term ${code} found`);
+    }
+    return term.data;
+  } catch (e) {
+    console.log('term error', code);
+    sleep(TIME_DELAY);
+    term = await axios.get(termUrl);
+    if (term.status !== 200) {
+      throw new Error(
+        `Failed to fetch term ${code}: ${term.status}: ${term.statusText}`
+      );
+    }
+    if (!term.data) {
+      throw new Error(`No term ${code} found`);
+    }
+    return term.data;
+  }
+}
+
+function createNode(term) {
+  return {
+    uuid: term.code,
+    label: term.name,
+    definition: term.scope,
+    children: []
   };
-  thesaurusConfig.citation.date.push(updateDate);
-  return thesaurusConfig;
+}
+
+async function buildTree(node, thcode) {
+  if (!node.nt || node.nt.length === 0) {
+    return [];
+  }
+  const childrenRequests = [];
+  for (const child of node.nt) {
+    const request = await getTerm(thcode, child.code);
+    childrenRequests.push(request);
+  }
+  const childrenKeywords = [];
+  for (const response of childrenRequests) {
+    const childNode = createNode(response.term);
+    childNode.children = await buildTree(response, thcode);
+    childrenKeywords.push(childNode);
+  }
+  return childrenKeywords;
+}
+
+async function generateKeywords(name, thcode, root_code) {
+  console.log('Building vocabulary:', name);
+  const root = await getTerm(thcode, root_code);
+  const rootKeyword = createNode(root.term);
+  rootKeyword.label = name;
+  rootKeyword.children = await buildTree(root, thcode);
+  return rootKeyword;
+}
+
+function generateThesaurusConfig(thesaurus, filename) {
+  console.log('Generating thesaurus config');
+  if (!thesaurus.name) {
+    throw new Error('Thesaurus name is required');
+  }
+  if (!filename) {
+    throw new Error('Keywords URL is required');
+  }
+  return {
+    citation: {
+      date: [
+        {
+          date: thesaurus.date || null,
+          dateType: 'revision'
+        }
+      ],
+      description: thesaurus.scope || 'No description available',
+      title: thesaurus.name,
+      edition: thesaurus.edition || null,
+      onlineResource: [
+        {
+          uri: thesaurus.uri || null
+        }
+      ],
+      identifier: [
+        {
+          identifier: thesaurus.thcode
+        }
+      ]
+    },
+    label: thesaurus.name,
+    keywordsUrl: `${BASE_REPO_URL}/${KEYWORDS_DIR}/${filename}`
+  };
+}
+
+async function harvestVocabulary(thcode) {
+  const thesaurus = await getThesaurus(thcode);
+  const { name, root_code, prefix } = thesaurus;
+  const filename = `usgs-${thcode}-${prefix}.json`;
+  const keywords = [await generateKeywords(name, thcode, root_code)];
+  writeToLocalFile(keywords, `${KEYWORDS_DIR}/${filename}`);
+  const thesaurusConfig = generateThesaurusConfig(thesaurus, filename);
+  writeToLocalFile(thesaurusConfig, `${THESAURUS_DIR}/${filename}`);
+}
+
+async function getAllThesauri() {
+  const thesauri = await axios.get(`${BASE_URL}${THESAURUS}`);
+  if (thesauri.status !== 200) {
+    throw new Error(
+      `Failed to fetch thesauri: ${thesauri.status}: ${thesauri.statusText}`
+    );
+  }
+  if (!thesauri.data || !thesauri.data.vocabulary) {
+    throw new Error('No vocabulary found');
+  }
+  return thesauri.data.vocabulary;
 }
 
 export default async function main() {
-  const keywordsPath = `${keywordsDir}usgs-thesaurus.json`;
-  const keywords = await generateKeywords();
-  const thesaurusConfig = generateThesaurusConfig(keywordsPath);
-  writeToLocalFile(thesaurusConfig, `${thesaurusDir}usgs-thesaurus.json`);
-  writeToLocalFile(keywords, keywordsPath);
+  try {
+    const thesauri = await getAllThesauri();
+    for (const thesaurus of thesauri) {
+      console.log('Thesaurus:', thesaurus.thcode);
+      await harvestVocabulary(thesaurus.thcode);
+      console.log('Harvesting complete');
+      sleep(TIME_DELAY);
+    }
+    // await harvestVocabulary('1');
+  } catch (error) {
+    console.error('Error harvesting:', error);
+  }
 }

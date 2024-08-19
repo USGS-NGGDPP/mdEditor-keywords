@@ -1,0 +1,123 @@
+[
+  {
+    "uuid": "000",
+    "label": "ISO 19115 Topic Category",
+    "definition": "High-level geospatial data thematic classification to assist in the grouping and search of available geospatial datasets, defined in ISO 19115:2003.",
+    "children": [
+      {
+        "uuid": "002",
+        "label": "biota",
+        "definition": "Flora or fauna in natural environment, for example wildlife, vegetation, biological sciences, ecology, wilderness, sea life, wetlands, habitat, biological resources",
+        "children": []
+      },
+      {
+        "uuid": "003",
+        "label": "boundaries",
+        "definition": "Legal land descriptions, for example political and administrative boundaries, governmental units, marine boundaries, voting districts, school districts, international boundaries",
+        "children": []
+      },
+      {
+        "uuid": "004",
+        "label": "climatologyMeteorologyAtmosphere",
+        "definition": "Processes and phenomena of the atmosphere, for example cloud cover, weather, climate, atmospheric conditions, climate change, precipitation",
+        "children": []
+      },
+      {
+        "uuid": "005",
+        "label": "economy",
+        "definition": "Economic activities, conditions, and employment, for example production, labor, revenue, business, commerce, industry, tourism and ecotourism, forestry, fisheries, commercial or subsistence hunting, exploration and exploitation of resources such as minerals, oil and gas",
+        "children": []
+      },
+      {
+        "uuid": "006",
+        "label": "elevation",
+        "definition": "Height above or below sea level, for example altitude, bathymetry, digital elevation models, slope, derived products, DEMs, TINs",
+        "children": []
+      },
+      {
+        "uuid": "007",
+        "label": "environment",
+        "definition": "Environmental resources, protection and conservation, for example environmental pollution, waste storage and treatment, environmental impact assessment, monitoring environmental risk, nature reserves, landscape, water quality, air quality, environmental modeling",
+        "children": []
+      },
+      {
+        "uuid": "001",
+        "label": "farming",
+        "definition": "Rearing of animals or cultivation of plants, for example agriculture, irrigation, aquaculture, plantations, herding, pests and diseases affecting crops and livestock",
+        "children": []
+      },
+      {
+        "uuid": "008",
+        "label": "geoscientificInformation",
+        "definition": "Information pertaining to earth sciences, for example geophysical features and processes, geology, minerals, sciences dealing with the composition, structure and origin of the earth's rocks, risks of earthquakes, volcanic activity, landslides, gravity information, soils, permafrost, hydrogeology, groundwater, erosion",
+        "children": []
+      },
+      {
+        "uuid": "009",
+        "label": "health",
+        "definition": "Health, health services, human ecology, and safety, for example disease and illness, factors affecting health, hygiene, substance abuse, mental and physical health, health services, health care providers, public health",
+        "children": []
+      },
+      {
+        "uuid": "010",
+        "label": "imageryBaseMapsEarthCover",
+        "definition": "Base maps, for example land/earth cover, topographic maps, imagery, unclassified images, annotations, digital ortho imagery",
+        "children": []
+      },
+      {
+        "uuid": "012",
+        "label": "inlandWaters",
+        "definition": "Inland water features, drainage systems and characteristics, for example rivers and glaciers, salt lakes, water utilization plans, dams, currents, floods and flood hazards, water quality, hydrographic charts, watersheds, wetlands, hydrography",
+        "children": []
+      },
+      {
+        "uuid": "011",
+        "label": "intelligenceMilitary",
+        "definition": "Military bases, structures, activities, for example barracks, training grounds, military transportation, information collection",
+        "children": []
+      },
+      {
+        "uuid": "013",
+        "label": "location",
+        "definition": "Positional information and services, for example addresses, geodetic networks, geodetic control points, postal zones and services, place names, geographic names",
+        "children": []
+      },
+      {
+        "uuid": "014",
+        "label": "oceans",
+        "definition": "Features and characteristics of salt water bodies (excluding inland waters), for example tides, tidal waves, coastal information, reefs, maritime, outer continental shelf submerged lands, shoreline",
+        "children": []
+      },
+      {
+        "uuid": "015",
+        "label": "planningCadastre",
+        "definition": "Information used for appropriate actions for future use of the land, for example land use maps, zoning maps, cadastral surveys, land ownership, parcels, easements, tax maps, federal land ownership status, public land conveyance records",
+        "children": []
+      },
+      {
+        "uuid": "016",
+        "label": "society",
+        "definition": "Characteristics of society and culture, for example settlements, housing, anthropology, archaeology, education, traditional beliefs, manners and customs, demographic data, tourism, recreational areas and activities, parks, recreational trails, historical sites, cultural resources, social impact assessments, crime and justice, law enforcement, census information, immigration, ethnicity",
+        "children": []
+      },
+      {
+        "uuid": "017",
+        "label": "structure",
+        "definition": "Man-made construction, for example buildings, museums, churches, factories, housing, monuments, shops, towers, building footprints, architectural and structural plans",
+        "children": []
+      },
+      {
+        "uuid": "018",
+        "label": "transportation",
+        "definition": "Means and aids for conveying persons or goods, for example roads, airports/airstrips, shipping routes, tunnels nautical charts, vehicle or vessel location, aeronautical charts, railways",
+        "children": []
+      },
+      {
+        "uuid": "019",
+        "label": "utilitiesCommunication",
+        "definition": "Energy, water and waste systems and communications infrastructure and services, for example hydroelectricity, geothermal, solar and nuclear sources of energy, water purification and distribution, sewage collection and disposal, electricity and gas distribution, data communication, telecommunication, radio, communication networks",
+        "children": []
+      }
+    ]
+  }
+]
