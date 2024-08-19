@@ -1,0 +1,566 @@
+[
+  {
+    "uuid": "1",
+    "label": "Data Categories for Marine Planning",
+    "definition": "Categories indicating the breadth of information types required for ocean planning from a national, multidisciplinary perspective. Published in USGS Open-File Report 2015-1046, doi:10.3133/ofr20151046",
+    "children": [
+      {
+        "uuid": "6",
+        "label": "Data Content Subjects",
+        "definition": "Environmental characteristics and processes as well as human activities that use, rely on, or impact those features.",
+        "children": [
+          {
+            "uuid": "80",
+            "label": "Governance",
+            "definition": "The boundaries of geographic areas that are defined for governmental, administrative, or management purposes. Governance data for marine planning are those that identify governance entities that have effects on environmental processes or human activities that impact the coast, Great Lakes, or ocean. Distributions are maps representing authoritative boundaries (for examples, see http://marinecadastre.gov). Assessments are maps showing theoretical boundaries resulting from models, evaluations, or scenario-testing; or they are modeled values of bounded regions. Predictions are maps showing predicted boundaries based on expected outcomes or driven by variable parameters; or they are models predicting impacts of moving boundaries. All Governance data share these definitions for Distributions, Assessments, and Predictions.",
+            "children": [
+              {
+                "uuid": "83",
+                "label": "Commercial Leases",
+                "definition": "Commercial Leases data delineate areas where special-use allocations are established by contracts that define who has permission to carry out particular activities in an area or zone defined by the contract.",
+                "children": []
+              },
+              {
+                "uuid": "82",
+                "label": "De Facto MPAs",
+                "definition": "De Facto MPAs data delineate areas where human access and activities are restricted for reasons other than conservation. Examples include military operating areas, safety zones around offshore energy production facilities, industrial exclusion zones, and shellfish closures for water-quality reasons (http://marineprotectedareas.noaa.gov).",
+                "children": []
+              },
+              {
+                "uuid": "84",
+                "label": "Jurisdictional Boundaries",
+                "definition": "Jurisdictional Boundaries data delineate domestic, tribal, and international areas established by a law or treaty that determines who has the authority to interpret, apply, and enforce the laws within those areas.",
+                "children": []
+              },
+              {
+                "uuid": "81",
+                "label": "Marine Protected Areas (MPAs)",
+                "definition": "Marine Protected Areas (MPAs) data delineate areas where some or all of the natural and cultural resources are given a heightened level of protection through regulation or other effective means in order to achieve conservation or societal goals (http://marineprotectedareas.noaa.gov).",
+                "children": []
+              },
+              {
+                "uuid": "86",
+                "label": "Regulatory Use Restrictions",
+                "definition": "Regulatory Use Restrictions data delineate specific locations for which some uses are restricted in order to meet regulatory goals (for example, regions in which Total Maximum Daily Loads have been defined for particular pollutants).",
+                "children": []
+              },
+              {
+                "uuid": "85",
+                "label": "Tribally Governed Areas",
+                "definition": "Tribally Governed Areas data delineate specific regions under the sovereignty of American Indian tribes who determine policy, actions, and other affairs.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "87",
+            "label": "Infrastructure",
+            "definition": "The locations of permanent or temporary installations intended to support basic human activities or needs, including communication, transportation, shoreline protection, housing, recreation, and utilities. Data required for marine planning are limited to infrastructure that has effects on environmental processes or human activities that impact the coast, Great Lakes, or ocean. Distributions are maps representing current locations of structures and facilities. Assessments are maps showing theoretical or suitable locations resulting from models, evaluations, or other processes; or they are models that evaluate the ecological or economic impacts of existing infrastructure. Predictions are maps showing predicted locations based on expected outcomes or variable factors and drivers; or they are models that evaluate the ecological or economic effects of proposed, changed, or future infrastructure. All Infrastructure data share these definitions for Distributions, Assessments, and Predictions.",
+            "children": [
+              {
+                "uuid": "90",
+                "label": "Buoys and Navigational Aids",
+                "definition": "These are constructed markers that provide location-specific information.",
+                "children": []
+              },
+              {
+                "uuid": "89",
+                "label": "Cables, Pipelines, and Power Grids",
+                "definition": "These are linear features for communication and transmission of electrical power, data, fluids, or other materials.",
+                "children": []
+              },
+              {
+                "uuid": "88",
+                "label": "Ports",
+                "definition": "Ports are locations with facilities for loading, unloading, docking, fueling, and repairing vessels.",
+                "children": []
+              },
+              {
+                "uuid": "91",
+                "label": "Structures",
+                "definition": "Structures are temporary, permanent, or abandoned constructed features on the coast, Great Lakes, or ocean, including piers, platforms, energy installations, communication towers, hardened shoreline protection, jetties, housing, shipwrecks, and more, but not including ports, cables, pipelines, power grids, buoys, or navigational aids.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "26",
+            "label": "Living Resources",
+            "definition": "Includes aspects of coastal and marine biota that are of particular importance to ecology or to human uses. These can include particular species, groups of biota, associations of biota with physical features, biological function, and biological connectivity.",
+            "children": [
+              {
+                "uuid": "31",
+                "label": "Biological Occurrence",
+                "definition": "Biological Occurrence data identify different taxa together with the times and locations in which these particular organisms live. Distributions for these data subject types record observations of identifiable taxa at known times and places on the basis of captured samples, imagery, genetic testing, or other methods. Distributions also include single-taxon modeling approaches such as habitat suitability index models or essential fish habitat models; interpretations based on empirical correlations; population change models; connectivity estimates; or evaluations of migratory pathways and spawning grounds. Assessment types include spatially applicable indices for identifying and valuing regional taxa; classifications of species (for example, as harvested, protected, or invasive) as a function of location and time; evaluations of organism condition; assessments of stressor or disturbance effects on taxa, assemblages and communities; evaluations of ecological value of species (for example, keystone species, nonredundant species); taxon-based ecological services models; and place-based indices of susceptibility and vulnerability to disturbance. Predictions include evaluations of future impacts, distributions, and ecological or economic effects due to single or multiple stressors and other projected changes, as well as scenario-testing models of taxon losses/gains under different management options, usually combined with projections of related ecological or economic effects.",
+                "children": [
+                  {
+                    "uuid": "36",
+                    "label": "Birds",
+                    "definition": "Avian fauna, including flying and nonflying forms.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "32",
+                    "label": "Fishes",
+                    "definition": "Bony and cartilaginous fishes, including primitive fish-like chordates.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "34",
+                    "label": "Flora",
+                    "definition": "Vascular plants, macroalgae, phytoplankton, or microbial communities.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "38",
+                    "label": "Invasive Species",
+                    "definition": "Nonnative or introduced biota that may spread throughout their new habitats and cause harm to native species and their interactions, human health, or economies. This subtype may be used in addition to another Biological Occurrence subtype, if appropriate.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33",
+                    "label": "Invertebrates",
+                    "definition": "Invertebrate fauna, including primitive non-fishlike chordates and taxa regionally identified as shellfish.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35",
+                    "label": "Mammals",
+                    "definition": "Warm-blooded lactating vertebrates.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37",
+                    "label": "Reptiles",
+                    "definition": "Cold-blooded vertebrate fauna, typically with four limbs and scales.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "28",
+                "label": "Ecological Functions and Services",
+                "definition": "Ecological Functions and Services includes data describing or measuring an ecological or ecosystem process, property, or benefit to humans that is associated with habitat or biota. While many natural services are related to physical materials and energy production, this category is limited to those services and benefits that derive from ecological interactions of living organisms. Examples of processes or properties include primary productivity, secondary production, nutrient processing, biomass, biodiversity, ecological integrity, and trophic connectivity or export. Examples of services include provisioning of food; carbon storage; nutrient removal; filtration of water; and storm, wave, or flood protection. Functions and services related to biodiversity and production are included here and are further categorized and discussed below. Distributions include records of ecological processes, properties, or services at a location, obtained through direct measurement; measurement of proxies; or modeled estimates. Assessments include ecological valuation indices; calculations of yield; indices of habitat quality or biological integrity; purpose-driven, regionally-specific indicators of ecological value or condition; classifications of areas as critical to certain functions; monetization or other valuations of services; and models of benefits or values. Predictions are the results of models or projections of future distributions, values, or impacts of ecological functions or services; anticipated changes produced by natural and human processes; future projections of cumulative impacts of single or multiple stressors; scenario-testing models of loss or gain of function; and predictions of ecological or economic effects of functional changes under different management strategies. The Ecological Functions and Services category includes two sublevels, which are called out for their broad impact on other functions and services and for their frequent use in assessments.",
+                "children": [
+                  {
+                    "uuid": "30",
+                    "label": "Biodiversity",
+                    "definition": "A measure of the variety of organisms within a level of biological organization at any scale in a defined place. Types of biodiversity include genetic diversity; species diversity; guild, feeding group, or functional group diversity; habitat or biotope diversity; and any other measure of biological variety at a location. Biodiversity can be evaluated at levels of biological organization including taxonomic groups (for example, fishes), communities (for example, megafauna), habitats (for example, soft substrate, coral reef), or ecological systems (for example, number of habitats or biotopes in a managed embayment) and at spatial scales ranging from submeter to global. Biodiversity is widely viewed as critical to ecological functions, services, and economic benefits; changes in biodiversity have been closely linked to changes in the ways ecosystems function. Biodiversity is usually considered as an inherent ecosystem service. For purposes of marine planning, biodiversity measures that can be compared across the planning area are most valuable in decision-making. Distributions include quantifications of numbers of species, genetic types, taxonomic groups (for example, fishes), communities, or habitats at a place; diversity indices that can include rarity or relative abundance of types; measurements of proxies (for example, habitat types with known high or low numbers of species); or models. Assessments can estimate, value, monetize, or model the ecological function or service values and impacts of various aspects of biodiversity; identify biodiversity hotspots; or evaluate the effects of pollution, development, climate change, or other stressors on biodiversity. Predictions are the results of models or projections of future distributions, values, or impacts to biodiversity, including future changes produced by natural and human processes. Predictive models can also evaluate the ecosystem effects and ecological function or service impacts of altered biodiversity; scenario-testing models can compare ecological function or service outcomes of different management actions that affect biodiversity.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "29",
+                    "label": "Biological Production",
+                    "definition": "A measure of growth, reproduction, or yield of a biological system at any scale, together with the services provided. This includes primary production (the rate or extent to which new organic matter is created, usually through photosynthesis); secondary production (the rate or extent to which consumers multiply and grow); related concepts such as standing stock, biomass density, available biomass, trophic transfer, and sustainable yield; and services including not only provisioning of food but also the many other services that are enhanced by high biomass of specific organisms. Distributions include spatial records of chlorophyll concentration; growth rates or biomass of flora or fauna; trophic transfer; human consumption; flood control; or other services, derived through direct measurement, measurement of proxies, or models. Assessments can estimate, model, value, or monetize the ecological or service benefits and impacts of various forms or quantities of primary production or evaluate the effects of nutrients, shading, climate change, or other stressors on production and related services. Predictions are the results of models or projections of future distributions, values, or impacts, including anticipated changes produced by natural and human processes. Predictive models can also evaluate the ecosystem-level effects and impacts to ecological functions or services resulting from changing levels and shifting forms of primary or secondary production; scenario-testing models can compare the production or service outcomes of different management actions, including altering nutrient inputs, harvesting, or other actions.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "27",
+                "label": "Habitat",
+                "definition": "Habitat includes data that describe repeatable combinations of biota and associated chemical, physical, or geological features in a distinct place, which, as in the CMECS Biotic Component, generally are named for the dominant taxa living there. Habitat also includes biotopes in accordance with CMECS. Examples include seagrass beds, deep-water corals, benthos, nekton, plankton, mussel beds. Distributions for Habitat data subject types include records of biotic associations, habitats, or biotopes obtained through direct observation, imagery, collection, or other methods; Distributions also include biotope maps, predicted maps of present-day habitats (for example, the Northwest Atlantic Marine Ecoregional Assessment, Mapping European Seabed Habitats), and other compilations or interpretations from observed data. Assessments include ecological valuation indices, presence, quantity (hectares), or percentage of identified high-value habitats; other purpose-driven, regionally-specific indicators of ecological value; classifications of areas as critical habitat; ecological services models; evaluations of habitat condition; and place-based indices of susceptibility and vulnerability to disturbance. Predictions are the results of models or projections of future distributions, values, or impacts; anticipated changes produced by natural and human processes; future projections of cumulative impacts of single or multiple stressors; and scenario-testing habitat loss/gain models and predictions of related ecological or economic effects under different management strategies.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "7",
+            "label": "Nonliving Resources",
+            "definition": "Data are about chemical, physical, or geological features that are of use or importance to humans or ecologies.",
+            "children": [
+              {
+                "uuid": "8",
+                "label": "Energy Resources",
+                "definition": "Natural features that provide a capacity to do work through combustion, movement, radiation, or heat; these resources include oil, natural gas, coal, wind, sun, currents, tides, and natural heat gradients. Distributions are recorded observations, maps, or models of specified resources at known locations, in some cases as a function of season or other temporal scales. Assessments are evaluations of the economic or ecological value associated with the resources or of the difficulty, environmental effects, or sustainability of energy extraction and production. Some assessments can appropriately be included in the Energy Resources category and also in related Living Resources or Uses categories. Predictions are the results of models or projections of future distributions, values, or impacts of energy resources; these data include forecasts of changes due to natural and human processes, such as resource losses or gains under different rates of resource extraction, effects of climate change, and so on.",
+                "children": [
+                  {
+                    "uuid": "14",
+                    "label": "Geothermal Resources",
+                    "definition": "Includes temperature differences related to the Earth's internal heat, commonly observed as springs or vents discharging hot water or steam, or through geothermal wells positioned to extract heat. Distributions are direct observations of the temperature and flow volume of springs, vents, or deep-lying heat sources, as well as geologic and hydraulic models that estimate the location, temperature, and flow rate of hot water. Assessments evaluate geothermal energy potential, risks, and effects on other resources and uses. Predictions are the results of models or projections of future energy potential, risks, and effects; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "10",
+                    "label": "Natural Gas Resources",
+                    "definition": "Stocks of naturally formed hydrocarbon gases, which are usually associated with petroleum fields or gas hydrate formations. Distributions are geologic maps, models, and other observations that indicate locations and volumes of underground stocks. Assessments evaluate locations, methods, and profitability of gas extraction and transportation; environmental impacts; and (or) other interactions with other uses. Predictions are the results of models or projections of future gas reserves based on projected extraction, or they are predicted changes in profitability and risk due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "13",
+                    "label": "Ocean Currents",
+                    "definition": "Relatively constant directional flows of large water masses, which can be driven by a variety of dynamic forces. Distributions are observations of current speed and flow volume, as a function of location, time, and depth, and they include maps of ocean current climatology generated from oceanographic and weather observations, analysis of other driving forces, hydrodynamic theory, and numerical models. Assessments evaluate technology, locations, and profitability for using ocean currents to generate energy; they also evaluate effects of currents on biological resources and on other uses such as transportation or the extraction of resources. Predictions are the results of models or projections of future currents, energy potential, effects, and risks; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15",
+                    "label": "Ocean Thermal Resources",
+                    "definition": "Includes the temperature differences between surface and deep waters in the ocean that can be used for electricity generation through ocean thermal energy conversion (OTEC). Distributions are observations of the ocean temperature profile as a function of time and location as well as maps of ocean temperature climatology based on observations and theory. Assessments evaluate technologies, locations, profitability, and risk of OTEC energy generation. Predictions are the results of models or projections of future OTEC energy potential, effects, and risks; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "9",
+                    "label": "Oil Resources",
+                    "definition": "Deposits of valuable liquid hydrocarbons or fossil fuels. Distributions are geologic maps, models, and observations that indicate location, volume, and geochemical composition of underground deposits. Assessments evaluate locations, methods, and profitability of oil extraction and transportation; environmental impacts; and interactions with other uses. Predictions are the results of models or projections of future oil reserves based on extraction or natural processes, or they are predicted changes in profitability and risk due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16",
+                    "label": "Solar Radiation",
+                    "definition": "Energy emitted by the Sun in the form of electromagnetic waves and particles. Distributions are maps of sunlight climatology as well as basic weather observations such as incident solar radiation and cloud cover. Assessments evaluate the profitability, suitable locations, and effects of solar energy generation on biological resources and other uses. Predictions are the results of models or projections of future solar energy potential, effects, and risks; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "12",
+                    "label": "Tides",
+                    "definition": "The motions of water in ebb and flood currents, driven by the gravitational attraction of the Sun and moon on the Earth, at times influenced by wind events. Distributions are observations of tidal height, currents, and cycles, at specific locations and times, and they include maps of tidal climatology based on combinations of observations, astronomy, hydrodynamic theory, and numerical models. Assessments evaluate tidal energy potential, technologies, and risks; model the effects of tides on other uses; and evaluate risks associated with extreme tides. Predictions are the results of models or projections of future tidal climatology, tidal energy potential, effects, and risks; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "11",
+                    "label": "Wind",
+                    "definition": "The natural movement of air in horizontal currents. Distributions are maps of wind climatology and observations of wind speed, direction, and variability in the lower atmosphere as a function of location, time, or elevation. Assessments evaluate the potential, profitability, and risks of generating wind energy, as well as the effects of wind on uses other than energy generation, such as transportation or offshore structures. Predictions are the results of models or projections of future wind climatology and wind assessments; these data include predicted changes due to economic, regulatory, technological, and environmental changes.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "17",
+                "label": "Material Resources",
+                "definition": "Significant quantities of any naturally occurring nonliving substances that humans can potentially use for economic, nutritional, recreational, ecological, aesthetic, and other benefits. This category does not include energy resources, which are discussed previously. Distributions are recorded observations, interpreted data, or models of specified resources at known times and locations and can include added tangible information for the resource in question (for example, thickness of deposit). Assessments are evaluations of total resource availability, economic value, ecological function and value, drivers, difficulty of extraction, and sustainability; larger assessments that combine Resources and Uses categories can appropriately be included both here and in the other related Resources or Uses categories. Predictions are the results of models or projections of future distributions, values, or impacts of material resources; these data include modeled changes to resources due to natural and human processes. Examples include models of resource losses or gains under different rates of resource extraction, deposition, natural removal, and accumulation; models of how changes to one resource can affect other resources or uses; and models that compare outcomes of different management actions.",
+                "children": [
+                  {
+                    "uuid": "19",
+                    "label": "Mineral Resources",
+                    "definition": "Includes natural occurrences of any useful inorganic element or compound with particle sizes other than sand, including clay, silt, gravel, and bedrock (that is, substrate with a grain size other than 0.0625-2.0 millimeters; for finer subdivisions, see Federal Geographic Data Committee, 2012 [CMECS]). Distributions are recorded observations or models of mineral grain size, composition, and deposit thickness in a location or area, including maps of these resources derived through observations, interpreted data, remote sensing data, geologic maps, and hydrodynamic models. Assessments are evaluations of total mineral availability; models of present deposition, resuspension, erosion, or accretion; models of difficulty of extraction or relocation; and models of ecological and economic values. Predictions are the results of models or projections of future distributions, values, or ecological impacts of mineral resources; these data include predicted changes due to natural and human forces. Predictions are also the results of scenario-based models of resource losses, gains, or impacts on ecological or economic values under different management strategies (for example, mining, extraction, or relocation) or other human alterations.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18",
+                    "label": "Sand Resources",
+                    "definition": "Includes deposits of unconsolidated particles of biogenic or mineral sediments with a dominant particle size ranging from 0.0625-2.0 millimeters in diameter; the deposits may be located offshore as sand beds or onshore as dunes and beaches. Distributions are recorded observations or models of sediment size, composition, and deposit thickness in a location or area, including maps of sand resources compiled through observations, interpreted data, remote sensing data, geologic maps, and hydrodynamic models. Assessments are evaluations of total sand availability; models of present sand deposition and resuspension rates; models of difficulty of extraction, relocation, or protection; and models of ecological and economic value. Predictions are the results of models or projections of future distributions, values, or ecological impacts of sand resources; these data include predicted changes to sand beds due to natural and human forces; scenario-based models of sand resource losses or gains under different management strategies of mining, extraction, relocation, dredging-related deposition, beach nourishment, or hard structure placement (for example, on beaches); and projections of the effects of human alterations to sand resources on other resources or on ecological function.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "20",
+                "label": "Physical/Chemical Features",
+                "definition": "Geological, chemical, or hydrodynamic features that are ecologically important or influence patterns of human uses of the ocean. Examples include seamounts, persistent upwelling zones, areas of low dissolved oxygen, and areas of reduced pH. Distributions are recorded observations of parameters and features, often as a function of time as well as place, also including maps and three-dimensional predictions of distributions based on combinations of observations and theory. Distributions of physical and chemical features (for example, physical habitat, substrate, or bathymetry) are often used as data to support habitat-biota models. Assessments provide information about the value, impact, drivers, connections, or functions of a feature in its present distributions, or they evaluate the effects of physical/chemical features on ecology or suitability for use. Assessments can include climate change models that project environmental effects of climate change and acidification. Larger assessments that combine physical/chemical features with other Resources and Uses categories can appropriately be included here and also in the other related Resources or Uses categories. Predictions are the results of models or projections of future distributions, values, or impacts, which include anticipated changes produced by natural and human processes, and they are also the results of scenario-testing models for comparing outcomes of different management actions.",
+                "children": [
+                  {
+                    "uuid": "22",
+                    "label": "Bathymetry and Elevation",
+                    "definition": "Includes measures of the height of a location above or below a reference surface. Bathymetry is the elevation of the Earth's surface beneath a body of water, especially the ocean, typically determined by measurements of depth from the water surface at mean lower low water. Distributions are topographic maps and bathymetric charts based on collected data and also include smoothed or gridded maps of bathymetry and elevation from observational data or other associated factors. Assessment data types include models of ecological value, economic value, or current rates of alterations due to erosion, accretion, climate change, and other stressors (for example, wetland habitat loss). Predictions are the results of models or projections of future distributions, values, or ecological impacts of bathymetry, including predicted changes due to natural and human forces such as erosion, deposition, sea-level rise, and dredging activities; predictions also include the results of scenario-based models of bathymetry changes under different management strategies.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21",
+                    "label": "Physical Habitats and Geomorphology",
+                    "definition": "Includes measures of the geologic and structural characteristics of the coast or sea floor, such as the features defined in the Geoform Component of CMECS. Distributions are detailed topographic and bathymetric maps, geolocated photographs, or sea-floor descriptions; Distributions includes maps that interpret observations to categorize areas on the basis of geoform types such as those in CMECS. Assessment types include evaluations of ecological or human use value and can include models that project environmental or economic effects of erosion, climate change, dredging, and other stressors. Predictions are the results of models or projections of future distributions, values, or ecological impacts of physical habitats, including predicted changes due to natural and human forces; they are also from scenario-based models of resource losses, gains, or impacts on ecological or economic values under different management strategies (for example, mining, removal, relocation, or the building of structures).",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23",
+                    "label": "Substrate",
+                    "definition": "Represents the character and composition of the surface and near surface of the sea floor in subtidal or intertidal areas, as defined in the Substrate Component of CMECS or in similar classification systems. Distributions are records of substrate characteristics based on visual or photographic inspection or on analysis of samples and cores, and they also include interpretive maps classifying areas on the basis of combinations of observations, hydrodynamic models, or geological models. Assessments include evaluations of present ecological or economic values of substrate distributions, drivers of substrate change, and functions of substrates. Predictions are the results of models or projections of future substrate distributions, values, or ecological impacts, including predicted substrate changes due to natural and human forces including erosion, accretion, sea-level change, extraction, trawling, or other factors; and they are the results of scenario-based models of substrate changes on ecological or economic values under different management strategies or other human alterations.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24",
+                    "label": "Water Column Features",
+                    "definition": "Includes persistent or regularly occurring waves, layers, water masses, upwellings, stratifications, and fronts that are defined by patterns of water velocity, physical properties, and biogeochemical properties; these features are listed and defined in the Layer, Hydroform, and Biogeochemical Feature layers of the Water Column Component of CMECS. Distributions are records of currents, physical properties, or biogeochemical water properties, often based on shipboard surveys or coastal monitoring programs, and maps of currents or water property climatology, which indicate the expected locations of features under present conditions or apply a classification structure like that of CMECS. Assessments are data that provide information about the ecological or economic values, impacts, drivers, connections, or functions of water column features in their present distributions. Predictions are the results of models projecting future changes to currents or other persistent oceanographic features (for example, clines, stratification, connectivity, linkages, and zones of separation) due to climate change, ice-cap melt, and changing freshwater inputs; models predicting the ecological or economic impacts of these changes; and scenario-testing models comparing ecological or economic outcomes of different management actions.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "25",
+                    "label": "Water-Quality Parameters",
+                    "definition": "Includes measures of the ranges and distributions of the chemical, physical, and biological constituents of waters, including temperature, salinity, pH, dissolved oxygen, turbidity, total suspended solids, chlorophyll, nutrients, bacteria, and toxicants. Distributions are recorded observations as a function of time and place, including measures of one or more parameters; maps that use observations and consider hydrodynamic factors to estimate present distributions or ranges; or categorizations of areas using classification systems such as CMECS to identify ranges. Assessments evaluate the current ecological, human health, or economic effects, values, or harms linked to water-quality parameters as well as evaluating effects on ecosystems, biotic distributions, and ecological processes. In the case of temperature, this includes ecological, industrial, and human service values but does not include values related to energy production, which are covered in the Energy Resources category. Predictions are the results of models or projections of future distributions, values, and human health or ecological impacts of water-quality parameters; Predictions include predicted effects due to changes in climate, industrial or residential needs, land use, or other natural and human forces and include scenario-based models of the impacts of changes to parameters on ecological, human health, or economic values under different management strategies or other human alterations.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "39",
+            "label": "Ocean Uses",
+            "definition": "Data about human activities that occur in, on, under, or immediately above the water in the Nation's coastal and marine environments. Humans use and engage with the oceans in a variety of ways and purposes. To provide an objective, transparent, and consistent means of describing, understanding, and planning for those diverse activities, NOAA's National Marine Protected Areas Center recently published A Common Language of Ocean Uses (Wahle and Townsend, 2013). This simple framework defines 35 distinct ways that people use the oceans in the United States. The framework describes each use from a functional perspective, articulating in objective terms how and where the use typically operates in ocean space and what components it involves (for example, vessels, gear, and so on). The resulting use categories provide a means for aggregating functionally similar uses (for example, offshore recreational and commercial pelagic fishing), while allowing important distinctions to be made and explored within the categories (for example, uses pursued for commercial as opposed to recreational purposes). These Ocean Use categories are included in this document as a proposed unifying framework for collecting, organizing, managing, and applying data on human uses of the oceans for CMSP and other place-based management efforts. Distributions are maps or other spatial representations of human uses of the ocean across space or over time. Assessments are evaluations of the trends, ecological requirements and impacts, demographics, socioeconomic drivers and benefits, and conflicts and compatibilities of other human uses of the ocean in its present distribution. Predictions are the results of projections of future distributions or implications of human uses of the ocean, including changes in response to human and natural processes, optimal locations, and trade-offs resulting from different management actions. As an organizing tool, these uses are here divided into five groups, or sectors, reflecting commonalities of purpose and approach among similar uses.",
+            "children": [
+              {
+                "uuid": "61",
+                "label": "Energy Production",
+                "definition": "In addition to the extraction of fossil fuels for energy, new uses are emerging from sources of renewable energy such as wind, waves, tides, and currents. All are industrial, commercial operations and involve relatively large and extensive fixed, installed infrastructure and associated devices for collecting and transmitting the resulting products to shore (for example, pipelines and cables).",
+                "children": [
+                  {
+                    "uuid": "64",
+                    "label": "Ocean Current Energy Production",
+                    "definition": "Includes the generation of electricity from ocean currents by using turbines, associated transmission hubs, generators, and cables; it excludes activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "66",
+                    "label": "Ocean Thermal Energy Conversion",
+                    "definition": "Includes the generation of electricity from ocean temperature gradients by using closed-cycle, open-cycle, and hybrid conversion systems, and associated seawater intake systems and pipelines; it excludes activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "67",
+                    "label": "Offshore Oil and Gas Production",
+                    "definition": "Includes production and transportation of oil and gas as well as associated offshore infrastructure and pipelines; it excludes Shipping as well as activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "65",
+                    "label": "Tidal Current Energy Production",
+                    "definition": "Includes the generation of electricity from tidal currents by using dams and turbines, associated transmission hubs, generators, and cables; it excludes activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63",
+                    "label": "Wave Energy Production",
+                    "definition": "Includes the generation of electricity from wave power by using fixed or floating wave energy capture devices; it excludes activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "62",
+                    "label": "Wind Energy Production",
+                    "definition": "Includes the generation of electricity from wind power by using turbines and associated offshore infrastructure, including substructures, transmission hubs, cables and service platforms; it excludes onshore power grids as well as activities and infrastructure associated with other forms of energy generation.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "51",
+                "label": "Harvesting Living Resources",
+                "definition": "Many ocean uses revolve around fishing, harvesting, or hunting of animals and plants for either commercial or recreational purposes. In those cases, data can be tagged with the appropriate descriptor (Commercial or Recreational) to allow more refined searches, such as Recreational Pelagic Fishing or Commercial Fishing with Benthic Mobile Gear. Many of these uses involve vessels and specialized capture or harvesting gear.",
+                "children": [
+                  {
+                    "uuid": "56",
+                    "label": "Dive Fishing",
+                    "definition": "Includes the use of scuba diving, surface supply diving, or snorkeling (free diving) to spear or catch fishes and invertebrates; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "57",
+                    "label": "Fishing from Shore",
+                    "definition": "Includes the use of rod and reel, crab traps, cast nets, or kites to catch fishes and mobile invertebrates near the shore or from piers and jetties; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54",
+                    "label": "Fishing with Benthic Fixed Gear",
+                    "definition": "Includes the use of traps, pots, bottom long-lines, bottom or anchored gillnets, pound nets, weirs, and other types of bottom tending gear used to catch benthic fishes and invertebrates; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "53",
+                    "label": "Fishing with Benthic Mobile Gear",
+                    "definition": "Includes the use of rod and reel, trolling, trawling, dredging, and other mobile gear to catch benthic fishes and mobile invertebrates; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "58",
+                    "label": "Gathering from Shore",
+                    "definition": "Includes consumptive and (or) subsistence harvest in the intertidal zone of living marine plant or animal species for consumption, aquaria, recreation, education, or research; it excludes other forms of intertidal or coastal harvesting, such as activities that can be classified in the Fishing from Shore, Tide Pooling, Offshore Seaweed Harvest, or Coastal Aquaculture categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "60",
+                    "label": "Hunting",
+                    "definition": "Includes shore- and boat-based hunting of vertebrates, birds, mammals, and reptiles, including legally recognized hunting by tribal and indigenous communities; it excludes fishing and activities that can be classified in the Cultural Use category.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "55",
+                    "label": "Kayak Fishing",
+                    "definition": "Includes hook and line fishing from kayaks or any similar vessels to catch fishes and mobile invertebrates; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "59",
+                    "label": "Offshore Seaweed Harvest",
+                    "definition": "Includes large-scale commercial harvesting by machine, or limited-scale individual harvesting by hand from a small boat, of any species of benthic macroalgae; it excludes activities that can be classified in other Ocean Use categories, such as Offshore Aquaculture, Coastal Aquaculture, and Tide Pooling.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52",
+                    "label": "Pelagic Fishing",
+                    "definition": "Includes the use of midwater trawling, purse seine, pelagic long-lines, hand-lines, harpoons, midwater gillnets, rod and reel, trolling, and buoys to catch pelagic fishes and mobile invertebrates; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "72",
+                "label": "Other Commercial/Industrial Uses",
+                "definition": "The oceans of the United States are increasingly considered valuable areas for industrial and commercial operations ranging from mining to aquaculture. These uses typically involve heavy equipment and permanently installed infrastructure, commonly over an extensive spatial footprint.",
+                "children": [
+                  {
+                    "uuid": "75",
+                    "label": "Coastal Aquaculture",
+                    "definition": "Includes cultivating and harvesting marine organisms in the nearshore environment by using man-made enclosures that can be fixed, floating, or submerged (for example, nets, pens, and cages); it excludes aquaculture wholly pursued on land and activities that can be classified in the Offshore Aquaculture category.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "73",
+                    "label": "Mining and Mineral Extraction",
+                    "definition": "Includes sand and gravel extraction, seabed mining for commercial minerals, dredging, and beach nourishment; it excludes energy production activities.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "78",
+                    "label": "Ocean Dumping",
+                    "definition": "Includes the deliberate, legal dumping of dredged spoils and other materials into ocean waters; it excludes activities that can be classified in the Sewage Discharge or Mining and Mineral Extraction categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "74",
+                    "label": "Offshore Aquaculture",
+                    "definition": "Includes cultivating and harvesting marine organisms offshore by using man-made enclosures that can be fixed, floating, or submerged (for example, nets, pens, and cages); it excludes aquaculture wholly pursued on land and activities that can be classified in the Coastal Aquaculture category.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "76",
+                    "label": "Seawater Intake",
+                    "definition": "Includes intake of seawater for desalination, power plant cooling, or other industrial uses as well as associated beach wells, offshore or submerged intake systems, and pipelines; it excludes intake related to sewage discharge, renewable energy production, or fishing.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "77",
+                    "label": "Sewage Discharge",
+                    "definition": "Includes discharging of sewage and wastewater effluent from outfall areas as well as associated pipelines; it excludes activities that can be classified in the Ocean Dumping category.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "79",
+                    "label": "Underwater Transmission Cables",
+                    "definition": "Includes cables installed on the sea floor to transmit data, communications, and electricity generated on land; it excludes lost fishing gear and other types of cables such as those that can be classified in Energy Production use categories.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "40",
+                "label": "Recreational Nonextractive /Cultural Use",
+                "definition": "These are activities pursued by individuals or groups for the purposes of recreation, exercise, sport, cultural traditions, or spiritual renewal. Many involve people in, on, or under the water, often with a small vessel or dive gear. With the exception of Cultural Use, which may include traditional harvest of certain resources by tribes or native peoples, all involve nonextractive activities.",
+                "children": [
+                  {
+                    "uuid": "50",
+                    "label": "Cultural Use",
+                    "definition": "Traditional and current use of specific ocean, coastal, and shoreline areas by tribal and indigenous communities, based on the area's inherent cultural, spiritual, or aesthetic values and significance; it excludes activities that can be classified in other Ocean Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "46",
+                    "label": "Motorized Boating",
+                    "definition": "Includes transit, mooring, or anchoring by motorized vessels, including personal watercraft, for commercial or recreational purposes; it excludes activities that can be classified in the Fishing, Wildlife Viewing at Sea, Cruise Ships, Shipping, and Sailing categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "44",
+                    "label": "Paddling",
+                    "definition": "Includes kayaking, canoeing, rowing, outrigger paddling, and stand-up paddling; it excludes activities that can be classified in the Motorized Boating and Surface Board Sports categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "45",
+                    "label": "Sailing",
+                    "definition": "Includes transit, mooring, motoring, or anchoring by sailboats, including sailing kayaks and canoes; it excludes activities that can be classified in the Motorized Boating and Paddling categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41",
+                    "label": "Scuba/Snorkeling",
+                    "definition": "Includes scuba diving, surface supply diving, snorkeling (that is, free diving); it excludes activities that can be classified in the Swimming or Dive Fishing categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "49",
+                    "label": "Shore Use",
+                    "definition": "Includes walking, running, digging, resting, collecting of shells, wildlife viewing, driving on the beach, camping, kite flying, bonfires, picnicking, dog walking, horseback riding, skim boarding, and related recreational activities; it excludes activities that can be classified in the Tide Pooling, Mining and Mineral Extraction, Surface Board Sports, Swimming, Harvesting from Shore, or Coastal Aquaculture categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "43",
+                    "label": "Surface Board Sports",
+                    "definition": "Includes tow-in and paddle-in surfing, windsurfing, kite surfing, and sailboarding; it excludes activities that can be classified in the Paddling, Scuba/Snorkeling, and Swimming categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "42",
+                    "label": "Swimming",
+                    "definition": "Includes short- and long-distance surface swimming at any distance from shore and body surfing; it excludes activities that can be classified in the Scuba/Snorkeling and Surface Board Sports categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "48",
+                    "label": "Tide Pooling",
+                    "definition": "Includes the nonconsumptive use of the intertidal zone between high and low tides for recreational, scientific, or educational purposes; it excludes activities that can be classified in the Harvesting from Shore or Shore Use categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47",
+                    "label": "Wildlife Viewing at Sea",
+                    "definition": "Includes boat-based wildlife viewing at sea, usually on a commercial vessel; it excludes incidental wildlife viewing from shore or sea while pursuing other activities such as those that are classified in the Motorized Boating, Paddling, or Sailing categories.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "68",
+                "label": "Transportation",
+                "definition": "Among the oldest of human uses of the ocean, the movement of people, goods, and armies by ship remains a major component of the Nation's ocean use footprint. All involve the transit far offshore by large ships over long distances, with periodic passages into shallower waters for loading, offloading, repairs, refueling, and so on.",
+                "children": [
+                  {
+                    "uuid": "70",
+                    "label": "Cruise Ships",
+                    "definition": "Includes transit, mooring, or anchoring for extended overnight recreational travel on commercial ships; it excludes activities that can be classified in the Motorized Boating and Shipping categories.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "71",
+                    "label": "Military Vessels",
+                    "definition": "Includes transit of military vessels related to training activities, homeland security, search and rescue, ship and submarine maneuvers, and war games; it excludes wartime military operations.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "69",
+                    "label": "Shipping",
+                    "definition": "Includes transit, mooring, or anchoring by ships, ferries, and other large commercial vessels; it excludes activities that can be classified in the Offshore Oil and Gas Production and Cruise Ships categories.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "2",
+        "label": "Data Content Types",
+        "definition": "General purpose of the data with respect to its subject.",
+        "children": [
+          {
+            "uuid": "4",
+            "label": "Assessments",
+            "definition": "Derived data that provide information about the values, impacts, drivers, connections, or functions of a feature in its present distribution.",
+            "children": []
+          },
+          {
+            "uuid": "3",
+            "label": "Distributions",
+            "definition": "Locations or patterns of a feature of interest across space and (or) time. These data can include point data, lines, polygons, and temporal data at any scale relevant to CMSP and can be produced by observation, interpolation, or modeling. Distributions can also include maps or statistics of climatology, the environmental values that are expected to be observed at the present time.",
+            "children": []
+          },
+          {
+            "uuid": "5",
+            "label": "Predictions",
+            "definition": "Data expressing projections or models of future distributions, values, or impacts, including forecasts of anticipated changes brought about by natural and human processes, as well as scenario-testing models that compare outcomes of different management actions.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2002-07-03",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Types of named geographic features.  Applicable also to many unnamed features but reflects the level of detail traditionally shown on maps, so some feature types specified in scientific studies may not be well represented here.  Not highly specific.",
+    "title": "Alexandria Digital Library Feature Type Thesaurus",
+    "edition": "2.0",
+    "onlineResource": [
+      {
+        "uri": "http://www.usgs.gov/science/ADLFeatureType"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "3"
+      }
+    ]
+  },
+  "label": "Alexandria Digital Library Feature Type Thesaurus",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-3-feature.json"
+}

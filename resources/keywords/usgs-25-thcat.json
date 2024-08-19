@@ -1,0 +1,191 @@
+[
+  {
+    "uuid": "1",
+    "label": "Thesaurus categories",
+    "definition": "Characteristics applicable to entire controlled vocabularies.  We expect these terms to help people decide which vocabularies to use for particular purposes in the absence of official guidance.",
+    "children": [
+      {
+        "uuid": "3",
+        "label": "(structure and function)",
+        "definition": "Characteristics of vocabularies like hierarchy, transitivity, granularity that might be used by automated processes to make decisions.",
+        "children": [
+          {
+            "uuid": "26",
+            "label": "(generality)",
+            "definition": "Nature of the terms: types or instances",
+            "children": [
+              {
+                "uuid": "30",
+                "label": "ambiguous labels",
+                "definition": "A given preferred label may be used for more than one concept in the thesaurus. A concept must be specified using its unique identifier (code). This may occur in the names of places or people.",
+                "children": []
+              },
+              {
+                "uuid": "29",
+                "label": "distinct labels",
+                "definition": "Preferred labels (descriptor texts) are distinct within the thesaurus. A concept can be specified either by its unique identifier (code) or by the text of its descriptor.",
+                "children": []
+              },
+              {
+                "uuid": "28",
+                "label": "instances",
+                "definition": "Terms are named instances of things rather than types",
+                "children": []
+              },
+              {
+                "uuid": "27",
+                "label": "types",
+                "definition": "Terms are types of things rather than named instances",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "11",
+            "label": "(hierarchy)",
+            "definition": "Terms are arranged with broader and narrower relationships specified explicitly.",
+            "children": [
+              {
+                "uuid": "15",
+                "label": "flat",
+                "definition": "The vocabulary consists of a list of terms that are of roughly equal generality. This applies also in the case where a single broader term serves as parent to the entire vocabulary.",
+                "children": []
+              },
+              {
+                "uuid": "16",
+                "label": "hierarchical",
+                "definition": "Substantive broader-narrower relationships exist among the terms.",
+                "children": [
+                  {
+                    "uuid": "18",
+                    "label": "polyhierarchical",
+                    "definition": "Terms are arranged in hierarchy and some terms may have more than one broader term.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "17",
+                "label": "pseudohierarchical",
+                "definition": "Broader-narrower relationships exist in the vocabulary but have no semantic relation to the terms themselves, for example, a list of peoples' names arranged hierarchically by the first letter of the surname.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "12",
+            "label": "(transitivity)",
+            "definition": "Hierarchical relationships may be intentionally transitive or not transitive; automated processes may use this characteristic to compose collections of relevant documents indexed using the vocabulary.",
+            "children": [
+              {
+                "uuid": "14",
+                "label": "not transitive",
+                "definition": "Narrower terms cannot reliably be understood as parts of, types of, or instances of the terms that are broader than them.",
+                "children": []
+              },
+              {
+                "uuid": "13",
+                "label": "transitive",
+                "definition": "Narrower terms have an \"is a\" relationship with their broader terms, and generally can be described as part-of, type-of, or instance-of the broader term.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "2",
+        "label": "(subjects)",
+        "definition": "Distinct segments of human knowledge, such as place, time, or theme.",
+        "children": [
+          {
+            "uuid": "21",
+            "label": "disciplines",
+            "definition": "Broad categories of human inquiry or activity, such as scientific disciplines.",
+            "children": []
+          },
+          {
+            "uuid": "23",
+            "label": "information representation",
+            "definition": "Terms indicating the content, format, or packaging of information that may be available.",
+            "children": [
+              {
+                "uuid": "25",
+                "label": "information format",
+                "definition": "Terms indicating the format in which information is made available.",
+                "children": []
+              },
+              {
+                "uuid": "24",
+                "label": "information product types",
+                "definition": "Terms categorizing information products by the content, intended use or audience, or formality.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "20",
+            "label": "methods",
+            "definition": "Actions taken to obtain or analyze information",
+            "children": []
+          },
+          {
+            "uuid": "19",
+            "label": "organizational functions",
+            "definition": "Things that organizations do, typically including various types of programs, projects, and services.",
+            "children": []
+          },
+          {
+            "uuid": "9",
+            "label": "organizations",
+            "definition": "Terms specify human organizations, their subdivisions and relationships, as well as characteristics of such organizations.",
+            "children": []
+          },
+          {
+            "uuid": "10",
+            "label": "persons",
+            "definition": "Terms specify individual people, typically by name.",
+            "children": []
+          },
+          {
+            "uuid": "4",
+            "label": "place",
+            "definition": "Terms indicate extent in space, typically by reference as the names of geographic areas known from information that is stored elsewhere.",
+            "children": []
+          },
+          {
+            "uuid": "6",
+            "label": "stratum",
+            "definition": "Terms indicating packages of earth materials that have a common characteristic such as age, composition, mode of formation or deformation.",
+            "children": []
+          },
+          {
+            "uuid": "7",
+            "label": "temporal",
+            "definition": "Terms indicate periods of time, such as chronostratigraphic units, named historical periods or intervals surrounding known historical events, or seasons.",
+            "children": []
+          },
+          {
+            "uuid": "5",
+            "label": "theme",
+            "definition": "Terms indicate domains of human concern, such as scientific discipline, societal problems, or characteristics of earth, space, oceans, and living things.",
+            "children": [
+              {
+                "uuid": "8",
+                "label": "biological taxonomy",
+                "definition": "Terms indicate groups of organisms identified by names where the rules governing the specification and use of the names are defined by well known tradition or by governing bodies such as international commissions.",
+                "children": []
+              },
+              {
+                "uuid": "22",
+                "label": "lithology",
+                "definition": "Rock types; may be further divided by composition, texture, mode of formation, or physical form of the rock body.",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2002-03-21",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Names and identifiers of commonly-known geographic areas including oceans, continents, countries, states and provinces in North America, counties in the United States, USGS map quadrangles, and hydrologic units, nested and cross-referenced by overlap.",
+    "title": "Common geographic areas",
+    "edition": "1.0",
+    "onlineResource": [
+      {
+        "uri": "http://www.usgs.gov/science/CommonGeographicAreas"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "1"
+      }
+    ]
+  },
+  "label": "Common geographic areas",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-1-geo.json"
+}

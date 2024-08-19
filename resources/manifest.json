@@ -169,6 +169,10 @@
   },
   {
     "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-antarctica-dev.json"
+  },
+  {
+    "name": "GNIS Antarctica Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-antarctica.json"
   },
   {
@@ -202,6 +206,10 @@
   {
     "name": "GNIS - Domestic Names - British Columbia - Thesaurus",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-british-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - California - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-california-dev.json"
   },
   {
     "name": "GNIS - Domestic Names - California - Thesaurus",
@@ -568,11 +576,31 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/sb-611d3f2dbfff3461918aba4d.json"
   },
   {
-    "name": "Lithography",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-4-lithclass.json"
+    "name": "Common geographic areas",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-1-geo.json"
+  },
+  {
+    "name": "ISO 19115 Topic Category",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-15-iso19115.json"
   },
   {
     "name": "USGS Thesaurus",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-thesaurus.json"
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-2-topic.json"
+  },
+  {
+    "name": "Data Categories for Marine Planning",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-23-dcmp.json"
+  },
+  {
+    "name": "Thesaurus categories",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-25-thcat.json"
+  },
+  {
+    "name": "Alexandria Digital Library Feature Type Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-3-feature.json"
+  },
+  {
+    "name": "Lithologic classification of geologic map units",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-4-lithclass.json"
   }
 ]

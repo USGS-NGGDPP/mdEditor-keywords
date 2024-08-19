@@ -1,25 +1,25 @@
 {
   "citation": {
-    "title": "Lithologic classification of geologic map units",
-    "description": "Rock types commonly found on geologic maps. Terms may combine compositional, textural, and genetic characteristics. Also includes unconsolidated materials that may be mapped as units. Not specific enough for categorizing hand samples or outcrops.",
-    "edition": "6.2",
     "date": [
       {
         "date": "2004-08-16",
         "dateType": "revision"
       }
     ],
-    "identifier": [
-      {
-        "identifier": "4"
-      }
-    ],
+    "description": "Rock types commonly found on geologic maps. Terms may combine compositional, textural, and genetic characteristics. Also includes unconsolidated materials that may be mapped as units. Not specific enough for categorizing hand samples or outcrops.",
+    "title": "Lithologic classification of geologic map units",
+    "edition": "6.2",
     "onlineResource": [
       {
         "uri": "http://www.usgs.gov/science/Lithclass6.2"
       }
+    ],
+    "identifier": [
+      {
+        "identifier": "4"
+      }
     ]
   },
-  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-4-lithclass.json",
-  "label": "Lithography"
+  "label": "Lithologic classification of geologic map units",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-4-lithclass.json"
 }
