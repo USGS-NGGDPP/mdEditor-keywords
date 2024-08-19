@@ -1,5 +1,6 @@
 import axios from 'axios';
-import { writeToLocalFile } from '../utils';
+
+import { sleep, writeToLocalFile } from '../utils';
 import config from './config.json';
 
 const {
@@ -29,19 +30,40 @@ async function getThesaurus(thcode) {
 
 async function getTerm(thcode, code) {
   const termUrl = `${BASE_URL}${TERM}?thcode=${thcode}&code=${code}`;
-  const term = await axios.get(termUrl);
-  if (term.status !== 200) {
-    throw new Error(
-      `Failed to fetch term ${code}: ${term.status}: ${term.statusText}`
-    );
+  let term;
+  sleep(25);
+  try {
+    term = await axios.get(termUrl);
+    if (term.status !== 200) {
+      sleep(3000);
+      term = await axios.get(termUrl);
+      if (term.status !== 200) {
+        throw new Error(
+          `Failed to fetch term ${code}: ${term.status}: ${term.statusText}`
+        );
+      }
+    }
+    if (!term.data) {
+      throw new Error(`No term ${code} found`);
+    }
+    return term.data;
+  } catch (e) {
+    console.log('term error', code);
+    sleep(3000);
+    term = await axios.get(termUrl);
+    if (term.status !== 200) {
+      throw new Error(
+        `Failed to fetch term ${code}: ${term.status}: ${term.statusText}`
+      );
+    }
+    if (!term.data) {
+      throw new Error(`No term ${code} found`);
+    }
+    return term.data;
   }
-  if (!term.data) {
-    throw new Error(`No term ${code} found`);
-  }
-  return term.data;
 }
 
-function generateKeyword(term) {
+function createNode(term) {
   return {
     uuid: term.code,
     label: term.name,
@@ -54,22 +76,25 @@ async function buildTree(node, thcode) {
   if (!node.nt || node.nt.length === 0) {
     return [];
   }
-  const childrenRequests = node.nt.map(child => getTerm(thcode, child.code));
-  const childrenResponses = await Promise.all(childrenRequests);
-  const childrenKeywords = await Promise.all(
-    childrenResponses.map(async response => {
-      const childKeyword = generateKeyword(response.term);
-      childKeyword.children = await buildTree(response, thcode);
-      return childKeyword;
-    })
-  );
+  const childrenRequests = [];
+  for (const child of node.nt) {
+    const request = await getTerm(thcode, child.code);
+    childrenRequests.push(request);
+  }
+  const childrenKeywords = [];
+  for (const response of childrenRequests) {
+    const childNode = createNode(response.term);
+    childNode.children = await buildTree(response, thcode);
+    childrenKeywords.push(childNode);
+  }
   return childrenKeywords;
 }
 
 async function generateKeywords(name, thcode, root_code) {
   console.log('Building vocabulary:', name);
   const root = await getTerm(thcode, root_code);
-  const rootKeyword = generateKeyword(root.term);
+  const rootKeyword = createNode(root.term);
+  rootKeyword.label = name;
   rootKeyword.children = await buildTree(root, thcode);
   return rootKeyword;
 }
@@ -119,10 +144,29 @@ async function harvestVocabulary(thcode) {
   writeToLocalFile(thesaurusConfig, `${THESAURUS_DIR}/${filename}`);
 }
 
+async function getAllThesauri() {
+  const thesauri = await axios.get(`${BASE_URL}${THESAURUS}`);
+  if (thesauri.status !== 200) {
+    throw new Error(
+      `Failed to fetch thesauri: ${thesauri.status}: ${thesauri.statusText}`
+    );
+  }
+  if (!thesauri.data || !thesauri.data.vocabulary) {
+    throw new Error('No vocabulary found');
+  }
+  return thesauri.data.vocabulary;
+}
+
 export default async function main() {
   try {
-    await harvestVocabulary(LITHOGRAPHY_CODE);
+    // const thesauri = await getAllThesauri();
+    // for (const thesaurus of thesauri) {
+    //   console.log('Thesaurus:', thesaurus.thcode);
+    //   await harvestVocabulary(thesaurus.thcode);
+    //   sleep(1000);
+    // }
+    await harvestVocabulary('1');
   } catch (error) {
-    console.error('Error:', error);
+    console.error('Error harvesting:', error);
   }
 }
