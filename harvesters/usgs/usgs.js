@@ -1,3 +1,4 @@
+import dayjs from 'dayjs';
 import axios from 'axios';
 
 import { sleep, writeToLocalFile } from '../utils';
@@ -68,7 +69,7 @@ function createNode(term) {
   return {
     uuid: term.code,
     label: term.name,
-    definition: term.scope,
+    definition: term.scope || '',
     children: []
   };
 }
@@ -112,16 +113,16 @@ function generateThesaurusConfig(thesaurus, filename) {
     citation: {
       date: [
         {
-          date: thesaurus.date || null,
+          date: dayjs(thesaurus.date).format('YYYY-MM-DDTHH:mm:ssZ'),
           dateType: 'revision'
         }
       ],
       description: thesaurus.scope || 'No description available',
       title: thesaurus.name,
-      edition: thesaurus.edition || null,
+      edition: thesaurus.edition || '',
       onlineResource: [
         {
-          uri: thesaurus.uri || null
+          uri: thesaurus.uri || ''
         }
       ],
       identifier: [

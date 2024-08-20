@@ -12,7 +12,7 @@
           {
             "uuid": "1759",
             "label": "employment and volunteer opportunities",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
@@ -29,13 +29,13 @@
               {
                 "uuid": "1764",
                 "label": "laboratories",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "1765",
                 "label": "libraries and archives",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1797",
@@ -56,7 +56,7 @@
           {
             "uuid": "1758",
             "label": "organizational structure",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "1806",
@@ -142,12 +142,12 @@
           {
             "uuid": "1762",
             "label": "user services",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "1782",
                 "label": "community relations",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -159,30 +159,30 @@
               {
                 "uuid": "1779",
                 "label": "educational services",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1786",
                     "label": "K-12 resources",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1783",
                     "label": "college resources",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1784",
                     "label": "internship programs",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1785",
                     "label": "lifelong learning resources",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -190,12 +190,12 @@
               {
                 "uuid": "1780",
                 "label": "information services",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "1787",
                     "label": "data services",
-                    "definition": null,
+                    "definition": "",
                     "children": [
                       {
                         "uuid": "2045",
@@ -233,7 +233,7 @@
                   {
                     "uuid": "1788",
                     "label": "reference services",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -253,7 +253,7 @@
               {
                 "uuid": "1781",
                 "label": "media relations",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -1607,7 +1607,7 @@
                   {
                     "uuid": "1379",
                     "label": "AVIRIS",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -1853,7 +1853,7 @@
               {
                 "uuid": "1092",
                 "label": "speeches and testimony",
-                "definition": null,
+                "definition": "",
                 "children": []
               }
             ]
@@ -2505,7 +2505,7 @@
           {
             "uuid": "1634",
             "label": "geologic time periods",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "1652",
@@ -2721,30 +2721,30 @@
           {
             "uuid": "1658",
             "label": "seasons",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "1624",
                 "label": "autumn",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "1660",
                 "label": "spring (season)",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "1661",
                 "label": "summer",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
                 "uuid": "1666",
                 "label": "winter",
-                "definition": null,
+                "definition": "",
                 "children": []
               }
             ]
@@ -3397,7 +3397,7 @@
               {
                 "uuid": "1667",
                 "label": "hydrologic processes",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "398",
@@ -3740,7 +3740,7 @@
                   {
                     "uuid": "27",
                     "label": "air temperature",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -4272,49 +4272,49 @@
                   {
                     "uuid": "1384",
                     "label": "actinide series elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1388",
                     "label": "alkali metal elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1389",
                     "label": "alkaline earth elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1467",
                     "label": "halogen elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1489",
                     "label": "lanthanide series elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1504",
                     "label": "metal elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1525",
                     "label": "noble gas elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
                     "uuid": "1526",
                     "label": "nonmetal elements",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -5760,7 +5760,7 @@
                               {
                                 "uuid": "1737",
                                 "label": "bees and wasps",
-                                "definition": null,
+                                "definition": "",
                                 "children": []
                               },
                               {
@@ -5891,7 +5891,7 @@
                           {
                             "uuid": "2039",
                             "label": "walruses",
-                            "definition": null,
+                            "definition": "",
                             "children": []
                           }
                         ]
@@ -6355,7 +6355,7 @@
                       {
                         "uuid": "283",
                         "label": "drinking water use",
-                        "definition": null,
+                        "definition": "",
                         "children": []
                       }
                     ]
