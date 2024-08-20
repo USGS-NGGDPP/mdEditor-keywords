@@ -2,12 +2,12 @@
   {
     "uuid": "1",
     "label": "Alexandria Digital Library Feature Type Thesaurus",
-    "definition": null,
+    "definition": "",
     "children": [
       {
         "uuid": "10",
         "label": "administrative areas",
-        "definition": null,
+        "definition": "",
         "children": [
           {
             "uuid": "153",
@@ -24,13 +24,13 @@
           {
             "uuid": "674",
             "label": "military areas",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
             "uuid": "843",
             "label": "political areas",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "270",
@@ -65,7 +65,7 @@
               {
                 "uuid": "714",
                 "label": "multinational entities",
-                "definition": null,
+                "definition": "",
                 "children": []
               }
             ]
@@ -105,7 +105,7 @@
           {
             "uuid": "1077",
             "label": "statistical areas",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "671",
@@ -124,7 +124,7 @@
           {
             "uuid": "1144",
             "label": "territorial waters",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
@@ -295,7 +295,7 @@
       {
         "uuid": "643",
         "label": "manmade features",
-        "definition": null,
+        "definition": "",
         "children": [
           {
             "uuid": "19",
@@ -360,7 +360,7 @@
                   {
                     "uuid": "665",
                     "label": "medical facilities",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   },
                   {
@@ -374,7 +374,7 @@
               {
                 "uuid": "620",
                 "label": "library buildings",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -392,12 +392,12 @@
               {
                 "uuid": "936",
                 "label": "research facilities",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "301",
                     "label": "data collection facilities",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -405,7 +405,7 @@
               {
                 "uuid": "942",
                 "label": "residential sites",
-                "definition": null,
+                "definition": "",
                 "children": [
                   {
                     "uuid": "518",
@@ -416,7 +416,7 @@
                   {
                     "uuid": "696",
                     "label": "mobile home parks",
-                    "definition": null,
+                    "definition": "",
                     "children": []
                   }
                 ]
@@ -456,7 +456,7 @@
           {
             "uuid": "505",
             "label": "historical sites",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "51",
@@ -572,7 +572,7 @@
               {
                 "uuid": "1201",
                 "label": "viewing locations",
-                "definition": null,
+                "definition": "",
                 "children": []
               }
             ]
@@ -580,7 +580,7 @@
           {
             "uuid": "918",
             "label": "recreational facilities",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "32",
@@ -611,18 +611,18 @@
           {
             "uuid": "922",
             "label": "reference locations",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
             "uuid": "935",
             "label": "research areas",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "346",
                 "label": "ecological research sites",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -648,7 +648,7 @@
           {
             "uuid": "1136",
             "label": "telecommunication features",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
@@ -660,7 +660,7 @@
           {
             "uuid": "1174",
             "label": "transportation features",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "25",
@@ -720,7 +720,7 @@
               {
                 "uuid": "897",
                 "label": "railroad features",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -760,7 +760,7 @@
       {
         "uuid": "816",
         "label": "physiographic features",
-        "definition": null,
+        "definition": "",
         "children": [
           {
             "uuid": "28",
@@ -998,7 +998,7 @@
           {
             "uuid": "1010",
             "label": "seafloor features",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "2",
@@ -1052,7 +1052,7 @@
               {
                 "uuid": "345",
                 "label": "earthquake features",
-                "definition": null,
+                "definition": "",
                 "children": []
               },
               {
@@ -1143,7 +1143,7 @@
           {
             "uuid": "16",
             "label": "agricultural regions",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
@@ -1253,7 +1253,7 @@
           {
             "uuid": "347",
             "label": "economic regions",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
@@ -1291,13 +1291,13 @@
           {
             "uuid": "625",
             "label": "linguistic regions",
-            "definition": null,
+            "definition": "",
             "children": []
           },
           {
             "uuid": "646",
             "label": "map regions",
-            "definition": null,
+            "definition": "",
             "children": [
               {
                 "uuid": "1196",

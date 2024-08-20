@@ -2,7 +2,7 @@
   "citation": {
     "date": [
       {
-        "date": "2013-04-16",
+        "date": "2013-04-16T00:00:00-06:00",
         "dateType": "revision"
       }
     ],
@@ -11,7 +11,7 @@
     "edition": "1.0",
     "onlineResource": [
       {
-        "uri": null
+        "uri": ""
       }
     ],
     "identifier": [
