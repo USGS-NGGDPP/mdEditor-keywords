@@ -16,7 +16,54 @@ The primary function of these harvesters is to ensure that the keyword data rema
 The following harvesters are included in this repository, each targeting a specific system or database:
 
 - **GCMD (Global Change Master Directory)**:  
-  _Insert a detailed description about GCMD and the type of keywords it harvests, such as climate-related datasets or global environmental data._
+  The GCMD harvester gathers keywords from various vocabularies related to Earth science data, climate research, and environmental monitoring. These vocabularies help standardize the terminology used in metadata to ensure consistency across datasets.
+
+  The vocabularies harvested from GCMD include:
+
+  - Chronostratigraphic Units
+  - Platforms
+  - Disciplines
+  - IDN Nodes
+  - ISO Topic Categories
+  - Horizontal Resolution Ranges
+  - Vertical Resolution Ranges
+  - Temporal Resolution Ranges
+  - Instruments
+  - Projects
+  - Persistent Identifier
+  - Private
+  - Phone Type
+  - Product Flag
+  - Dataset Progress
+  - Dataset Language
+  - Metadata Association Type
+  - Organization Personnel Role
+  - Personnel Role
+  - Organization Type
+  - Duration Unit
+  - Platform Type
+  - Collection Data Type
+  - Coordinate System
+  - Granule Spatial Representation
+  - Product Level Id
+  - Spatial Coverage Type
+  - Multimedia Format
+  - Metadata Language
+  - Contact Type
+  - Mime Type
+  - Distribution Size Unit
+  - Related URL Content Types
+  - Data Format
+  - Measurement Name
+  - Projection Name
+  - Projection Authority
+  - Chained Operations
+  - Operations
+  - Projection Datum Names
+  - Science Keywords
+
+  These vocabularies are essential for maintaining structured and consistent metadata within Earth science datasets.
+
 - **GNIS (Geographic Names Information System)**:  
   _Insert a detailed description of GNIS and how it gathers geographical place names and relevant metadata for locations in the U.S._
 - **NALT (National Agricultural Library Thesaurus)**:  
