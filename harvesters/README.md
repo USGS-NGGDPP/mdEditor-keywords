@@ -2,40 +2,65 @@
 
 ## Overview
 
-- Brief description of the purpose and functionality of the harvesters.
+This repository provides a collection of harvesters designed to automate the process of gathering keyword data from various sources. The collected keywords can be used with the mdEditor tool for metadata management, ensuring data consistency and efficient keyword application.
 
 ## Available Harvesters
 
-- List of included harvesters (e.g., GCMD, GNIS, NALT).
+The following harvesters are included in this repository:
+
+- GCMD
+- GNIS
+- NALT
+- ScienceBase
+- USGS
 
 ## Prerequisites
 
-- Software and data requirements before running the harvesters.
+Ensure that the following software and data requirements are met before running any of the harvesters:
+
+- Node.js
+- Required API access for the relevant harvesters (e.g., GNIS, ScienceBase).
+- Access to the mdEditor for keyword management.
 
 ## Installation
 
-- Steps to install any dependencies specific to the harvesters.
+To install dependencies, run the following command:
+
+`code for installing dependencies goes here`
 
 ## Usage
 
-- Instructions on how to run the harvesters.
-  - Running individual harvesters.
-  - Running all harvesters.
-- Command-line examples.
+You can run specific harvesters or all harvesters from the command line.
+
+### Running a specific harvester:
+
+- Example command for running an individual harvester:
+  `command to run individual harvester goes here`
+
+### Running all harvesters:
+
+- Example command to run all harvesters at once:
+  `command to run all harvesters goes here`
 
 ## Configuration
 
-- Details on any configuration files needed.
-- How to customize harvesters for new data sources.
+Configuration files are required to set up API endpoints, authentication tokens, and other parameters needed by the harvesters. Customize them as necessary for new data sources or modifications to the existing ones.
+
+`placeholder for explaining the configuration of files`
 
 ## Output
 
-- Information about the generated files and their locations.
+The output of each harvester is a set of keyword files saved in a predefined location. These files are formatted as JSON, ensuring compatibility with the mdEditor tool.
+
+`details about output locations and format`
 
 ## Troubleshooting
 
-- Common issues and their solutions.
+If you encounter any issues while running the harvesters, consult the following troubleshooting tips:
+
+- Error when fetching data: Ensure the API access is properly configured.
+- Files not saving correctly: Double-check permissions and file paths.
 
 ## License
 
-- License information for the harvesters (if different from the main repository).
+This repository follows the same licensing structure as the main repository.
