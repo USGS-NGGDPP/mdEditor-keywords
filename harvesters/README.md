@@ -2,17 +2,29 @@
 
 ## Overview
 
-This repository provides a collection of harvesters designed to automate the process of gathering keyword data from various sources. The collected keywords can be used with the mdEditor tool for metadata management, ensuring data consistency and efficient keyword application.
+This repository provides a collection of harvesters designed to automate the process of gathering keyword data from various authoritative sources. These keyword files are integral to the mdEditor tool, which facilitates metadata management for researchers and institutions by standardizing keyword vocabularies across different datasets.
 
-## Available Harvesters
+Each harvester focuses on extracting keywords from a specific data source or system, processing them into two types of files:
 
-The following harvesters are included in this repository, each requiring specific configurations:
+1. **Keyword files** – These are saved in `resources/keywords/`.
+2. **Thesaurus files** – These are saved in `resources/thesaurus/`.
 
-- GCMD
-- GNIS
-- NALT
-- ScienceBase
-- USGS
+The primary function of these harvesters is to ensure that the keyword data remains current, structured, and formatted for easy integration into mdEditor, improving the consistency and accuracy of metadata.
+
+### Available Harvesters
+
+The following harvesters are included in this repository, each targeting a specific system or database:
+
+- **GCMD (Global Change Master Directory)**:  
+  _Insert a detailed description about GCMD and the type of keywords it harvests, such as climate-related datasets or global environmental data._
+- **GNIS (Geographic Names Information System)**:  
+  _Insert a detailed description of GNIS and how it gathers geographical place names and relevant metadata for locations in the U.S._
+- **NALT (National Agricultural Library Thesaurus)**:  
+  _Insert a detailed description of NALT and its focus on agricultural, food, and natural resource terms._
+- **ScienceBase**:  
+  _Insert a detailed description of ScienceBase, explaining how it integrates data related to scientific projects and research datasets._
+- **USGS (United States Geological Survey)**:  
+  _Insert a detailed description of USGS and its role in providing geological and hydrological data for natural resource management._
 
 ## Prerequisites
 
@@ -87,6 +99,10 @@ To run all harvesters in sequence, you can use the following approach:
 ### Cleaning the Build:
 
 If you need to clean up your build, you can run the associated clean command.
+
+```
+yarn clean
+```
 
 ### Testing:
 
