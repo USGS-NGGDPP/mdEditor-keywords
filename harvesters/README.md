@@ -1,26 +1,41 @@
-# Harvesters
+# USGS-NGGDPP mdEditor-keywords Harvesters
 
-## How to add a new harvester
+## Overview
 
-1. Create a new directory with the name of the harvester.
-2. Create the file `index.js` and add the following contents:
+- Brief description of the purpose and functionality of the harvesters.
 
-```
-import main from './<name_of_harvester>';
+## Available Harvesters
 
-async function run() {
-  await main();
-}
+- List of included harvesters (e.g., GCMD, GNIS, NALT).
 
-export default { run };
-```
+## Prerequisites
 
-3. Create the file `<name_of_harvester>.js` and add the main function stub:
+- Software and data requirements before running the harvesters.
 
-```
-export default async function main() {}
-```
+## Installation
 
-4. In the `harvesters/index.js` file, import the new harvester and add it to the `harvesters` object.
+- Steps to install any dependencies specific to the harvesters.
 
-5. In the `package.json` file add a script to run the new harvester.
+## Usage
+
+- Instructions on how to run the harvesters.
+  - Running individual harvesters.
+  - Running all harvesters.
+- Command-line examples.
+
+## Configuration
+
+- Details on any configuration files needed.
+- How to customize harvesters for new data sources.
+
+## Output
+
+- Information about the generated files and their locations.
+
+## Troubleshooting
+
+- Common issues and their solutions.
+
+## License
+
+- License information for the harvesters (if different from the main repository).
