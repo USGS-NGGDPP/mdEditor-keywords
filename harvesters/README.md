@@ -6,7 +6,7 @@ This repository provides a collection of harvesters designed to automate the pro
 
 ## Available Harvesters
 
-The following harvesters are included in this repository:
+The following harvesters are included in this repository, each requiring specific configurations:
 
 - GCMD
 - GNIS
@@ -22,11 +22,38 @@ Ensure that the following software and data requirements are met before running 
 - Required API access for the relevant harvesters (e.g., GNIS, ScienceBase).
 - Access to the mdEditor for keyword management.
 
-## Installation
+## Configuration
 
-To install dependencies, run the following command:
+Each harvester requires specific configuration, detailed below.
 
-`code for installing dependencies goes here`
+### GCMD
+
+`Insert configuration details for GCMD harvester here`
+
+### GNIS
+
+`Insert configuration details for GNIS harvester here`
+
+### NALT
+
+`Insert configuration details for NALT harvester here`
+
+### ScienceBase
+
+`Insert configuration details for ScienceBase harvester here`
+
+### USGS
+
+`Insert configuration details for USGS harvester here`
+
+## Output
+
+Each harvester generates two files for each vocabulary:
+
+1. A keyword file, which is saved in `resources/keywords/`.
+2. A thesaurus file, which is saved in `resources/thesaurus/`.
+
+Ensure that both directories are correctly set up, and note that these files are not generated within the `harvesters/` directory. The harvesters are run from the root directory, not from within `harvesters/`.
 
 ## Usage
 
@@ -41,18 +68,6 @@ You can run specific harvesters or all harvesters from the command line.
 
 - Example command to run all harvesters at once:
   `command to run all harvesters goes here`
-
-## Configuration
-
-Configuration files are required to set up API endpoints, authentication tokens, and other parameters needed by the harvesters. Customize them as necessary for new data sources or modifications to the existing ones.
-
-`placeholder for explaining the configuration of files`
-
-## Output
-
-The output of each harvester is a set of keyword files saved in a predefined location. These files are formatted as JSON, ensuring compatibility with the mdEditor tool.
-
-`details about output locations and format`
 
 ## Troubleshooting
 
