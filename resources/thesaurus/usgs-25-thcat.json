@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2015-02-12T00:00:00-07:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Characteristics of thesauri, including general subjects such as place or theme, and structural or functional characteristics such as hierarchy and transitivity.",
+    "title": "Thesaurus categories",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "http://www.usgs.gov/science/ThesaurusCategory"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "25"
+      }
+    ]
+  },
+  "label": "Thesaurus categories",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-25-thcat.json"
+}

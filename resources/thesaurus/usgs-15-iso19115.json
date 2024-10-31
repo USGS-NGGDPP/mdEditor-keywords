@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2013-04-16T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "General subjects for which geospatial data may be relevant. Few, broad terms.",
+    "title": "ISO 19115 Topic Category",
+    "edition": "1.0",
+    "onlineResource": [
+      {
+        "uri": ""
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "15"
+      }
+    ]
+  },
+  "label": "ISO 19115 Topic Category",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-15-iso19115.json"
+}

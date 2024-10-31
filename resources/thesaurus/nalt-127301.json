@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Geographical Locations",
+    "title": "Geographical Locations",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127301"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127301"
+      }
+    ]
+  },
+  "label": "Geographical Locations",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127301.json"
+}

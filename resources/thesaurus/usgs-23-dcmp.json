@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2015-03-20T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Categories spanning the breadth of information types required for ocean planning from a national, multidisciplinary perspective. Includes description, assessment, and prediction regarding governance, resources, uses, and infrastructure.",
+    "title": "Data Categories for Marine Planning",
+    "edition": "1.0",
+    "onlineResource": [
+      {
+        "uri": "http://www.usgs.gov/science/MarinePlanningData"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "23"
+      }
+    ]
+  },
+  "label": "Data Categories for Marine Planning",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/usgs-23-dcmp.json"
+}

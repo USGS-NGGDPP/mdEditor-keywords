@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2021-05-10T00:00:00-06:00",
+        "dateType": "revision"
+      }
+    ],
+    "description": "Human Nutrition, Food Safety and Quality",
+    "title": "Human Nutrition, Food Safety and Quality",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://lod.nal.usda.gov/nalt/127299"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "127299"
+      }
+    ]
+  },
+  "label": "Human Nutrition, Food Safety and Quality",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/nalt-127299.json"
+}

@@ -1,7 +1,7 @@
 [
   {
     "uuid": "0",
-    "label": "Earth material",
+    "label": "Lithologic classification of geologic map units",
     "definition": "Geologic map unit classification (Bruce R. Johnson) version 6.2: A hierarchical classification of earth materials for digital geologic maps.",
     "children": [
       {

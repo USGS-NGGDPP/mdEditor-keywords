@@ -1,0 +1,4760 @@
+[
+  {
+    "uuid": "127301",
+    "label": "Geographical Locations",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "187922",
+        "label": "Eurasia",
+        "definition": "The large land mass comprising the continents of Europe and Asia.",
+        "children": []
+      },
+      {
+        "uuid": "9870",
+        "label": "Antarctica",
+        "definition": "",
+        "children": []
+      },
+      {
+        "uuid": "4825",
+        "label": "Africa",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "4827",
+            "label": "Sub-Saharan Africa",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "4832",
+                "label": "Eastern Africa",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "35155",
+                    "label": "Sudan",
+                    "definition": "A country in Northeastern Africa, formerly known as Anglo-Egyptian Sudan. It's capital is Khartoum.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35157",
+                    "label": "Uganda",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35156",
+                    "label": "Tanzania",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35153",
+                    "label": "Rwanda",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20554",
+                    "label": "Burundi",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35151",
+                    "label": "Eritrea",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "1868",
+                    "label": "Ethiopia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35154",
+                    "label": "Somalia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "342139",
+                    "label": "South Sudan",
+                    "definition": "A nation located in East-Central Africa; south of Sudan, north of Uganda and Kenya, west of Ethiopia. Independence from Sudan was attained on 9 July 2011. The capital is Juba.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "4778",
+                    "label": "Djibouti",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35152",
+                    "label": "Kenya",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4836",
+                "label": "Southern Africa",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "18861",
+                    "label": "Botswana",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54307",
+                    "label": "Namibia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51270",
+                    "label": "Malawi",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63644",
+                    "label": "Eswatini",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "53567",
+                    "label": "Mozambique",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "8897",
+                    "label": "Angola",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15788",
+                    "label": "South Africa",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63645",
+                    "label": "Zambia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "49834",
+                    "label": "Lesotho",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "61299",
+                    "label": "Zimbabwe",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4838",
+                "label": "Western Africa",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "44083",
+                    "label": "Guinea",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "42915",
+                    "label": "Ghana",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "29577",
+                    "label": "Cote d'Ivoire",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51689",
+                    "label": "Mauritania",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16612",
+                    "label": "Benin",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54833",
+                    "label": "Niger",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51292",
+                    "label": "Mali",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "44091",
+                    "label": "Guinea-Bissau",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "42239",
+                    "label": "Gambia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63065",
+                    "label": "Sierra Leone",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "61932",
+                    "label": "Senegal",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "66108",
+                    "label": "Togo (Africa)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18886",
+                    "label": "Burkina Faso",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16616",
+                    "label": "Nigeria",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "49997",
+                    "label": "Liberia",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "4830",
+                "label": "Central Africa",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "23663",
+                    "label": "Equatorial Guinea",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23665",
+                    "label": "Republic of the Congo",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23662",
+                    "label": "Democratic Republic of the Congo",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23660",
+                    "label": "Central African Republic",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21545",
+                    "label": "Cameroon",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23664",
+                    "label": "Gabon",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "23661",
+                    "label": "Chad",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "4826",
+            "label": "Northern Africa",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "49999",
+                "label": "Libya",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "6360",
+                "label": "Algeria",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "11633",
+                "label": "Egypt",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51126",
+                "label": "Tunisia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51125",
+                "label": "Morocco",
+                "definition": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "7529",
+        "label": "South America",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "7411",
+            "label": "Colombia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24927",
+            "label": "Chile",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "63631",
+            "label": "Uruguay",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7410",
+            "label": "Bolivia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "56808",
+            "label": "Paraguay",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "12077",
+            "label": "Argentina",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7412",
+            "label": "Ecuador",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41535",
+            "label": "French Guiana",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "63632",
+            "label": "Venezuela",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19858",
+            "label": "Guyana",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "3005",
+            "label": "Brazil",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7413",
+            "label": "Peru",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "34948",
+            "label": "Suriname",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "13932",
+        "label": "Australia",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "13943",
+            "label": "Tasmania",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13942",
+            "label": "South Australia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13944",
+            "label": "Victoria (Australia)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13940",
+            "label": "Northern Territory",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13945",
+            "label": "Western Australia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13938",
+            "label": "Australian Capital Territory",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13939",
+            "label": "New South Wales",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13941",
+            "label": "Queensland",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "105883",
+        "label": "named US National Forest System areas",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "106325",
+            "label": "Uinta-Wasatch-Cache National Forest",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106331",
+                "label": "Wasatch National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106177",
+                "label": "Cache National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106262",
+            "label": "Mount Hood National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106152",
+            "label": "Arapaho National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106264",
+            "label": "Nebraska National Forests and Grasslands",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106291",
+                "label": "Samuel R. McKelvie National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "282227",
+                "label": "Nebraska National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106270",
+                "label": "Oglala National Grassland",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106259",
+            "label": "Modoc National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106318",
+            "label": "Thunder Basin National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106330",
+            "label": "Wallowa-Whitman National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106181",
+            "label": "Carson National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282397",
+            "label": "El Yunque National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "281967",
+            "label": "Conecuh, Talladega, Tuskegee, and William B. Bankhead National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106197",
+                "label": "Conecuh National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106324",
+                "label": "Tuskegee National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106315",
+                "label": "Talladega National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106338",
+                "label": "William B. Bankhead National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106258",
+            "label": "Midewin National Tallgrass Prairie",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106202",
+            "label": "Custer National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "281893",
+            "label": "National Forests and Grasslands in Texas",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106205",
+                "label": "Davy Crockett National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106178",
+                "label": "Caddo National Grassland",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106250",
+                "label": "Lyndon B. Johnson National Grassland",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106290",
+                "label": "Sam Houston National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106288",
+                "label": "Sabine National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106149",
+                "label": "Angelina National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106334",
+            "label": "White Mountain National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106301",
+            "label": "Sierra National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106219",
+            "label": "Gallatin National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106188",
+            "label": "Cibola National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106222",
+            "label": "Gila National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106297",
+            "label": "Sequoia National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106157",
+            "label": "Bitterroot National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106326",
+            "label": "Umatilla National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106287",
+            "label": "Routt National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106256",
+            "label": "Medicine Bow National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106272",
+            "label": "Olympic National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106332",
+            "label": "Wayne National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106184",
+            "label": "Chequamegon-Nicolet National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106283",
+            "label": "Rio Grande National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106175",
+            "label": "Bridger-Teton National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106190",
+            "label": "Clearwater National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106300",
+            "label": "Shoshone National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106185",
+            "label": "Cherokee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106226",
+            "label": "Helena National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106281",
+            "label": "Plumas National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106242",
+            "label": "Land Between the Lakes National Recreation Area",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282392",
+            "label": "Savannah River Site",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106257",
+            "label": "Mendocino National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106187",
+            "label": "Chugach National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106268",
+            "label": "Ochoco National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106204",
+            "label": "Daniel Boone National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "281176",
+            "label": "Ozark-St. Francis National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106276",
+                "label": "Ozark National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106309",
+                "label": "Saint Francis National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106156",
+            "label": "Beaverhead-Deerlodge National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106249",
+            "label": "Los Padres National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106304",
+            "label": "Siuslaw National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106231",
+            "label": "Humboldt-Toiyabe National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106235",
+            "label": "Kaibab National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106211",
+            "label": "Eldorado National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106260",
+            "label": "Monongahela National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106278",
+            "label": "Payette National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106237",
+            "label": "Kiowa National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106186",
+            "label": "Chippewa National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106210",
+            "label": "Dixie National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106221",
+            "label": "Gifford Pinchot National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106192",
+            "label": "Coconino National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106203",
+            "label": "Dakota Prairie Grasslands",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "300134",
+                "label": "Little Missouri National Grassland",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "206141",
+                "label": "Grand River National Grassland",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "127346",
+            "label": "Caribou-Targhee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106286",
+            "label": "Roosevelt National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106194",
+            "label": "Idaho Panhandle National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106236",
+                "label": "Kaniksu National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106193",
+                "label": "Coeur d'Alene National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106307",
+                "label": "Saint Joe National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "282242",
+            "label": "Apalachicola, Ocala, and Osceola National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106273",
+                "label": "Osceola National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106267",
+                "label": "Ocala National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106151",
+                "label": "Apalachicola National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106224",
+            "label": "Green Mountain National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106240",
+            "label": "Kootenai National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106254",
+            "label": "Mark Twain National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106255",
+            "label": "McClellan Creek National Grasssland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106292",
+            "label": "San Isabel National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106285",
+            "label": "Rogue River-Siskiyou National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106271",
+            "label": "Okanogan-Wenatchee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106253",
+            "label": "Manti-LaSal National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106195",
+            "label": "Colville National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282083",
+            "label": "George Washington and Jefferson National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106220",
+                "label": "George Washington National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106234",
+                "label": "Jefferson National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106147",
+            "label": "Allegheny National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106216",
+            "label": "Fort Pierre National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106303",
+            "label": "Apache-Sitgreaves National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106239",
+            "label": "Klamath National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106274",
+            "label": "Ottawa National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106299",
+            "label": "Shawnee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106335",
+            "label": "White River National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106191",
+            "label": "Cleveland National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106321",
+            "label": "Tongass National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106182",
+            "label": "Salmon-Challis National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106322",
+            "label": "Tonto National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106201",
+            "label": "Curlew National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106314",
+            "label": "Tahoe National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106214",
+            "label": "Fishlake National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106265",
+            "label": "Nez Perce National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106279",
+            "label": "Pike National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106248",
+            "label": "Lolo National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106295",
+            "label": "Santa Fe National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106284",
+            "label": "Rita Blanca National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106179",
+            "label": "Caribbean National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106327",
+            "label": "Umpqua National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106232",
+            "label": "Huron-Manistee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106148",
+            "label": "Angeles National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106244",
+            "label": "Lewis and Clark National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106208",
+            "label": "Deschutes National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282067",
+            "label": "Francis Marion and Sumter National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106312",
+                "label": "Sumter National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106217",
+                "label": "Francis Marion National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106161",
+            "label": "Black Kettle National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106183",
+            "label": "Chattahoochee-Oconee National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106196",
+            "label": "Comanche National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106296",
+            "label": "Sawtooth National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106251",
+            "label": "Malheur National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106225",
+            "label": "Gunnison National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106233",
+            "label": "Inyo National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106155",
+            "label": "Ashley National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106227",
+            "label": "Hiawatha National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106159",
+            "label": "Bighorn National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "281984",
+            "label": "Croatan, Nantahala, Pisgah, and Uwharrie National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106280",
+                "label": "Pisgah National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106329",
+                "label": "Uwharrie National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106263",
+                "label": "Nantahala National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106199",
+                "label": "Croatan National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106230",
+            "label": "Hoosier National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106328",
+            "label": "Uncompahgre National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106176",
+            "label": "Buffalo Gap National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106305",
+            "label": "Six Rivers National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106198",
+            "label": "Coronado National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106298",
+            "label": "Shasta-Trinity National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282403",
+            "label": "Columbia River Gorge National Scenic Area",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106293",
+            "label": "San Juan National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106337",
+            "label": "Willamette National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106261",
+            "label": "Mount Baker-Snoqualmie National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106162",
+            "label": "Boise National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "282019",
+            "label": "Bienville, Delta, Desoto, Holly Springs, Homochitto, and Tombigbee National Forests",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "106229",
+                "label": "Homochitto National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106158",
+                "label": "Bienville National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106209",
+                "label": "Desoto National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106228",
+                "label": "Holly Springs National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "106207",
+                "label": "Delta National Forest",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "282036",
+                "label": "Tombigbee National Forest",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "106223",
+            "label": "Grand Mesa National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106313",
+            "label": "Superior National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106243",
+            "label": "Lassen National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106215",
+            "label": "Flathead National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106213",
+            "label": "Finger Lakes National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106275",
+            "label": "Ouachita National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106189",
+            "label": "Cimarron National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106160",
+            "label": "Black Hills National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106294",
+            "label": "San Bernardino National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106245",
+            "label": "Lincoln National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106241",
+            "label": "Lake Tahoe Basin Management Area",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106277",
+            "label": "Pawnee National Grassland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106238",
+            "label": "Kisatchie National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106282",
+            "label": "Prescott National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106339",
+            "label": "Fremont-Winema National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106311",
+            "label": "Stanislaus National Forest",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "106200",
+            "label": "Crooked River National Grassland",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "31525",
+        "label": "historical geographic locations",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "35142",
+            "label": "German Democratic Republic",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15651",
+            "label": "Yugoslavia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31524",
+            "label": "Czechoslovakia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38627",
+            "label": "German Federal Republic",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "12236",
+            "label": "USSR",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "661",
+        "label": "named deserts",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "105796",
+            "label": "Thar Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105795",
+            "label": "Kalahari Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "663",
+            "label": "Mojave Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "665",
+            "label": "Sonoran Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "295803",
+            "label": "Great Basin Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "662",
+            "label": "Gobi Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "664",
+            "label": "Sahara Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "231904",
+            "label": "Colorado Desert",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "207688",
+            "label": "Death Valley",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "192926",
+            "label": "Chihuahuan Desert",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "8659",
+        "label": "Indian Ocean Islands",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "13946",
+            "label": "Cocos Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30268",
+            "label": "Crozet Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "6166",
+            "label": "Seychelles",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "123836",
+            "label": "Territory of Christmas Island",
+            "definition": "An island in the Indian Ocean, located at 10° 30' S latitude and 105 40 E longitude, which is a territory of Australia.",
+            "children": []
+          },
+          {
+            "uuid": "47127",
+            "label": "Kerguelen Archipelago",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47128",
+            "label": "Madagascar",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47130",
+            "label": "Mauritius",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13947",
+            "label": "Heard and McDonald Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "8905",
+            "label": "Comoros",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24161",
+            "label": "Sri Lanka",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47131",
+            "label": "Reunion",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "8658",
+            "label": "Andaman and Nicobar Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "47129",
+            "label": "Maldives",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "15622",
+        "label": "Mediterranean Islands",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "300070",
+            "label": "Aeolian Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "29300",
+            "label": "Corsica",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "51866",
+            "label": "Sardinia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "51311",
+            "label": "Malta",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31288",
+            "label": "Cyprus",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15621",
+            "label": "Balearic Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "51867",
+            "label": "Sicily",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "29980",
+            "label": "Crete",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "13937",
+        "label": "Pacific Ocean Islands",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "51961",
+            "label": "Vanuatu",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28851",
+            "label": "Cook Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "51960",
+            "label": "Solomon Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "44698",
+            "label": "Hawaii",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "104976",
+                "label": "Oahu",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "104977",
+                "label": "Kauai",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "104978",
+                "label": "Hawaii (island)",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "104996",
+                "label": "Lanai",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "104995",
+                "label": "Molokai",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "104975",
+                "label": "Maui",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "41540",
+            "label": "French Polynesia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7629",
+            "label": "Samoa",
+            "definition": "A group of islands in the SW Pacific Ocean divided into American Samoa (administered by the U.S. Department of Interior) and Western Samoa (an independant country)",
+            "children": [
+              {
+                "uuid": "7625",
+                "label": "American Samoa",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "62333",
+                "label": "Western Samoa",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "56513",
+            "label": "Tonga",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "52760",
+            "label": "Nauru",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "198147",
+            "label": "Pitcairn Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35135",
+            "label": "Japan",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13933",
+            "label": "Borneo",
+            "definition": "An island in the Malay Archipelago forming part of Malaysia in the northern region and part of Indonesia in the southern region.",
+            "children": []
+          },
+          {
+            "uuid": "36295",
+            "label": "Tuvalu",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "44051",
+            "label": "Mariana Islands",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51471",
+                "label": "Northern Mariana Islands",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "104992",
+                    "label": "Saipan (island)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "104993",
+                    "label": "Tinian (island)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "104981",
+                    "label": "Rota (island)",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "44050",
+                "label": "Guam",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "40121",
+            "label": "Fiji",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "51564",
+            "label": "Marshall Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13935",
+            "label": "New Guinea",
+            "definition": "An island in the west Pacific Ocean divided into Irian Jaya (Indonesia) and Papua New Guinea (independent from 1975, formerly an United Nations trust territory).",
+            "children": []
+          },
+          {
+            "uuid": "51959",
+            "label": "New Caledonia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "22599",
+            "label": "Caroline Islands",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "22600",
+                "label": "Federated States of Micronesia",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "104973",
+                    "label": "Chuuk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "39653",
+                    "label": "Kosrae",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "104974",
+                    "label": "Pohnpei",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "39654",
+                    "label": "Yap",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "16498",
+                "label": "Palau",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "42169",
+            "label": "Galapagos Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "56510",
+            "label": "Philippines",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "21949",
+            "label": "Kiribati",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "198141",
+            "label": "Aleutian Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "56512",
+            "label": "Singapore",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13936",
+            "label": "New Zealand",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "640",
+        "label": "named bodies of water",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "659",
+            "label": "Rio Grande River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105775",
+            "label": "Bering Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105792",
+            "label": "Lake Constance",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105774",
+            "label": "South China Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105755",
+            "label": "Chukchi Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "644",
+            "label": "Colorado River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "235761",
+            "label": "Kansas River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105767",
+            "label": "Red Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105783",
+            "label": "Caspian Sea",
+            "definition": "The largest inland body of water, located between Asia and Europe.",
+            "children": []
+          },
+          {
+            "uuid": "72193",
+            "label": "Arctic Ocean",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105791",
+            "label": "Lake Geneva",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105770",
+            "label": "Tyrrhenian Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "209185",
+            "label": "McMurdo Sound",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "652",
+            "label": "Mediterranean Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105780",
+            "label": "Yellow Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105924",
+            "label": "Parana River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "196339",
+            "label": "Choptank River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105762",
+            "label": "Black Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "233595",
+            "label": "Savannah River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105754",
+            "label": "Beaufort Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "123484",
+            "label": "Lake Malawi",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105949",
+            "label": "Illinois River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105786",
+            "label": "Lake Baikal",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "233523",
+            "label": "Gulf of Guinea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105756",
+            "label": "Sargasso Sea",
+            "definition": "Large tract of still water in the middle of the North Atlantic Ocean that is predominated by Sargassum seaweed.",
+            "children": []
+          },
+          {
+            "uuid": "105773",
+            "label": "Philippine Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "287143",
+            "label": "Kentucky River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "642",
+            "label": "Caribbean Sea",
+            "definition": "The Caribbean Sea is located at 9 to 22ºN and 89 to 60ºW. The countries found to the south of the Caribbean Sea are Venezuela, Colombia, and Panama. The countries found to the west are Costa Rica, Nicaragua, Honduras, Guatemala, Belize, and the Yucatan Peninsula of Mexico. The countries found to the north are the Greater Antilles Islands of Cuba, Hispaniola, Jamaica, and Puerto Rico. The Lesser Antilles Islands are found to the east.",
+            "children": []
+          },
+          {
+            "uuid": "105926",
+            "label": "Indus River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "235017",
+            "label": "Marmara Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105776",
+            "label": "Gulf of Alaska",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105787",
+            "label": "Lake Chad",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "657",
+            "label": "Pacific Ocean",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105760",
+            "label": "Irish Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105777",
+            "label": "Sea of Japan",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105933",
+            "label": "Rhine River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "209184",
+            "label": "Puget Sound",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "233591",
+            "label": "Paraguay River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "266405",
+            "label": "Marguerite Bay",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "650",
+            "label": "Hudson River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105948",
+            "label": "Green River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "660",
+            "label": "Tennessee River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "653",
+            "label": "Mississippi River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105927",
+            "label": "Ganges River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "645",
+            "label": "Columbia River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "658",
+            "label": "Potomac River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105946",
+            "label": "Brazos River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105953",
+            "label": "Wisconsin River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "647",
+            "label": "Delaware River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "231168",
+            "label": "Strait of Gibraltar",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "656",
+            "label": "Ohio River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105952",
+            "label": "San Joaquin River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "260394",
+            "label": "Gulf of Carpentaria",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105766",
+            "label": "Persian Gulf",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105951",
+            "label": "Sacramento River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105794",
+            "label": "Niagara River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105800",
+            "label": "Amazon River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "190009",
+            "label": "Snake River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105930",
+            "label": "Mekong River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "189988",
+            "label": "Lake Mead",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "233315",
+            "label": "Lake Nicaragua",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105917",
+            "label": "Yangtze River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "190403",
+            "label": "Jordan River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105928",
+            "label": "Orinoco River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105789",
+            "label": "Great Salt Lake",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105779",
+            "label": "Okhotsk Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "332655",
+            "label": "Minnesota River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "258470",
+            "label": "Gulf of Roses",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105765",
+            "label": "Arabian Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "191705",
+            "label": "Bay of Biscay",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "234549",
+            "label": "Timor Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "649",
+            "label": "Gulf of Mexico",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105757",
+            "label": "Baltic Sea",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "105759",
+                "label": "Gulf of Finland",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "105758",
+                "label": "Gulf of Bothnia",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "646",
+            "label": "Connecticut River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "654",
+            "label": "Missouri River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "198657",
+            "label": "Lake Lucerne",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "233592",
+            "label": "Uruguay River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105799",
+            "label": "Nile River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105782",
+            "label": "Andaman Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105790",
+            "label": "Lake Maggiore",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "199568",
+            "label": "English Channel",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "641",
+            "label": "Atlantic Ocean",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105925",
+            "label": "Danube River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105753",
+            "label": "Barents Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "259882",
+            "label": "Gulf of Aqaba",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105781",
+            "label": "East China Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "291446",
+            "label": "Kara Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "223820",
+            "label": "Gambia River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "648",
+            "label": "Great Lakes",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "43800",
+                "label": "Lake Superior",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "43797",
+                "label": "Lake Huron",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "43799",
+                "label": "Lake Ontario",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "43796",
+                "label": "Lake Erie",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "43798",
+                "label": "Lake Michigan",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "105785",
+            "label": "Lake Tanganyika",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105764",
+            "label": "Tasman Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "125291",
+            "label": "Gulf of California",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105929",
+            "label": "Arkansas River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105916",
+            "label": "Yellow River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "258269",
+            "label": "Java Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "234577",
+            "label": "Greenland Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105769",
+            "label": "Aegean Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105772",
+            "label": "Coral Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "651",
+            "label": "Indian Ocean",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105763",
+            "label": "Bay of Bengal",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105768",
+            "label": "Adriatic Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105797",
+            "label": "Saint Lawrence River",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105784",
+            "label": "Lake Victoria",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105950",
+            "label": "James River (Virginia)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "234058",
+            "label": "Lake Belau",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105761",
+            "label": "Hudson Bay",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "216683",
+            "label": "Gulf of Maine",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "317565",
+            "label": "Gulf of Aden",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "655",
+            "label": "North Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "228037",
+            "label": "Norwegian Sea",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105788",
+            "label": "Lake Titicaca",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "223841",
+            "label": "Delaware Bay",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "666",
+        "label": "named geographical regions",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "692",
+            "label": "Pacific Rim",
+            "definition": "The coastal regions bordering the Pacific Ocean.",
+            "children": []
+          },
+          {
+            "uuid": "687",
+            "label": "Mid-Atlantic region",
+            "definition": "Region on the East Coast of the United States, including Delaware, District of Columbia, Maryland, New Jersey, New York, and Pennsylvania.",
+            "children": []
+          },
+          {
+            "uuid": "700",
+            "label": "Western European region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105793",
+            "label": "Finger Lakes region",
+            "definition": "The area in western New York State around a group of long narrow lakes, including lakes Seneca, Cayuga, Keuka, Canandaigua, Owasco and Skaneateles.",
+            "children": []
+          },
+          {
+            "uuid": "686",
+            "label": "Micronesia",
+            "definition": "One of the three main divisions of Pacific Ocean Islands, in the west Pacific Ocean, north of the equator. The principal island groups include the Caroline Islands, Nauru, Kiribati, the Northern Mariana Islands, and the Marshall Islands.",
+            "children": []
+          },
+          {
+            "uuid": "676",
+            "label": "Great Basin States",
+            "definition": "The elevated region between the Wasatch and Sierra Nevada Mountains.",
+            "children": []
+          },
+          {
+            "uuid": "698",
+            "label": "Scandinavia",
+            "definition": "A region encompassing Denmark, Norway, and Sweden, sometimes expanded to include Finland and Iceland.",
+            "children": []
+          },
+          {
+            "uuid": "136001",
+            "label": "Alps region",
+            "definition": "Large mountain system of south-central Europe extending through Italy, France, Switzerland, Germany, Austria and the northwest Balkan peninsula.",
+            "children": []
+          },
+          {
+            "uuid": "671",
+            "label": "Baltic States",
+            "definition": "The countries of Estonia, Latvia and Lithuania on the east shore of the Baltic Sea.",
+            "children": []
+          },
+          {
+            "uuid": "68652",
+            "label": "Arab countries",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "69792",
+            "label": "Prairie Pothole region",
+            "definition": "A wetland region encompassing the Northern Great Plains region from the upper Midwest and extending into Canada. The region has large shallow depressions that were created by retreating glaciers and has wetlands that are either temporary, seasonal, or permanent in nature.",
+            "children": []
+          },
+          {
+            "uuid": "667",
+            "label": "Amazonia",
+            "definition": "The region immediately surrounding the Amazon River in South America.",
+            "children": []
+          },
+          {
+            "uuid": "295843",
+            "label": "Caucasus region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "677",
+            "label": "Great Lakes region",
+            "definition": "Region in North America, surrounding the five Great Lakes (Superior, Michigan, Huron, Erie, Ontario).",
+            "children": []
+          },
+          {
+            "uuid": "134912",
+            "label": "Cascade Mountain region",
+            "definition": "Region in North America, extending from northeast California (north continuation of the Sierra Nevada Mountains) across Oregon and Washington. Its continuation into Canada is known as the Coast Mountains. Mount Rainier is the highest peak in the region.",
+            "children": []
+          },
+          {
+            "uuid": "674",
+            "label": "Corn Belt region",
+            "definition": "Region in the Midwestern United States where is maize is grown on a vast scale, covering Illinois, Indiana, Iowa, Minnesota, Nebraska, and Ohio.",
+            "children": []
+          },
+          {
+            "uuid": "68946",
+            "label": "Intermountain West region",
+            "definition": "The inland area from the Rocky Mountains to the Sierra Nevada and Cascades mountains and from southern Canada to northern New Mexico and Arizona.",
+            "children": []
+          },
+          {
+            "uuid": "668",
+            "label": "Appalachian region",
+            "definition": "Region in North America, extending from Newfoundland to central Alabama. (In the United States, includes areas of Alabama, Georgia, Kentucky, Maryland, New York, North Carolina, Ohio, Pennsylvania, South Carolina, Tennessee, Virginia and West Virginia).",
+            "children": [
+              {
+                "uuid": "105964",
+                "label": "Blue Ridge Mountain region",
+                "definition": "The eastern and southeastern area of the Appalachian Mountain Region which encompasses the Great Smoky Mountains and extends from Pennsylvania to north Georgia.",
+                "children": []
+              },
+              {
+                "uuid": "105973",
+                "label": "Cumberland Mountain region",
+                "definition": "An area in the southeastern section of the Appalachian Mountain Region located in Virginia, Kentucky, and Tennessee.",
+                "children": []
+              },
+              {
+                "uuid": "105966",
+                "label": "Allegheny Mountain region",
+                "definition": "Mountain area that is part of the Appalachian Mountain region which is west of and generally runs parallel to the Blue Ridge Mountain Region.",
+                "children": []
+              },
+              {
+                "uuid": "105959",
+                "label": "Great Smoky Mountain region",
+                "definition": "An area of the Appalachian Mountain region that extends along the border of North Carolina and Tennessee.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "68947",
+            "label": "Ozarks",
+            "definition": "An area of low mountains in northwestern Arkansas, southeastern Missouri and northeastern Oklahoma.",
+            "children": []
+          },
+          {
+            "uuid": "105980",
+            "label": "Black Hills region",
+            "definition": "A mountainous area in western South Dakota and northeast Wyoming.",
+            "children": []
+          },
+          {
+            "uuid": "683",
+            "label": "Maghreb",
+            "definition": "Region of Northwestern Africa including Morocco, Algeria, Tunisia and sometimes Libya.",
+            "children": []
+          },
+          {
+            "uuid": "105981",
+            "label": "Blue Mountain region (Oregon)",
+            "definition": "A mountain range in northeast Oregon and southeast Washington.",
+            "children": []
+          },
+          {
+            "uuid": "69796",
+            "label": "Central Valley of California",
+            "definition": "The large fertile region in the interior of California that lies between the coastal mountains and the Sierra Nevada moutain range.",
+            "children": []
+          },
+          {
+            "uuid": "675",
+            "label": "Eastern European region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "694",
+            "label": "Persian Gulf States",
+            "definition": "A term commonly applied to a number of states on the east coast of the Arabian Pennisula.",
+            "children": []
+          },
+          {
+            "uuid": "685",
+            "label": "Melanesia",
+            "definition": "One of the three main divisions of Pacific Ocean Islands, in the southwest Pacific Ocean, northeast of Australia and south of the equator. It includes the Solomon Islands, Vanatu, Tuvalu, New Caledonia, Fiji.",
+            "children": []
+          },
+          {
+            "uuid": "105016",
+            "label": "El Gran Chaco",
+            "definition": "A vast plain with varied environment and climatic zones that extends through northern Argentina, southeastern Bolivia, northwestern Paraguay and into a small area of southwestern Brazil. Land uses include wildlife habitat, livestock and crop production and forestry.",
+            "children": []
+          },
+          {
+            "uuid": "106006",
+            "label": "Adirondacks",
+            "definition": "An area around the Adirondack Mountains located in northern New York State and sometimes included as part of the Appalachian region.",
+            "children": []
+          },
+          {
+            "uuid": "695",
+            "label": "Polar Regions",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "11916",
+                "label": "Arctic region",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "9868",
+                "label": "Antarctic region",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "679",
+            "label": "Gulf of Mexico region",
+            "definition": "Region in the Southern United States surrounding the Gulf of Mexico, (including the states of Alabama, Florida, Louisiana, Mississippi, and Texas).",
+            "children": []
+          },
+          {
+            "uuid": "697",
+            "label": "Rocky Mountain region",
+            "definition": "Region in North America, extending from the Arctic region in Canada south towards the Mexican frontier. (In the United States, includes areas of Arizona, New Mexico, Colorado, Utah, Nevada, Wyoming, Idaho and Montana).",
+            "children": []
+          },
+          {
+            "uuid": "239945",
+            "label": "Himalayan region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "238101",
+            "label": "Carpathian region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "699",
+            "label": "Southern European region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "690",
+            "label": "New England region",
+            "definition": "Region in Northeast section of the United States, including Connecticut, Maine, Massachusetts, New Hampshire, Rhode Island, and Vermont.",
+            "children": []
+          },
+          {
+            "uuid": "693",
+            "label": "Pampas region",
+            "definition": "An extensive, flat and fertile grassland of temperate South America east of the Andes and mostly in Argentina and extending into Uruguay. The vast plains are some of the riches grazing areas in the world. The temperate climate and fertile soils are conducive for cultivation.",
+            "children": []
+          },
+          {
+            "uuid": "672",
+            "label": "Caribbean",
+            "definition": "The region including the Caribbean Sea, its islands, and the countries on its Central and/or South American coasts.",
+            "children": [
+              {
+                "uuid": "91274",
+                "label": "Saint Maarten",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "298501",
+                "label": "Sint Eustatius",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "74068",
+                "label": "Bonaire",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "10405",
+                "label": "Netherlands Antilles",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "298500",
+                "label": "Saba (Caribbean)",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "77262",
+                "label": "Curacao",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "696",
+            "label": "Polynesia",
+            "definition": "One of the three main divisions of Pacific Ocean Islands, in the central and south Pacific Ocean. The principal island groups include the Hawaiian islands, Samoa, and the islands of French Polynesia.",
+            "children": []
+          },
+          {
+            "uuid": "689",
+            "label": "Mississippi Delta region",
+            "definition": "Region in the Southeastern United States surrounding the lower Mississippi River, including areas of Arkansas, Mississippi and Louisiana.",
+            "children": []
+          },
+          {
+            "uuid": "688",
+            "label": "Middle East",
+            "definition": "An extensive region comprising the countries of southwest Asia and northeast Africa",
+            "children": []
+          },
+          {
+            "uuid": "669",
+            "label": "Australasian region",
+            "definition": "Region generally including the islands of the southwest Pacific Ocean, Australia, New Zealand, New Guinea and the Malay Archipelago.",
+            "children": []
+          },
+          {
+            "uuid": "691",
+            "label": "Northern European region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "678",
+            "label": "Great Plains region",
+            "definition": "Region in North America, extending from the Laurentian Highlands in Canada to Texas.",
+            "children": []
+          },
+          {
+            "uuid": "684",
+            "label": "Mediterranean region",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "670",
+            "label": "Balkans",
+            "definition": "Countries occupying the Balkan Peninsula.",
+            "children": []
+          },
+          {
+            "uuid": "105326",
+            "label": "Pantanal",
+            "definition": "An immense freshwater wetland system of South America situated along the Paraguay River and its tributaries.",
+            "children": []
+          },
+          {
+            "uuid": "681",
+            "label": "Lapland",
+            "definition": "A region of extreme northern Europe including northern Norway, Sweden, Finland and Russia. It is largely within the Arctic Circle.",
+            "children": []
+          },
+          {
+            "uuid": "105054",
+            "label": "Andes region",
+            "definition": "The area of the great mountain system of South America, extending 4500 miles along the entire west coast of South America from Tierra del Fuego in the south to Panama in the north and crossing through the countries of Venezuela, Bolivia, Ecuador, Colombia, Peru, Chile and Argentina. The Andes region is made up of several parallel ranges, called cordilleras.",
+            "children": []
+          },
+          {
+            "uuid": "680",
+            "label": "Indochina",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "682",
+            "label": "Latin America",
+            "definition": "Collectively, those countries in the Western Hemisphere in which the predominant language is a Romance (French, Spanish, Portuguese) language.",
+            "children": []
+          },
+          {
+            "uuid": "105984",
+            "label": "Sierra Nevada (California)",
+            "definition": "A 400 mile long mountain range located in eastern California.",
+            "children": []
+          },
+          {
+            "uuid": "105771",
+            "label": "Great Barrier Reef",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "673",
+            "label": "Central European region",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "7527",
+        "label": "North America",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "44103",
+            "label": "Mexico",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7522",
+            "label": "United States",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "35188",
+                "label": "Eastern United States",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "5933",
+                    "label": "Southeastern United States",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "63643",
+                        "label": "West Virginia",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "50662",
+                        "label": "Louisiana",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "12218",
+                        "label": "Arkansas",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "48311",
+                        "label": "Kentucky",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63633",
+                        "label": "South Carolina",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63642",
+                        "label": "Virginia",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55226",
+                        "label": "North Carolina",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "42790",
+                        "label": "Georgia",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "5932",
+                        "label": "Alabama",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "40614",
+                        "label": "Florida",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63641",
+                        "label": "Tennessee",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "53146",
+                        "label": "Mississippi",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "11260",
+                    "label": "Northeastern United States",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "51213",
+                        "label": "Maine",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55236",
+                        "label": "Rhode Island",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34116",
+                        "label": "District of Columbia",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "54765",
+                        "label": "New Hampshire",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55235",
+                        "label": "Pennsylvania",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28569",
+                        "label": "Connecticut",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "51598",
+                        "label": "Maryland",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "54781",
+                        "label": "New York",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "32066",
+                        "label": "Delaware",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "51615",
+                        "label": "Massachusetts",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "54767",
+                        "label": "New Jersey",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55237",
+                        "label": "Vermont",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "55252",
+                "label": "Western United States",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "46856",
+                    "label": "Northwestern United States",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "53419",
+                        "label": "Montana",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55253",
+                        "label": "Washington (state)",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43791",
+                        "label": "Wyoming",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43787",
+                        "label": "Idaho",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43789",
+                        "label": "Oregon",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "12208",
+                    "label": "Southwestern United States",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "43790",
+                        "label": "Utah",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28023",
+                        "label": "Colorado",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63653",
+                        "label": "Texas",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "54770",
+                        "label": "New Mexico",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43788",
+                        "label": "Nevada",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "12207",
+                        "label": "Arizona",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "5970",
+                    "label": "Pacific States",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "5969",
+                        "label": "Alaska",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "55253",
+                        "label": "Washington (state)",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43789",
+                        "label": "Oregon",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "21201",
+                        "label": "California",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "287145",
+                            "label": "Yucca Valley",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "69796",
+                            "label": "Central Valley of California",
+                            "definition": "The large fertile region in the interior of California that lies between the coastal mountains and the Sierra Nevada moutain range.",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "44698",
+                        "label": "Hawaii",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "104976",
+                            "label": "Oahu",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "104977",
+                            "label": "Kauai",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "104978",
+                            "label": "Hawaii (island)",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "104996",
+                            "label": "Lanai",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "104995",
+                            "label": "Molokai",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "104975",
+                            "label": "Maui",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "23687",
+                "label": "Midwestern United States",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "52915",
+                    "label": "Nebraska",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52919",
+                    "label": "South Dakota",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52916",
+                    "label": "North Dakota",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52918",
+                    "label": "Oklahoma",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47622",
+                    "label": "Iowa",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52533",
+                    "label": "Michigan",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "48281",
+                    "label": "Kansas",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52920",
+                    "label": "Wisconsin",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52914",
+                    "label": "Missouri",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52917",
+                    "label": "Ohio",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "46931",
+                    "label": "Illinois",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52913",
+                    "label": "Minnesota",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47140",
+                    "label": "Indiana",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "6000",
+            "label": "Canada",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "21701",
+                "label": "New Brunswick",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21704",
+                "label": "Nova Scotia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21700",
+                "label": "Manitoba",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "5999",
+                "label": "Alberta",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21706",
+                "label": "Prince Edward Island",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19856",
+                "label": "British Columbia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "47585",
+                "label": "Nunavut",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21709",
+                "label": "Yukon Territory",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "70035",
+                "label": "Newfoundland and Labrador",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21705",
+                "label": "Ontario",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21703",
+                "label": "Northwest Territories",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21707",
+                "label": "Quebec",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21708",
+                "label": "Saskatchewan",
+                "definition": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "12923",
+        "label": "Asia",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "8660",
+            "label": "South Asia",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "17001",
+                "label": "Bhutan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "54615",
+                "label": "Nepal",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "15682",
+                "label": "Pakistan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "15751",
+                "label": "Bangladesh",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "297350",
+                "label": "Indo-Gangetic Plain",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "8667",
+                "label": "India",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "12925",
+            "label": "East Asia",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "35139",
+                "label": "Mongolia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12929",
+                "label": "South East Asia",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "13934",
+                    "label": "Indonesia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18670",
+                    "label": "Malaysia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "275124",
+                    "label": "Indo-Australian Archipelago",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20520",
+                    "label": "Myanmar",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "56512",
+                    "label": "Singapore",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47161",
+                    "label": "Laos",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "56510",
+                    "label": "Philippines",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "32252",
+                    "label": "Vietnam",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21509",
+                    "label": "Cambodia",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47162",
+                    "label": "Thailand",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "13933",
+                    "label": "Borneo",
+                    "definition": "An island in the Malay Archipelago forming part of Malaysia in the northern region and part of Indonesia in the southern region.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35147",
+                    "label": "Timor",
+                    "definition": "An island in the west Pacific Ocean divided into Indonesia and East Timor (independent since 2002, formerly part of Indonesia).",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "25065",
+                "label": "Taiwan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "35138",
+                "label": "Macau",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "35135",
+                "label": "Japan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "8937",
+                "label": "China",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "188413",
+                "label": "Korean Peninsula",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "125289",
+                    "label": "South Korea",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "125288",
+                    "label": "North Korea",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "4793",
+            "label": "West Asia",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "48420",
+                "label": "Saudi Arabia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "52899",
+                "label": "Qatar",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "47686",
+                "label": "Iraq",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "42792",
+                "label": "Republic of Georgia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "14302",
+                "label": "Azerbaijan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51869",
+                "label": "Syria",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31288",
+                "label": "Cyprus",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4095",
+                "label": "Yemen",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "48619",
+                "label": "Kuwait",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12233",
+                "label": "Armenia",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "49464",
+                "label": "Lebanon",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "44688",
+                "label": "Jordan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "47909",
+                "label": "Israel",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "47685",
+                "label": "Iran",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "52901",
+                "label": "West Bank",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "15650",
+                "label": "Turkey (country)",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4792",
+                "label": "Afghanistan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "1843",
+                "label": "United Arab Emirates",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "15535",
+                "label": "Bahrain",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "52898",
+                "label": "Oman",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "12924",
+            "label": "Central Asia",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "23676",
+                "label": "Turkmenistan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "23675",
+                "label": "Tajikistan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "23673",
+                "label": "Kazakhstan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "52900",
+                "label": "Uzbekistan",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "23674",
+                "label": "Kyrgyzstan",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "12236",
+            "label": "USSR",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11927",
+            "label": "Russia",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "7524",
+        "label": "Central America",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "23669",
+            "label": "Guatemala",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "16514",
+            "label": "Belize",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23670",
+            "label": "Honduras",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23672",
+            "label": "Panama",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23668",
+            "label": "El Salvador",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23671",
+            "label": "Nicaragua",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "23667",
+            "label": "Costa Rica",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "5987",
+        "label": "Europe",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "16491",
+            "label": "Belarus",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38638",
+            "label": "Vatican",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38628",
+            "label": "Hungary",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11928",
+            "label": "Sweden",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "105004",
+            "label": "Bosnia-Herzegovina",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31524",
+            "label": "Czechoslovakia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "12236",
+            "label": "USSR",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13959",
+            "label": "Austria",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11927",
+            "label": "Russia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38635",
+            "label": "San Marino",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15644",
+            "label": "Croatia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "204227",
+            "label": "Iberian Peninsula",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38630",
+            "label": "Liechtenstein",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38631",
+            "label": "Luxembourg",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15679",
+            "label": "Latvia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11924",
+            "label": "Finland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "14354",
+            "label": "Portugal",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15649",
+            "label": "Slovenia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "1813",
+            "label": "Italy",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15647",
+            "label": "Republic of North Macedonia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38633",
+            "label": "Monaco",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38634",
+            "label": "Poland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "7039",
+            "label": "France",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15648",
+            "label": "Romania",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38632",
+            "label": "Moldova",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15645",
+            "label": "Serbia and Montenegro",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "39648",
+                "label": "Montenegro",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39649",
+                "label": "Serbia",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "38636",
+            "label": "Switzerland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "81589",
+            "label": "Gibraltar",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "10580",
+            "label": "Belgium",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15680",
+            "label": "Lithuania",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38629",
+            "label": "Iceland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "8676",
+            "label": "Andorra",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15678",
+            "label": "Estonia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "35142",
+            "label": "German Democratic Republic",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "34523",
+            "label": "Netherlands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15494",
+            "label": "Germany",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38637",
+            "label": "Ukraine",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15651",
+            "label": "Yugoslavia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "242264",
+            "label": "Kosovo",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "21750",
+            "label": "Spain",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "5986",
+            "label": "Albania",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31523",
+            "label": "Czech Republic",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15650",
+            "label": "Turkey (country)",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "18674",
+            "label": "Denmark",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15643",
+            "label": "Bulgaria",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11926",
+            "label": "Norway",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "38627",
+            "label": "German Federal Republic",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15646",
+            "label": "Greece",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "31526",
+            "label": "Slovakia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19859",
+            "label": "British Isles",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "19855",
+                "label": "United Kingdom",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "37157",
+                    "label": "Great Britain",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "43794",
+                        "label": "Wales",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "35144",
+                        "label": "England",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "14277",
+                        "label": "Scotland",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "47687",
+                    "label": "Northern Ireland",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24419",
+                    "label": "Channel Islands (United Kingdom)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47823",
+                    "label": "Isle of Man",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "19860",
+                "label": "Ireland",
+                "definition": "An island surrounded by the North Atlantic, Irish and Celtic Seas, comprised of Northern Ireland (part of the United Kingdom) in the northwest part of the island, and the Irish Republic in the remaining area.",
+                "children": [
+                  {
+                    "uuid": "28567",
+                    "label": "Irish Republic",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "47687",
+                    "label": "Northern Ireland",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "10374",
+        "label": "Atlantic Ocean Islands",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "13641",
+            "label": "Tristan da Cunha",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13634",
+            "label": "Saint Helena",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13621",
+            "label": "Cabo Verde",
+            "definition": "A country in western Africa composed of a group of islands in the North Atlantic Ocean, west of Senegal. The capital is Praia.",
+            "children": []
+          },
+          {
+            "uuid": "13637",
+            "label": "Saint Pierre and Miquelon",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13617",
+            "label": "Bahamas",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13629",
+            "label": "Hispaniola",
+            "definition": "An island in the north central Caribbean Sea, east of Cuba, divided between the republic of Haiti on the west and the Dominican Republic on the east.",
+            "children": [
+              {
+                "uuid": "44321",
+                "label": "Haiti",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34355",
+                "label": "Dominican Republic",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "13627",
+            "label": "Grenada",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13639",
+            "label": "Sao Tome and Principe",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13616",
+            "label": "Azores",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13618",
+            "label": "Barbados",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13625",
+            "label": "Faroe Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13635",
+            "label": "Saint Kitts and Nevis",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13619",
+            "label": "Bermuda",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13640",
+            "label": "Trinidad and Tobago",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13638",
+            "label": "Saint Vincent and the Grenadines",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13636",
+            "label": "Saint Lucia",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13620",
+            "label": "Canary Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "153654",
+            "label": "French West Indies",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "13632",
+                "label": "Martinique",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "13628",
+                "label": "Guadeloupe",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "9871",
+            "label": "Falkland Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13622",
+            "label": "Cayman Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13630",
+            "label": "Jamaica",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "10371",
+            "label": "Antigua and Barbuda",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "11925",
+            "label": "Greenland",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13626",
+            "label": "Fernando de Noronha",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "12748",
+            "label": "Ascension",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "12665",
+            "label": "Aruba",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13624",
+            "label": "Dominica",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13623",
+            "label": "Cuba",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13633",
+            "label": "Puerto Rico",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9872",
+            "label": "South Georgia and South Sandwich Islands",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13642",
+            "label": "Virgin Islands",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "66732",
+                "label": "Virgin Islands of the United States",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19862",
+                "label": "British Virgin Islands",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "13631",
+            "label": "Madeira Islands",
+            "definition": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

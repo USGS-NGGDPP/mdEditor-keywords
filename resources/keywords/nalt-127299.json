@@ -1,0 +1,5290 @@
+[
+  {
+    "uuid": "127299",
+    "label": "Human Nutrition, Food Safety and Quality",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "4298",
+        "label": "human nutrition",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "10108",
+            "label": "foodways",
+            "definition": "The eating habits, culinary practices, and food/health beliefs of a people, region, or historical period, focusing on the medicinal, sociological, cultural, psychological and/or historical uses of foods.",
+            "children": [
+              {
+                "uuid": "40828",
+                "label": "food beliefs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "311877",
+                "label": "locavores",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4191",
+            "label": "dietary recommendations",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "33451",
+                "label": "serving size",
+                "definition": "Serving Size on the Nutrition Facts Label is the amount of food that is customarily eaten at one time and is determined based on the Reference Amounts Customarily Consumed (RACC) for foods that have similar dietary usage, product characteristics, and customarily consumed amounts for consumers to make “like product” comparisons.",
+                "children": []
+              },
+              {
+                "uuid": "33450",
+                "label": "Reference Daily Intakes",
+                "definition": "Formerly refered to as the U.S. Recommended Daily Allowances, these guidelines for dietary intake of certain essential vitamins and minerals are independent of total caloric intake.",
+                "children": []
+              },
+              {
+                "uuid": "33449",
+                "label": "Recommended Dietary Allowances",
+                "definition": "The dietary intake level that is sufficient to meet the nutrient requirements of nearly all individuals in the group.",
+                "children": []
+              },
+              {
+                "uuid": "33422",
+                "label": "food guides",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "38855",
+                    "label": "exchange lists",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33420",
+                    "label": "Dietary Guidelines",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40914",
+                    "label": "USDA food plans",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "40915",
+                        "label": "MyPyramid",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "40910",
+                        "label": "Food Guide Pyramid",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "217142",
+                        "label": "MyPlate",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "33447",
+                "label": "Dietary Reference Intakes",
+                "definition": "Dietary Reference Intakes (DRIs) is a term used to refer to at least three types of reference values: Estimated Average Requirement, Recommended Dietary Allowances (RDA), and Tolerable Upper Intake Level. They will gradually replace the RDA.",
+                "children": []
+              },
+              {
+                "uuid": "33452",
+                "label": "U.S. Recommended Daily Allowances",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4190",
+                "label": "Adequate Intakes",
+                "definition": "When sufficient scientific evidence is not available to estimate an average requirement, Adequate Intakes are set.",
+                "children": []
+              },
+              {
+                "uuid": "33448",
+                "label": "Estimated Average Requirement",
+                "definition": "The intake value that is estimated to meet the requirement defined by a specified indicator of adequacy in 50 percent of an age- and gender-specific group. At this level of intake, the remaining 50 percent of the specified group would not have its needs met.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "4437",
+            "label": "nutrition information",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "10124",
+            "label": "nutrition assessment",
+            "definition": "Evaluation and measurement of nutritional variables in order to assess the level of nutrition or the nutritional status of the individual. Nutrition surveys may be used in making the assessment.",
+            "children": []
+          },
+          {
+            "uuid": "33369",
+            "label": "meal planning",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "33379",
+            "label": "dietetics",
+            "definition": "The application of nutritional principles to regulation of the diet and feeding persons or groups of persons.",
+            "children": []
+          },
+          {
+            "uuid": "33360",
+            "label": "diet counseling",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9328",
+            "label": "maternal nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19660",
+            "label": "meals (menu)",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51716",
+                "label": "snacks",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19659",
+                "label": "breakfast",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "33699",
+                "label": "dinner",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4299",
+                "label": "school meals",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "62581",
+                    "label": "school breakfast",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "62584",
+                    "label": "school lunch",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "50736",
+                "label": "lunch",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "26915",
+            "label": "clinical nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "13599",
+            "label": "sports nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19672",
+            "label": "child nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "19675",
+            "label": "infant nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40847",
+            "label": "nutrition policy",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28293",
+            "label": "food and nutrition programs",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "36847",
+                "label": "emergency food programs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "4300",
+                "label": "USDA food and nutrition programs",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "54695",
+                    "label": "Nutrition Education and Training program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "35929",
+                    "label": "Expanded Food and Nutrition Education Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28153",
+                    "label": "USDA Food Distribution Programs",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "28147",
+                        "label": "Commodity Supplemental Food Program",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "36848",
+                        "label": "Emergency Food Assistance Program",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "40897",
+                        "label": "Food Distribution Program on Indian Reservations",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "65220",
+                    "label": "Summer Food Service Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54388",
+                    "label": "National School Lunch Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "54387",
+                    "label": "National School Breakfast Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "127757",
+                    "label": "Supplemental Nutrition Assistance Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63736",
+                    "label": "WIC Program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24876",
+                    "label": "Child and Adult Care Food Program",
+                    "definition": "This child nutrition program provides cash and commodity assistance to support meal service programs in child care centers, headstart facilities, and family and group home day care homes for children, the elderly, and disabled. It is permanently authorized under Section 17 of the National School Lunch Act, administered by USDA, Food and Consumer Service, and funded annually by agricultural appropriations.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "40846",
+                "label": "food recovery",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28290",
+                "label": "community nutrition programs",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "28294",
+                    "label": "Meals on Wheels program",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28288",
+                    "label": "community feeding centers",
+                    "definition": "Organizations or facilities that prepare or assemble meals for distribution either onsite or offsite to needy recipients who do not reside on the premises. The meals are provided at little or no cost.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "204309",
+                "label": "Older Americans Act Nutrition Program",
+                "definition": "The Senior Nutrition Program, authorized under Title III of the Older Americans Protection Act, provides grants to state agencies to support the delivery of meals in dining rooms or at home to seniors of 60 years of age or older. It is designed to address problems of food insufficiency and social isolation among older people.",
+                "children": []
+              },
+              {
+                "uuid": "206213",
+                "label": "nutrition and physical activity programs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40832",
+                "label": "food distribution programs",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "28153",
+                    "label": "USDA Food Distribution Programs",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "28147",
+                        "label": "Commodity Supplemental Food Program",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "36848",
+                        "label": "Emergency Food Assistance Program",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "40897",
+                        "label": "Food Distribution Program on Indian Reservations",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "40854",
+                    "label": "food banks",
+                    "definition": "Umbrella organizations or clearinghouses that solicit marketable and surplus food and grocery products and distribute these products to local nonprofit charities or client agencies, which in turn distribute the food directly to needy individuals and families.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "148600",
+                    "label": "food pantries",
+                    "definition": "Organizations that distribute groceries (non-prepared foods, such as canned goods, cereals, rice, bread and sometimes fresh fruits or meat) to people in need in the community.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "4293",
+            "label": "adolescent nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "14245",
+            "label": "food choices",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "40873",
+                "label": "salt preference",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40872",
+                "label": "food fads",
+                "definition": "Diets which become fashionable, but which are not necessarily nutritious.",
+                "children": []
+              },
+              {
+                "uuid": "40827",
+                "label": "food acceptability",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "28667",
+            "label": "nutrition education",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "36139",
+            "label": "elderly nutrition",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40858",
+            "label": "nutrition knowledge",
+            "definition": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "408",
+        "label": "foods",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "459",
+            "label": "condiments",
+            "definition": "Seasonings and flavorings that are generally added to foods by the consumer after preparation.",
+            "children": [
+              {
+                "uuid": "28480",
+                "label": "relishes",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "94192",
+                "label": "table salt",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "425",
+            "label": "batters",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9572",
+            "label": "meat products",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51770",
+                "label": "minced meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "200328",
+                    "label": "minced beef",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "200329",
+                    "label": "minced chicken meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "200334",
+                    "label": "minced pork",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "331908",
+                    "label": "minced lamb",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "41630",
+                "label": "frozen meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21905",
+                "label": "canned meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40774",
+                "label": "meat paste",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51761",
+                "label": "meat extracts",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "25642",
+                "label": "meat cuts",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "49496",
+                    "label": "legs (meat cut)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "25641",
+                    "label": "chops",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "50527",
+                    "label": "loins (meat cut)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40160",
+                    "label": "fillets",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "446",
+                    "label": "roasts",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40375",
+                    "label": "steaks",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "19235",
+                "label": "organ meats",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "48369",
+                    "label": "kidneys as food",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "44759",
+                    "label": "heart as food",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "56067",
+                    "label": "tripe",
+                    "definition": "A retail cut of beef, consisting of the walls of the rumen and the reticulum. Tripe can also come from pork and sheep.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "56065",
+                    "label": "sweetbreads",
+                    "definition": "The thymus glands of veal, young beef, lamb and pork used as food.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "50739",
+                    "label": "lungs as food",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "50432",
+                    "label": "livers as food",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "56066",
+                    "label": "tongue as food",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "19233",
+                    "label": "brain as food",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "291555",
+                "label": "cultured meat",
+                "definition": "Meat produced from the skeletal muscle or muscle cells or stem cells in laboratory conditions by using tissue engineering techniques.",
+                "children": []
+              },
+              {
+                "uuid": "15070",
+                "label": "cured meats",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "36935",
+                "label": "meat emulsions",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51772",
+                "label": "smoked meats",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "260052",
+                    "label": "smoked ham",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "190421",
+                    "label": "smoked sausage",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "16290",
+                "label": "meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "70222",
+                    "label": "abalone meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "86536",
+                    "label": "mussel meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "92124",
+                    "label": "shellfish meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "222387",
+                    "label": "restructured meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "76993",
+                    "label": "crab meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "210742",
+                    "label": "bushmeat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "242570",
+                    "label": "processed meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "191302",
+                    "label": "breast meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "84916",
+                    "label": "lobster meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16289",
+                    "label": "beef",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "16291",
+                        "label": "ground beef",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "29209",
+                        "label": "corned beef",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "16292",
+                        "label": "veal",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "200328",
+                        "label": "minced beef",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "187768",
+                        "label": "lean finely textured beef",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "67756",
+                        "label": "boxed beef",
+                        "definition": "Cuts of beef sealed in vacuum packs to be shipped in cardbard boxes, often ready for retail sale.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "200614",
+                    "label": "sheep meat",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "49019",
+                        "label": "lamb meat",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "331908",
+                            "label": "minced lamb",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "331910",
+                            "label": "ground lamb meat",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "51747",
+                        "label": "mutton",
+                        "definition": "Meat from sheep that are over one year old.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "15069",
+                    "label": "pork",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "30825",
+                        "label": "ham",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "15068",
+                        "label": "bacon",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "67787",
+                        "label": "pork bellies",
+                        "definition": "The source of bacon. The pork belly is the lower side of a hog remaining after the loin and spareribs have been removed.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "43898",
+                        "label": "ground pork",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "200334",
+                        "label": "minced pork",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "21518",
+                    "label": "camel meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "45964",
+                    "label": "horse meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "200806",
+                    "label": "fried meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51748",
+                    "label": "rabbit meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "91674",
+                    "label": "scallop meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "189566",
+                    "label": "snail meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24842",
+                    "label": "poultry meat",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "43913",
+                        "label": "turkey meat",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34835",
+                        "label": "duck meat",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "24840",
+                        "label": "chicken meat",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "24844",
+                            "label": "ground chicken meat",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "327584",
+                            "label": "chicken patties",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "200329",
+                            "label": "minced chicken meat",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "92180",
+                    "label": "shrimp meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "43354",
+                    "label": "goat meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16294",
+                    "label": "red meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "42252",
+                    "label": "game meat",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "42255",
+                        "label": "venison",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "42254",
+                        "label": "seal meat",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "76065",
+                    "label": "clam meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "87881",
+                    "label": "oyster meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20299",
+                    "label": "buffalo meat",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "48163",
+                "label": "meat juices",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "24936",
+                "label": "chilled meats",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51771",
+                "label": "raw meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "43889",
+                "label": "ground meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "331910",
+                    "label": "ground lamb meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24844",
+                    "label": "ground chicken meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "43898",
+                    "label": "ground pork",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16291",
+                    "label": "ground beef",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "43899",
+                    "label": "ground turkey meat",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "34535",
+                "label": "dried meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "276343",
+                "label": "fermented meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "276347",
+                    "label": "fermented sausages",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "61948",
+                    "label": "salami",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "32116",
+                "label": "luncheon meats",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "313038",
+            "label": "non-genetically modified foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "488",
+            "label": "traditional foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "482",
+            "label": "food spreads",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "24511",
+                "label": "cheese spreads",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51697",
+                "label": "mayonnaise",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "475",
+            "label": "novel foods",
+            "definition": "Foods produced from ingredients that have not traditionally been used for human consumption in the area of the world in question, or that are produced by a new or extensively modified process.",
+            "children": []
+          },
+          {
+            "uuid": "59684",
+            "label": "whipped foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "440",
+            "label": "patties",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "17998",
+            "label": "blended foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40981",
+            "label": "preserves",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51550",
+                "label": "marmalades",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "48005",
+                "label": "jams",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "48098",
+                "label": "jellies",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "430",
+            "label": "flour",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "40637",
+                "label": "sweet potato flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40632",
+                "label": "peanut flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "15860",
+                "label": "barley flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40633",
+                "label": "potato flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "311353",
+                "label": "plantain flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40634",
+                "label": "rice flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205821",
+                "label": "millet flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "29164",
+                "label": "corn meal",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "220835",
+                "label": "cassava flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40638",
+                "label": "wheat flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205843",
+                "label": "quinoa flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205820",
+                "label": "buckwheat flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40635",
+                "label": "rye flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "29149",
+                "label": "corn flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205780",
+                "label": "amaranth flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "196963",
+                "label": "whole grain flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205844",
+                "label": "triticale flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "311351",
+                "label": "banana flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205777",
+                "label": "sorghum flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40636",
+                "label": "soy flour",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "205823",
+                "label": "oat flour",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "414",
+            "label": "gluten-free foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "220504",
+                "label": "gluten-free dough",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "220502",
+                "label": "gluten-free bread",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "341826",
+                "label": "gluten-free cakes",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "465",
+            "label": "entrees",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "198820",
+            "label": "high protein foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "323547",
+            "label": "low moisture foods",
+            "definition": "Low moisture foods have low water activity and do not support the growth of spoilage or foodborne pathogens. These foods could be naturally low in water activity or that have been dried to lower the water activity.",
+            "children": []
+          },
+          {
+            "uuid": "16323",
+            "label": "fermented foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "30504",
+                "label": "pickled foods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "58243",
+                    "label": "pickled vegetables",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28483",
+                    "label": "pickles",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "39864",
+                "label": "natto",
+                "definition": "A Japanese condiment and flavoring which has a glutinous texture and strong cheeselike flavor and is made of steamed, fermented and mashed soybeans.",
+                "children": []
+              },
+              {
+                "uuid": "190888",
+                "label": "fermented dairy products",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39860",
+                "label": "fermented fish",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "335718",
+                "label": "gari",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "276343",
+                "label": "fermented meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "276347",
+                    "label": "fermented sausages",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "61948",
+                    "label": "salami",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "296895",
+                "label": "douchi",
+                "definition": "Chinese traditional fermented and salted black soybean food product that is rich in proteins.",
+                "children": []
+              },
+              {
+                "uuid": "39863",
+                "label": "miso",
+                "definition": "A fermented soybean paste that may also contain rice, barley or wheat.",
+                "children": []
+              },
+              {
+                "uuid": "39866",
+                "label": "soy sauce",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "308260",
+                "label": "fermented vegetables",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "39865",
+                    "label": "sauerkraut",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "39862",
+                    "label": "kimchi",
+                    "definition": "A Korean dish made of pungent, pickled cabbage.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "2348",
+                "label": "vinegars",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "26255",
+                    "label": "cider vinegar",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "67119",
+                    "label": "wine vinegars",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "39867",
+                "label": "tempeh",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39861",
+                "label": "fish sauce",
+                "definition": "A pungent, salty seasoning or condiment in Southeast Asian cuisine that is made from fermented anchovies or other fish.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "28825",
+            "label": "instant foods",
+            "definition": "Foods in dried form that are ready to eat with the addition of water.",
+            "children": []
+          },
+          {
+            "uuid": "31963",
+            "label": "defatted foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "486",
+            "label": "sweets",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "24794",
+                "label": "chewing gum",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "298056",
+                "label": "marshmallows",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21826",
+                "label": "candy",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "470",
+            "label": "infant foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "28346",
+                "label": "complementary foods",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "47222",
+                "label": "infant formulas",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "222384",
+            "label": "restructured foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "484",
+            "label": "street foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "473",
+            "label": "meat substitutes",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "432",
+            "label": "food pulp",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "418",
+            "label": "organic foods",
+            "definition": "Organic food is produced without: antibiotics; growth hormones; most conventional pesticides; petroleum- based fertilizers or sewage sludge-based fertilizers; bioengineering; or ionizing radiation. USDA certification is required before a product can be labeled \"organic\". Companies, including restaurants, that handle or process organic food must be certified also.",
+            "children": []
+          },
+          {
+            "uuid": "70087",
+            "label": "grain foods",
+            "definition": "Foods that are based completely or primarily on food grains.",
+            "children": [
+              {
+                "uuid": "456",
+                "label": "breakfast cereals",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "423",
+                "label": "whole grain foods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "199246",
+                    "label": "whole wheat bread",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "196963",
+                    "label": "whole grain flour",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "323115",
+            "label": "alternative foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "417",
+            "label": "low fat foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "458",
+            "label": "commodity foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "466",
+            "label": "fast foods",
+            "definition": "Foods designed for ready availability, use, or consumption and sold at eating establishments for quick availability or take-out.",
+            "children": []
+          },
+          {
+            "uuid": "105020",
+            "label": "adulterated foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "481",
+            "label": "soups",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "230392",
+                "label": "broths",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "242566",
+                "label": "canned soup",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "483",
+            "label": "staple foods",
+            "definition": "Foods that are basic to the diet/cuisine of the culture, like wheat flour, rice, corn, yams, sugar, salt, etc.",
+            "children": []
+          },
+          {
+            "uuid": "489",
+            "label": "weaning foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "15553",
+            "label": "processed foods",
+            "definition": "Foods that are manufactured, usually on a large scale, using any of a wide variety of processing techniques, most often with the goal of preserving food for market.",
+            "children": [
+              {
+                "uuid": "232250",
+                "label": "textured foods",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "24939",
+                "label": "minimally processed foods",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "242574",
+                "label": "processed seafood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "59574",
+                "label": "prepared foods",
+                "definition": "Food products that have been manufactured, often with the intention of making food preparation and meal delivery easier for food industry and private consumers.",
+                "children": [
+                  {
+                    "uuid": "476",
+                    "label": "ready-to-eat foods",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "67796",
+                    "label": "ready-to-cook foods",
+                    "definition": "Foods that are processed and/or prepared to be ready to cook with very little additional effort.",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "421",
+            "label": "raw foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51771",
+                "label": "raw meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "70088",
+                "label": "raw seafoods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "60970",
+                    "label": "raw shellfish",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40362",
+                    "label": "raw fish",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "31637",
+                "label": "raw milk",
+                "definition": "Fresh, unprocessed milk as it comes from a cow, goat or other mammal.",
+                "children": []
+              },
+              {
+                "uuid": "41562",
+                "label": "fresh produce",
+                "definition": "Raw fruits and vegetables.",
+                "children": [
+                  {
+                    "uuid": "41559",
+                    "label": "raw fruit",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41566",
+                    "label": "raw vegetables",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "193202",
+                    "label": "fresh-cut produce",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "41560",
+                "label": "fresh herbs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "60968",
+                "label": "raw eggs",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "472",
+            "label": "leftover foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "431",
+            "label": "food paste",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "312209",
+                "label": "soybean paste",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40956",
+                "label": "tomato paste",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40355",
+                "label": "fish paste",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40774",
+                "label": "meat paste",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "471",
+            "label": "kosher foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "435",
+            "label": "juices",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "28464",
+                "label": "juice concentrates",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "65159",
+                "label": "sugarcane juice",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41629",
+                "label": "frozen juice",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "11284",
+                "label": "fruit juices",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "11279",
+                    "label": "apple juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "289269",
+                    "label": "acerola juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "259595",
+                    "label": "mango juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "188671",
+                    "label": "verjuice",
+                    "definition": "The sour juice of unripe fruits, such as apples, crab apples or grapes, from which an acid liquor may also be made.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41672",
+                    "label": "grape juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "255916",
+                    "label": "pear juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "275987",
+                    "label": "banana juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6136",
+                    "label": "ciders",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41676",
+                    "label": "pineapple juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "291353",
+                    "label": "pomegranate juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "204380",
+                    "label": "citrus juices",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "204382",
+                        "label": "lime juice",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "41673",
+                        "label": "grapefruit juice",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "41674",
+                        "label": "lemon juice",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "41675",
+                        "label": "orange juice",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "208853",
+                        "label": "mandarin juice",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "291400",
+                    "label": "peach juice",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "48163",
+                "label": "meat juices",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "16994",
+                "label": "vegetable juices",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "22683",
+                    "label": "carrot juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "250343",
+                    "label": "broccoli juice",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "66131",
+                    "label": "tomato juice",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "21904",
+                "label": "canned juice",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "78948",
+            "label": "edible coatings",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "478",
+            "label": "salad dressings",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "153564",
+            "label": "low calorie foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "204122",
+            "label": "fat-free foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "28856",
+            "label": "cooked foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "59423",
+                "label": "precooked foods",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31936",
+                "label": "fried foods",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "341031",
+                "label": "porridge",
+                "definition": "A porridge is a hot cereal that can be made from a variety of ground, chopped or crushed grains, vegetables, legumes etc., which are boiled in water or milk to make it as a mushy dish. It can be soft or thick and is mostly eaten as a breakfast.",
+                "children": []
+              },
+              {
+                "uuid": "15551",
+                "label": "baked goods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "19657",
+                    "label": "tortillas",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15559",
+                    "label": "pastries",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15558",
+                    "label": "muffins",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15557",
+                    "label": "cookies",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15555",
+                    "label": "breads",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "15571",
+                        "label": "yeast breads",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "199246",
+                        "label": "whole wheat bread",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "220502",
+                        "label": "gluten-free bread",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19656",
+                        "label": "sourdough bread",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "199248",
+                        "label": "white bread",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19655",
+                        "label": "quick breads",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19654",
+                        "label": "flat breads",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "15560",
+                    "label": "pies",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15554",
+                    "label": "biscuits",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "309798",
+                    "label": "bagels",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "138409",
+                    "label": "crackers",
+                    "definition": "Baked crisp snack foods made from unleavened grain flour dough to which flavorings or seasonings may be added.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15556",
+                    "label": "cakes",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "341826",
+                        "label": "gluten-free cakes",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "291368",
+                        "label": "pound cakes",
+                        "definition": "A creamy, moist cake that is characterized with firm texture and creamy mouthfeel upon mastication. It contains equal portions of wheat flour, eggs, sugar and butter or margarine.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "300243",
+                        "label": "gingerbread",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "70086",
+                        "label": "sponge cakes",
+                        "definition": "A light soft cake, usually made without added fat or shortening and leavened with eggs.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "291364",
+                        "label": "chiffon cakes",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "15561",
+                    "label": "rolls",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "40908",
+            "label": "food groups",
+            "definition": "A food group is defined as the grouping of food items that have similar caloric and nutrient qualities. According to the USDA, the five major food groups are grains, vegetables, fruits, dairy and meat and meat alternatives. A balanced diet should contain something from each of the five major food groups.",
+            "children": []
+          },
+          {
+            "uuid": "336847",
+            "label": "insect-based foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "487",
+            "label": "takeout foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "324268",
+            "label": "cell-cultured food products",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "69221",
+            "label": "breadings",
+            "definition": "Bread or cracker crumbs used to coat foods.",
+            "children": []
+          },
+          {
+            "uuid": "227703",
+            "label": "intermediate moisture foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "441",
+            "label": "pizza",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "86770",
+            "label": "natural foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "413",
+            "label": "genetically modified foods",
+            "definition": "Foods produced from genetically modified organisms. These species have undergone directed modification of their gene complement using such techniques as altering the DNA, substituting genetic material by means of a virus, transplanting whole nuclei, transplanting cell hybrids, etc.",
+            "children": []
+          },
+          {
+            "uuid": "190830",
+            "label": "low sodium foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "442",
+            "label": "powdered foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "28500",
+                "label": "powdered sugar",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "27563",
+                "label": "cocoa powder",
+                "definition": "Ground cocoa solids.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "426",
+            "label": "coated foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "463",
+            "label": "desserts",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "436",
+            "label": "liquified foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "461",
+            "label": "cooking fats and oils",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "28877",
+                "label": "margarine",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "28878",
+                "label": "shortenings",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "207093",
+                "label": "frying oil",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "315384",
+            "label": "low fiber foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "416",
+            "label": "low acid foods",
+            "definition": "Food with pH values higher than 4.6.",
+            "children": []
+          },
+          {
+            "uuid": "452",
+            "label": "syrups",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "17769",
+                "label": "molasses",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "297796",
+                "label": "rice syrup",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21834",
+                "label": "cane syrup",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "2267",
+                "label": "maple syrup",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "29172",
+                "label": "corn syrup",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "29198",
+                    "label": "high fructose corn syrup",
+                    "definition": "Syrup made from corn used widely in foods and beverages as a cheaper alternative sweetener to sucrose (common table sugar). It is generated by enzymatic processing of natural corn syrup to produce a liquid most widely composed of 42 or 55% fructose, glucose, and various polysaccharides.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "196754",
+                    "label": "high maltose corn syrup",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "297797",
+                "label": "agave syrup",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "205183",
+            "label": "high energy foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "27565",
+            "label": "plant-based foods",
+            "definition": "Foods originating from plant sources.",
+            "children": []
+          },
+          {
+            "uuid": "429",
+            "label": "edible films",
+            "definition": "Packaging materials that can be directly consumed. They provide barrier and protection, while enhancing quality and safety of food products.",
+            "children": []
+          },
+          {
+            "uuid": "323532",
+            "label": "food fraud",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "415",
+            "label": "imitation foods",
+            "definition": "Products consisting of regular foods and/or chemical formulations that may be used in place of the foods they imitate. Often imitation foods are used by consumers for health or economic reasons.",
+            "children": [
+              {
+                "uuid": "474",
+                "label": "milk substitutes",
+                "definition": "Foods that are used to replace cow's milk in the human diet, made with nondairy ingredients.",
+                "children": [
+                  {
+                    "uuid": "223048",
+                    "label": "hemp milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223037",
+                    "label": "almond milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223055",
+                    "label": "wheat milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223044",
+                    "label": "oat milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "308288",
+                    "label": "hazelnut milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223040",
+                    "label": "rice milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "318495",
+                    "label": "sesame milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52967",
+                    "label": "soymilk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "287783",
+                    "label": "quinoa milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "27580",
+                    "label": "coconut milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "260044",
+                    "label": "tiger nut milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "307929",
+                    "label": "coffee cream",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223051",
+                    "label": "peanut milk",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "324281",
+                "label": "cheese analogs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "46957",
+                "label": "meat analogs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "35975",
+                "label": "egg substitutes",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "324289",
+                "label": "coffee substitutes",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "324277",
+                "label": "imitation cheese",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39584",
+                "label": "fat replacers",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40365",
+                "label": "surimi",
+                "definition": "A processed seafood product that is typically made from Alaskan pollack that is flavored, precooked, and reformed into shapes that resemble shellfish. Imitation crabmeat is an example of surimi.",
+                "children": []
+              },
+              {
+                "uuid": "335711",
+                "label": "butter alternatives",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "490",
+            "label": "wild foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "438",
+            "label": "minced foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "53061",
+                "label": "minced fish",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "51770",
+                "label": "minced meat",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "200328",
+                    "label": "minced beef",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "200329",
+                    "label": "minced chicken meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "200334",
+                    "label": "minced pork",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "331908",
+                    "label": "minced lamb",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "444",
+            "label": "pureed foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30822",
+            "label": "cured foods",
+            "definition": "Food that has been treated with salt or nitrate or nitrite to preserve it. A very old method of food preservation.",
+            "children": []
+          },
+          {
+            "uuid": "437",
+            "label": "loaves",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "228405",
+            "label": "halal foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "24934",
+            "label": "chilled foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "24937",
+                "label": "chilled vegetables",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "24936",
+                "label": "chilled meats",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "24935",
+                "label": "chilled fruit",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "21902",
+            "label": "canned foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "242566",
+                "label": "canned soup",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21906",
+                "label": "canned vegetables",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21903",
+                "label": "canned fruit",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21901",
+                "label": "canned fish",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21905",
+                "label": "canned meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21904",
+                "label": "canned juice",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "30830",
+            "label": "smoked foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "51772",
+                "label": "smoked meats",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "260052",
+                    "label": "smoked ham",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "190421",
+                    "label": "smoked sausage",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "24541",
+                "label": "smoked cheeses",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40364",
+                "label": "smoked fish",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "479",
+            "label": "salads",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "427",
+            "label": "custards",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "1573",
+            "label": "seafoods",
+            "definition": "Edible aquatic (freshwater or marine) organisms such as fish, shellfish, or seaweed that is used as food.",
+            "children": [
+              {
+                "uuid": "70088",
+                "label": "raw seafoods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "60970",
+                    "label": "raw shellfish",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40362",
+                    "label": "raw fish",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "87881",
+                "label": "oyster meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "84916",
+                "label": "lobster meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "40365",
+                "label": "surimi",
+                "definition": "A processed seafood product that is typically made from Alaskan pollack that is flavored, precooked, and reformed into shapes that resemble shellfish. Imitation crabmeat is an example of surimi.",
+                "children": []
+              },
+              {
+                "uuid": "325506",
+                "label": "frozen seafoods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "40361",
+                    "label": "frozen fish",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "325519",
+                    "label": "frozen shrimps",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "189533",
+                "label": "crab cakes",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "91674",
+                "label": "scallop meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "92180",
+                "label": "shrimp meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "242574",
+                "label": "processed seafood",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "76065",
+                "label": "clam meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "21037",
+                "label": "calamari",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "35853",
+                "label": "edible seaweed",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "70222",
+                "label": "abalone meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "86536",
+                "label": "mussel meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "92124",
+                "label": "shellfish meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "189566",
+                "label": "snail meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "76993",
+                "label": "crab meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "80477",
+                "label": "fish meat",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "449",
+            "label": "sausages",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "18447",
+                "label": "bologna",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41444",
+                "label": "hot dogs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19609",
+                "label": "bratwurst",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "276347",
+                "label": "fermented sausages",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "50444",
+                "label": "liver sausage",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "53500",
+                "label": "mortadella",
+                "definition": "A large, seasoned, smoked Italian sausage made of ground pork, beef, and pork fat.",
+                "children": []
+              },
+              {
+                "uuid": "190421",
+                "label": "smoked sausage",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "25707",
+                "label": "chorizo",
+                "definition": "A very spicy pork sausage seasoned with garlic and chili powder.",
+                "children": []
+              },
+              {
+                "uuid": "62465",
+                "label": "summer sausage",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "57363",
+                "label": "pepperoni",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "439",
+            "label": "noodles",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "9161",
+            "label": "animal-based foods",
+            "definition": "Foods originating from animal sources.",
+            "children": []
+          },
+          {
+            "uuid": "468",
+            "label": "garnishes",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "30829",
+            "label": "salted foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "40363",
+                "label": "salted fish",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "24539",
+                "label": "salted cheese",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "428",
+            "label": "dough",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "34429",
+                "label": "sourdough",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34428",
+                "label": "frozen dough",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "433",
+                "label": "dough sponges",
+                "definition": "An intermediate step in the dough making process, usually a fermented mixture of flour, yeast and liquids.",
+                "children": []
+              },
+              {
+                "uuid": "69564",
+                "label": "bread dough",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "220504",
+                "label": "gluten-free dough",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "462",
+            "label": "delicatessen foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "41034",
+            "label": "military rations",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "410",
+            "label": "enriched foods",
+            "definition": "Foods to which nutrients were added in order to replace losses of the nutrient that occured during processing.",
+            "children": []
+          },
+          {
+            "uuid": "38976",
+            "label": "extruded foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "422",
+            "label": "tropical foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "315432",
+            "label": "low lactose foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "419",
+            "label": "perishable foods",
+            "definition": "Foods that are subject to loss of quality, usually by destruction, decay or spoilage.",
+            "children": []
+          },
+          {
+            "uuid": "315383",
+            "label": "high fiber foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "447",
+            "label": "sandwiches",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "196763",
+            "label": "food toppings",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "409",
+            "label": "beverages",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "335671",
+                "label": "artificially sweetened beverages",
+                "definition": "Beverages sweetened with sweetening agents that are synthetic or artificial as opposed to naturally-occurring. Examples of sweetening agents include aspartame, sucralose, and saccharin.",
+                "children": []
+              },
+              {
+                "uuid": "6109",
+                "label": "alcoholic beverages",
+                "definition": "Drinkable liquids containing ethanol.",
+                "children": [
+                  {
+                    "uuid": "6133",
+                    "label": "distilled spirits",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "34101",
+                        "label": "liqueurs",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19276",
+                        "label": "brandy",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34102",
+                        "label": "rum",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34104",
+                        "label": "whisky",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34100",
+                        "label": "gin (beverage)",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "34103",
+                        "label": "vodka",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "6134",
+                    "label": "mash",
+                    "definition": "A crushed fermentable mixture, typically malt, grain meal or fruit, used to produce alcoholic beverages such as whiskey or beer.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6132",
+                    "label": "beers",
+                    "definition": "A fermented, carbonated, alcoholic beverage containing one-half of 1 percent or more of alcohol by volume. Generally brewed from malt (mostly barley malt), hops (for flavoring) and water. Other cereals such as corn and rice may be used.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "70282",
+                    "label": "absinthe",
+                    "definition": "An extract of absinthium and other bitter herbs, containing 60% alcohol. Prolonged ingestion causes nervousness, convulsions, trismus, amblyopia, optic neuritis, and mental deterioration.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6135",
+                    "label": "wines",
+                    "definition": "All alcoholic beverages made from the fermentation of grape juice, other fruits or vegetative parts. Wine may be sparkling or carbonated, made from condensed grape must, made from agricultural products other than the juice of grapes, and includes products sold as wine such as imitation wine, cider and sake.",
+                    "children": [
+                      {
+                        "uuid": "32606",
+                        "label": "dessert wines",
+                        "definition": "Wine having an alcoholic content in excess of 14 percent but not in excess of 24 percent by volume.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "61029",
+                        "label": "red wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "309685",
+                        "label": "bottled wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "65398",
+                        "label": "table wines",
+                        "definition": "Any wine containing less than 14 percent alcohol by volume, usually meant to be served with meals. Not to be confused with sweet wines, dessert wines, fortified wines, etc.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "45784",
+                        "label": "mead",
+                        "definition": "A fermented beverage made of honey, water and yeast.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "41293",
+                        "label": "fortified wines",
+                        "definition": "A wine to which additional alcohol has been added, often in the form of brandy.",
+                        "children": [
+                          {
+                            "uuid": "68086",
+                            "label": "port wines",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "41294",
+                            "label": "sherry",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "341566",
+                        "label": "rose wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68089",
+                        "label": "fruit wines",
+                        "definition": "Fruit wine is produced by the alcoholic fermentation of juice from ripe fruits and/or berries other than grapes. During production, pure condensed fruit must, fruit brandy, alcohol, and sugar may be added.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "67342",
+                        "label": "white wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63728",
+                        "label": "sparkling wines",
+                        "definition": "Wine made effervescent with carbon dioxide resulting solely from the fermentation of the wine within a closed container, tank or bottle.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68082",
+                        "label": "rice wines",
+                        "definition": "An alcoholic beverage made from fermented rice.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "324950",
+                "label": "fermented beverages",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "277556",
+                    "label": "kombucha",
+                    "definition": "A fermented tea beverage obtained by the fermentation of sugared black or green tea with yeast, acetic acid bacteria and lactic acid bacteria.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6132",
+                    "label": "beers",
+                    "definition": "A fermented, carbonated, alcoholic beverage containing one-half of 1 percent or more of alcohol by volume. Generally brewed from malt (mostly barley malt), hops (for flavoring) and water. Other cereals such as corn and rice may be used.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6135",
+                    "label": "wines",
+                    "definition": "All alcoholic beverages made from the fermentation of grape juice, other fruits or vegetative parts. Wine may be sparkling or carbonated, made from condensed grape must, made from agricultural products other than the juice of grapes, and includes products sold as wine such as imitation wine, cider and sake.",
+                    "children": [
+                      {
+                        "uuid": "32606",
+                        "label": "dessert wines",
+                        "definition": "Wine having an alcoholic content in excess of 14 percent but not in excess of 24 percent by volume.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "61029",
+                        "label": "red wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "309685",
+                        "label": "bottled wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "65398",
+                        "label": "table wines",
+                        "definition": "Any wine containing less than 14 percent alcohol by volume, usually meant to be served with meals. Not to be confused with sweet wines, dessert wines, fortified wines, etc.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "45784",
+                        "label": "mead",
+                        "definition": "A fermented beverage made of honey, water and yeast.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "41293",
+                        "label": "fortified wines",
+                        "definition": "A wine to which additional alcohol has been added, often in the form of brandy.",
+                        "children": [
+                          {
+                            "uuid": "68086",
+                            "label": "port wines",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "41294",
+                            "label": "sherry",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "uuid": "341566",
+                        "label": "rose wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68089",
+                        "label": "fruit wines",
+                        "definition": "Fruit wine is produced by the alcoholic fermentation of juice from ripe fruits and/or berries other than grapes. During production, pure condensed fruit must, fruit brandy, alcohol, and sugar may be added.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "67342",
+                        "label": "white wines",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "63728",
+                        "label": "sparkling wines",
+                        "definition": "Wine made effervescent with carbon dioxide resulting solely from the fermentation of the wine within a closed container, tank or bottle.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "68082",
+                        "label": "rice wines",
+                        "definition": "An alcoholic beverage made from fermented rice.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "329579",
+                "label": "non-alcoholic beverages",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "240626",
+                    "label": "energy drinks",
+                    "definition": "A beverage that contains caffeine as an ingredient, along with other ingredients, such as taurine, herbal supplements, vitamins, and added sugars. It is usually marketed as a product that can improve perceived energy, stamina, athletic performance, or concentration.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16985",
+                    "label": "bottled water",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "70003",
+                    "label": "tea (beverage)",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "16990",
+                        "label": "iced tea",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "277556",
+                        "label": "kombucha",
+                        "definition": "A fermented tea beverage obtained by the fermentation of sugared black or green tea with yeast, acetic acid bacteria and lactic acid bacteria.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "16987",
+                    "label": "cocoa (beverage)",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16989",
+                    "label": "fruit drinks",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16988",
+                    "label": "coffee (beverage)",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "332853",
+                        "label": "spent coffee grounds",
+                        "definition": "The waste product that remain in a pot after brewing coffee.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "27725",
+                        "label": "instant coffee",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "324948",
+                    "label": "dairy beverages",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "322586",
+                    "label": "sugar sweetened beverages",
+                    "definition": "Liquids that are sweetened with various forms of added sugars. These beverages include, but are not limited to, soda (regular, not sugar-free), fruitades, sports drinks, energy drinks, sweetened waters, and coffee and tea beverages with added sugars.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "227588",
+                    "label": "sports drinks",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16992",
+                    "label": "soft drinks",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "480",
+            "label": "snack foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "464",
+            "label": "dietetic foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "198819",
+            "label": "high fat foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "469",
+            "label": "gravy",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "450",
+            "label": "stews",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "467",
+            "label": "fat substitutes",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "218074",
+            "label": "cafeteria foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "205190",
+            "label": "low energy foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "136318",
+            "label": "medical foods",
+            "definition": "A food which is formulated to be consumed or administered enterally under the supervision of a physician and which is intended for the specific dietary management of a disease or condition for which distinctive nutritional requirements, based on recognized scientific principles, are established by medical evaluation.",
+            "children": []
+          },
+          {
+            "uuid": "477",
+            "label": "restaurant foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "411",
+            "label": "fortified foods",
+            "definition": "Foods which contain a higher nutrient content above natural levels because of the addition of nutrients during processing.",
+            "children": []
+          },
+          {
+            "uuid": "485",
+            "label": "sweeteners",
+            "definition": "Substances that sweeten food, beverages, medications, etc., such as sugar, saccharine or other low-calorie synthetic products.",
+            "children": [
+              {
+                "uuid": "59937",
+                "label": "protein sweeteners",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "12624",
+                "label": "nonnutritive sweeteners",
+                "definition": "Sweeteners that do not have any significant energy or nutrient content",
+                "children": []
+              },
+              {
+                "uuid": "7180",
+                "label": "sugar substitutes",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "2303",
+                "label": "artificial sweeteners",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "12621",
+                    "label": "saccharin",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "12620",
+                    "label": "aspartame",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "12623",
+                    "label": "sucralose",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "12622",
+                    "label": "sodium cyclamate",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6397",
+                    "label": "alitame",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "2300",
+                    "label": "acesulfame potassium",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "334866",
+            "label": "finger foods",
+            "definition": "Finger food is food that is eaten directly with hands. It can be an entire meal or part of meal, for example: a piece of fruit or vegetable, cheese on sticks, a slice of bread, French fries, etc.",
+            "children": []
+          },
+          {
+            "uuid": "32025",
+            "label": "dried foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "27587",
+                "label": "desiccated coconut",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34537",
+                "label": "dry peas",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34530",
+                "label": "dried eggs",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "16210",
+                "label": "dry beans",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34536",
+                "label": "dried vegetables",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31631",
+                "label": "dried milk",
+                "definition": "Dairy product made from milk by the removal of 95-98% of the water.",
+                "children": [
+                  {
+                    "uuid": "34547",
+                    "label": "dried skim milk",
+                    "definition": "The product obtained by removing water from pasteurized skim milk. It contains not more than 5% moisture and not more than 1.5% milk fat unless otherwise indicated.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "34548",
+                    "label": "dried whey",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "34533",
+                "label": "dried fruit",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "34539",
+                    "label": "prunes",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "34540",
+                    "label": "raisins",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "34532",
+                "label": "dried fish",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34535",
+                "label": "dried meat",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "28824",
+            "label": "frozen foods",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "325506",
+                "label": "frozen seafoods",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "40361",
+                    "label": "frozen fish",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "325519",
+                    "label": "frozen shrimps",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "41629",
+                "label": "frozen juice",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "32607",
+                "label": "frozen desserts",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41631",
+                "label": "frozen vegetables",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "34428",
+                "label": "frozen dough",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41630",
+                "label": "frozen meat",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31632",
+                "label": "frozen dairy products",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "41625",
+                    "label": "frozen milk",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41627",
+                    "label": "ice milk",
+                    "definition": "Ice milk is similar to ice cream but it contains less milk fat (2-5 % vs. 10%) and milk solids(11-14%) and has a lighter, less creamy texture.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "41626",
+                    "label": "frozen yogurt",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20630",
+                    "label": "ice cream",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "41628",
+                "label": "frozen fruit",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "457",
+            "label": "casseroles",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "260236",
+            "label": "low protein foods",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "412",
+            "label": "functional foods",
+            "definition": "Foods that are considered, by nature or manufacture, to contain significant levels of biologically active components which provide desirable health benefits beyond basic nutrition.",
+            "children": []
+          },
+          {
+            "uuid": "443",
+            "label": "puddings",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "455",
+            "label": "appetizers",
+            "definition": "A small amount of food, generally eaten just before the main meal.",
+            "children": []
+          },
+          {
+            "uuid": "448",
+            "label": "sauces",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "39866",
+                "label": "soy sauce",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39861",
+                "label": "fish sauce",
+                "definition": "A pungent, salty seasoning or condiment in Southeast Asian cuisine that is made from fermented anchovies or other fish.",
+                "children": []
+              },
+              {
+                "uuid": "62462",
+                "label": "tomato sauce",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "451",
+            "label": "sushi",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "445",
+            "label": "reconstituted foods",
+            "definition": "Foods which were concentrated or condensed and have been brought to their original strength by adding water.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "uuid": "40829",
+        "label": "food science",
+        "definition": "",
+        "children": [
+          {
+            "uuid": "10481",
+            "label": "food composition",
+            "definition": "",
+            "children": [
+              {
+                "uuid": "35941",
+                "label": "egg composition",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "67768",
+                "label": "milk equivalent",
+                "definition": "The quantity of fluid milk used in a processed dairy product, usually expressed on a milk fat basis, e.g. one pound of cheese is the equivalent of 9.88 pounds of milk.",
+                "children": []
+              },
+              {
+                "uuid": "325741",
+                "label": "grain composition",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "325751",
+                    "label": "grain nitrogen content",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "325752",
+                    "label": "grain carbon content",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "323264",
+                "label": "bioactive food compounds",
+                "definition": "Bioactive food compounds are extra-nutritional constituents that are found in small amounts in foods and are usually linked with beneficial effects in an organism.",
+                "children": []
+              },
+              {
+                "uuid": "19871",
+                "label": "fruit composition",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31643",
+                "label": "milk composition",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "9453",
+                    "label": "milk proteins",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "48732",
+                        "label": "lactalbumin",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "52945",
+                        "label": "milk protein percentage",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "196333",
+                        "label": "lactadherin",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "48946",
+                        "label": "lactoglobulins",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19680",
+                        "label": "human milk proteins",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "48941",
+                        "label": "lactoferrin",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "6892",
+                        "label": "casein",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "22787",
+                            "label": "kappa-casein",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "16814",
+                            "label": "beta-casein",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "22786",
+                            "label": "gamma-casein",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "6891",
+                            "label": "alpha-casein",
+                            "definition": "",
+                            "children": [
+                              {
+                                "uuid": "6870",
+                                "label": "alphaS2-casein",
+                                "definition": "",
+                                "children": []
+                              },
+                              {
+                                "uuid": "6865",
+                                "label": "alphaS-casein",
+                                "definition": "",
+                                "children": []
+                              },
+                              {
+                                "uuid": "6867",
+                                "label": "alphaS1-casein",
+                                "definition": "",
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "9160",
+                    "label": "milk fat",
+                    "definition": "Lipid component of animal milks.",
+                    "children": [
+                      {
+                        "uuid": "245856",
+                        "label": "milk fatty acids",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "635",
+                        "label": "milk fat percentage",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "71771",
+                        "label": "anhydrous milk fat",
+                        "definition": "A dairy product made from cream or butter containing at least 99.8% milk fat and 0.10% moisture.",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "uuid": "22334",
+                "label": "meat composition",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "192292",
+                "label": "p-anisidine value",
+                "definition": "A measurement of the aldehyde content in a fat or oil. As aldehydes are secondary oxidation products produced during lipid oxidation, the p-anisidine value measures the oxidative status of the fat or oil, correlating with its flavor quality.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "231039",
+            "label": "gastronomy",
+            "definition": "The science and art of good eating and drinking.",
+            "children": []
+          },
+          {
+            "uuid": "4059",
+            "label": "food coloring",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "289682",
+            "label": "foodomics",
+            "definition": "A discipline that deals with food science and nutrition through the application of advanced omics (genomics, proteomics, metabolomics, etc.) technologies to improve consumer health and well-being.",
+            "children": []
+          },
+          {
+            "uuid": "178",
+            "label": "food analysis",
+            "definition": "Measurement and evaluation of the components of substances to be taken as food.",
+            "children": []
+          },
+          {
+            "uuid": "27606",
+            "label": "food quality",
+            "definition": "Ratings of the characteristics of food including flavor, appearance, nutritional content, and the amount of microbial and chemical contamination.",
+            "children": [
+              {
+                "uuid": "40878",
+                "label": "food nutrient losses",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "17374",
+                "label": "food spoilage",
+                "definition": "Varying degrees of physical, chemical and/or biological deterioration of food sensory properties, nutrient content, and/or safety. Major causes include: 1) growth and activity of microorganisms, 2) natural enzymes, 3) insects, parasites and rodents, 4) temperature, 5) moisture and dryness, 6) air/oxygen, 7) light, 9) time.",
+                "children": []
+              },
+              {
+                "uuid": "301472",
+                "label": "vegetable quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "39691",
+                "label": "palatability",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "190434",
+                "label": "chewiness",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "41013",
+                "label": "juiciness",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31967",
+                "label": "defect action levels",
+                "definition": "Levels of natural or unavoidable defects in foods that present no health hazards for humans.",
+                "children": []
+              },
+              {
+                "uuid": "40882",
+                "label": "food surfaces",
+                "definition": "The surface of any food or food product.",
+                "children": []
+              },
+              {
+                "uuid": "224216",
+                "label": "grain quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "342130",
+                "label": "beverage quality",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "41014",
+                    "label": "wine quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "341565",
+                    "label": "beer quality",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "28022",
+                "label": "fruit quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "6883",
+                "label": "falling number",
+                "definition": "A method for the determination of the effect of alpha amylase activity during the baking process.",
+                "children": []
+              },
+              {
+                "uuid": "41012",
+                "label": "juice quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "288997",
+                "label": "cheese quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "17238",
+                "label": "food matrix",
+                "definition": "The nutrient and non-nutrient components of foods and their molecular relationships, i.e. chemical bonds, to each other.",
+                "children": []
+              },
+              {
+                "uuid": "33529",
+                "label": "digestibility",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "299292",
+                    "label": "dry matter digestibility",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33533",
+                    "label": "in vitro digestibility",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "198925",
+                "label": "fillet quality",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "80809",
+                "label": "food texture",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "31644",
+                "label": "milk quality",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "40506",
+                    "label": "milk flavor",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52962",
+                    "label": "renneting properties",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "52963",
+                    "label": "somatic cell count",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "20111",
+                "label": "enzymatic browning",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "10486",
+                "label": "nutritive value",
+                "definition": "An indication of the contribution of a food to the nutrient content of the diet. This value depends on the quantity of a food which is digested and absorbed and the amounts of the essential nutrients (protein, fat, carbohydrate, minerals, vitamins) which it contains. This value can be affected by soil and growing conditions, handling and storage, and processing.",
+                "children": [
+                  {
+                    "uuid": "55471",
+                    "label": "protein value",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "192559",
+                    "label": "biofortification",
+                    "definition": "An increase in the nutritional value of plant foods obtained through convential crop breeding methods or through crop genetic engineering techniques. This contrasts with postharvest fortification in which nutrients are added during processing.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "199028",
+                    "label": "protein efficiency ratio",
+                    "definition": "An assessment of dietary protein quality by calculating weight gain divided by intake of a specific protein during a given period.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "17239",
+                    "label": "metabolizable energy",
+                    "definition": "The net energy in food or feed that is available to humans or animals by digestion and absorption, and measured as the difference between gross energy content and the energy lost as being undigested or indigestible.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33535",
+                    "label": "digestible protein",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "299297",
+                    "label": "digestible dry matter",
+                    "definition": "Amount of digestible fibre in a feed or forage.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "55470",
+                    "label": "protein energy ratio",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "341358",
+                    "label": "digestible carbohydrates",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "342410",
+                    "label": "digestible organic matter",
+                    "definition": "A percentage of energy and protein in forages/feed expressed as organic matter (DOM) intake minus fecal dry matter divided by dry matter intake times 100.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "343751",
+                    "label": "digestible amino acids",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "18129",
+                    "label": "glycemic index",
+                    "definition": "A scale of the effects of foods on blood glucose concentrations shortly after ingestion.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "259805",
+                    "label": "glycemic load",
+                    "definition": "A quantitative value of a measured amount of a specific food that is equal to the glycemic index of that food multiplied by the carbohydrate content of that food.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33534",
+                    "label": "digestible energy",
+                    "definition": "Energy in food or feed that is available to humans or animals by digestion, and measured as the difference between gross energy content and the energy lost in feces.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "55430",
+                    "label": "nutrient density",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "15576",
+                "label": "food processing quality",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "15575",
+                    "label": "baking quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40994",
+                    "label": "pickling quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40995",
+                    "label": "popping quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40993",
+                    "label": "malting quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "21914",
+                    "label": "canning quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28873",
+                    "label": "cooking quality",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "192624",
+                        "label": "alkali spreading value",
+                        "definition": "A test for estimating the gelatinization temperature of starch utilizing a seven point scale of the degree of spreading of milled rice grains in potassium hydroxide solution.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "342252",
+                        "label": "degree of doneness",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "211981",
+                    "label": "dough quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40996",
+                    "label": "smoking quality",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "34571",
+                "label": "drip loss",
+                "definition": "The loss in weight of food products owing to extruding and dripping away of tissue juices, such as meat juices lost during the thawing of frozen meat.",
+                "children": []
+              },
+              {
+                "uuid": "16311",
+                "label": "meat quality",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "22333",
+                    "label": "marbling",
+                    "definition": "The presence of thin strips or flecks of fat within a meat cut. More marbling is usually associated with greater palatability.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "31737",
+                    "label": "dark cutting meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51773",
+                    "label": "meat tenderness",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "51774",
+                    "label": "pale soft exudative meat",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "142547",
+                    "label": "pork quality",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "16310",
+                    "label": "beef quality",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "10482",
+            "label": "food safety",
+            "definition": "The fitness of a food for human consumption.",
+            "children": [
+              {
+                "uuid": "323620",
+                "label": "produce safety",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "136968",
+                "label": "food safety objective",
+                "definition": "The maximum frequency and/or concentration of a hazard in a food at the time of consumption that provides or contributes to the appropriate level of protection (ALOP).",
+                "children": []
+              },
+              {
+                "uuid": "67866",
+                "label": "food defense",
+                "definition": "The overall process of protecting the food supply from intentional contamination, including preventive measures, surveillance, incident reporting and control.",
+                "children": []
+              },
+              {
+                "uuid": "4404",
+                "label": "food contamination",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "40885",
+                    "label": "packaging materials migration",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "323520",
+                    "label": "egg contamination",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "142454",
+                    "label": "milk contamination",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "317309",
+                    "label": "seafood contamination",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "30070",
+                "label": "HACCP",
+                "definition": "A systematic approach to be used in food processing as a means to assure food safety.",
+                "children": []
+              },
+              {
+                "uuid": "28896",
+                "label": "food safety education",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "137519",
+                "label": "CAC performance objective",
+                "definition": "The maximum frequency and/or concentration of a hazard in a food at a specified step in the food chain before the time of consumption that provides or contributes to an FSO [food safety objective] or ALOP [appropriate level of protection], as applicable.",
+                "children": []
+              },
+              {
+                "uuid": "137391",
+                "label": "appropriate level of protection",
+                "definition": "Degree of health protection considered acceptable by a member government establishing a sanitary or phytosanitary measure.",
+                "children": []
+              },
+              {
+                "uuid": "9441",
+                "label": "on-farm food safety",
+                "definition": "Strategies and practices performed at the site of the production of food commodities in order to decrease the risk of foodborne illness.",
+                "children": []
+              },
+              {
+                "uuid": "137571",
+                "label": "CAC performance criterion",
+                "definition": "The effect in frequency and/or concentration of a hazard in a food that must be achieved by the application of one or more control measures to provide or contribute to a PO [performance objective] or an FSO [food safety objective].",
+                "children": []
+              },
+              {
+                "uuid": "39630",
+                "label": "Food and Drug Administration Food Code",
+                "definition": "A reference by the Food and Drug Administration guiding retailers like restaurants and grocery stores and institutions such as nursing homes on how to prevent foodborne illness.",
+                "children": []
+              },
+              {
+                "uuid": "222407",
+                "label": "FDA Food Safety Modernization Act",
+                "definition": "FSMA was signed into law by President Obama on January 4, 2011. It aims to ensure the U.S. food supply is safe by shifting the focus from responding to contamination to preventing it.",
+                "children": []
+              },
+              {
+                "uuid": "40917",
+                "label": "food sanitation",
+                "definition": "the promotion of hygiene and prevention of disease by maintenance of sanitary conditions for foods, food handlers, and food processing/preparation facilities and equipment.",
+                "children": []
+              },
+              {
+                "uuid": "137574",
+                "label": "microbiological criteria",
+                "definition": "A microbiological criterion for food defines the acceptability of a product or a food lot, based on the absence or presence, or number of microorganisms including parasites, and/or quantity of their toxins/metabolites, per unit(s) of mass, volume, area, or lot.",
+                "children": [
+                  {
+                    "uuid": "332397",
+                    "label": "microbiological standards",
+                    "definition": "A microbiological standard is a microbiological criterion that is a part of a law, ordinance, or administrative regulation. A standard is a mandatory criterion. Failure to comply with it constitutes violation of the law, ordinance, or regulation and will be subject to the enforcement policy of the regulatory agency having jurisdiction.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "332399",
+                    "label": "microbiological guidelines",
+                    "definition": "A microbiological guideline is a criterion that often is used by the food industry or a regulatory agency to monitor a manufacturing process. Guidelines function as alert mechanisms to signal whether microbiological conditions prevailing at critical control points or in the finished product are within the normal range. Hence, they are used to assess processing efficiency at critical control points and conformity with Good Manufacturing Practices. A microbiological guideline is an advisory criterion in that a given lot of food exceeding the limit for a nonpathogenic organism would not be taken off the market or even downgraded. Guidelines may be mandatory, however, in the sense that food company management and regulatory agencies may demand that the conditions responsible for persistent microbiological deficiencies be corrected without delay.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "28680",
+                "label": "food recalls",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "137460",
+                "label": "postharvest food safety",
+                "definition": "Ensuring the fitness of food for human consumption during all steps once the food product leaves the farm.",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "230824",
+            "label": "culinary science",
+            "definition": "The science of applying culinary arts to food sciences.",
+            "children": []
+          },
+          {
+            "uuid": "217947",
+            "label": "food allergens",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "40859",
+            "label": "food technology",
+            "definition": "The application of food science to the preservation, processing and preparation of foods, and to their packaging, storage and transportation.",
+            "children": [
+              {
+                "uuid": "35843",
+                "label": "food packaging",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "298770",
+                    "label": "active food packaging",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40953",
+                    "label": "retort pouches",
+                    "definition": "A flexible package in which food is sterilized and hermetically sealed for long-term unrefrigerated storage.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "22816",
+                    "label": "sausage casings",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "40831",
+                "label": "food storage",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "2132",
+                "label": "food processing",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "28871",
+                    "label": "food handling",
+                    "definition": "Any aspect of the operations in the preparation, processing, transport, storage, packaging, wrapping, exposure for sale, service, or delivery of food.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6414",
+                    "label": "nixtamalization",
+                    "definition": "Nixtamalization involves cooking and steeping corn in a lime solution, then washing and grinding the corn to form masa, a dough used to make tortillas, taco shells, corn chips, etc.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15574",
+                    "label": "breadmaking",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20605",
+                    "label": "meat processing",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "5173",
+                        "label": "meat aging",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "18558",
+                        "label": "butchering",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "49224",
+                        "label": "rendering",
+                        "definition": "The process of subjecting animal carcasses and parts, especially fatty tissues, to grinding, extraction, heat or other treatments to melt out the fats and convert them into meat byproducts.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "24505",
+                    "label": "cheesemaking",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "5171",
+                        "label": "cheese ripening",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "24513",
+                        "label": "cheese starters",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "24520",
+                    "label": "renneting",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "261014",
+                    "label": "conching",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "19829",
+                    "label": "malting",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40986",
+                    "label": "popping",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "219789",
+                    "label": "dextrinization",
+                    "definition": "Breakdown of starch into dextrins due to heat, enzyme or acid stress.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "223727",
+                    "label": "defeathering",
+                    "definition": "The removal of feathers from poultry carcasses during the manufacture of poultry products.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40992",
+                    "label": "tenderizing",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "30831",
+                    "label": "smoking (food products)",
+                    "definition": "The application of smoke from burning wood to foods in order to preserve them and add a smoky flavor.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40162",
+                    "label": "fish processing",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "33471",
+                    "label": "food fortification",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28854",
+                    "label": "cook-chill systems",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "32540",
+                    "label": "shelling",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "188554",
+                    "label": "debranning",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40990",
+                    "label": "scalding",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "189915",
+                    "label": "degreening",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "2131",
+                    "label": "accelerated ripening",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "19844",
+                    "label": "salting",
+                    "definition": "To treat, preserve or season with common salt.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15573",
+                    "label": "cooking",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "28865",
+                        "label": "grilling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19932",
+                        "label": "broiling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28866",
+                        "label": "microwave cooking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19239",
+                        "label": "braising",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28867",
+                        "label": "parboiling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28868",
+                        "label": "pressure cooking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "15562",
+                        "label": "baking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28869",
+                        "label": "roasting",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28864",
+                        "label": "frying",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "203818",
+                            "label": "pan frying",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "41697",
+                            "label": "stir frying",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "28881",
+                            "label": "deep fat frying",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "40987",
+                    "label": "precooking",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40985",
+                    "label": "marinating",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "37196",
+                    "label": "food enrichment",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40991",
+                    "label": "sous vide",
+                    "definition": "Cooking in a plastic pouch.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "19843",
+                    "label": "pickling",
+                    "definition": "A method of preserving and flavoring foods by soaking them in brine or vinegar, often spiced.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40989",
+                    "label": "reworks",
+                    "definition": "Foods which are reprocessed as alternative food products because of defects.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6139",
+                    "label": "brewing",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "19826",
+                        "label": "wort (brewing)",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "6134",
+                        "label": "mash",
+                        "definition": "A crushed fermentable mixture, typically malt, grain meal or fruit, used to produce alcoholic beverages such as whiskey or beer.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "335864",
+                        "label": "beer aging",
+                        "definition": "",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "220294",
+                    "label": "cook-vide",
+                    "definition": "Unpacked product cooked in boiling water under vacuum conditions.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "291372",
+                    "label": "cakemaking",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28855",
+                    "label": "cook-freeze systems",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "31879",
+                    "label": "decaffeination",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "30823",
+                    "label": "curing (food products)",
+                    "definition": "Any of a variety of processes that employ chemicals, smoke, sugar, or spices to preserve foods and/or modify tenderness, color or flavor; may be used in combination with drying.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "6140",
+                    "label": "winemaking",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "21908",
+                "label": "food preservation",
+                "definition": "A variety of methods used to maintain foods in an edible state.",
+                "children": [
+                  {
+                    "uuid": "342509",
+                    "label": "food drying",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "96878",
+                    "label": "canning",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "69361",
+                    "label": "food biopreservation",
+                    "definition": "The use of products from plants and microorganisms to preserve foods.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "27775",
+                    "label": "pasteurization",
+                    "definition": "Process of heating milk or other liquids to destroy microorganisms that can cause disease or spoilage while minimizing chemical changes that affect taste or aroma.",
+                    "children": [
+                      {
+                        "uuid": "57048",
+                        "label": "steam pasteurization",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "67927",
+                        "label": "high-temperature short-time pasteurization",
+                        "definition": "The temperature and time combination for pasteurization of milk and milk products. The minimum for milk is 161 degrees F for at least 15 seconds. Higher temperatures are used in pasteurizing products of high solids content because of the protection afforded bacteria by solids.",
+                        "children": []
+                      },
+                      {
+                        "uuid": "27773",
+                        "label": "cold pasteurization",
+                        "definition": "Non-thermal treatment of foods such as microfiltration, irradiation, or high pressure to kill microorganisms that could cause disease, spoilage, or undesired fermentation.",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "27776",
+                    "label": "food irradiation",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40980",
+                    "label": "home food preservation",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "28863",
+                "label": "food preparation",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "28907",
+                    "label": "quantity food preparation",
+                    "definition": "Cooking methods, planning and preparation needed when preparing food for a large number of people.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "15573",
+                    "label": "cooking",
+                    "definition": "",
+                    "children": [
+                      {
+                        "uuid": "28865",
+                        "label": "grilling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19932",
+                        "label": "broiling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28866",
+                        "label": "microwave cooking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "19239",
+                        "label": "braising",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28867",
+                        "label": "parboiling",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28868",
+                        "label": "pressure cooking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "15562",
+                        "label": "baking",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28869",
+                        "label": "roasting",
+                        "definition": "",
+                        "children": []
+                      },
+                      {
+                        "uuid": "28864",
+                        "label": "frying",
+                        "definition": "",
+                        "children": [
+                          {
+                            "uuid": "203818",
+                            "label": "pan frying",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "41697",
+                            "label": "stir frying",
+                            "definition": "",
+                            "children": []
+                          },
+                          {
+                            "uuid": "28881",
+                            "label": "deep fat frying",
+                            "definition": "",
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "uuid": "28871",
+                    "label": "food handling",
+                    "definition": "Any aspect of the operations in the preparation, processing, transport, storage, packaging, wrapping, exposure for sale, service, or delivery of food.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40976",
+                    "label": "recipes",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28904",
+                    "label": "home food preparation",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "20998",
+                    "label": "kitchens",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "40929",
+                    "label": "portion size",
+                    "definition": "The amount of a food served or consumed in one eating occasion. A portion is not a standardized amount, and the amount considered to be a portion is subjective and varies.",
+                    "children": []
+                  },
+                  {
+                    "uuid": "28861",
+                    "label": "cuisine",
+                    "definition": "A style or method of food preparation.",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "uuid": "17537",
+                "label": "food biotechnology",
+                "definition": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "uuid": "19827",
+            "label": "food microbiology",
+            "definition": "the presence of pathogenic and non-pathogenic bacteria, viruses and fungi in food and food products.",
+            "children": [
+              {
+                "uuid": "1988",
+                "label": "food pathogens",
+                "definition": "",
+                "children": []
+              },
+              {
+                "uuid": "19653",
+                "label": "starter cultures",
+                "definition": "",
+                "children": [
+                  {
+                    "uuid": "30712",
+                    "label": "cultured product starters",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "69363",
+                    "label": "koji",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "24513",
+                    "label": "cheese starters",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "63156",
+                    "label": "single strain starters",
+                    "definition": "",
+                    "children": []
+                  },
+                  {
+                    "uuid": "53171",
+                    "label": "multiple strain starters",
+                    "definition": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "uuid": "41018",
+            "label": "food research",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "323514",
+            "label": "dairy safety",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "332261",
+            "label": "food toxins",
+            "definition": "Any toxin found in food that has an adverse effect on an organism. The source of food toxin can be fungus, animal, plant or any microorganism.",
+            "children": []
+          },
+          {
+            "uuid": "34430",
+            "label": "food chemistry",
+            "definition": "",
+            "children": []
+          },
+          {
+            "uuid": "2887",
+            "label": "food additives",
+            "definition": "Any substance added to food to: 1) maintain product consistency, 2) improve or maintain nutritional value, 3) maintain palatability or wholesomeness, 4) provide leavening or control pH, or 5) enhance flavor or impart desired color.",
+            "children": [
+              {
+                "uuid": "2346",
+                "label": "food preservatives",
+                "definition": "Substances capable of inhibiting, retarding or arresting the process of fermentation, acidification or other deterioration of foods.",
+                "children": []
+              },
+              {
+                "uuid": "80727",
+                "label": "food colorants",
+                "definition": "Natural or synthetic dyes used as coloring agents in processed foods.",
+                "children": []
+              },
+              {
+                "uuid": "331461",
+                "label": "antibrowning agents",
+                "definition": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "uuid": "125060",
+        "label": "food law",
+        "definition": "Laws and legislation that govern the quality, processing, packaging, labeling and safety of food, feeds and food products.",
+        "children": [
+          {
+            "uuid": "223607",
+            "label": "Food Quality Protection Act",
+            "definition": "The Food Quality Protection Act was enacted on Aug. 3, 1996 to ensure the safety of food in the United States.",
+            "children": []
+          },
+          {
+            "uuid": "222407",
+            "label": "FDA Food Safety Modernization Act",
+            "definition": "FSMA was signed into law by President Obama on January 4, 2011. It aims to ensure the U.S. food supply is safe by shifting the focus from responding to contamination to preventing it.",
+            "children": []
+          },
+          {
+            "uuid": "331936",
+            "label": "US Food Allergen Labeling and Consumer Protection Act",
+            "definition": "FALCPA is an amendment to the Federal Food, Drug, and Cosmetic Act and requires that the label of a food that contains an ingredient that is or contains protein from a \"major food allergen\" declare the presence of the allergen in the manner described by the law.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

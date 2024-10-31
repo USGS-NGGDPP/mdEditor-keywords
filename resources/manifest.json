@@ -168,6 +168,342 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gcmd-fb0b9fcd-5c96-4989-8c64-a479bbed83ab.json"
   },
   {
+    "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-antarctica-dev.json"
+  },
+  {
+    "name": "GNIS Antarctica Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-antarctica.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alabama - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-alabama.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alaska - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-alaska.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Alberta - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-alberta.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - American Samoa - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-american-samoa.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Arizona - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-arizona.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Arkansas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-arkansas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Baja California Norte - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-baja-california-norte.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - British Columbia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-british-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - California - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-california-dev.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - California - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-california.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Colorado - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-colorado.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Commonwealth of the Northern Mariana Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-commonwealth-of-the-northern-mariana-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Connecticut - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-connecticut.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Delaware - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-delaware.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - District of Columbia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-district-of-columbia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Florida - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-florida.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Georgia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-georgia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Guam - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-guam.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Hawaii - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-hawaii.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Idaho - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-idaho.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Illinois - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-illinois.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Indiana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-indiana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Iowa - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-iowa.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Kansas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-kansas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Kentucky - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-kentucky.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Louisiana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-louisiana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Maine - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-maine.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Manitoba - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-manitoba.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Maryland - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-maryland.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Massachusetts - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-massachusetts.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Michigan - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-michigan.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Minnesota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-minnesota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Mississippi - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-mississippi.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Missouri - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-missouri.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Montana - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-montana.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nebraska - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-nebraska.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nevada - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-nevada.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Brunswick - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-new-brunswick.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Hampshire - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-new-hampshire.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Jersey - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-new-jersey.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New Mexico - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-new-mexico.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - New York - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-new-york.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - North Carolina - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-north-carolina.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - North Dakota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-north-dakota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Nunavut - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-nunavut.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Ohio - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-ohio.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Oklahoma - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-oklahoma.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Ontario - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-ontario.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Oregon - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-oregon.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Pennsylvania - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-pennsylvania.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Puerto Rico - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-puerto-rico.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Quebec - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-quebec.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Rhode Island - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-rhode-island.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Saskatchewan - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-saskatchewan.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Sonora - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-sonora.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - South Carolina - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-south-carolina.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - South Dakota - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-south-dakota.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Tennessee - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-tennessee.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Texas - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-texas.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - U.S. Minor Outlying Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-u-s--minor-outlying-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - United States Virgin Islands - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-united-states-virgin-islands.json"
+  },
+  {
+    "name": "GNIS - Domestic Names -  - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-unknown.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Utah - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-utah.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Vermont - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-vermont.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Virginia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-virginia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Washington - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-washington.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - West Virginia - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-west-virginia.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Wisconsin - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-wisconsin.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Wyoming - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-wyoming.json"
+  },
+  {
+    "name": "GNIS - Domestic Names - Yukon - Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/gnis-domestic-yukon.json"
+  },
+  {
+    "name": "Taxonomic Hierarchy",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127293.json"
+  },
+  {
+    "name": "Fields of Study",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127294.json"
+  },
+  {
+    "name": "Animals, Livestock, One Health",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127295.json"
+  },
+  {
+    "name": "Economics, Trade, Law, Business, Industry",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127297.json"
+  },
+  {
+    "name": "Farms, Agricultural Production Systems",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127298.json"
+  },
+  {
+    "name": "Human Nutrition, Food Safety and Quality",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127299.json"
+  },
+  {
+    "name": "Forestry, Wildland Management",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127300.json"
+  },
+  {
+    "name": "Geographical Locations",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127301.json"
+  },
+  {
+    "name": "Natural Resources, Conservation, Environment",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127305.json"
+  },
+  {
+    "name": "Plant Production, Gardening",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127307.json"
+  },
+  {
+    "name": "Research, Technology, Methods",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127308.json"
+  },
+  {
+    "name": "Rural Development, Communities, Education, Extension",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/nalt-127309.json"
+  },
+  {
     "name": "userGroup",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/sb-4f4e475ee4b07f02db47df0b.json"
   },
@@ -240,11 +576,31 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/sb-611d3f2dbfff3461918aba4d.json"
   },
   {
-    "name": "Lithography",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-4-lithclass.json"
+    "name": "Common geographic areas",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-1-geo.json"
+  },
+  {
+    "name": "ISO 19115 Topic Category",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-15-iso19115.json"
   },
   {
     "name": "USGS Thesaurus",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-thesaurus.json"
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-2-topic.json"
+  },
+  {
+    "name": "Data Categories for Marine Planning",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-23-dcmp.json"
+  },
+  {
+    "name": "Thesaurus categories",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-25-thcat.json"
+  },
+  {
+    "name": "Alexandria Digital Library Feature Type Thesaurus",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-3-feature.json"
+  },
+  {
+    "name": "Lithologic classification of geologic map units",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/thesaurus/usgs-4-lithclass.json"
   }
 ]
