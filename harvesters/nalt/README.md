@@ -1,51 +1,61 @@
-# NALT
+# NALT Harvester
 
-## Overview
+## Purpose
 
-The NALT Harvester processes NALT RDF/XML data to generate structured JSON keyword and thesaurus configuration files. It parses the XML data, builds hierarchical relationships, and saves the output for use in the mdEditor.
+The NALT Harvester processes RDF/XML data from the NALT (National Agricultural Library Thesaurus) dataset to generate structured JSON files for keywords and thesaurus configuration. These files are designed for integration with mdEditor, supporting metadata workflows by providing hierarchical keyword structures.
 
-## Configuration
+This harvester ensures the NALT data is transformed into a format suitable for use in the USGS NGGDPP project and other metadata management workflows.
+
+## Input and Output
 
 ### Input File
 
-- Path: harvesters/nalt/data/nalt-full.rdf
-- Description: The RDF/XML file containing NALT metadata to be harvested.
+- **Path:** harvesters/nalt/data/nalt-full.rdf
+- **Description:** The RDF/XML file containing NALT metadata to be harvested.
 
 ### Output Directory
 
-- Path: `resources/`
-- Description: Directory where the generated JSON files will be saved.
+- **Path:** `resources/`
+- **Description:** Directory where the generated JSON files will be saved.
   - `resources/keywords/`: Contains JSON files for each keyword hierarchy.
   - `resources/thesaurus/`: Contains thesaurus configuration JSON files.
 
-### Dependencies
+## How It Works
 
-- **Node.js:** Ensure you have Node.js installed.
-- **Packages:**
-  - `dayjs`
-  - `fs/promises`
-  - `xml2js`
+The harvester performs the following steps:
 
-### Data Source
+1. Reads the Input File:
+   - The harvester loads the RDF/XML file from harvesters/nalt/data/nalt-full.rdf.
+2. Parses the XML Data:
+   - Extracts entries and relationships from the RDF data.
+3. Builds Hierarchies:
+   - Creates a hierarchical structure of keywords based on narrower relationships in the metadata.
+4. Generates JSON Files:
+   - Outputs structured JSON files to the resources/keywords/ and resources/thesaurus/ directories.
 
-The harvester reads data from the `nalt-full.rdf` file located in the `harvesters/nalt/data/` directory. This file should contain the RDF/XML formatted metadata to be processed.
+### Running the NALT Harvester
 
-### Metadata Structure
+To run the NALT harvester, execute the following command **from the root directory**:
+`yarn nalt`
 
-- **Format**: RDF/XML
-- **Structure**: The harvester parses RDF descriptions, extracts primary and definition entries, and builds hierarchical nodes based on narrower relationships.
+**Important Notes**
+• Run from Root Directory: The harvester must be executed from the root directory of the repository to ensure proper resolution of paths and dependencies.
+• Dependencies: Ensure all dependencies are installed by running yarn install in the root directory.
 
-### Output
+### Debugging and Common Errors
 
-- **Keywords Files:** JSON files representing keyword hierarchies saved in `resources/keywords/`.
-- **Thesaurus Configuration Files:** JSON configuration files for thesaurus metadata saved in `resources/thesaurus`.
+1. File Not Found:
+   - Ensure `nalt-full.rdf` exists at `harvesters/nalt/data/`.
+   - Verify the input file path in `nalt.js`.
+2. Malformed RDF/XML:
+   - Check the source file for syntax errors or incomplete data.
+3. Output Directory Issues:
+   - Ensure the `resources/` directory exists and has write permissions.
 
-## Usage
+### Validation and Testing
 
-Run the NALT Harvester using the following command:
+The NALT harvester generates files, schema validation is handled separately. Refer to the README in the root directory for details on how to validate the generated files using jest.
 
-```
-node harvesters/index.js nalt
-```
+## Learn More
 
-This command executes the NALT harvester, which reads the input RDF file, processes the data, and saves the output JSON files to the specified directories.
+Refer to the REAME in the root of this repository for more information about how these harvesters work.
