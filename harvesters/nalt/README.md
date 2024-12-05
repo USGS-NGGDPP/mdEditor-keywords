@@ -39,8 +39,9 @@ To run the NALT harvester, execute the following command **from the root directo
 `yarn nalt`
 
 **Important Notes**
-• Run from Root Directory: The harvester must be executed from the root directory of the repository to ensure proper resolution of paths and dependencies.
-• Dependencies: Ensure all dependencies are installed by running yarn install in the root directory.
+
+- Run from Root Directory: The harvester must be executed from the root directory of the repository to ensure proper resolution of paths and dependencies.
+- Dependencies: Ensure all dependencies are installed by running yarn install in the root directory.
 
 ### Debugging and Common Errors
 
@@ -58,4 +59,4 @@ The NALT harvester generates files, schema validation is handled separately. Ref
 
 ## Learn More
 
-Refer to the REAME in the root of this repository for more information about how these harvesters work.
+Refer to the README in the root of this repository for more information about how these harvesters work.
