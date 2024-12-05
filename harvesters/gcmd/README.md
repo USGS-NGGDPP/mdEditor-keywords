@@ -1,10 +1,12 @@
-# GCMD (Global Change Master Directory)
+# GCMD Harvester
 
-## Overview
+## Purpose
 
-The GCMD harvester gathers keywords from various vocabularies related to Earth science data, climate research, and environmental monitoring. These vocabularies help standardize the terminology used in metadata to ensure consistency across datasets.
+The **GCMD Harvester** gathers keywords and thesauri from the Global Change Master Directory (GCMD). These resources provide standardized terminology for Earth science data, climate research, and environmental monitoring. The harvester generates hierarchical JSON files that can be integrated into **mdEditor**, supporting metadata workflows in the **USGS NGGDPP** project.
 
-The vocabularies harvested from GCMD include:
+## Vocabularies Processed
+
+The GCMD Harvester generates thesauri and keyword files for the following categories:
 
 - Chronostratigraphic Units
 - Platforms
@@ -48,81 +50,42 @@ The vocabularies harvested from GCMD include:
 - Projection Datum Names
 - Science Keywords
 
-These vocabularies are essential for maintaining structured and consistent metadata within Earth science datasets.
+## Input and Output
 
-## Configuration
+### Input File
 
-The GCMD harvester retrieves keywords and thesauri from the Global Change Master Directory (GCMD) for various vocabularies. These vocabularies cover a wide range of topics such as climate-related datasets, global environmental data, and scientific terms used in Earth and environmental science research.
+- **Path:** `harvesters/gcmd/vocabularies.json`
+- **Description:** JSON file containing a list of GCMD vocabulary IDs and names to process.
 
-### Vocabularies
+### Output Directory
 
-The vocabularies harvested from GCMD are stored in the `vocabularies.json` file, which contains a list of unique IDs and names for each vocabulary. These vocabularies are retrieved via the GCMD API and processed to generate two types of files:
+- **Path:** `resources/`
+- **Description:** Directory where the generated JSON files are saved.
+  - `resources/keywords/`: Contains JSON files for each keyword hierarchy.
+  - `resources/thesaurus/`: Contains thesaurus configuration JSON files.
 
-1. **Keyword Files** – Saved in `resources/keywords/` as JSON files.
-2. **Thesaurus Files** – Saved in `resources/thesaurus/` as JSON files.
+## How It Works
 
-Some of the vocabularies included are:
+1. **Load Vocabulary Data**:
+   - Reads vocabulary data from `harvesters/gcmd/vocabularies.json`.
+2. **Fetch Metadata**:
+   - Retrieves concept and keyword data for each vocabulary using the GCMD API.
+3. **Build Hierarchies**:
+   - Constructs hierarchical keyword structures based on broader and narrower relationships.
+4. **Generate JSON Files**:
+   - Outputs JSON files to `resources/keywords/` and `resources/thesaurus/`.
 
-- Chronostratigraphic Units
-- Platforms
-- Disciplines
-- ISO Topic Categories
-- Instruments
-- Science Keywords
-- Spatial Coverage Type
-- Data Format
+## Running the GCMD Harvester
 
-### Fetching Data
+To run the harvester, execute the following command from the root directory:
 
-The GCMD harvester uses a combination of functions to:
+`yarn gcmd`
 
-1. **Fetch Concept Data** – Retrieves detailed concept information for each vocabulary, including hierarchical structures.
-2. **Fetch Keyword Data** – Retrieves keyword-specific information for each vocabulary.
+**Important Notes:**
 
-#### Metadata Structure
+- Ensure all dependencies are installed by running `yarn install` before execution.
+- The command must be run from the repository’s root directory.
 
-The harvester builds a hierarchical structure for each vocabulary, with parent-child relationships preserved. Each vocabulary is associated with metadata such as:
+## Validation and Testing
 
-- UUID
-- PrefLabel (name)
-- Definition
-- Broader and narrower concepts (for hierarchical vocabularies)
-
-#### Output
-
-For each vocabulary, two files are generated:
-
-1. **Thesaurus Configuration File** – A JSON file stored in `resources/thesaurus/`. This file includes metadata such as the title, edition, and links to online resources.
-2. **Keyword JSON File** – A JSON file stored in `resources/keywords/`. This file contains the hierarchical structure of keywords for the specific vocabulary.
-
-These files are automatically generated and saved locally when the GCMD harvester is run.
-
-#### Running the GCMD Harvester
-
-To execute the GCMD harvester and generate both keyword and thesaurus files for each vocabulary, the following process is followed:
-
-- The `vocabularies.json` file provides the list of vocabularies to process.
-- Each vocabulary is fetched from the GCMD API and processed in sequence.
-- The `gcmd.js` file handles the main logic for fetching, processing, and writing the output files.
-
----
-
-This configuration overview will likely need to be adjusted once we define the overall configuration structure, but it lays the foundation for the specifics of the GCMD harvester.
-
-Let me know if you’d like to proceed with the overall configuration section next, or if any adjustments are needed here!
-
-### Data Source
-
-[Source of the data (API, download, etc.).]
-
-### Metadata Structure
-
-[Metadata format and structure.]
-
-### Output
-
-[Types and locations of output files.]
-
-## Usage
-
-[Commands or scripts to run the harvester.]
+The GCMD harvester generates files that are validated against schemas. Refer to the root README for detailed instructions on validation.
