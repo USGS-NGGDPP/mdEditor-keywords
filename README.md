@@ -1,8 +1,8 @@
-# mdEditor-keywords
+# USGS-NGGDPP mdEditor-keywords
 
 ## Table of Contents
 
-- [mdEditor-keywords](#mdeditor-keywords)
+- [USGS-NGGDPP mdEditor-keywords](#usgs-nggdpp-mdeditor-keywords)
   - [Overview](#overview)
     - [Purpose](#purpose)
     - [Key Audience](#key-audience)
@@ -36,7 +36,7 @@
 
 ## Overview
 
-This repository provides a structured approach for managing custom vocabularies and thesauri, designed to be integrated with [mdEditor](https://github.com/adiwg/mdEditor), which is part of the broader [adiwg/mdToolkit](https://github.com/adiwg). The primary goal of this repository is to support the **USGS NGGDPP** project by offering a comprehensive collection of standardized thesauri and vocabularies. It also serves as a reference for others who wish to create or manage their own custom thesauri for use within mdEditor.
+This repository provides a collection of harvesters designed to automate the process of gathering keyword data from various authoritative sources. These keyword files are integral to the mdEditor tool, which facilitates metadata management for researchers and institutions by standardizing keyword vocabularies across different datasets.
 
 ### Purpose
 
@@ -231,7 +231,44 @@ To set up and use this repository, follow these steps:
 
 ## Usage
 
-Once the repository is installed and built, there are several key use cases for interacting with thesauri and vocabulary files, as well as validating them against schemas. Below are the main usage scenarios:
+You can run specific harvesters or all harvesters from the command line using Yarn.
+
+### Running a specific harvester:
+
+Each harvester has a specific Yarn command associated with it:
+
+- GCMD: **yarn gcmd**
+- GNIS: **yarn gnis**
+- NALT: **yarn nalt**
+- ScienceBase: **yarn sciencebase**
+- USGS: **yarn usgs**
+
+These commands will:
+
+1. Build the necessary assets.
+2. Execute the harvester.
+3. Generate the output files in `resources/keywords/` and `resources/thesaurus/`.
+4. Update the manifest file to reflect the changes.
+
+### Running all harvesters:
+
+To run all harvesters in sequence, you can use the following approach:
+
+- Build all assets.
+- Run each harvester sequentially.
+- Update the manifest after each harvester completes.
+
+### Cleaning the Build:
+
+If you need to clean up your build, you can run the associated clean command.
+
+```
+yarn clean
+```
+
+### Testing:
+
+There are also basic tests included that can be run as part of the build process.
 
 ### Integrating Thesauri and Vocabularies in mdEditor
 
@@ -244,10 +281,6 @@ Once the repository is installed and built, there are several key use cases for 
 
   3. **Custom Profiles**  
      If you're creating custom profiles, ensure that they reference the correct thesauri configuration files in the `resources/thesaurus/` directory and the related vocabulary files in `resources/keywords/`.
-
-### Running Harvesters
-
-- To generate and update thesauri and vocabulary files, you’ll need to run the appropriate harvesters. This process is handled separately from the main usage workflow. Please refer to the instructions in the [`harvesters/README.md`](harvesters/README.md) file for detailed steps on running individual harvesters for data sources such as GCMD, GNIS, NALT, and others.
 
 ### Validating Files Against Schemas
 
