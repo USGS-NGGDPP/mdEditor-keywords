@@ -375,11 +375,3 @@ By meeting these minimum requirements and following the recommended practices, y
 ## Contributing
 
 Contributions are welcome. Please fork the repository, submit pull requests, and ensure code follows formatting rules specified in `.eslintrc` and `.prettierrc`.
-
-## License
-
-> Placeholder for license information
-
-## Future Enhancements
-
-Direct support for loading custom thesauri in mdEditor is under consideration for future releases.
