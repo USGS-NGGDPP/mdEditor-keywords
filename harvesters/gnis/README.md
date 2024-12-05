@@ -1,82 +1,79 @@
-# GNIS
+# GNIS Harvester
 
-## Overview
+## Purpose
 
-[Brief overview of the harvester.]
+The **GNIS Harvester** processes geographic names and feature data from the Geographic Names Information System (GNIS). This includes natural and cultural geographic features, administrative boundaries, and other relevant spatial data. The harvester generates hierarchical JSON files that can be integrated into **mdEditor**, supporting metadata workflows in the **USGS NGGDPP** project.
 
-## Configuration
+## Vocabularies Processed
 
-The GCMD harvester retrieves keywords and thesauri from the Global Change Master Directory (GCMD) for various vocabularies. These vocabularies cover a wide range of topics such as climate-related datasets, global environmental data, and scientific terms used in Earth and environmental science research.
+The GNIS Harvester generates thesauri and keyword files for the following regions:
 
-#### Vocabularies
+- 50 U.S. states
+- U.S. territories and regions:
+  - American Samoa
+  - Guam
+  - Puerto Rico
+  - U.S. Minor Outlying Islands
+  - U.S. Virgin Islands
+  - Commonwealth of the Northern Mariana Islands
+- Antarctica
+- Canadian provinces and territories:
+  - Alberta
+  - British Columbia
+  - Manitoba
+  - New Brunswick
+  - Newfoundland and Labrador
+  - Nova Scotia
+  - Nunavut
+  - Ontario
+  - Prince Edward Island
+  - Quebec
+  - Saskatchewan
+  - Yukon
+- Baja California Norte
 
-The vocabularies harvested from GCMD are stored in the `vocabularies.json` file, which contains a list of unique IDs and names for each vocabulary. These vocabularies are retrieved via the GCMD API and processed to generate two types of files:
+These vocabularies are treated as individual thesauri, allowing precise metadata management for each region.
 
-1. **Keyword Files** – Saved in `resources/keywords/` as JSON files.
-2. **Thesaurus Files** – Saved in `resources/thesaurus/` as JSON files.
+## Input and Output
 
-Some of the vocabularies included are:
+### Input Files
 
-- Chronostratigraphic Units
-- Platforms
-- Disciplines
-- ISO Topic Categories
-- Instruments
-- Science Keywords
-- Spatial Coverage Type
-- Data Format
+- **Antarctica**:
 
-#### Fetching Data
+  - `AntarcticaNamesAntarctica.txt`: Contains names of geographic features in Antarctica.
+  - `Gazetteer_Antarctica_Text.xml`: Citation metadata for Antarctica names.
 
-The GCMD harvester uses a combination of functions to:
+- **Domestic Names**:
+  - `DomesticNames_National.txt`: Contains names of domestic geographic features.
+  - `DomesticNames_National_Text.xml`: Citation metadata for domestic names.
 
-1. **Fetch Concept Data** – Retrieves detailed concept information for each vocabulary, including hierarchical structures.
-2. **Fetch Keyword Data** – Retrieves keyword-specific information for each vocabulary.
+### Output Directory
 
-#### Metadata Structure
+- **Path:** `resources/`
+- **Description:** Directory where the generated JSON files are saved.
+  - `resources/keywords/`: Contains JSON files for each keyword hierarchy.
+  - `resources/thesaurus/`: Contains thesaurus configuration JSON files.
 
-The harvester builds a hierarchical structure for each vocabulary, with parent-child relationships preserved. Each vocabulary is associated with metadata such as:
+## How It Works
 
-- UUID
-- PrefLabel (name)
-- Definition
-- Broader and narrower concepts (for hierarchical vocabularies)
+1. **Load Input Files**:
+   - Reads geographic name data from `AntarcticaNamesAntarctica.txt` and `DomesticNames_National.txt`.
+2. **Process Metadata**:
+   - Constructs hierarchical keyword structures based on geographic feature classifications (e.g., feature class, state).
+3. **Generate JSON Files**:
+   - Outputs keyword and thesaurus JSON files to `resources/keywords/` and `resources/thesaurus/`.
 
-#### Output
+## Running the GNIS Harvester
 
-For each vocabulary, two files are generated:
+To run the harvester, execute the following command from the root directory:
 
-1. **Thesaurus Configuration File** – A JSON file stored in `resources/thesaurus/`. This file includes metadata such as the title, edition, and links to online resources.
-2. **Keyword JSON File** – A JSON file stored in `resources/keywords/`. This file contains the hierarchical structure of keywords for the specific vocabulary.
+`yarn gnis`
 
-These files are automatically generated and saved locally when the GCMD harvester is run.
+**Important Notes:**
 
-#### Running the GCMD Harvester
+- Ensure all dependencies are installed by running `yarn install` before execution.
+- The command must be run from the repository’s root directory.
 
-To execute the GCMD harvester and generate both keyword and thesaurus files for each vocabulary, the following process is followed:
+## Validation and Testing
 
-- The `vocabularies.json` file provides the list of vocabularies to process.
-- Each vocabulary is fetched from the GCMD API and processed in sequence.
-- The `gcmd.js` file handles the main logic for fetching, processing, and writing the output files.
-
----
-
-This configuration overview will likely need to be adjusted once we define the overall configuration structure, but it lays the foundation for the specifics of the GCMD harvester.
-
-Let me know if you’d like to proceed with the overall configuration section next, or if any adjustments are needed here!
-
-### Data Source
-
-[Source of the data (API, download, etc.).]
-
-### Metadata Structure
-
-[Metadata format and structure.]
-
-### Output
-
-[Types and locations of output files.]
-
-## Usage
-
-[Commands or scripts to run the harvester.]
+The GNIS harvester generates files that are validated against schemas. Refer to the root README for detailed instructions on validation.
