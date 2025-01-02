@@ -576,6 +576,10 @@
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-611d3f2dbfff3461918aba4d.json"
   },
   {
+    "name": "GBIF - Global Biodiversity Information Facility",
+    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/sb-665dda66b45f3e708095caa0.json"
+  },
+  {
     "name": "Common geographic areas",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/usgs-1-geo.json"
   },

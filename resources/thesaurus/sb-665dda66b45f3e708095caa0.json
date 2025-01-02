@@ -1,0 +1,25 @@
+{
+  "citation": {
+    "date": [
+      {
+        "date": "2025-01-02T11:51:12-07:00",
+        "dateType": "lastUpdate"
+      }
+    ],
+    "description": "",
+    "title": "GBIF - Global Biodiversity Information Facility",
+    "edition": "",
+    "onlineResource": [
+      {
+        "uri": "https://www.sciencebase.gov/vocab/category/665dda66b45f3e708095caa0"
+      }
+    ],
+    "identifier": [
+      {
+        "identifier": "665dda66b45f3e708095caa0"
+      }
+    ]
+  },
+  "label": "GBIF - Global Biodiversity Information Facility",
+  "keywordsUrl": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@main/resources/keywords/sb-665dda66b45f3e708095caa0.json"
+}
