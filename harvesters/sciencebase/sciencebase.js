@@ -56,7 +56,7 @@ const populateVocabulary = async (list, vocabulary, parentId) => {
           uuid: termItem.id,
           parentId: item.id,
           label: termItem.name,
-          definition: termItem.description
+          definition: termItem.description || ''
         });
       }
     } else {

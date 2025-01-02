@@ -7,342 +7,410 @@
       {
         "uuid": "665f332eb45f3e708095cbe6",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "AnimalBuiltStructures"
+        "label": "AnimalBuiltStructures",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbe5",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "AnimalDerived"
+        "label": "AnimalDerived",
+        "definition": ""
       },
       {
         "uuid": "665f3330b45f3e708095cbf7",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Archaeological"
+        "label": "Archaeological",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbb7",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "AssociatedData"
+        "label": "AssociatedData",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbd5",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Asteroids"
+        "label": "Asteroids",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbe4",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Biofluids"
+        "label": "Biofluids",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbdc",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "BiofluidsHuman"
+        "label": "BiofluidsHuman",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbea",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Biological"
+        "label": "Biological",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbdb",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "BloodHuman"
+        "label": "BloodHuman",
+        "definition": ""
       },
       {
         "uuid": "665f3330b45f3e708095cbf3",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "C14"
+        "label": "C14",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbda",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "CellsHuman"
+        "label": "CellsHuman",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbe3",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "CellsTissue"
+        "label": "CellsTissue",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbf1",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "CeramicArtifacts"
+        "label": "CeramicArtifacts",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbd4",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Comets"
+        "label": "Comets",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc5",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Conodonts"
+        "label": "Conodonts",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbf2",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Coprolites"
+        "label": "Coprolites",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbd3",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "CosmicInterplanetaryDust"
+        "label": "CosmicInterplanetaryDust",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbb8",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "DerivedData"
+        "label": "DerivedData",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbb9",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Documentation"
+        "label": "Documentation",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbba",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Documents"
+        "label": "Documents",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbd6",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "EarthPlanetary"
+        "label": "EarthPlanetary",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbe2",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Endoskeletons"
+        "label": "Endoskeletons",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbe1",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Exoskeletons"
+        "label": "Exoskeletons",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbf0",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "FaunalArtifacts"
+        "label": "FaunalArtifacts",
+        "definition": ""
       },
       {
         "uuid": "665f3330b45f3e708095cbf5",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "FaunalRemains"
+        "label": "FaunalRemains",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbe0",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Feces"
+        "label": "Feces",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbd9",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "FecesHuman"
+        "label": "FecesHuman",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbef",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "FloralArtifacts"
+        "label": "FloralArtifacts",
+        "definition": ""
       },
       {
         "uuid": "665f3330b45f3e708095cbf4",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "FloralRemains"
+        "label": "FloralRemains",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbd2",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Gas"
+        "label": "Gas",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbd1",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Gems"
+        "label": "Gems",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbdd",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "HumanDerived"
+        "label": "HumanDerived",
+        "definition": ""
       },
       {
         "uuid": "665f3330b45f3e708095cbf6",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "HumanRemains"
+        "label": "HumanRemains",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbd0",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Ice"
+        "label": "Ice",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbbb",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Images"
+        "label": "Images",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc4",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "InvertebrateFossils"
+        "label": "InvertebrateFossils",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc3",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "InvertebrateMicrofossils"
+        "label": "InvertebrateMicrofossils",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbee",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "LithicArtifacts"
+        "label": "LithicArtifacts",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbe8",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "LivingCellOrTissueCultures"
+        "label": "LivingCellOrTissueCultures",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbe9",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "LivingOrganisms"
+        "label": "LivingOrganisms",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbcf",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "LunarMaterials"
+        "label": "LunarMaterials",
+        "definition": ""
       },
       {
         "uuid": "665f3327b45f3e708095cbb6",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Maps"
+        "label": "Maps",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbed",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "MetalArtifacts"
+        "label": "MetalArtifacts",
+        "definition": ""
       },
       {
         "uuid": "665f332bb45f3e708095cbce",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "MetalsOres"
+        "label": "MetalsOres",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbcd",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Meteorites"
+        "label": "Meteorites",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbcc",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Minerals"
+        "label": "Minerals",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbdf",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "MolecularDerivates"
+        "label": "MolecularDerivates",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbd8",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "MolecularDerivativesHuman"
+        "label": "MolecularDerivativesHuman",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbc6",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Paleontological"
+        "label": "Paleontological",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc2",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "PetrifiedWood"
+        "label": "PetrifiedWood",
+        "definition": ""
       },
       {
         "uuid": "665f332db45f3e708095cbde",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "PlantDerived"
+        "label": "PlantDerived",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc1",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "PlantFossils"
+        "label": "PlantFossils",
+        "definition": ""
       },
       {
         "uuid": "665f332eb45f3e708095cbe7",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "PreservedOrganisms"
+        "label": "PreservedOrganisms",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbbc",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Radiograph"
+        "label": "Radiograph",
+        "definition": ""
       },
       {
         "uuid": "665f3327b45f3e708095cbb5",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Recordings"
+        "label": "Recordings",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbbe",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Records"
+        "label": "Records",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbcb",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Rocks"
+        "label": "Rocks",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbca",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Sediments"
+        "label": "Sediments",
+        "definition": ""
       },
       {
         "uuid": "665f3328b45f3e708095cbbd",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Seismograms"
+        "label": "Seismograms",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbc9",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Soils"
+        "label": "Soils",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbc8",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "SpaceExposedMaterials"
+        "label": "SpaceExposedMaterials",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbeb",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "TechonologicalProcessesRemains"
+        "label": "TechonologicalProcessesRemains",
+        "definition": ""
       },
       {
         "uuid": "665f3327b45f3e708095cbb4",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "TextilesBasketry"
+        "label": "TextilesBasketry",
+        "definition": ""
       },
       {
         "uuid": "665f332cb45f3e708095cbd7",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "TissueHuman"
+        "label": "TissueHuman",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbc0",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "TraceFossils"
+        "label": "TraceFossils",
+        "definition": ""
       },
       {
         "uuid": "665f3329b45f3e708095cbbf",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "VertebrateFossils"
+        "label": "VertebrateFossils",
+        "definition": ""
       },
       {
         "uuid": "665f332ab45f3e708095cbc7",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "Water"
+        "label": "Water",
+        "definition": ""
       },
       {
         "uuid": "665f332fb45f3e708095cbec",
         "parentId": "665f3327b45f3e708095cbb3",
-        "label": "WoodenArtifacts"
+        "label": "WoodenArtifacts",
+        "definition": ""
       }
     ]
   },
@@ -451,472 +519,566 @@
       {
         "uuid": "665f333ab45f3e708095cc3b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Acoustics"
+        "label": "Acoustics",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc33",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Agricultural"
+        "label": "Agricultural",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc30",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AgriculturalAnimalBreeding"
+        "label": "AgriculturalAnimalBreeding",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc2f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AgriculturalHorticulturalPlantBreeding"
+        "label": "AgriculturalHorticulturalPlantBreeding",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc2e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AgronomyCropScience"
+        "label": "AgronomyCropScience",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc54",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Analytical"
+        "label": "Analytical",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc21",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AnatomyAndPhysiology"
+        "label": "AnatomyAndPhysiology",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc32",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AnimalScience"
+        "label": "AnimalScience",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc31",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AnimalSciencePoultry"
+        "label": "AnimalSciencePoultry",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc62",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Anthropology"
+        "label": "Anthropology",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc61",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AnthropologyBiological"
+        "label": "AnthropologyBiological",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc3a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AppliedPhysics"
+        "label": "AppliedPhysics",
+        "definition": ""
       },
       {
         "uuid": "665f3340b45f3e708095cc66",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Archaeology"
+        "label": "Archaeology",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc53",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Astrochemistry"
+        "label": "Astrochemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc5d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Astronomy"
+        "label": "Astronomy",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc5c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Astrophysics"
+        "label": "Astrophysics",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc59",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Atmospheric"
+        "label": "Atmospheric",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc52",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AtmosphericChemistry"
+        "label": "AtmosphericChemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc39",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "AtomicMolecularChemicalPhysics"
+        "label": "AtomicMolecularChemicalPhysics",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc51",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Biochemistry"
+        "label": "Biochemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc50",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Biogeochemistry"
+        "label": "Biogeochemistry",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc22",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Biological"
+        "label": "Biological",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc12",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "BiomedicalScience"
+        "label": "BiomedicalScience",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc38",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Biophysics"
+        "label": "Biophysics",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc20",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "CellularBiologyAndHistology"
+        "label": "CellularBiologyAndHistology",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc55",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Chemical"
+        "label": "Chemical",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc57",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Climatology"
+        "label": "Climatology",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Cosmochemistry"
+        "label": "Cosmochemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc5b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Cosmology"
+        "label": "Cosmology",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc60",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Cultural"
+        "label": "Cultural",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc1f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "DevelopmentBiologyEmbryology"
+        "label": "DevelopmentBiologyEmbryology",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc1e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Ecology"
+        "label": "Ecology",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc49",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EconomicGeologyMineralResources"
+        "label": "EconomicGeologyMineralResources",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc48",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EnergyResourceGeology"
+        "label": "EnergyResourceGeology",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc11",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EnvironmentalHealth"
+        "label": "EnvironmentalHealth",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc2d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EnvironmentalScience"
+        "label": "EnvironmentalScience",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc1d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EnvironmentalToxicology"
+        "label": "EnvironmentalToxicology",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc10",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EpidemiologyPublicHealth"
+        "label": "EpidemiologyPublicHealth",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc1c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "EvolutionaryBiology"
+        "label": "EvolutionaryBiology",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc2c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "FishingFisheriesScience"
+        "label": "FishingFisheriesScience",
+        "definition": ""
       },
       {
         "uuid": "665f3338b45f3e708095cc2b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "FoodScienceAndTechnology"
+        "label": "FoodScienceAndTechnology",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc2a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "ForestSciencesAndForestry"
+        "label": "ForestSciencesAndForestry",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc1b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "GeneticsGenomics"
+        "label": "GeneticsGenomics",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc47",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Geochemistry"
+        "label": "Geochemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Geological"
+        "label": "Geological",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc46",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Geology"
+        "label": "Geology",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc45",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "GeophysicsSeismology"
+        "label": "GeophysicsSeismology",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc13",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Health"
+        "label": "Health",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc64",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Historic"
+        "label": "Historic",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc29",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "HorticulturalScience"
+        "label": "HorticulturalScience",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc44",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "HydrologyWaterResources"
+        "label": "HydrologyWaterResources",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "InorganicChemistry"
+        "label": "InorganicChemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc5f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Linguistic"
+        "label": "Linguistic",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc3f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MarineBiologyAndBiologicalOceanography"
+        "label": "MarineBiologyAndBiologicalOceanography",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc3e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MarineGeologyAndPaleoceanography"
+        "label": "MarineGeologyAndPaleoceanography",
+        "definition": ""
       },
       {
         "uuid": "665f3333b45f3e708095cc09",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Material"
+        "label": "Material",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc37",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MedicalRadiological"
+        "label": "MedicalRadiological",
+        "definition": ""
       },
       {
         "uuid": "665f333db45f3e708095cc56",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Meteorology"
+        "label": "Meteorology",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc1a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MicrobiologyBacteriologyVirology"
+        "label": "MicrobiologyBacteriologyVirology",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc43",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MineralogyPetrology"
+        "label": "MineralogyPetrology",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc19",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "MolecularBiology"
+        "label": "MolecularBiology",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc28",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "NaturalResources"
+        "label": "NaturalResources",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc18",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "NeurosciencesAndNeurobiology"
+        "label": "NeurosciencesAndNeurobiology",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "NuclearChemistry"
+        "label": "NuclearChemistry",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc36",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "NuclearPhysics"
+        "label": "NuclearPhysics",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc0f",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "NutritionSciences"
+        "label": "NutritionSciences",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc40",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Ocean"
+        "label": "Ocean",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc3d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "OceanographyChemicalPhysical"
+        "label": "OceanographyChemicalPhysical",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc35",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "OpticsPhotonics"
+        "label": "OpticsPhotonics",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "OrganicChemistry"
+        "label": "OrganicChemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc42",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Paleontology"
+        "label": "Paleontology",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc17",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Parasitology"
+        "label": "Parasitology",
+        "definition": ""
       },
       {
         "uuid": "665f3339b45f3e708095cc34",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "ParticlePhysics"
+        "label": "ParticlePhysics",
+        "definition": ""
       },
       {
         "uuid": "665f3335b45f3e708095cc16",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PathologyAnimalPlant"
+        "label": "PathologyAnimalPlant",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc0e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PathologyHuman"
+        "label": "PathologyHuman",
+        "definition": ""
       },
       {
         "uuid": "665f3333b45f3e708095cc0d",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PharmaceuticalMedicinalSciences"
+        "label": "PharmaceuticalMedicinalSciences",
+        "definition": ""
       },
       {
         "uuid": "665f3333b45f3e708095cc0c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PharmacologyHumanAndAnimal"
+        "label": "PharmacologyHumanAndAnimal",
+        "definition": ""
       },
       {
         "uuid": "665f333cb45f3e708095cc4b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PhysicalChemistry"
+        "label": "PhysicalChemistry",
+        "definition": ""
       },
       {
         "uuid": "665f333ab45f3e708095cc3c",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Physics"
+        "label": "Physics",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc58",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PhysicsDynamics"
+        "label": "PhysicsDynamics",
+        "definition": ""
       },
       {
         "uuid": "665f333eb45f3e708095cc5a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PlanetaryScience"
+        "label": "PlanetaryScience",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc27",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "PlantSciences"
+        "label": "PlantSciences",
+        "definition": ""
       },
       {
         "uuid": "665f3340b45f3e708095cc65",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Prehistoric"
+        "label": "Prehistoric",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc26",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "SoilChemistryMicrobiology"
+        "label": "SoilChemistryMicrobiology",
+        "definition": ""
       },
       {
         "uuid": "665f3337b45f3e708095cc25",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "SoilSciences"
+        "label": "SoilSciences",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc5e",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Space"
+        "label": "Space",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc15",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Taxonomy"
+        "label": "Taxonomy",
+        "definition": ""
       },
       {
         "uuid": "665f3333b45f3e708095cc0b",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Toxicology"
+        "label": "Toxicology",
+        "definition": ""
       },
       {
         "uuid": "665f333fb45f3e708095cc63",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Underwater"
+        "label": "Underwater",
+        "definition": ""
       },
       {
         "uuid": "665f3333b45f3e708095cc0a",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "VeterinarySciences"
+        "label": "VeterinarySciences",
+        "definition": ""
       },
       {
         "uuid": "665f333bb45f3e708095cc41",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Volcanology"
+        "label": "Volcanology",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc24",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "WildlifeRangeManagement"
+        "label": "WildlifeRangeManagement",
+        "definition": ""
       },
       {
         "uuid": "665f3336b45f3e708095cc23",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "WoodScienceAndPulpTechnology"
+        "label": "WoodScienceAndPulpTechnology",
+        "definition": ""
       },
       {
         "uuid": "665f3334b45f3e708095cc14",
         "parentId": "665f3333b45f3e708095cc08",
-        "label": "Zoology"
+        "label": "Zoology",
+        "definition": ""
       }
     ]
   },
