@@ -26,19 +26,23 @@ fs.writeFileSync(
   JSON.stringify(manifest, null, 2)
 );
 
-const devUrl =
-  'https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/';
-const devManifest = thesaurusFiles.map(file => {
-  const thesaurus = require(path.join(thesaurusDir, file));
-  return {
-    name: thesaurus.label,
-    url: `${devUrl}${file}`
-  };
-});
-
-fs.writeFileSync(
-  path.join(__dirname, '../resources/devManifest.json'),
-  JSON.stringify(devManifest, null, 2)
-);
+/** SAVE THIS CODE
+ * This code produces the devManifest.json file which is used for testing the thesaurus files in a "dev" branch.
+ * This can be useful for testing the thesaurus files before merging them into the main branch.
+ */
+// const devUrl =
+//   'https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/';
+// const devManifest = thesaurusFiles.map(file => {
+//   const thesaurus = require(path.join(thesaurusDir, file));
+//   return {
+//     name: thesaurus.label,
+//     url: `${devUrl}${file}`
+//   };
+// });
+// 
+// fs.writeFileSync(
+//   path.join(__dirname, '../resources/devManifest.json'),
+//   JSON.stringify(devManifest, null, 2)
+// );
 
 console.log('Manifest generated successfully');

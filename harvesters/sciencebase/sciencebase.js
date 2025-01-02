@@ -56,7 +56,7 @@ const populateVocabulary = async (list, vocabulary, parentId) => {
           uuid: termItem.id,
           parentId: item.id,
           label: termItem.name,
-          definition: termItem.description
+          definition: termItem.description || ''
         });
       }
     } else {
@@ -135,6 +135,7 @@ async function generateThesaurusConfig(vocabulary) {
 
 export default async function main() {
   for (let i = 0; i < vocabularies.length; i++) {
+    await sleep(5000);
     const vocabulary = vocabularies[i];
     console.log('processing vocabulary', vocabulary.id);
     const thesaurusConfig = await generateThesaurusConfig(vocabulary);

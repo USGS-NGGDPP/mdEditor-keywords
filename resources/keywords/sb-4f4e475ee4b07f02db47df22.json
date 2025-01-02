@@ -406,13 +406,6 @@
     "children": []
   },
   {
-    "uuid": "4f4e475ee4b07f02db47df5d",
-    "parentId": "4f4e475ee4b07f02db47df22",
-    "label": "Rock cores, thin and polished sections, hand samples, paper reports.",
-    "definition": "",
-    "children": []
-  },
-  {
     "uuid": "4f4e475ee4b07f02db47df5e",
     "parentId": "4f4e475ee4b07f02db47df22",
     "label": "Rock cuttings",

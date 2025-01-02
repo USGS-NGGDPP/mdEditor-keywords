@@ -1,0 +1,1651 @@
+[
+  {
+    "uuid": "665f3327b45f3e708095cbb3",
+    "label": "Collection Content Type",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "665f332eb45f3e708095cbe6",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "AnimalBuiltStructures",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbe5",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "AnimalDerived",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3330b45f3e708095cbf7",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Archaeological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbb7",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "AssociatedData",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbd5",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Asteroids",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbe4",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Biofluids",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbdc",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "BiofluidsHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbea",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Biological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbdb",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "BloodHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3330b45f3e708095cbf3",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "C14",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbda",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "CellsHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbe3",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "CellsTissue",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbf1",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "CeramicArtifacts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbd4",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Comets",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc5",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Conodonts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbf2",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Coprolites",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbd3",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "CosmicInterplanetaryDust",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbb8",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "DerivedData",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbb9",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Documentation",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbba",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Documents",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbd6",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "EarthPlanetary",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbe2",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Endoskeletons",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbe1",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Exoskeletons",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbf0",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "FaunalArtifacts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3330b45f3e708095cbf5",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "FaunalRemains",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbe0",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Feces",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbd9",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "FecesHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbef",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "FloralArtifacts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3330b45f3e708095cbf4",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "FloralRemains",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbd2",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Gas",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbd1",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Gems",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbdd",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "HumanDerived",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3330b45f3e708095cbf6",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "HumanRemains",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbd0",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Ice",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbbb",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Images",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc4",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "InvertebrateFossils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc3",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "InvertebrateMicrofossils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbee",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "LithicArtifacts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbe8",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "LivingCellOrTissueCultures",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbe9",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "LivingOrganisms",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbcf",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "LunarMaterials",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3327b45f3e708095cbb6",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Maps",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbed",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "MetalArtifacts",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332bb45f3e708095cbce",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "MetalsOres",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbcd",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Meteorites",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbcc",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Minerals",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbdf",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "MolecularDerivates",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbd8",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "MolecularDerivativesHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbc6",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Paleontological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc2",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "PetrifiedWood",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332db45f3e708095cbde",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "PlantDerived",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc1",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "PlantFossils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332eb45f3e708095cbe7",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "PreservedOrganisms",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbbc",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Radiograph",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3327b45f3e708095cbb5",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Recordings",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbbe",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Records",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbcb",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Rocks",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbca",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Sediments",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3328b45f3e708095cbbd",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Seismograms",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbc9",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Soils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbc8",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "SpaceExposedMaterials",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbeb",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "TechonologicalProcessesRemains",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3327b45f3e708095cbb4",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "TextilesBasketry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332cb45f3e708095cbd7",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "TissueHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbc0",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "TraceFossils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3329b45f3e708095cbbf",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "VertebrateFossils",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332ab45f3e708095cbc7",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "Water",
+        "definition": ""
+      },
+      {
+        "uuid": "665f332fb45f3e708095cbec",
+        "parentId": "665f3327b45f3e708095cbb3",
+        "label": "WoodenArtifacts",
+        "definition": ""
+      }
+    ]
+  },
+  {
+    "uuid": "665f3330b45f3e708095cbf8",
+    "label": "Degree Of Establishment",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "665f3331b45f3e708095cbfe",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "captive",
+        "definition": "Individuals in captivity or quarantine (i.e. individuals provided with conditions suitable for them, but explicit measures of containment are in place)"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc02",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "casual",
+        "definition": "Individuals surviving outside of captivity or cultivation in a location, no reproduction"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc06",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "colonising",
+        "definition": "Self-sustaining population outside of captivity or cultivation, with individuals surviving a significant distance from the original point of introduction"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cbff",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "cultivated",
+        "definition": "Individuals in cultivation (i.e. individuals provided with conditions suitable for them, but explicit measures to prevent dispersal are limited at best)"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc04",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "established",
+        "definition": "Individuals surviving outside of captivity or cultivation in a location, reproduction occurring, and population self-sustaining"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc01",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "failing",
+        "definition": "Individuals released outside of captivity or cultivation in a location, but incapable of surviving for a significant period"
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc07",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "invasive",
+        "definition": "Self-sustaining population outside of captivity or cultivation, with individuals surviving and reproducing a significant distance from the original point of introduction"
+      },
+      {
+        "uuid": "665f3331b45f3e708095cbf9",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "managed",
+        "definition": "Under direct control and maintenance of humans"
+      },
+      {
+        "uuid": "665f3331b45f3e708095cbfd",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "native",
+        "definition": "Not transported beyond limits of native range"
+      },
+      {
+        "uuid": "665f3331b45f3e708095cbfb",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "naturalized",
+        "definition": "Able to persist at the point of introduction either sexually or asexually, but not spreading"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc00",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "released",
+        "definition": "Individuals directly released into novel environment"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc03",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "reproducing",
+        "definition": "Individuals surviving outside of captivity or cultivation in a location, reproduction is occurring, but population not self-sustaining"
+      },
+      {
+        "uuid": "665f3331b45f3e708095cbfc",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "spreading",
+        "definition": "Dispersing from the point of introduction into new areas"
+      },
+      {
+        "uuid": "665f3331b45f3e708095cbfa",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "unestablished",
+        "definition": "Occurring impermanently or transitorily"
+      },
+      {
+        "uuid": "665f3332b45f3e708095cc05",
+        "parentId": "665f3330b45f3e708095cbf8",
+        "label": "widespreadInvasive",
+        "definition": "Fully invasive species, with individuals dispersing, surviving and reproducing at multiple sites across a greater or lesser spectrum of habitats and extent of occurrence"
+      }
+    ]
+  },
+  {
+    "uuid": "665f3333b45f3e708095cc08",
+    "label": "Discipline",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "665f333ab45f3e708095cc3b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Acoustics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc33",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Agricultural",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc30",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AgriculturalAnimalBreeding",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc2f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AgriculturalHorticulturalPlantBreeding",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc2e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AgronomyCropScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc54",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Analytical",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc21",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AnatomyAndPhysiology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc32",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AnimalScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc31",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AnimalSciencePoultry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc62",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Anthropology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc61",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AnthropologyBiological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc3a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AppliedPhysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3340b45f3e708095cc66",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Archaeology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc53",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Astrochemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc5d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Astronomy",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc5c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Astrophysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc59",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Atmospheric",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc52",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AtmosphericChemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc39",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "AtomicMolecularChemicalPhysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc51",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Biochemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc50",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Biogeochemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc22",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Biological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc12",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "BiomedicalScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc38",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Biophysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc20",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "CellularBiologyAndHistology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc55",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Chemical",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc57",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Climatology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Cosmochemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc5b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Cosmology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc60",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Cultural",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc1f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "DevelopmentBiologyEmbryology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc1e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Ecology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc49",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EconomicGeologyMineralResources",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc48",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EnergyResourceGeology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc11",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EnvironmentalHealth",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc2d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EnvironmentalScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc1d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EnvironmentalToxicology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc10",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EpidemiologyPublicHealth",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc1c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "EvolutionaryBiology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc2c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "FishingFisheriesScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3338b45f3e708095cc2b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "FoodScienceAndTechnology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc2a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "ForestSciencesAndForestry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc1b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "GeneticsGenomics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc47",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Geochemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Geological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc46",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Geology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc45",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "GeophysicsSeismology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc13",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Health",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc64",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Historic",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc29",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "HorticulturalScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc44",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "HydrologyWaterResources",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "InorganicChemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc5f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Linguistic",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc3f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MarineBiologyAndBiologicalOceanography",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc3e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MarineGeologyAndPaleoceanography",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc09",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Material",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc37",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MedicalRadiological",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333db45f3e708095cc56",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Meteorology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc1a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MicrobiologyBacteriologyVirology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc43",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MineralogyPetrology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc19",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "MolecularBiology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc28",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "NaturalResources",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc18",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "NeurosciencesAndNeurobiology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "NuclearChemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc36",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "NuclearPhysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc0f",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "NutritionSciences",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc40",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Ocean",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc3d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "OceanographyChemicalPhysical",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc35",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "OpticsPhotonics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "OrganicChemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc42",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Paleontology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc17",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Parasitology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3339b45f3e708095cc34",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "ParticlePhysics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3335b45f3e708095cc16",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PathologyAnimalPlant",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc0e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PathologyHuman",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc0d",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PharmaceuticalMedicinalSciences",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc0c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PharmacologyHumanAndAnimal",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333cb45f3e708095cc4b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PhysicalChemistry",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333ab45f3e708095cc3c",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Physics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc58",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PhysicsDynamics",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333eb45f3e708095cc5a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PlanetaryScience",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc27",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "PlantSciences",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3340b45f3e708095cc65",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Prehistoric",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc26",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "SoilChemistryMicrobiology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3337b45f3e708095cc25",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "SoilSciences",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc5e",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Space",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc15",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Taxonomy",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc0b",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Toxicology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333fb45f3e708095cc63",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Underwater",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3333b45f3e708095cc0a",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "VeterinarySciences",
+        "definition": ""
+      },
+      {
+        "uuid": "665f333bb45f3e708095cc41",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Volcanology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc24",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "WildlifeRangeManagement",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3336b45f3e708095cc23",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "WoodScienceAndPulpTechnology",
+        "definition": ""
+      },
+      {
+        "uuid": "665f3334b45f3e708095cc14",
+        "parentId": "665f3333b45f3e708095cc08",
+        "label": "Zoology",
+        "definition": ""
+      }
+    ]
+  },
+  {
+    "uuid": "665f3340b45f3e708095cc67",
+    "label": "Life Stage",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "665f3340b45f3e708095cc68",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Adult",
+        "definition": "An adult is an organism that has reached sexual maturity"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc86",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Calyptopsis",
+        "definition": "Calyptopsis In Euphausiacea, one of the larval stage is called calyptopsis. It is similar to zoea larva in all respects except that the paired eyes are sessile i.e. not stalked"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc80",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Caterpillar",
+        "definition": "Caterpillars are the larval stage of members of the order Lepidoptera (the insect order comprising butterflies and moths)"
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc8e",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Chick",
+        "definition": "A chick is a bird that has not yet reached adulthood"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc82",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Cyprid",
+        "definition": "The cyprid larva is the last larval stage before adulthood"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7d",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Cyst",
+        "definition": "A cyst is a closed sac, having a distinct envelop and division compared with the nearby tissue"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc88",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Deutonymph",
+        "definition": "A second larval form occurring in the development of most mites"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc89",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Eft",
+        "definition": "The juvenile stage of a newt"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7c",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Egg",
+        "definition": "The egg is the organic vessel containing the zygote in which an embryo develops until it can survive on its own, at which point the animal hatches"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7b",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Embryo",
+        "definition": "An embryo refers to the early developmental stage of eukaryotic organisms following the fertilization of an egg (derived from a female) by sperm (derived from a male) as a method of sexual reproduction"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7a",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Fetus",
+        "definition": "A fetus is the unborn offspring of an animal that develops from an embryo"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc6c",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Fledgling",
+        "definition": "A fledgling is a young bird that has recently become capable of flight, but is still dependent upon parental care and feeding."
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc79",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Flowering",
+        "definition": "The flowering stage refers to the phase where plants produce their flower sets, vegetables, and fruits"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc78",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Fruiting",
+        "definition": "The process of a tree or other plant producing fruit"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc85",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Furcilia",
+        "definition": "An intermediate larva of a euphausid in which eye development is nearly adult but biramous swimming appendages are retained"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc8b",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Gametophyte",
+        "definition": "A gametophyte is one of the two alternating phases in the life cycle of plants and algae"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc70",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Hatchling",
+        "definition": "A hatchling is a young bird that has recently come out of its egg"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7e",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Imago",
+        "definition": "The imago is the last stage an insect attains during its metamorphosis, its process of growth and development"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc71",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Immature",
+        "definition": "Not fully developed"
+      },
+      {
+        "uuid": "665f3340b45f3e708095cc69",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Juvenile",
+        "definition": "A juvenile is an individual organism that has not yet reached its adult form, sexual maturity or size"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc6e",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Larva",
+        "definition": "A larva is a distinct juvenile form many animals undergo before metamorphosis into adults"
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc8c",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Mature",
+        "definition": "Fully developed physically"
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc77",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Medusa",
+        "definition": "A medusa is a form of cnidarian in which the body is shaped like an umbrella"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc83",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Megalopa",
+        "definition": "The final larval stage found in decapod crustaceans"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc87",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Metanauplius",
+        "definition": "Metanauplius is an early larval stage of some crustaceans such as krill. It follows the nauplius stage"
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc76",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Nauplius",
+        "definition": "The first larval stage of many crustaceans, having an unsegmented body and a single eye."
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc75",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Neonate",
+        "definition": "A neonate is a newborn mammal"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc6d",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Nestling",
+        "definition": "A nestling is a bird that is too young to leave its nest"
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc74",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Nymph",
+        "definition": "A nymph is the immature form of some invertebrates, particularly insects, which undergoes gradual metamorphosis (hemimetabolism) before reaching its adult stage"
+      },
+      {
+        "uuid": "665f3343b45f3e708095cc7f",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Polyp",
+        "definition": "A solitary or colonial sedentary form of a coelenterate such as a sea anemone, typically having a columnar body with the mouth uppermost surrounded by a ring of tentacles. In some species, polyps are a phase in the life cycle which alternates with a medusoid phase."
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc73",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Pupa",
+        "definition": "A pupa is the life stage of some insects undergoing transformation between immature and mature stages"
+      },
+      {
+        "uuid": "665f3341b45f3e708095cc6f",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Seedling",
+        "definition": "A seedling is a young plant sporophyte developing out of a plant embryo from a seed"
+      },
+      {
+        "uuid": "665f3340b45f3e708095cc6b",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Subadult",
+        "definition": "A subadult is an organism that is not fully adult"
+      },
+      {
+        "uuid": "665f3342b45f3e708095cc72",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Tadpole",
+        "definition": "The tailed aquatic larva of an amphibian (frog, toad, newt, or salamander), breathing through gills and lacking legs until the later stages of its development."
+      },
+      {
+        "uuid": "665f3340b45f3e708095cc6a",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Unknown",
+        "definition": "Unknown life stage"
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc8d",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Vegetative",
+        "definition": "Relating to or denoting reproduction or propagation achieved by asexual means, either naturally (budding, rhizomes, runners, bulbs, etc.) or artificially (grafting, layering, or taking cuttings)"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc81",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Veliger",
+        "definition": "The final larval stage of certain molluscs, having two ciliated flaps for swimming and feeding"
+      },
+      {
+        "uuid": "665f3344b45f3e708095cc84",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Zoea",
+        "definition": "A free-swimming planktonic larval form of many decapod crustaceans and especially crabs that has a relatively large cephalothorax, conspicuous eyes, and fringed antennae and mouthparts"
+      },
+      {
+        "uuid": "665f3345b45f3e708095cc8a",
+        "parentId": "665f3340b45f3e708095cc67",
+        "label": "Zygote",
+        "definition": "A zygote is a eukaryotic cell formed by a fertilization event between two gametes"
+      }
+    ]
+  },
+  {
+    "uuid": "665f3346b45f3e708095cc8f",
+    "label": "Pathway",
+    "definition": "",
+    "children": [
+      {
+        "uuid": "665f334bb45f3e708095ccb0",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "agriculture",
+        "definition": "Plants grown with then intention of harvesting."
+      },
+      {
+        "uuid": "665f334bb45f3e708095ccaf",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "aquacultureMariculture",
+        "definition": "The analog of agriculture and farmed animals, specifically related to aquatic organisms."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc93",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "ballastWater",
+        "definition": "Organisms transported within the water pumped into boats and ships to provide ballast."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb8",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "biologicalControl",
+        "definition": "Organisms occuring in an area because they were introduced for the purpose of biological control of another organism."
+      },
+      {
+        "uuid": "665f334bb45f3e708095ccb3",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "conservationOrWildlifeManagement",
+        "definition": "Organisms introduced for conservation purposes or wildlife management."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc99",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "containerBulk",
+        "definition": "Stowaways transported in or on the cargo containers or bulk cargo units themselves."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca4",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "contaminantNursery",
+        "definition": "Organisms transported into an area together with plant material."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca1",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "contaminantOnAnimals",
+        "definition": "Contaminants carried either on or in the body of transported animals."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9f",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "contaminantOnPlants",
+        "definition": "Organisms transported on plant material."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca3",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "contaminateBait",
+        "definition": "Contaminants, pathogens and parasites transported with live, frozen or preserved bait used to catch fish or other organisms."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccbd",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "corridor",
+        "definition": "Infrastructure, such as bridges, tunnels and canals have removed natural barriers to dispersal and allowed a species to move into a novel location."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccc2",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "corridorAndDispersal",
+        "definition": "Organisms dispersed naturally, even if that dispersal was aided by changes in the landscape created by humans."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb7",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "erosionControl",
+        "definition": "Organisms introduced for the purpose of erosion control/dune stabilization (windbreaks, hedges, etc)."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccc0",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "escapeFromConfinement",
+        "definition": "Organisms intentionally transported by humans and intended to be kept in captivity or cultivation, but having inadvertently escaped from human control."
+      },
+      {
+        "uuid": "665f334ab45f3e708095ccac",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "farmedAnimals",
+        "definition": "Animals cared for and bred with the specific intention of using their products, such as meat and milk."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb6",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "fisheryInTheWild",
+        "definition": "Fish stocked into the wild either to create a fishery or for recreational angling."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9a",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "fishingEquipment",
+        "definition": "Aquatic organisms moved between sites on equipment of recreational anglers and professional fishermen."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca2",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "foodContaminant",
+        "definition": "Foods for human consumption, whether they are transported life or dead."
+      },
+      {
+        "uuid": "665f334ab45f3e708095ccab",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "forestry",
+        "definition": "Trees specifically introduced to provide timber and other forestry products."
+      },
+      {
+        "uuid": "665f334ab45f3e708095ccaa",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "fur",
+        "definition": "Organisms escaped from a fur farms, including unauthorised releases."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc98",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "hitchhikersAirplane",
+        "definition": "Organisms that enter airplanes or other aircraft, such as helicopters, and are transported by them to another location."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc97",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "hitchhikersShip",
+        "definition": "Organisms that enter directly onto boats or ships and are transported by them to another location."
+      },
+      {
+        "uuid": "665f334ab45f3e708095cca9",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "horticulture",
+        "definition": "Plants distributed by the ornamental and decorative plants industry."
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc92",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "hullFouling",
+        "definition": "Organisms that attach themselves to the subsurface hull of boats and ships."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb5",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "hunting",
+        "definition": "Animals stocked into the wild specifically with the intention that they would be hunted for sport."
+      },
+      {
+        "uuid": "665f334eb45f3e708095ccc4",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "intentional",
+        "definition": "Organisms were brought to new area with the specific intention of keeping them alive in the new region, regardless of whether they were intended to be cultivated or released into the wild."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb4",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "landscapeImprovement",
+        "definition": "Landscape/flora/fauna \"improvement\" in the wild."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca6",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "liveFoodLiveBait",
+        "definition": "Live food imported for human consumption, such as shellfish and snails, and for live bait."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc96",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "machineryEquipment",
+        "definition": "Organisms carried on the surfaces of or within heavy machinery and equipment."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccb9",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "naturalDispersal",
+        "definition": "Dispersal of organisms to new regions by natural dispersal from regions in which they are alien."
+      },
+      {
+        "uuid": "665f334ab45f3e708095cca8",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "ornamentalNonHorticulture",
+        "definition": "Ornamental plants introduced through pathways other than the horticultural industry."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca5",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "otherEscape",
+        "definition": "Organisms brought into an area with the intention of keeping them in captivity permanently, but that have subsequently escaped."
+      },
+      {
+        "uuid": "665f334bb45f3e708095ccb1",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "otherIntentionalRelease",
+        "definition": "A catch-all for intentional releases not for human use that are not covered by other more specific terms."
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc90",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "otherTransport",
+        "definition": "A catchall term for any transport related dispersal that is not covered in other terms."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc94",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "packingMaterial",
+        "definition": "Organic material, particularly unprocessed plant material that is used to pack transported goods."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cca0",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "parasitesOnAnimals",
+        "definition": "Parasitic and pathogenic organisms transported with their host or vector animal."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9e",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "parasitesOnPlants",
+        "definition": "Parasitic and pathogenic organisms transported with their host or vector plant."
+      },
+      {
+        "uuid": "665f3347b45f3e708095cc95",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "people",
+        "definition": "Organisms transported on people themselves and/or their personal luggage."
+      },
+      {
+        "uuid": "665f334ab45f3e708095ccad",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "pet",
+        "definition": "Privately kept animals."
+      },
+      {
+        "uuid": "665f334ab45f3e708095ccae",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "publicGardenZooAquaria",
+        "definition": "Organisms in public collections of plants and/or animals."
+      },
+      {
+        "uuid": "665f334bb45f3e708095ccb2",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "releasedForUse",
+        "definition": "Release in nature for use (other than above, e.g., fur, transport, medical use)."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccc1",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "releaseInNature",
+        "definition": "Organisms transported and released by humans in a (semi)natural environment with the intention that they should live their without further human aid."
+      },
+      {
+        "uuid": "665f3349b45f3e708095cca7",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "research",
+        "definition": "Plants and animals introduced for the purpose of breeding, scientific and medical research, including science education."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9d",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "seedContaminant",
+        "definition": "Organisms contaminating transported seeds."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9c",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "timberTrade",
+        "definition": "Contaminants on unprocessed timber, processed wood and wood derived products."
+      },
+      {
+        "uuid": "665f3348b45f3e708095cc9b",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "transportationHabitatMaterial",
+        "definition": "Organisms transported with their habitat material to a new location."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccbf",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "transportContaminant",
+        "definition": "An umbrella term for all species transported as contaninents in other products."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccbe",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "transportStowaway",
+        "definition": "An umbrella term for all species transported by riding on forms of transport where the organism has a direct interation with the transport and is not merely carried as part of, or a contaminent of cargo."
+      },
+      {
+        "uuid": "665f334cb45f3e708095ccba",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "tunnelsBridges",
+        "definition": "Unintentional dispersal by organisms using artificial tunnels, bridges, roads and railways."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccbc",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "unaided",
+        "definition": "Organisms that spread by natural dispersal, without action or assistance by humans, from regions in which they are also alien."
+      },
+      {
+        "uuid": "665f334eb45f3e708095ccc3",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "unintentional",
+        "definition": "The organism was unintentionally brought to a new region."
+      },
+      {
+        "uuid": "665f3346b45f3e708095cc91",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "vehicles",
+        "definition": "Other vehicle hitchhikers that have been unintentionally dispersed, but are not covered by other terms."
+      },
+      {
+        "uuid": "665f334db45f3e708095ccbb",
+        "parentId": "665f3346b45f3e708095cc8f",
+        "label": "waterwaysBasinsSeas",
+        "definition": "Organisms that dispersed through artificial waterways created to connect previosuly unconnected water bodies."
+      }
+    ]
+  }
+]
