@@ -1,7 +1,7 @@
 {
-  "name": "harvesters",
-  "version": "0.1.0",
-  "description": "",
+  "name": "mdeditor-keywords",
+  "version": "1.0.0",
+  "description": "This repository contains keyword files for the mdEditor.",
   "main": "harvesters/index.js",
   "license": "ISC",
   "scripts": {
