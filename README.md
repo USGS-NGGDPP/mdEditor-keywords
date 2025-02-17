@@ -194,6 +194,12 @@ Before you begin, make sure you have the following installed on your system:
 yarn -v || npm install --global yarn
 ```
 
+**Note** If prompted to use `sudo` or something about not having permissions then use the following command instead:
+
+```
+yarn -v || sudo npm install --global yarn
+```
+
 ### Steps to Install
 
 To set up and use this repository, follow these steps:

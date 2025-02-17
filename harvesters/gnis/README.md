@@ -38,6 +38,18 @@ These vocabularies are treated as individual thesauri, allowing precise metadata
 
 ### Input Files
 
+Input file location: `harvesters/gnis/data/`
+
+So you need to create the `data/` directory and then add the necessary content to it.
+
+There is a config file called `gnisConfig.js` where you could update the directory, but this is not recommended. Instead, refer to this file for the names of the directories where the harvester is expecting to look for the data. **One important detail** is that the data needs to be nested inside the proper directory, which is the `GNIS_HARVESTERS_ENUM` in the config file. Note that you can modify anything in the `gnisConfig.js` but make sure you understand what you're changing. The following is based on the existing `gnisConfig.js` file.
+
+The domestic data is located in `harvesters/gnis/data/DomesticNames/` and the 2 required files are `DomesticNames_National.txt` and `DomesticNames_National_Text.xml` for the names and citation data respectively.
+
+The Antarctica data is located in `harvesters/gnis/data/Antarctica/` and the 2 required files are `AntarcticaNamesAntarctica.txt` and `Gazetteer_Antarctica_Text.xml` for the names and citation data respectively.
+
+Also note that this is not necessarily how the GNIS data will be provided, you might need to move some stuff around.
+
 - **Antarctica**:
 
   - `AntarcticaNamesAntarctica.txt`: Contains names of geographic features in Antarctica.
